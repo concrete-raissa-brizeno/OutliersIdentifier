@@ -1,0 +1,764 @@
+,Date,Value,Descricao,Categoria
+0,2018-05-11,562.5,Facebook e instagram,Água
+1,2018-06-11,562.5,Facebook e instagram,Água
+2,2018-07-11,562.5,Facebook e instagram,Água
+3,2018-08-11,562.5,Facebook e instagram,Água
+4,2018-09-11,562.5,Facebook e instagram,Água
+5,2018-10-11,562.5,Facebook e instagram,Água
+6,2018-11-11,562.5,Facebook e instagram,Água
+7,2018-12-11,562.5,Facebook e instagram,Água
+8,2018-04-03,7500.0,Facebook,Água
+9,2018-05-25,1800.0,Músicos / Intérpretes -Concertos AF | Denis Colin ,Água
+10,2018-01-10,260.0,Aluguel Escritório Virtual,Aluguel
+11,2018-02-10,274.0,Aluguel Escritório Virtual,Aluguel
+12,2018-03-09,260.0,Aluguel Escritório Virtual,Aluguel
+13,2018-05-09,260.0,Aluguel Escritório Virtual,Aluguel
+14,2018-06-09,260.0,Aluguel Escritório Virtual,Aluguel
+15,2018-07-09,260.0,Aluguel Escritório Virtual,Aluguel
+16,2018-08-09,260.0,Aluguel Escritório Virtual,Aluguel
+17,2018-09-09,260.0,Aluguel Escritório Virtual,Aluguel
+18,2018-10-09,260.0,Aluguel Escritório Virtual,Aluguel
+19,2018-11-09,260.0,Aluguel Escritório Virtual,Aluguel
+20,2018-12-09,260.0,Aluguel Escritório Virtual,Aluguel
+21,2019-01-09,260.0,Aluguel Escritório Virtual,Aluguel
+22,2018-04-09,264.0,Aluguel Escritório Virtual,Aluguel
+23,2018-05-21,900.0,Apresentação teatral - Balaio Brincante,Apresentação - Grupos Teatrais
+24,2018-07-20,900.0,"Apresentação teatral - Contos, Cantos e Encantos do Nosso Brasil",Apresentação - Grupos Teatrais
+25,2018-08-20,900.0,Apresentação teatral - Histórias Encantadas do Mundo,Apresentação - Grupos Teatrais
+26,2018-10-22,900.0,Apresentação teatral - Contos Assustadoramente Engraçados,Apresentação - Grupos Teatrais
+27,2018-05-21,950.0,Apresentação teatral - Fabulário Cantado,Apresentação - Grupos Teatrais
+28,2018-08-20,1100.0,Apresentação teatral - O Carro da Sopa,Apresentação - Grupos Teatrais
+29,2018-09-20,950.0,Apresentação teatral - Folcloreando,Apresentação - Grupos Teatrais
+30,2018-09-20,950.0,Apresentação teatral - Histórias no Rádio,Apresentação - Grupos Teatrais
+31,2018-12-21,950.0,Apresentação teatral - Contos da Noite Escura,Apresentação - Grupos Teatrais
+32,2018-03-20,800.0,Apresentação teatral - Circomedia,Apresentação - Grupos Teatrais
+33,2018-05-20,800.0,Apresentação teatral - O Maestro,Apresentação - Grupos Teatrais
+34,2018-07-20,800.0,Apresentação teatral - Mix de Circo,Apresentação - Grupos Teatrais
+35,2018-12-20,800.0,Apresentação teatral - Hoje Tem Palhaçada,Apresentação - Grupos Teatrais
+36,2018-03-20,700.0,Apresentação  teatral - O Fantasma e o Lixo,Apresentação - Grupos Teatrais
+37,2018-11-20,1500.0,Apresentação teatral - O Caco Não Lava o Pé,Apresentação - Grupos Teatrais
+38,2018-04-20,1200.0,Apresentação teatral - Malagueta Quer ser Grande,Apresentação - Grupos Teatrais
+39,2018-08-20,900.0,Apresentação teatral - Boi de Mamão,Apresentação - Grupos Teatrais
+40,2018-05-21,800.0,Apresentação teatral - Histórias da Bruxa,Apresentação - Grupos Teatrais
+41,2018-06-20,800.0,Apresentação teatral - Encantos Mágicos,Apresentação - Grupos Teatrais
+42,2018-12-20,800.0,Apresentação teatral - Circo da Goiaba,Apresentação - Grupos Teatrais
+43,2018-05-21,1000.0,Apresentação teatral - No Meu Quintal Tem Um Mar de Brincar,Apresentação - Grupos Teatrais
+44,2018-06-20,1400.0,Apresentação teatral - Elementos,Apresentação - Grupos Teatrais
+45,2018-10-22,900.0,Apresentação teatral - Escola de Bruxos,Apresentação - Grupos Teatrais
+46,2018-06-20,1000.0,Apresentação teatral - O Misterioso Sumiço do Boi de Mamão,Apresentação - Grupos Teatrais
+47,2018-10-22,1000.0,Apresentação teatral - Contos Polímeros,Apresentação - Grupos Teatrais
+48,2018-07-20,1300.0,Apresentação teatral - Palhastê,Apresentação - Grupos Teatrais
+49,2018-12-20,1300.0,Apresentação teatral - Estapafurdio,Apresentação - Grupos Teatrais
+50,2018-07-20,1800.0,"Apresentação teatral - Kono, o pequeno grande pássaro",Apresentação - Grupos Teatrais
+51,2018-11-20,1800.0,"Apresentação teatral - Kono, o pequeno grande pássaro",Apresentação - Grupos Teatrais
+52,2018-12-20,3200.0,Apresentação teatral - O Duende dos Desejos e O Urso e o Morango do ratinho,Apresentação - Grupos Teatrais
+53,2018-08-20,2200.0,Apresentação teatral - Dona Bilica e o Boi de Mamão,Apresentação - Grupos Teatrais
+54,2018-09-20,1800.0,Apresentação teatral - Felizes para sempre,Apresentação - Grupos Teatrais
+55,2018-08-20,3500.0,Apresentação teatral - Franky,Apresentação - Grupos Teatrais
+56,2018-09-20,1200.0,Apresentação teatral - Brincadeira de Palhaças,Apresentação - Grupos Teatrais
+57,2018-10-22,1500.0,Apresentação teatral - Palhçada Ala Carte,Apresentação - Grupos Teatrais
+58,2018-06-20,1000.0,Apresentação teatral - Kauana,Apresentação - Grupos Teatrais
+59,2018-10-22,1000.0,Apresentação teatral - Kauana,Apresentação - Grupos Teatrais
+60,2018-11-20,1800.0,Apresentação teatral - Gran Circo,Apresentação - Grupos Teatrais
+61,2018-03-20,1800.0,Apresentação teatral - Laboratório Aloprado,Apresentação - Grupos Teatrais
+62,2018-09-20,500.0,Apresentação teatral - Histórias de Mauro,Apresentação - Grupos Teatrais
+63,2018-10-20,500.0,Apresentação teatral - Histórias de Mauro,Apresentação - Grupos Teatrais
+64,2018-04-20,900.0,Apresentação teatral - Histórias de Brincar,Apresentação - Grupos Teatrais
+65,2018-04-20,1500.0,Apresentação teatral - O Caco Não Lava o Pé,Apresentação - Grupos Teatrais
+66,2018-05-21,900.0,Apresentação teatral - Boi de Mamão,Apresentação - Grupos Teatrais
+67,2018-04-20,2000.0,Apresentação teatral - O Palhaço Mais Corajoso,Apresentação - Grupos Teatrais
+68,2018-05-21,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+69,2018-06-21,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+70,2018-07-21,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+71,2018-08-21,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+72,2018-11-20,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+73,2018-10-22,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+74,2018-05-21,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+75,2018-06-21,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+76,2018-07-21,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+77,2018-08-21,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+78,2018-11-20,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+79,2018-10-22,740.0,Apresentação teatral creche,Apresentação Creches - Grupos Teatrais
+80,2018-07-06,1500.0,Apresentador ,Apresentador
+81,2018-08-09,2500.0,Assessoria de imprensa,Assessoria de IMprensa
+82,2018-05-11,1000.0,Assessoria de imprensa,Assessoria de IMprensa
+83,2018-09-14,1000.0,Assessoria de imprensa,Assessoria de IMprensa
+84,2018-10-12,1500.0,Assessoria de imprensa,Assessoria de IMprensa
+85,2018-10-12,2000.0,Assessoria de imprensa,Assessoria de IMprensa
+86,2018-07-06,1500.0,Assistente de Palco (Teatro 2 diárias e Arena 3 diárias),Assistente de Palco
+87,2018-07-13,1800.0,Assistente de Produção 3 diárias (4 pessoas),Assistente de Produção
+88,2018-03-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+89,2018-04-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+90,2018-05-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+91,2018-06-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+92,2018-07-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+93,2018-08-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+94,2018-09-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+95,2018-10-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+96,2018-11-20,300.0,Audiodescrição ddt 2018,Audiodescrição
+97,2018-12-20,600.0,Audiodescrição ddt 2018,Audiodescrição
+98,2018-10-12,1600.0,Audiodescrição,Audiodescrição
+99,2018-07-06,1000.0,Audiodescrição + Consultor Cego (Noite de Gala e Baile Arena),Audiodescritor - Consultor Cego
+100,2018-06-08,1000.0,B Boys e B Girls Arte urbana em movimento,B Boys | B Girls 
+101,2018-08-10,160.0,banner com tripé,Banner 
+102,2018-04-13,130.0,Banner ,Banner 
+103,2018-06-06,308.0,Vale Alimentação ,Benefício: alimentação
+104,2018-07-06,308.0,Vale Alimentação ,Benefício: alimentação
+105,2018-08-06,308.0,Vale Alimentação ,Benefício: alimentação
+106,2018-09-06,308.0,Vale Alimentação ,Benefício: alimentação
+107,2018-10-06,308.0,Vale Alimentação ,Benefício: alimentação
+108,2018-11-06,308.0,Vale Alimentação ,Benefício: alimentação
+109,2018-12-06,308.0,Vale Alimentação ,Benefício: alimentação
+110,2018-03-15,456.4,Vale alimentação e transporte referente mês março 2018,Benefício: alimentação
+111,2018-04-06,456.4,VT e VA Franciele ,Benefício: alimentação
+112,2018-04-26,108.5,Alimentação Evento Joinville Carmen,Benefício: alimentação
+113,2018-05-06,456.4,VT e VA Franciele ,Benefício: alimentação
+114,2018-03-08,30.0,Exame admissional ,Benefício: plano de saúde
+115,2018-06-07,800.0,Cadeiras plásticas camarim Grupos (200 dia),Cadeira Plástico Camarim
+116,2018-06-07,4500.0,Cadeiras tiffany arena (300 dia),Cadeiras Tiffany Arena
+117,2018-05-10,1324.32,Camisetas produção,Camisetas
+118,2018-04-13,180.0,Produção de camisetas,Camisetas
+119,2018-08-17,350.0,Confecção camisetas,Camisetas
+120,2018-09-14,1000.0,Captação e edição de vídeo,Captação e Edição de Vídeo
+121,2018-10-14,1000.0,Captação e edição de vídeo,Captação e Edição de Vídeo
+122,2018-07-13,300.0,Cartazes,Cartazes
+123,2018-06-08,2400.0,Cias baile arena,Cias Baile Arena
+124,2018-06-08,6000.0,Cias noite de gala,Cias Noite Gala
+125,2018-02-06,110.0,Tonner para impressora,Compra de Produtos
+126,2018-02-23,46.99,Compra de material de escritório - em anexo,Compra de Produtos
+127,2018-04-05,22.99,Material escritório,Compra de Produtos
+128,2018-03-27,30.05,Material escritório,Compra de Produtos
+129,2018-08-09,3000.0,Comunicação Visual,Comunicação Visual
+130,2018-01-10,220.0,Contabilidade ,Contabilidade
+131,2018-02-12,477.0,Contador,Contabilidade
+132,2018-03-12,477.0,Contador,Contabilidade
+133,2018-04-12,477.0,Contador,Contabilidade
+134,2018-05-12,477.0,Contador,Contabilidade
+135,2018-06-12,477.0,Contador,Contabilidade
+136,2018-07-12,477.0,Contador,Contabilidade
+137,2018-08-12,477.0,Contador,Contabilidade
+138,2018-09-12,477.0,Contador,Contabilidade
+139,2018-10-12,477.0,Contador,Contabilidade
+140,2018-11-12,477.0,Contador,Contabilidade
+141,2018-12-12,477.0,Contador,Contabilidade
+142,2019-01-12,477.0,Contador,Contabilidade
+143,2018-04-17,44.57,Contribuição sindical ,Contribuição sindical
+144,2018-05-10,2750.0,Convidado nacional Ernani Maleta Contemporâneo,Convidado Nacional
+145,2018-06-10,2750.0,Convidado nacional Ernani Maleta Contemporâneo,Convidado Nacional
+146,2018-05-11,2750.0,Convidado nacional Ballet Tindaro ou Guaira,Convidado Nacional
+147,2018-06-11,2750.0,Convidado nacional Ballet Tindaro ou Guaira,Convidado Nacional
+148,2018-02-20,3000.0,Coordenador financeiro ddt 2018,Coordenador Financeiro
+149,2018-04-20,3000.0,Coordenador financeiro ddt 2018,Coordenador Financeiro
+150,2018-05-20,1000.0,Coordenador financeiro ddt 2018,Coordenador Financeiro
+151,2018-06-20,1000.0,Coordenador financeiro ddt 2018,Coordenador Financeiro
+152,2018-07-20,1000.0,Coordenador financeiro ddt 2018,Coordenador Financeiro
+153,2018-05-15,1500.0,Coordenador financeiro Dança em Cena 2018,Coordenador Financeiro
+154,2018-07-13,1500.0,Coordenador financeiro Dança em Cena 2018,Coordenador Financeiro
+155,2018-08-17,3000.0,Coordenador financeiro Dança em Cena 2018,Coordenador Financeiro
+156,2018-05-20,1350.0,Coordenador financeiro sessões animadas 2018,Coordenador Financeiro
+157,2018-06-20,1350.0,Coordenador financeiro sessões animadas 2018,Coordenador Financeiro
+158,2018-07-20,1350.0,Coordenador financeiro sessões animadas 2018,Coordenador Financeiro
+159,2018-06-15,6000.0,Coordenador financeiro mostra panorama 2018,Coordenador Financeiro
+160,2018-03-20,3000.0,Coordenador financeiro ddt 2018,Coordenador Financeiro
+161,2018-04-20,1350.0,Coordenador financeiro sessões animadas 2018,Coordenador Financeiro
+162,2018-05-20,2500.0,Coordenador geral ddt 2018,Coordenador Geral 
+163,2018-06-20,2500.0,Coordenador geral ddt 2018,Coordenador Geral 
+164,2018-08-20,2000.0,Coordenador geral ddt 2018,Coordenador Geral 
+165,2018-07-20,2000.0,Coordenador geral ddt 2018,Coordenador Geral 
+166,2018-02-20,10000.0,Coordenador geral ddt 2018,Coordenador Geral 
+167,2018-08-17,7000.0,Coordenador geral dança em cena 2018,Coordenador Geral 
+168,2018-09-14,7800.0,Coordenador geral dança em cena 2018,Coordenador Geral 
+169,2018-10-12,3000.0,Coordenador geral dança em cena 2018,Coordenador Geral 
+170,2018-05-13,1500.0,Coordenador geral sessões animadas 2018,Coordenador Geral 
+171,2018-06-13,1500.0,Coordenador geral sessões animadas 2018,Coordenador Geral 
+172,2018-07-13,1500.0,Coordenador geral sessões animadas 2018,Coordenador Geral 
+173,2018-08-13,1500.0,Coordenador geral sessões animadas 2018,Coordenador Geral 
+174,2018-09-13,1500.0,Coordenador geral sessões animadas 2018,Coordenador Geral 
+175,2018-10-13,1500.0,Coordenador geral sessões animadas 2018,Coordenador Geral 
+176,2018-11-13,1500.0,Coordenador geral sessões animadas 2018,Coordenador Geral 
+177,2018-04-13,2700.0,Coordenador geral sessões animadas 2018,Coordenador Geral 
+178,2018-05-10,6000.0,Coordenador geral mostra panorama 2018,Coordenador Geral 
+179,2018-06-10,7000.0,Coordenador geral mostra panorama 2018,Coordenador Geral 
+180,2018-08-10,5000.0,Coordenador geral mostra panorama 2018,Coordenador Geral 
+181,2018-03-20,3500.0,Coordenador geral ddt 2018,Coordenador Geral 
+182,2018-04-20,2500.0,Coordenador geral ddt 2018,Coordenador Geral 
+183,2018-10-12,1500.0,Curadoria,Curador
+184,2018-03-15,8.35,Taxa por Atos de Segurança Pública - Alina Francesa - Sexta Jazz,DARE
+185,2018-04-13,1000.0,Designer ,Designer
+186,2018-05-20,250.0,Cartão de crédito,Despesas bancárias
+187,2018-06-20,250.0,Cartão de crédito,Despesas bancárias
+188,2018-07-20,250.0,Cartão de crédito,Despesas bancárias
+189,2018-08-20,250.0,Cartão de crédito,Despesas bancárias
+190,2018-09-20,250.0,Cartão de crédito,Despesas bancárias
+191,2018-10-20,250.0,Cartão de crédito,Despesas bancárias
+192,2018-11-20,250.0,Cartão de crédito,Despesas bancárias
+193,2018-12-20,250.0,Cartão de crédito,Despesas bancárias
+194,2019-01-20,250.0,Cartão de crédito,Despesas bancárias
+195,2018-01-20,71.0,Tarifa Bancária ,Despesas bancárias
+196,2018-01-20,382.14,Cartão de crédito,Despesas bancárias
+197,2018-01-22,671.24,Divisão de Lucros para Tailor - Cartão de crédito (Europa),Despesas bancárias
+198,2018-02-07,900.0,Devolução para o projeto DDT 2017,Despesas bancárias
+199,2018-02-20,73.4,Tarifa Bancária ,Despesas bancárias
+200,2018-03-20,73.4,Tarifa Bancária ,Despesas bancárias
+201,2018-04-20,73.4,Tarifa Bancária ,Despesas bancárias
+202,2018-05-20,73.4,Tarifa Bancária ,Despesas bancárias
+203,2018-06-20,73.4,Tarifa Bancária ,Despesas bancárias
+204,2018-07-20,73.4,Tarifa Bancária ,Despesas bancárias
+205,2018-08-20,73.4,Tarifa Bancária ,Despesas bancárias
+206,2018-09-20,73.4,Tarifa Bancária ,Despesas bancárias
+207,2018-10-20,73.4,Tarifa Bancária ,Despesas bancárias
+208,2018-11-20,73.4,Tarifa Bancária ,Despesas bancárias
+209,2018-12-20,73.4,Tarifa Bancária ,Despesas bancárias
+210,2019-01-20,73.4,Tarifa Bancária ,Despesas bancárias
+211,2018-02-20,378.72,Cartão de crédito,Despesas bancárias
+212,2018-02-22,105.98,Devolução para o Projeto Sessão Senior 2017,Despesas bancárias
+213,2018-02-23,516.18,Devolução para o Projeto Sessões Animadas,Despesas bancárias
+214,2018-02-26,0.3,Devolução,Despesas bancárias
+215,2018-02-26,0.3,Devolução para o Projeto Sessão Sênior 2017,Despesas bancárias
+216,2018-02-26,5.3,Taxa de tarifa,Despesas bancárias
+217,2018-02-26,5.3,Taxa de tarifa,Despesas bancárias
+218,2018-02-28,9.7,Taxa de tarifa,Despesas bancárias
+219,2018-03-09,9.7,Taxa de tarifa,Despesas bancárias
+220,2018-03-20,384.11,Cartão de crédito,Despesas bancárias
+221,2017-12-05,6.2,Taxa de tarifa,Despesas bancárias
+222,2018-01-05,6.2,Taxa de tarifa,Despesas bancárias
+223,2018-02-05,6.2,Taxa de tarifa,Despesas bancárias
+224,2018-03-05,6.2,Taxa de tarifa,Despesas bancárias
+225,2018-04-20,394.26,Cartão de crédito,Despesas bancárias
+226,2018-04-10,9.7,Tarifa bancária ted,Despesas bancárias
+227,2018-04-11,9.7,Tarifa bancária ted,Despesas bancárias
+228,2018-04-30,9.7,Tarifa bancária ted,Despesas bancárias
+229,2018-04-25,42.45,Tarifa bancária renovação cadastro,Despesas bancárias
+230,2018-08-10,4850.0,Direção artística e curadoria do projeto,Direção Artística e Curadoria
+231,2018-10-12,4850.0,Direção artística e curadoria do projeto,Direção Artística e Curadoria
+232,2018-10-12,27000.0,Direito de exibição ,Direito de Exibição
+233,2018-05-04,2000.0,Distribuição dos flyers,Distribuição Flyer
+234,2018-09-14,1000.0,Distribuição dos flyers,Distribuição Flyer
+235,2018-01-09,1244.92,Divisão de Lucros para Tailor,Divisão de Lucro
+236,2018-03-06,1621.41,Divisão de Lucros para Tailor,Divisão de Lucro
+237,2018-03-06,4070.27,Divisão de Lucros para Gabriel,Divisão de Lucro
+238,2018-03-06,14301.87,Divisão de Lucros para Tailor,Divisão de Lucro
+239,2018-03-08,7701.0,Divisão de Lucros para Gabriel,Divisão de Lucro
+240,2018-04-11,3150.0,Divisão de Lucros para Gabriel,Divisão de Lucro
+241,2018-04-11,5850.0,Divisão de Lucros para Tailor,Divisão de Lucro
+242,2018-05-11,3250.0,Divisão de Lucros para Tailor,Divisão de Lucro
+243,2018-05-11,1750.0,Divisão de Lucros para Gabriel,Divisão de Lucro
+244,2018-06-11,7150.0,Divisão de Lucros para Tailor,Divisão de Lucro
+245,2018-07-11,7150.0,Divisão de Lucros para Tailor,Divisão de Lucro
+246,2018-06-11,3850.0,Divisão de Lucros para Gabriel,Divisão de Lucro
+247,2018-07-11,3850.0,Divisão de Lucros para Gabriel,Divisão de Lucro
+248,2018-06-08,1000.0,DJ Arena,Dj Arena
+249,2018-06-07,400.0,DJ Arte urbana em movimento,Dj Arte Urbana 
+250,2018-06-08,500.0,DJ baile arena,Dj Baile Arena 
+251,2018-04-20,1120.0,Facebook,Facebook
+252,2018-05-20,1120.0,Facebook,Facebook
+253,2018-06-20,1120.0,Facebook,Facebook
+254,2018-07-20,1120.0,Facebook,Facebook
+255,2018-08-20,1120.0,Facebook,Facebook
+256,2018-09-20,1120.0,Facebook,Facebook
+257,2018-02-20,1400.0,Facebook,Facebook
+258,2018-03-02,4000.0,Facebook,Facebook
+259,2018-03-20,4760.0,Facebook,Facebook
+260,2018-01-12,49.0,Associação Comercial,Filiações e subscrições
+261,2018-02-12,49.0,Associação Comercial,Filiações e subscrições
+262,2018-02-27,600.0,Segunda parcela alteração contrato ,Filiações e subscrições
+263,2018-03-07,49.0,Associação Comercial,Filiações e subscrições
+264,2018-04-07,49.0,Associação Comercial,Filiações e subscrições
+265,2018-05-07,49.0,Associação Comercial,Filiações e subscrições
+266,2018-06-07,49.0,Associação Comercial,Filiações e subscrições
+267,2018-07-07,49.0,Associação Comercial,Filiações e subscrições
+268,2018-08-07,49.0,Associação Comercial,Filiações e subscrições
+269,2018-09-07,49.0,Associação Comercial,Filiações e subscrições
+270,2018-10-07,49.0,Associação Comercial,Filiações e subscrições
+271,2018-11-07,49.0,Associação Comercial,Filiações e subscrições
+272,2018-12-07,49.0,Associação Comercial,Filiações e subscrições
+273,2019-01-07,49.0,Associação Comercial,Filiações e subscrições
+274,2018-04-06,750.0,Flyer divulgação para inscrição para MOstra,Flyer Divulgação 
+275,2018-05-07,2450.0,Folder de programação ,Folder Programação
+276,2018-07-06,2450.0,Folder de programação ,Folder Programação
+277,2018-07-13,4500.0,Folder de programação ,Folder Programação
+278,2018-03-23,1890.0,Folhetos 21x10cm,Folhetos
+279,2018-07-06,1500.0,Fotografia,Fotógrafo
+280,2018-06-07,600.0,Frete extra - desmontagem domingo,Frete Extra - Desmontagem
+281,2018-06-07,900.0,Geração de conteúdo de redes sociais,Geração Conteúdos e Redes Sociais
+282,2018-07-07,900.0,Geração de conteúdo de redes sociais,Geração Conteúdos e Redes Sociais
+283,2018-08-07,900.0,Geração de conteúdo de redes sociais,Geração Conteúdos e Redes Sociais
+284,2018-02-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+285,2018-04-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+286,2018-05-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+287,2018-06-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+288,2018-07-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+289,2018-08-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+290,2018-09-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+291,2018-10-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+292,2018-11-20,650.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+293,2018-12-20,1300.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+294,2018-07-06,1000.0,Geração de conteúdo de redes sociais,Geração de Conteúdo Internet 
+295,2018-08-06,1000.0,Geração de conteúdo de redes sociais,Geração de Conteúdo Internet 
+296,2018-09-06,1000.0,Geração de conteúdo de redes sociais,Geração de Conteúdo Internet 
+297,2018-03-20,1300.0,Mídia ddt 2018,Geração de Conteúdo Internet 
+298,2018-01-09,51.85,Simples Nacional Guilherme,Imposto: DAS Simples
+299,2018-01-09,52.85,Simples Nacional Gabriel,Imposto: DAS Simples
+300,2018-01-20,757.16,Simples Nacional,Imposto: DAS Simples
+301,2018-01-17,90.48,Simples Nacional referente a NF 111,Imposto: DAS Simples
+302,2018-02-20,932.69,Simples Nacional,Imposto: DAS Simples
+303,2018-03-20,3055.0,Simples Nacional,Imposto: DAS Simples
+304,2018-06-20,1108.68,Simples Nacional,Imposto: DAS Simples
+305,2018-07-20,1415.33,Simples Nacional,Imposto: DAS Simples
+306,2018-08-20,969.14,Simples Nacional,Imposto: DAS Simples
+307,2018-09-20,1247.78,Simples Nacional,Imposto: DAS Simples
+308,2018-10-20,2026.9,Simples Nacional,Imposto: DAS Simples
+309,2018-11-20,677.55,Simples Nacional,Imposto: DAS Simples
+310,2018-12-20,477.15,Simples Nacional,Imposto: DAS Simples
+311,2019-01-20,307.74,Simples Nacional,Imposto: DAS Simples
+312,2018-04-20,386.59,Simples Nacional,Imposto: DAS Simples
+313,2018-05-20,2062.24,Simples Nacional,Imposto: DAS Simples
+314,2018-01-05,118.1,FGTS Douglas,Imposto: FGTS
+315,2018-02-07,64.42,FGTS Douglas,Imposto: FGTS
+316,2018-03-07,64.42,FGTS Douglas,Imposto: FGTS
+317,2018-04-07,142.86,FGTS ,Imposto: FGTS
+318,2018-06-07,142.86,FGTS ,Imposto: FGTS
+319,2018-07-07,142.86,FGTS ,Imposto: FGTS
+320,2018-08-07,142.86,FGTS ,Imposto: FGTS
+321,2018-09-07,142.86,FGTS ,Imposto: FGTS
+322,2018-10-07,142.86,FGTS ,Imposto: FGTS
+323,2018-11-07,142.86,FGTS ,Imposto: FGTS
+324,2018-12-07,142.86,FGTS ,Imposto: FGTS
+325,2019-01-07,142.86,FGTS ,Imposto: FGTS
+326,2018-05-07,171.38,FGTS ,Imposto: FGTS
+327,2018-01-05,216.92,Divisão de Lucros para Tailor - INSS Dezembro 2017,Imposto: INSS
+328,2018-01-05,64.42,INSS Douglas,Imposto: INSS
+329,2018-02-20,724.42,INSS ,Imposto: INSS
+330,2018-03-20,724.42,INSS ,Imposto: INSS
+331,2018-05-20,724.42,INSS ,Imposto: INSS
+332,2018-06-20,724.42,INSS ,Imposto: INSS
+333,2018-07-20,724.42,INSS ,Imposto: INSS
+334,2018-08-20,724.42,INSS ,Imposto: INSS
+335,2018-09-20,724.42,INSS ,Imposto: INSS
+336,2018-10-20,724.42,INSS ,Imposto: INSS
+337,2018-11-20,724.42,INSS ,Imposto: INSS
+338,2018-12-20,724.42,INSS ,Imposto: INSS
+339,2019-01-20,724.42,INSS ,Imposto: INSS
+340,2018-04-20,802.85,INSS ,Imposto: INSS
+341,2018-03-20,165.85,Guia de imposto de renda,Imposto: IR
+342,2018-04-20,165.85,Guia de imposto de renda,Imposto: IR
+343,2018-05-20,165.85,Guia de imposto de renda,Imposto: IR
+344,2018-06-20,165.85,Guia de imposto de renda,Imposto: IR
+345,2018-07-20,165.85,Guia de imposto de renda,Imposto: IR
+346,2018-08-20,165.85,Guia de imposto de renda,Imposto: IR
+347,2018-09-20,165.85,Guia de imposto de renda,Imposto: IR
+348,2018-10-20,165.85,Guia de imposto de renda,Imposto: IR
+349,2018-11-20,165.85,Guia de imposto de renda,Imposto: IR
+350,2018-12-20,165.85,Guia de imposto de renda,Imposto: IR
+351,2018-05-15,500.0,Imposto de renda pessoa física Gabriel e tailor,Imposto: IR
+352,2018-05-02,8.16,Guia de ISS referente a NF 130 - Canasvieiras,Imposto: ISS
+353,2018-03-20,250.0,Libras DDt2018,Libras 
+354,2018-04-20,250.0,Libras DDt2018,Libras 
+355,2018-05-20,250.0,Libras DDt2018,Libras 
+356,2018-06-20,250.0,Libras DDt2018,Libras 
+357,2018-07-20,250.0,Libras DDt2018,Libras 
+358,2018-08-20,250.0,Libras DDt2018,Libras 
+359,2018-09-20,250.0,Libras DDt2018,Libras 
+360,2018-10-20,250.0,Libras DDt2018,Libras 
+361,2018-11-20,250.0,Libras DDt2018,Libras 
+362,2018-12-20,500.0,Libras DDt2018,Libras 
+363,2018-04-25,10000.0,Captação de Recursos ,LIC Custos Vinculados | Captação de Recursos
+364,2018-07-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+365,2018-08-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+366,2018-09-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+367,2018-10-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+368,2018-11-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+369,2018-12-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+370,2019-01-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+371,2018-06-10,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+372,2018-07-10,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+373,2018-08-10,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+374,2018-09-10,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+375,2018-10-10,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+376,2018-11-10,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+377,2018-12-10,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+378,2019-01-10,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+379,2018-04-10,1430.0,Divulgação - Produção de Lona para Backdrop do Sexta Jazz AF 2018,LIC Custos Vinculados | Divulgação
+380,2018-04-25,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+381,2018-04-09,450.0,"Aluguel, montagem e desmontagem de material de divulgação -  Backdrop Sexta Jazz",LIC Custos Vinculados | Divulgação
+382,2018-04-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+383,2018-04-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+384,2018-04-13,1200.0,Flyers e Cartazes Francofonia,LIC Custos Vinculados | Divulgação
+385,2018-04-20,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+386,2018-04-20,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+387,2018-05-10,800.0,Assessor de Imprensa - Atré,LIC Custos Vinculados | Divulgação
+388,2018-04-03,250.0,Locação de sala - Carmen 24/04/2018,LIC Formação | Pré-Produção Preparação
+389,2018-04-03,250.0,Locação de sala - Biá 01/06/2018,LIC Formação | Pré-Produção Preparação
+390,2018-04-03,250.0,Locação de sala - Concertos AF 12/07/2018,LIC Formação | Pré-Produção Preparação
+391,2018-04-03,250.0,Locação de sala - Concertos AF 08/11/2018,LIC Formação | Pré-Produção Preparação
+392,2018-05-10,250.0,Registro Fotográfico - ,LIC Formação | Pré-Produção Preparação
+393,2018-06-10,250.0,Registro Fotográfico - ,LIC Formação | Pré-Produção Preparação
+394,2018-07-10,250.0,Registro Fotográfico - ,LIC Formação | Pré-Produção Preparação
+395,2018-08-10,250.0,Registro Fotográfico - ,LIC Formação | Pré-Produção Preparação
+396,2018-09-10,250.0,Registro Fotográfico - ,LIC Formação | Pré-Produção Preparação
+397,2018-10-10,250.0,Registro Fotográfico - ,LIC Formação | Pré-Produção Preparação
+398,2018-04-03,250.0,Locação de sala - Concertos AF 21/09/2018,LIC Formação | Pré-Produção Preparação
+399,2018-04-10,250.0,Registro Fotográfico - Mathieu Boogaerts Concertos AF I,LIC Formação | Pré-Produção Preparação
+400,2018-04-20,698.0,Hospedagem Grupo Carmen,LIC Formação | Produção Execução
+401,2018-04-20,2924.1,Emissão de passagens aéreas sp-sc Cármen ,LIC Formação | Produção Execução
+402,2018-04-20,733.31,Emissão de passagens aéreas Caramen,LIC Formação | Produção Execução
+403,2018-04-20,67.4,Emissão de passagens aéreas Caramen,LIC Formação | Produção Execução
+404,2018-04-30,600.0,Audiodescrição - Espetáculo Carmen,LIC Formação | Produção Execução
+405,2018-04-23,220.0,Impressão de 60 cartazes evento Carmen Joinville,LIC Formação | Produção Execução
+406,2018-04-30,540.0,Tradução em Libras  Espetáculo Carmen,LIC Formação | Produção Execução
+407,2018-04-27,2250.0,Spot de 30 segundos Florianópolis - Espetáculo Carmen,LIC Formação | Produção Execução
+408,2018-04-27,2180.0,Spot de 30 segundos Joinville - Espetáculo Carmen,LIC Formação | Produção Execução
+409,2018-05-25,350.0,Locação de Móveis e Utensílios -  Evento Denis Colin,LIC Formação | Produção Execução
+410,2018-06-25,5000.0,Contador,LIC Plano Anual | Assessoria Jurídica e Contábil
+411,2018-04-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+412,2018-05-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+413,2018-06-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+414,2018-07-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+415,2018-08-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+416,2018-09-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+417,2018-10-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+418,2018-11-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+419,2018-12-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+420,2019-01-26,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+421,2018-06-06,1200.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+422,2018-07-06,1200.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+423,2018-08-06,1200.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+424,2018-09-06,1200.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+425,2018-10-06,1200.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+426,2018-11-06,1200.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+427,2018-12-06,1200.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+428,2018-06-06,3500.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+429,2018-07-06,3500.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+430,2018-08-06,3500.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+431,2018-09-06,3500.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+432,2018-10-06,3500.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+433,2018-11-06,3500.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+434,2018-12-06,3500.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+435,2018-04-06,14000.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+436,2018-04-06,4800.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+437,2018-04-25,600.0,Palco (praticável) 50 m² - Sexta Jazz ,LIC Plano Anual | Pré Produção Preparação
+438,2018-04-20,1250.0,Loção de Equipamentos - Concertos AF Mathieu Boogaerts,LIC Plano Anual | Pré Produção Preparação
+439,2018-04-25,1200.0,Assistente de Produção ,LIC Plano Anual | Pré Produção Preparação
+440,2018-04-25,3500.0,Coordenação Geral,LIC Plano Anual | Pré Produção Preparação
+441,2018-07-10,1300.0,Músicos / Intérpretes - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+442,2018-08-10,1300.0,Músicos / Intérpretes - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+443,2018-09-10,1300.0,Músicos / Intérpretes - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+444,2018-10-10,1300.0,Músicos / Intérpretes - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+445,2018-11-10,1300.0,Músicos / Intérpretes - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+446,2018-12-10,1300.0,Músicos / Intérpretes - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+447,2019-01-10,1300.0,Músicos / Intérpretes - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+448,2018-05-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+449,2018-06-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+450,2018-07-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+451,2018-08-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+452,2018-09-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+453,2018-10-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+454,2018-11-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+455,2018-12-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+456,2019-01-10,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+457,2018-04-10,360.0,Hospedagem sem alimentação - Mathieu Boogaerts,LIC Plano Anual | Produção Execução
+458,2018-04-10,2223.36,Locação de Sala de Espetáculos - Carmen Joinville (teatro juarez machado) - parcela I,LIC Plano Anual | Produção Execução
+459,2018-04-04,446.67,Locação de Sala de Espetáculos - Carmen Joinville (teatro juarez machado) - parcela I,LIC Plano Anual | Produção Execução
+460,2018-04-04,1776.69,Locação de Sala de Espetáculos - Carmen Joinville (teatro juarez machado) - parcela I,LIC Plano Anual | Produção Execução
+461,2018-06-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+462,2018-07-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+463,2018-08-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+464,2018-09-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+465,2018-10-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+466,2018-11-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+467,2018-12-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+468,2019-01-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+469,2018-04-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+470,2018-11-10,250.0,Registro Fotográfico - ,LIC Plano Anual | Produção Execução
+471,2018-12-10,250.0,Registro Fotográfico - ,LIC Plano Anual | Produção Execução
+472,2019-01-10,250.0,Registro Fotográfico - ,LIC Plano Anual | Produção Execução
+473,2018-06-10,3000.0,Músicos / Intérpretes - Fête de La Musique,LIC Plano Anual | Produção Execução
+474,2018-05-25,3000.0,Músicos / Intérpretes - Bia,LIC Plano Anual | Produção Execução
+475,2018-04-10,480.0,Emissão de passagens aéreas sp-sc Cármen ,LIC Plano Anual | Produção Execução
+476,2018-05-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+477,2018-06-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+478,2018-07-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+479,2018-08-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+480,2018-09-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+481,2018-10-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+482,2018-11-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+483,2018-12-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+484,2019-01-10,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+485,2018-04-13,1268.96,Hospedagem sem alimentação - Grupo Carmen - Joinville,LIC Plano Anual | Produção Execução
+486,2018-04-20,3450.0,Transporte para equipe Carmen,LIC Plano Anual | Produção Execução
+487,2018-04-20,2865.0,Músicos / Intérpretes - Mathieu Boogaerts,LIC Plano Anual | Produção Execução
+488,2018-04-17,13182.34,Grupo Teatral - 2 Cachês Artísticos Carmen,LIC Plano Anual | Produção Execução
+489,2018-04-17,5649.5,Grupo Teatral - 2 Cachês Artísticos Carmen,LIC Plano Anual | Produção Execução
+490,2018-04-17,18831.84,Grupo Teatral - 2 Cachês Artísticos Carmen,LIC Plano Anual | Produção Execução
+491,2018-04-20,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+492,2018-04-30,250.0,Audiodescrição - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+493,2018-04-30,180.0,Registro e documentação fotográfica - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+494,2018-06-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+495,2018-07-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+496,2018-08-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+497,2018-09-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+498,2018-10-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+499,2018-11-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+500,2018-12-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+501,2019-01-10,577.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+502,2018-05-10,525.0,Locação de Móveis e Utensílios - Cadeiras Sexta Jazz ,LIC Plano Anual | Produção Execução
+503,2018-04-30,1300.0,Músicos / Intérpretes - Sexta Jazz AF Março,LIC Plano Anual | Produção Execução
+504,2018-05-10,1000.0,Músicos / Intérpretes - Sexta Jazz AF Abril,LIC Plano Anual | Produção Execução
+505,2018-06-10,1300.0,Músicos / Intérpretes - Sexta Jazz AF Maio,LIC Plano Anual | Produção Execução
+506,2018-05-10,1000.0,Locação de Equipamentos - Sexta Jazz AF,LIC Plano Anual | Produção Execução
+507,2018-06-07,900.0,Locação de cadeiras tiffany - Baile Teatro,Locação Cadeiras Tifanny Teatro
+508,2018-03-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+509,2018-04-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+510,2018-05-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+511,2018-06-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+512,2018-07-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+513,2018-08-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+514,2018-09-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+515,2018-10-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+516,2018-11-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+517,2018-12-20,5100.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+518,2018-02-20,3400.0,Locação de equipamentos,"Locação de equipamentos, sonorização e iluminação e palco"
+519,2018-06-07,630.0,Locação de radiocomunicador,Locação de Radiocomunicador
+520,2018-10-12,13500.0,Locação de sala cinema 155 lugares,Locação de sala
+521,2018-11-12,13500.0,Locação de sala cinema 155 lugares,Locação de sala
+522,2018-06-14,3200.0,Locação de sala 190 lugares - sessão aberta,Locação de sala (sessão aberta)
+523,2018-07-14,3200.0,Locação de sala 190 lugares - sessão aberta,Locação de sala (sessão aberta)
+524,2018-08-14,3200.0,Locação de sala 190 lugares - sessão aberta,Locação de sala (sessão aberta)
+525,2018-09-14,3200.0,Locação de sala 190 lugares - sessão aberta,Locação de sala (sessão aberta)
+526,2018-10-14,3200.0,Locação de sala 190 lugares - sessão aberta,Locação de sala (sessão aberta)
+527,2018-11-14,3200.0,Locação de sala 190 lugares - sessão aberta,Locação de sala (sessão aberta)
+528,2018-12-14,6400.0,Locação de sala 190 lugares - sessão aberta,Locação de sala (sessão aberta)
+529,2018-06-08,1600.0,Locação de sala 190 lugares - sessão fechada,Locação de sala (sessão fechada)
+530,2018-07-08,1600.0,Locação de sala 190 lugares - sessão fechada,Locação de sala (sessão fechada)
+531,2018-08-08,1600.0,Locação de sala 190 lugares - sessão fechada,Locação de sala (sessão fechada)
+532,2018-09-08,1600.0,Locação de sala 190 lugares - sessão fechada,Locação de sala (sessão fechada)
+533,2018-10-08,1600.0,Locação de sala 190 lugares - sessão fechada,Locação de sala (sessão fechada)
+534,2018-11-08,1600.0,Locação de sala 190 lugares - sessão fechada,Locação de sala (sessão fechada)
+535,2018-12-08,3200.0,Locação de sala 190 lugares - sessão fechada,Locação de sala (sessão fechada)
+536,2018-03-23,250.0,Guia de reserva ,Locação Teatro
+537,2018-04-23,250.0,Guia de reserva ,Locação Teatro
+538,2018-08-10,1000.0,Manutenção site,Manutenção Site
+539,2018-10-12,1000.0,Manutenção site,Manutenção Site
+540,2018-06-08,200.0,MC Arte urbana em movimento,MC Arte Urbana
+541,2018-06-07,180.0,Msa pvc quadrada para base do tampo,Mesa PVC
+542,2018-03-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+543,2018-04-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+544,2018-05-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+545,2018-06-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+546,2018-07-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+547,2018-08-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+548,2018-09-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+549,2018-10-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+550,2018-11-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+551,2018-12-20,240.0,Monitor apresentações ddt 2018,Monitor Apresentação Creches
+552,2018-10-12,2000.0,Monitores para 5 sessões com escolas (4 por sessão),Monitores
+553,2018-07-06,800.0,Montagem técnica do Teatro - noite de Gala e Baile Arena,Montagem Técnica no Teatro
+554,2018-06-08,900.0,Oficina acrodança 3x1h (2 peofessores),Oficina Acrodança 
+555,2018-05-11,800.0,Oficinas CCFVS,Oficina CCFVS
+556,2018-06-11,800.0,Oficinas CCFVS,Oficina CCFVS
+557,2018-07-11,800.0,Oficinas CCFVS,Oficina CCFVS
+558,2018-08-11,800.0,Oficinas CCFVS,Oficina CCFVS
+559,2018-09-11,800.0,Oficinas CCFVS,Oficina CCFVS
+560,2018-10-11,800.0,Oficinas CCFVS,Oficina CCFVS
+561,2018-06-15,900.0,Oficina danças urbanas 3x1hr (2 professores),Oficina Danças Urbanas
+562,2018-06-08,450.0,Oficina dançaterapia 3x1hr (1 professores),Oficina Dançaterapia
+563,2018-07-06,750.0,Operador de luz Baile Arena,Operador de Luz Arena
+564,2018-07-06,700.0,Operador de luz teatro - Noite de Gala e Baile Arena,Operador de Luz Teatro
+565,2018-07-06,750.0,Operador de som no Baile Arena,Operador de Som Arena 
+566,2018-07-06,500.0,Operador de som teatro - Noite de Gala e Baile Arena,Operador de Som Teatro
+567,2018-01-31,51.43,Taxa referente a alteração contratual de 2016 - Divisão de Lucros Tailor,OUTROS impostos mercadorias e serviços
+568,2018-05-10,3500.0,Frontlight,Pacote Frontlight
+569,2018-08-10,7000.0,pacote frontlight,Pacote Frontlight
+570,2018-06-07,7500.0,Palco + estrutura de Q30 + som e luz,Palco + Estrutura 
+571,2018-07-07,7500.0,Palco + estrutura de Q30 + som e luz,Palco + Estrutura 
+572,2018-10-12,400.0,Palestra cinema em sala de aula,Palestra Cinema de Aula
+573,2018-06-08,600.0,Pianista baile arena,Pianista Baile Arena
+574,2018-05-20,2500.0,Produção geral,Produtor
+575,2018-02-20,5000.0,Produção geral,Produtor
+576,2018-06-20,1250.0,Produção geral,Produtor
+577,2018-07-20,1250.0,Produção geral,Produtor
+578,2018-07-13,5000.0,Produção geral dança em cena 2018,Produtor
+579,2018-08-10,5000.0,Produção geral dança em cena 2018,Produtor
+580,2018-09-14,12000.0,Produção geral,Produtor
+581,2018-03-20,2500.0,Produção geral,Produtor
+582,2018-04-20,2500.0,Produção geral,Produtor
+583,2018-05-13,1000.0,Produtor executivo sessões animadas 2018,Produtor Executivo
+584,2018-06-13,1000.0,Produtor executivo sessões animadas 2018,Produtor Executivo
+585,2018-07-13,1000.0,Produtor executivo sessões animadas 2018,Produtor Executivo
+586,2018-08-13,1000.0,Produtor executivo sessões animadas 2018,Produtor Executivo
+587,2018-09-13,1000.0,Produtor executivo sessões animadas 2018,Produtor Executivo
+588,2018-10-13,1000.0,Produtor executivo sessões animadas 2018,Produtor Executivo
+589,2018-11-13,1000.0,Produtor executivo sessões animadas 2018,Produtor Executivo
+590,2018-04-13,1800.0,Produtor executivo sessões animadas 2018,Produtor Executivo
+591,2018-08-10,5000.0,Radio itapema,Rádio Itapema
+592,2018-10-12,3900.0,Recepção sessões (13 sessões +2 recepcionistas),Recepção Sessões
+593,2018-07-06,750.0,Recepcionistas ,Recepcionista
+594,2018-05-11,1000.0,Serviço de recepção (2 pessoas por sessão),Recepcionista
+595,2018-07-11,1000.0,Serviço de recepção (2 pessoas por sessão),Recepcionista
+596,2018-08-11,1000.0,Serviço de recepção (2 pessoas por sessão),Recepcionista
+597,2018-09-11,1000.0,Serviço de recepção (2 pessoas por sessão),Recepcionista
+598,2018-10-11,1000.0,Serviço de recepção (2 pessoas por sessão),Recepcionista
+599,2018-06-11,1280.0,Serviço de recepção (2 pessoas por sessão),Recepcionista
+600,2018-11-11,2000.0,Serviço de recepção (2 pessoas por sessão),Recepcionista
+601,2018-03-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+602,2018-04-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+603,2018-05-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+604,2018-06-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+605,2018-07-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+606,2018-08-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+607,2018-09-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+608,2018-10-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+609,2018-11-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+610,2018-12-20,667.0,Recepcionista artístico ,Recepcionista Artístico
+611,2018-04-20,151.96,Registro site Marte,Registro Site
+612,2018-05-20,151.96,Registro site Marte,Registro Site
+613,2018-06-20,151.96,Registro site Marte,Registro Site
+614,2018-01-05,100.0,Reserva caixinha,Reserva
+615,2018-01-09,350.0,Aplicação,Reserva
+616,2019-01-27,100.0,Reserva caixinha,Reserva
+617,2018-03-01,100.0,Reserva caixinha,Reserva
+618,2018-03-01,350.0,Aplicação,Reserva
+619,2018-05-09,934.93,Aplicação,Reserva
+620,2018-06-09,934.93,Aplicação,Reserva
+621,2018-07-09,934.93,Aplicação,Reserva
+622,2018-08-09,934.93,Aplicação,Reserva
+623,2018-09-09,934.93,Aplicação,Reserva
+624,2018-10-09,934.93,Aplicação,Reserva
+625,2018-11-09,934.93,Aplicação,Reserva
+626,2018-12-09,934.93,Aplicação,Reserva
+627,2019-01-09,934.93,Aplicação,Reserva
+628,2018-06-27,1000.0,Reserva caixinha,Reserva
+629,2018-07-27,1000.0,Reserva caixinha,Reserva
+630,2018-08-27,1000.0,Reserva caixinha,Reserva
+631,2018-09-27,1000.0,Reserva caixinha,Reserva
+632,2018-10-27,1000.0,Reserva caixinha,Reserva
+633,2018-11-27,1000.0,Reserva caixinha,Reserva
+634,2018-12-27,1000.0,Reserva caixinha,Reserva
+635,2018-03-27,100.0,Reserva caixinha,Reserva
+636,2018-04-27,100.0,Reserva caixinha,Reserva
+637,2018-03-26,350.0,Aplicação,Reserva
+638,2018-04-09,934.93,Aplicação,Reserva
+639,2018-05-09,100.0,Reserva caixinha,Reserva
+640,2018-01-05,740.86,Salário Douglas ,Salário
+641,2018-02-05,740.86,Salário Douglas ,Salário
+642,2018-04-05,740.86,Salário Douglas ,Salário
+643,2018-05-05,740.86,Salário Douglas ,Salário
+644,2018-06-05,740.86,Salário Douglas ,Salário
+645,2018-07-05,740.86,Salário Douglas ,Salário
+646,2018-08-05,740.86,Salário Douglas ,Salário
+647,2018-09-05,740.86,Salário Douglas ,Salário
+648,2018-10-05,740.86,Salário Douglas ,Salário
+649,2018-11-05,740.86,Salário Douglas ,Salário
+650,2018-12-05,740.86,Salário Douglas ,Salário
+651,2019-01-05,740.86,Salário Douglas ,Salário
+652,2018-04-06,1230.04,Salário Franciele,Salário
+653,2018-05-06,1230.04,Salário Franciele,Salário
+654,2018-06-06,1230.04,Salário Franciele,Salário
+655,2018-07-06,1230.04,Salário Franciele,Salário
+656,2018-08-06,1230.04,Salário Franciele,Salário
+657,2018-09-06,1230.04,Salário Franciele,Salário
+658,2018-10-06,1230.04,Salário Franciele,Salário
+659,2018-11-06,1230.04,Salário Franciele,Salário
+660,2018-12-06,1230.04,Salário Franciele,Salário
+661,2018-01-05,1755.08,Salário Tailor,Salário
+662,2018-03-26,1869.0,Salário Gabriel,Salário
+663,2018-04-26,1869.0,Salário Gabriel,Salário
+664,2018-06-26,1869.0,Salário Gabriel,Salário
+665,2018-07-26,1869.0,Salário Gabriel,Salário
+666,2018-08-26,1869.0,Salário Gabriel,Salário
+667,2018-09-26,1869.0,Salário Gabriel,Salário
+668,2018-10-26,1869.0,Salário Gabriel,Salário
+669,2018-11-26,1869.0,Salário Gabriel,Salário
+670,2018-12-26,1869.0,Salário Gabriel,Salário
+671,2019-01-26,1869.0,Salário Gabriel,Salário
+672,2019-02-26,1869.0,Salário Gabriel,Salário
+673,2018-03-26,3305.15,Salário Tailor,Salário
+674,2018-04-26,3305.15,Salário Tailor,Salário
+675,2018-06-26,3305.15,Salário Tailor,Salário
+676,2018-07-26,3305.15,Salário Tailor,Salário
+677,2018-08-26,3305.15,Salário Tailor,Salário
+678,2018-09-26,3305.15,Salário Tailor,Salário
+679,2018-10-26,3305.15,Salário Tailor,Salário
+680,2018-11-26,3305.15,Salário Tailor,Salário
+681,2018-12-26,3305.15,Salário Tailor,Salário
+682,2019-01-26,3305.15,Salário Tailor,Salário
+683,2018-02-23,3305.15,Salário Tailor,Salário
+684,2018-02-28,1869.0,Salário Gabriel,Salário
+685,2018-03-07,740.86,Salário Douglas ,Salário
+686,2018-05-08,1869.0,Salário Gabriel,Salário
+687,2018-05-08,3305.15,Salário Tailor,Salário
+688,2018-02-05,900.0,Salário Fran - via nota,Serviço de terceiro
+689,2018-02-21,160.0,Manutenção de Notebook,Serviço de terceiro
+690,2018-02-28,112.0,Impressão e encadernação projetos Sessão Senior e Sessões Animadas,Serviço de terceiro
+691,2018-03-02,5.05,Cartório reconhecimento assinatura,Serviço de terceiro
+692,2018-03-07,900.0,Salário Fran - via nota,Serviço de terceiro
+693,2018-03-06,59.0,Digitalização projeto DDT 2017,Serviço de terceiro
+694,2018-03-25,2082.94,ART Elétrica Sexta Jazz AF,Serviço de terceiro
+695,2018-03-25,1682.94,ART Estrutura Sexta Jazz AF,Serviço de terceiro
+696,2018-03-10,185.04,Taxa SESP,Serviço de terceiro
+697,2018-04-10,185.04,Taxa SESP,Serviço de terceiro
+698,2018-05-10,185.04,Taxa SESP,Serviço de terceiro
+699,2018-06-10,185.04,Taxa SESP,Serviço de terceiro
+700,2018-07-10,185.04,Taxa SESP,Serviço de terceiro
+701,2018-08-10,185.04,Taxa SESP,Serviço de terceiro
+702,2018-09-10,185.04,Taxa SESP,Serviço de terceiro
+703,2018-10-10,185.04,Taxa SESP,Serviço de terceiro
+704,2018-11-10,185.04,Taxa SESP,Serviço de terceiro
+705,2018-12-10,185.04,Taxa SESP,Serviço de terceiro
+706,2019-01-10,185.04,Taxa SESP,Serviço de terceiro
+707,2018-03-25,126.0,Taxa Floram,Serviço de terceiro
+708,2018-04-25,126.0,Taxa Floram,Serviço de terceiro
+709,2018-05-25,126.0,Taxa Floram,Serviço de terceiro
+710,2018-06-25,126.0,Taxa Floram,Serviço de terceiro
+711,2018-07-25,126.0,Taxa Floram,Serviço de terceiro
+712,2018-08-25,126.0,Taxa Floram,Serviço de terceiro
+713,2018-09-25,126.0,Taxa Floram,Serviço de terceiro
+714,2018-10-25,126.0,Taxa Floram,Serviço de terceiro
+715,2018-11-25,126.0,Taxa Floram,Serviço de terceiro
+716,2018-12-25,126.0,Taxa Floram,Serviço de terceiro
+717,2019-01-25,126.0,Taxa Floram,Serviço de terceiro
+718,2018-04-10,132.0,Serviço de motoboy,Serviço de terceiro
+719,2018-04-27,300.0,"Recepção sessão de cinema especial ""AMA""",Serviço de terceiro
+720,2018-04-27,1600.0,"Locação de sala cinema especial ""AMA""",Serviço de terceiro
+721,2018-05-02,160.0,Pagamento advogado - ACIF,Serviço de terceiro
+722,2018-05-02,124.73,Reembolso Franciele pgto alimentação joinville,Serviço de terceiro
+723,2018-05-09,450.0,Assistência computador Franciele,Serviço de terceiro
+724,2019-01-25,147.5,Sistema financeiro,Software Financeiro
+725,2018-06-07,96.0,"Tampo redondo de madeira - 1,60m - Baile Teatro",Tampo Redondo 
+726,2018-04-06,500.0,"Taxas de liberação Evento (CIvil, Bombeiros e Prefeitura)",Taxas Liberação Prefeitura
+727,2018-05-02,46.22,Taxa liberação prefeitura,Taxas Liberação Prefeitura
+728,2018-03-19,209.97,Vivo empresa celular,Telefone e Internet
+729,2018-04-19,209.97,Vivo empresa celular,Telefone e Internet
+730,2018-05-19,209.97,Vivo empresa celular,Telefone e Internet
+731,2018-06-19,209.97,Vivo empresa celular,Telefone e Internet
+732,2018-07-19,209.97,Vivo empresa celular,Telefone e Internet
+733,2018-08-19,209.97,Vivo empresa celular,Telefone e Internet
+734,2018-09-19,209.97,Vivo empresa celular,Telefone e Internet
+735,2018-10-19,209.97,Vivo empresa celular,Telefone e Internet
+736,2018-11-19,209.97,Vivo empresa celular,Telefone e Internet
+737,2018-12-19,209.97,Vivo empresa celular,Telefone e Internet
+738,2019-01-19,209.97,Vivo empresa celular,Telefone e Internet
+739,2018-01-17,393.86,Divisão de Lucros para Tailor -   Multa cancelamento vivo,Telefone e Internet
+740,2018-01-09,65.43,Divisão de Lucros para Gabriel-   Multa cancelamento vivo,Telefone e Internet
+741,2018-01-09,19.97,Vivo Celular,Telefone e Internet
+742,2018-02-17,191.37,Vivo empresa celular,Telefone e Internet
+743,2018-06-07,144.0,Toalha redonda rosa - Baile Teatro,Toalha Redonda
+744,2018-04-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+745,2018-05-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+746,2018-06-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+747,2018-07-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+748,2018-08-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+749,2018-09-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+750,2018-10-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+751,2018-11-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+752,2018-12-20,500.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 
+753,2018-05-11,2600.0,Transporte de ônibus com 40 lugares,Transporte - Micro-ônibus 
+754,2018-06-11,2600.0,Transporte de ônibus com 40 lugares,Transporte - Micro-ônibus 
+755,2018-07-11,2600.0,Transporte de ônibus com 40 lugares,Transporte - Micro-ônibus 
+756,2018-08-11,2600.0,Transporte de ônibus com 40 lugares,Transporte - Micro-ônibus 
+757,2018-09-11,2600.0,Transporte de ônibus com 40 lugares,Transporte - Micro-ônibus 
+758,2018-10-11,2600.0,Transporte de ônibus com 40 lugares,Transporte - Micro-ônibus 
+759,2018-11-11,2400.0,Transporte de ônibus com 40 lugares,Transporte - Micro-ônibus 
+760,2018-10-12,7000.0,Ônibus para transporte escolar (5 sessões),Transporte - Micro-ônibus 
+761,2018-11-12,7000.0,Ônibus para transporte escolar (5 sessões),Transporte - Micro-ônibus 
+762,2018-03-20,400.0,Transporte ônibus ddt 2018,Transporte - Micro-ônibus 

@@ -1,0 +1,377 @@
+,Date,Value,Descricao,Categoria
+0,2018-02-04,130.76,Água,Água
+1,2018-06-04,130.76,Água,Água
+2,2018-07-04,130.76,Água,Água
+3,2018-08-04,130.76,Água,Água
+4,2018-09-04,130.76,Água,Água
+5,2018-10-04,130.76,Água,Água
+6,2018-11-04,130.76,Água,Água
+7,2018-12-04,130.76,Água,Água
+8,2019-01-04,130.76,Água,Água
+9,2019-02-04,130.76,Água,Água
+10,2018-02-04,42.19,Água,Água
+11,2018-03-04,42.19,Água,Água
+12,2018-04-04,42.19,Água,Água
+13,2018-05-04,42.19,Água,Água
+14,2018-06-04,42.19,Água,Água
+15,2018-07-04,42.19,Água,Água
+16,2018-08-04,42.19,Água,Água
+17,2018-09-04,42.19,Água,Água
+18,2018-10-04,42.19,Água,Água
+19,2018-11-04,42.19,Água,Água
+20,2018-12-04,42.19,Água,Água
+21,2019-01-04,42.19,Água,Água
+22,2019-02-04,42.19,Água,Água
+23,2018-03-04,192.62,Água,Água
+24,2018-03-10,646.35,Nubank,Água
+25,2018-04-04,84.38,Água,Água
+26,2018-05-09,130.76,Água,Água
+27,2017-05-12,40.0,Politriz,Aluguel Equipamentos
+28,2018-01-31,440.37,Anuidade Conselho - CAU,Anuidade Conselho - CAU
+29,2019-01-31,440.37,Anuidade Conselho - CAU,Anuidade Conselho - CAU
+30,2018-03-09,38.0,Refeição Gabriela e do Luiz,Benefício: alimentação
+31,2018-03-11,68.5,Refeição Gabriela e do Luiz,Benefício: alimentação
+32,2018-04-08,65.0,Almoço Pai e Gabi na Congregação,Benefício: alimentação
+33,2017-12-07,71.47,Taxa - Corpo de Bombeiro,Bombeiros
+34,2018-02-10,821.47,Nubank,Cartão Crédito 
+35,2018-06-10,279.9,Nubank,Cartão Crédito 
+36,2018-07-10,279.9,Nubank,Cartão Crédito 
+37,2018-08-10,279.9,Nubank,Cartão Crédito 
+38,2018-09-10,279.9,Nubank,Cartão Crédito 
+39,2018-10-10,279.9,Nubank,Cartão Crédito 
+40,2018-11-10,279.9,Nubank,Cartão Crédito 
+41,2018-12-10,80.0,Nubank,Cartão Crédito 
+42,2019-01-10,80.0,Nubank,Cartão Crédito 
+43,2018-04-10,763.11,Nubank,Cartão Crédito 
+44,2018-05-10,1225.27,Nubank,Cartão Crédito 
+45,2017-10-10,47.1,Autenticação e Reconhecimento de Firma,Cartório
+46,2017-10-23,4.9,Reconhecimento de Firma,Cartório
+47,2017-12-01,4.9,Reconhecimento de Firma,Cartório
+48,2018-02-13,164.8,Roupas,Compra de Produtos
+49,2018-02-10,151.0,Garrafa Térmica _ Ventilador _ Liquidificador,Compra de Produtos
+50,2018-03-10,151.0,Garrafa Térmica _ Ventilador _ Liquidificador,Compra de Produtos
+51,2018-04-10,151.68,Garrafa Térmica _ Ventilador _ Liquidificador,Compra de Produtos
+52,2017-11-29,185.0,Certificado Digital,Compra de Produtos
+53,2018-01-27,305.7,"Ração Premier 20Kg, Peitoral com Guia e Acepran Gotas",Compra de Produtos
+54,2018-01-27,49.94,Desinfetante Piso,Compra de Produtos
+55,2017-08-12,1899.0,Tv Led - Smart Tv 43'',Compra de Produtos
+56,2018-01-02,507.2,Material / Produto - Reforma,Compra de Produtos
+57,2018-01-04,116.9,Hidrorepelente - Cimento Queimado,Compra de Produtos
+58,2017-12-05,49.0,Latex Suvinil Branco Neve,Compra de Produtos
+59,2017-10-05,17.78,Trinco,Compra de Produtos
+60,2018-01-25,11.09,Parafusos e Trinca Janela,Compra de Produtos
+61,2017-09-28,95.0,"Striptizi Gel 3,6gl",Compra de Produtos
+62,2017-12-01,21.9,Papel Sulfite 75g - A4 Chamex,Compra de Produtos
+63,2017-09-08,12.0,7 Pratinhos Plástico - Vaso,Compra de Produtos
+64,2017-12-01,37.5,Caderneta - Bloco Autoadesivo - Bloco Milimetrado,Compra de Produtos
+65,2017-04-20,15.0,Braçadeiras e tubulação hidraulica,Compra de Produtos
+66,2017-04-19,240.0,Tintas,Compra de Produtos
+67,2017-10-04,55.8,Porta Guarda Chuva,Compra de Produtos
+68,2017-09-11,216.56,Tinta ,Compra de Produtos
+69,2017-09-28,130.0,Bombonier - Decoração,Compra de Produtos
+70,2017-09-22,203.6,Vaso Planta - Fechadura - Repelente Eletrônico,Compra de Produtos
+71,2017-09-25,210.0,Capacho Personalizado,Compra de Produtos
+72,2017-09-20,55.9,Capa para Notebook,Compra de Produtos
+73,2017-09-13,89.41,Plafon Quadrado Led - Taschibra,Compra de Produtos
+74,2017-09-20,3955.0,Notebook,Compra de Produtos
+75,2017-09-13,687.84,Seguro Notebook,Compra de Produtos
+76,2017-09-13,369.0,Forno Microondas Panasonic 21Lts,Compra de Produtos
+77,2017-09-12,1450.0,Material / Produto - Reforma,Compra de Produtos
+78,2017-07-15,29.0,"Striptizi Gel 0,9L",Compra de Produtos
+79,2017-02-16,137.9,Tinta ,Compra de Produtos
+80,2017-05-15,86.01,"Striptizi Gel 3,6gl",Compra de Produtos
+81,2017-05-02,109.0,"Striptizi Gel 3,6gl e tintas",Compra de Produtos
+82,2017-05-10,727.0,Tintas,Compra de Produtos
+83,2017-05-09,550.0,Tintas e Fuseprotec,Compra de Produtos
+84,2017-05-23,77.9,Tinta ,Compra de Produtos
+85,2017-05-03,45.0,Walflex,Compra de Produtos
+86,2017-01-20,100.0,Tinta ,Compra de Produtos
+87,2017-04-12,497.9,Tintas e Fuseprotec,Compra de Produtos
+88,2017-06-28,108.0,Tintas,Compra de Produtos
+89,2017-04-06,420.0,Fuseprotec,Compra de Produtos
+90,2017-08-16,125.0,Tintas,Compra de Produtos
+91,2017-07-17,39.9,Tinta ,Compra de Produtos
+92,2017-01-16,107.0,Tintas,Compra de Produtos
+93,2017-01-27,124.7,Fuseprotec,Compra de Produtos
+94,2017-03-17,420.0,Fuseprotec,Compra de Produtos
+95,2017-06-16,67.0,Tinta ,Compra de Produtos
+96,2017-09-06,3996.0,02 Poltronas - Recepção,Compra de Produtos
+97,2017-09-01,4971.9,Decoração,Compra de Produtos
+98,2017-08-29,60.0,Boca Fogão,Compra de Produtos
+99,2017-09-04,2139.8,Plantas e Materiais Paisagismo,Compra de Produtos
+100,2017-08-11,400.71,Cerâmica Portinari - Parede Escritório,Compra de Produtos
+101,2017-07-17,6500.0,Cortinas Escritório,Compra de Produtos
+102,2017-08-26,118.4,Decoração,Compra de Produtos
+103,2017-08-25,190.9,Cimento Queimado,Compra de Produtos
+104,2017-08-19,499.9,Aquecedor Cardal,Compra de Produtos
+105,2017-09-05,619.6,Banquetas e Champanheira,Compra de Produtos
+106,2017-08-12,407.36,Válvula Escoamento e Misturador Monocomando,Compra de Produtos
+107,2017-08-14,980.52,Gabinete Lavatório,Compra de Produtos
+108,2017-08-12,682.89,Decoração e Acessórios,Compra de Produtos
+109,2017-07-21,3095.0,Cadeiras do Escritório,Compra de Produtos
+110,2017-11-14,918.0,Banqueta UMIX-801C Preta - Casa Gabi (Produto+Transporte),Compra de Produtos
+111,2017-08-27,205.0,Material Elétrico,Compra de Produtos
+112,2017-07-27,49.0,Lâmpada Filamento,Compra de Produtos
+113,2017-07-27,89.68,Suporte Prateleira e Bucha,Compra de Produtos
+114,2017-06-24,10.8,Canaletas e Cabos,Compra de Produtos
+115,2017-01-07,244.7,Decoração e Acessórios,Compra de Produtos
+116,2017-05-06,247.7,Decoração e Acessórios,Compra de Produtos
+117,2017-01-12,449.0,"Striptizi Gel 0,9L e Tintas",Compra de Produtos
+118,2017-02-07,4244.99,Acessórios e Produtos ,Compra de Produtos
+119,2017-01-04,50.9,Ralo Silicone Brinox - Cozinha,Compra de Produtos
+120,2017-07-14,299.0,P45 Gás,Compra de Produtos
+121,2017-05-04,169.9,Cimento Queimado,Compra de Produtos
+122,2017-04-30,299.8,Cimento Queimado,Compra de Produtos
+123,2017-01-13,4.07,Equipamento / Material,Compra de Produtos
+124,2017-05-02,35.56,Equipamento / Material,Compra de Produtos
+125,2017-04-25,13.42,Equipamento / Material,Compra de Produtos
+126,2017-01-02,69.0,Material Elétrico,Compra de Produtos
+127,2017-02-18,339.65,Mangueira e Fita Antiderrapante,Compra de Produtos
+128,2017-01-07,56.0,Material Elétrico,Compra de Produtos
+129,2017-03-24,25.0,Kit Acionamento Docol,Compra de Produtos
+130,2017-02-25,629.0,Lixeiras e Suportes,Compra de Produtos
+131,2017-03-03,38.47,Buchas - Brocas - Parafusos,Compra de Produtos
+132,2017-01-07,299.9,Ventilador Teto e Lâmpada,Compra de Produtos
+133,2017-04-25,13.8,Isopor,Compra de Produtos
+134,2017-04-21,15.0,Material / Produto - Reforma,Compra de Produtos
+135,2017-04-21,8.0,Material / Produto - Reforma,Compra de Produtos
+136,2017-02-18,486.8,Material / Produto - Reforma,Compra de Produtos
+137,2017-04-25,682.19,Material / Produto - Reforma,Compra de Produtos
+138,2017-02-18,19.96,Desinfetante Piso,Compra de Produtos
+139,2017-02-18,339.65,Material / Produto - Reforma,Compra de Produtos
+140,2017-03-25,13850.0,Vidros Cobertura,Compra de Produtos
+141,2017-05-06,1200.0,Porta Vidro Recepção,Compra de Produtos
+142,2017-02-16,290.0,Duto Alumínio e Chaminé para Aquecedor,Compra de Produtos
+143,2017-06-08,86.0,Cantoneira,Compra de Produtos
+144,2017-06-24,97.0,HUB 8 portas e Cabos,Compra de Produtos
+145,2017-06-08,180.0,Películas,Compra de Produtos
+146,2017-05-25,70.0,Fila Anti-ruido PVC,Compra de Produtos
+147,2017-06-28,999.75,Material / Produto - Reforma,Compra de Produtos
+148,2017-03-11,3074.0,Material / Produto - Reforma,Compra de Produtos
+149,2017-07-08,201.4,Decoração,Compra de Produtos
+150,2017-02-07,2741.62,Material / Produto - Reforma,Compra de Produtos
+151,2017-03-24,727.7,Material / Produto - Reforma,Compra de Produtos
+152,2017-03-07,4450.0,Películas,Compra de Produtos
+153,2017-01-02,1850.0,Varais,Compra de Produtos
+154,2017-02-15,1095.0,Madeiras,Compra de Produtos
+155,2017-01-02,3100.0,Madeiras,Compra de Produtos
+156,2017-05-03,2329.54,Material / Produto - Reforma,Compra de Produtos
+157,2017-06-18,5200.0,Decoração,Compra de Produtos
+158,2018-02-15,182.93,Tênnis,Compra de Produtos
+159,2018-03-15,182.93,Tênnis,Compra de Produtos
+160,2018-02-03,81.0,Honorários Contábeis 01/2018,Contabilidade
+161,2018-01-03,1078.01,Abertura Empresa - Honorários dep. pessoal - Honorário Mensal - Reembolso taxas cartórios,Contabilidade
+162,2018-03-03,81.0,Honorários Contabilidade,Contabilidade
+163,2018-02-28,5.0,Reconhecimento de Firma,Contabilidade
+164,2018-04-03,81.0,Honorários Contabilidade,Contabilidade
+165,2018-06-03,81.0,Honorários Contabilidade,Contabilidade
+166,2018-07-03,81.0,Honorários Contabilidade,Contabilidade
+167,2018-08-03,81.0,Honorários Contabilidade,Contabilidade
+168,2018-09-03,81.0,Honorários Contabilidade,Contabilidade
+169,2018-10-03,81.0,Honorários Contabilidade,Contabilidade
+170,2018-11-03,81.0,Honorários Contabilidade,Contabilidade
+171,2018-12-03,81.0,Honorários Contabilidade,Contabilidade
+172,2019-01-03,81.0,Honorários Contabilidade,Contabilidade
+173,2019-02-03,81.0,Honorários Contabilidade,Contabilidade
+174,2019-03-03,81.0,Honorários Contabilidade,Contabilidade
+175,2019-04-03,81.0,Honorários Contabilidade,Contabilidade
+176,2019-05-03,81.0,Honorários Contabilidade,Contabilidade
+177,2018-05-03,81.0,Honorários Contabilidade,Contabilidade
+178,2017-09-13,659.95,Produto de Limpeza - Bebidas - Copos - Taças - Guardanapos,Coquetel Inauguração Escritório
+179,2017-09-26,38.0,Aluguel da Champanheira Acrílica - Coquetel Inauguração,Coquetel Inauguração Escritório
+180,2017-09-30,90.0,Boleira e Pratos - Coquetel Inauguração,Coquetel Inauguração Escritório
+181,2017-10-04,750.4,Lembrancinha Coquetel Inauguração,Coquetel Inauguração Escritório
+182,2017-10-06,112.5,Gelo para Coquetel de Inauguração,Coquetel Inauguração Escritório
+183,2017-10-11,750.4,Lembrancinha Coquetel Inauguração,Coquetel Inauguração Escritório
+184,2017-10-06,374.5,Encomenda de Doces e Salgados - Coquetel,Coquetel Inauguração Escritório
+185,2017-10-07,420.75,Encomenda de Doces e Salgados - Coquetel,Coquetel Inauguração Escritório
+186,2017-10-08,406.25,Encomenda de Doces e Salgados - Coquetel,Coquetel Inauguração Escritório
+187,2017-10-13,229.5,Encomenda de Doces e Salgados - Coquetel,Coquetel Inauguração Escritório
+188,2017-10-14,353.25,Encomenda de Doces e Salgados - Coquetel,Coquetel Inauguração Escritório
+189,2018-01-28,157.84,Luz,Energia
+190,2018-02-28,157.84,Luz,Energia
+191,2018-01-28,176.93,Luz,Energia
+192,2018-02-28,176.93,Luz,Energia
+193,2018-03-28,146.95,Luz,Energia
+194,2018-03-28,171.57,Luz,Energia
+195,2018-04-28,154.08,Luz,Energia
+196,2018-06-28,154.08,Luz,Energia
+197,2018-07-28,154.08,Luz,Energia
+198,2018-08-28,154.08,Luz,Energia
+199,2018-09-28,154.08,Luz,Energia
+200,2018-10-28,154.08,Luz,Energia
+201,2018-11-28,154.08,Luz,Energia
+202,2018-12-28,154.08,Luz,Energia
+203,2019-01-28,154.08,Luz,Energia
+204,2018-04-28,194.83,Luz,Energia
+205,2018-06-28,194.83,Luz,Energia
+206,2018-07-28,194.83,Luz,Energia
+207,2018-08-28,194.83,Luz,Energia
+208,2018-09-28,194.83,Luz,Energia
+209,2018-10-28,194.83,Luz,Energia
+210,2018-11-28,194.83,Luz,Energia
+211,2018-12-28,194.83,Luz,Energia
+212,2019-01-28,194.83,Luz,Energia
+213,2018-05-28,179.18,Luz,Energia
+214,2018-05-28,144.48,Luz,Energia
+215,2018-01-24,56.08,Anticoncepcional - Tâmisa 20,Farmácia
+216,2018-02-12,1049.16,IPTU,Imposto: IPTU
+217,2019-02-12,1049.16,IPTU,Imposto: IPTU
+218,2020-02-12,1049.16,IPTU,Imposto: IPTU
+219,2021-02-12,1049.16,IPTU,Imposto: IPTU
+220,2022-02-12,1049.16,IPTU,Imposto: IPTU
+221,2023-02-12,1049.16,IPTU,Imposto: IPTU
+222,2024-02-12,1049.16,IPTU,Imposto: IPTU
+223,2025-02-12,1049.16,IPTU,Imposto: IPTU
+224,2026-02-12,1049.16,IPTU,Imposto: IPTU
+225,2027-02-12,1049.16,IPTU,Imposto: IPTU
+226,2028-02-12,1049.16,IPTU,Imposto: IPTU
+227,2029-02-12,1049.16,IPTU,Imposto: IPTU
+228,2030-02-12,1049.16,IPTU,Imposto: IPTU
+229,2018-01-12,30.0,Integralização Capital Social,Integralização Capital Social - Sicoob
+230,2018-05-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+231,2018-06-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+232,2018-07-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+233,2018-08-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+234,2018-09-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+235,2018-10-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+236,2018-11-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+237,2018-12-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+238,2019-01-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+239,2019-02-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+240,2019-03-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+241,2019-04-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+242,2019-05-25,162.2,Curso Mulheres Bem Resolvidas_Cartão Crédito Camila,Prêmios e outros benefícios
+243,2017-11-28,150.0,Dedetização e Desratização,Prestação Serviço
+244,2017-10-16,1035.0,Custas do Cartório,Prestação Serviço
+245,2017-08-21,300.0,Limpeza e Impermeabilização Tapete Recepção,Prestação Serviço
+246,2017-11-23,1070.0,Serviços - Reforma Minha Casa/Escritório e Casa da Mãe/Pai,Prestação Serviço
+247,2017-09-22,1250.0,Serviços - Reforma ,Prestação Serviço
+248,2017-09-19,5650.0,Painéis em MDF para o Escritório,Prestação Serviço
+249,2017-09-08,1000.0,Serviços - Reforma ,Prestação Serviço
+250,2017-09-02,1800.0,Serviços - Reforma ,Prestação Serviço
+251,2017-08-26,850.0,Serviços - Reforma ,Prestação Serviço
+252,2017-08-01,1700.0,Serviços - Reforma ,Prestação Serviço
+253,2017-05-26,700.0,Serviços - Reforma ,Prestação Serviço
+254,2017-05-19,1035.0,Serviços - Reforma ,Prestação Serviço
+255,2017-05-05,1771.72,Serviços - Reforma ,Prestação Serviço
+256,2017-04-21,260.0,Serviços - Reforma ,Prestação Serviço
+257,2017-04-13,1700.0,Serviços - Reforma ,Prestação Serviço
+258,2017-04-07,1920.0,Serviços - Reforma ,Prestação Serviço
+259,2017-03-31,2800.0,Serviços - Reforma ,Prestação Serviço
+260,2017-03-24,2475.0,Serviços - Reforma ,Prestação Serviço
+261,2017-03-17,900.0,Serviços - Reforma ,Prestação Serviço
+262,2017-03-10,1725.0,Serviços - Reforma ,Prestação Serviço
+263,2017-03-03,2000.0,Serviços - Reforma ,Prestação Serviço
+264,2017-02-24,2425.0,Serviços - Reforma ,Prestação Serviço
+265,2017-02-17,3400.0,Serviços - Reforma ,Prestação Serviço
+266,2017-02-10,2010.0,Serviços - Reforma ,Prestação Serviço
+267,2017-02-03,2035.0,Serviços - Reforma ,Prestação Serviço
+268,2017-01-27,2155.0,Serviços - Reforma ,Prestação Serviço
+269,2017-01-20,2725.0,Serviços - Reforma ,Prestação Serviço
+270,2017-01-13,2200.0,Serviços - Reforma ,Prestação Serviço
+271,2017-10-05,25.0,Tambor - Porta,Prestação Serviço
+272,2017-09-08,150.0,Impressão e Instalação de Adesivos,Prestação Serviço
+273,2017-08-19,830.0,Grades Floreiras - Pé mesa Escritório e Peça grade embaixo escada,Prestação Serviço
+274,2017-08-24,293.8,Vidro - Lousa (Sala de Reunião),Prestação Serviço
+275,2017-08-23,250.0,Instalação Cardal - Troca Cobre por PPR (BWC Serviço - Escritório),Prestação Serviço
+276,2017-11-14,45.0,Entrega Banquetas UniversalMix,Prestação Serviço
+277,2017-07-24,79.27,Transporte das Cadeiras da UniversalMix,Prestação Serviço
+278,2017-08-07,1890.0,Logo Fachada e Interna,Prestação Serviço
+279,2017-07-07,1480.0,Cartão de Visita,Prestação Serviço
+280,2017-02-27,150.0,Papa Entulho,Prestação Serviço
+281,2017-09-06,150.0,Papa Entulho,Prestação Serviço
+282,2017-02-07,150.0,Papa Entulho,Prestação Serviço
+283,2017-05-05,1950.0,Serralheria,Prestação Serviço
+284,2017-02-17,2300.0,Serralheria,Prestação Serviço
+285,2017-03-17,1785.0,Serralheria,Prestação Serviço
+286,2018-03-12,400.0,Prestação Serviço - Medição Local,Prestação Serviço
+287,2018-05-04,76.0,Domínio Site (spazio.arq.br),Site
+288,2019-05-04,76.0,Domínio Site (spazio.arq.br),Site
+289,2020-05-04,76.0,Domínio Site (spazio.arq.br),Site
+290,2021-05-04,76.0,Domínio Site (spazio.arq.br),Site
+291,2022-05-04,76.0,Domínio Site (spazio.arq.br),Site
+292,2023-05-04,76.0,Domínio Site (spazio.arq.br),Site
+293,2024-05-04,76.0,Domínio Site (spazio.arq.br),Site
+294,2025-05-04,76.0,Domínio Site (spazio.arq.br),Site
+295,2026-05-04,76.0,Domínio Site (spazio.arq.br),Site
+296,2027-05-04,76.0,Domínio Site (spazio.arq.br),Site
+297,2028-05-04,76.0,Domínio Site (spazio.arq.br),Site
+298,2029-05-04,76.0,Domínio Site (spazio.arq.br),Site
+299,2030-05-04,76.0,Domínio Site (spazio.arq.br),Site
+300,2018-01-02,37.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+301,2018-02-02,37.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+302,2018-03-02,37.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+303,2018-04-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+304,2018-05-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+305,2018-06-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+306,2018-07-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+307,2018-08-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+308,2018-09-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+309,2018-10-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+310,2018-11-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+311,2018-12-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+312,2019-01-02,41.9,Manutenção Conta ,Tarifa - Manutenção Sicoob
+313,2018-01-08,252.33,Taxa - Alvará Sanitário,Taxas - Vigilância Sanitária
+314,2017-12-06,52.92,Taxa - Consulta de Viabilidade,Taxas Prefeitura
+315,2018-01-12,20.55,Taxa - Alvará p/ Funcionamento,Taxas Prefeitura
+316,2018-02-28,182.94,Taxa de Funcionamento,Taxas Prefeitura
+317,2018-04-30,405.15,T.F.P.U e Emissão de D.A.M - Taxa Prefeitura,Taxas Prefeitura
+318,2018-06-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+319,2018-07-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+320,2018-08-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+321,2018-09-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+322,2018-10-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+323,2018-11-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+324,2018-12-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+325,2019-01-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+326,2019-02-05,168.43,Telefone Fixo e Internet Casa,Telefone e Internet
+327,2018-02-07,39.99,Celular - Escritório,Telefone e Internet
+328,2018-03-07,39.99,Celular - Escritório,Telefone e Internet
+329,2018-02-10,54.99,Celular - Particular,Telefone e Internet
+330,2018-03-10,54.99,Celular - Particular,Telefone e Internet
+331,2018-02-05,168.35,Telefone Fixo e Internet Casa,Telefone e Internet
+332,2018-02-05,155.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+333,2018-03-05,164.07,Telefone fixo e Internet - Escritório,Telefone e Internet
+334,2018-03-05,174.15,Telefone Fixo e Internet Casa,Telefone e Internet
+335,2018-04-05,162.29,Telefone fixo e Internet - Escritório,Telefone e Internet
+336,2018-04-07,44.99,Celular - Escritório,Telefone e Internet
+337,2018-05-07,44.99,Celular - Escritório,Telefone e Internet
+338,2018-06-07,44.99,Celular - Escritório,Telefone e Internet
+339,2018-07-07,44.99,Celular - Escritório,Telefone e Internet
+340,2018-08-07,44.99,Celular - Escritório,Telefone e Internet
+341,2018-09-07,44.99,Celular - Escritório,Telefone e Internet
+342,2018-10-07,44.99,Celular - Escritório,Telefone e Internet
+343,2018-11-07,44.99,Celular - Escritório,Telefone e Internet
+344,2018-12-07,44.99,Celular - Escritório,Telefone e Internet
+345,2019-01-07,44.99,Celular - Escritório,Telefone e Internet
+346,2019-02-07,44.99,Celular - Escritório,Telefone e Internet
+347,2018-04-05,168.11,Telefone Fixo e Internet Casa,Telefone e Internet
+348,2018-04-10,59.99,Celular - Particular,Telefone e Internet
+349,2018-05-10,59.99,Celular - Particular,Telefone e Internet
+350,2018-06-10,59.99,Celular - Particular,Telefone e Internet
+351,2018-07-10,59.99,Celular - Particular,Telefone e Internet
+352,2018-08-10,59.99,Celular - Particular,Telefone e Internet
+353,2018-09-10,59.99,Celular - Particular,Telefone e Internet
+354,2018-10-10,59.99,Celular - Particular,Telefone e Internet
+355,2018-11-10,59.99,Celular - Particular,Telefone e Internet
+356,2018-12-10,59.99,Celular - Particular,Telefone e Internet
+357,2019-01-10,59.99,Celular - Particular,Telefone e Internet
+358,2019-02-10,59.99,Celular - Particular,Telefone e Internet
+359,2018-05-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+360,2018-06-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+361,2018-07-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+362,2018-08-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+363,2018-09-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+364,2018-10-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+365,2018-11-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+366,2018-12-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+367,2019-01-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+368,2019-02-05,173.89,Telefone fixo e Internet - Escritório,Telefone e Internet
+369,2018-05-05,167.32,Telefone Fixo e Internet Casa,Telefone e Internet
+370,2017-10-23,15.69,Cartório - Contabilidade,Transporte - UBER
+371,2017-11-01,6.86,Cartório - Contabilidade,Transporte - UBER
+372,2017-11-01,14.67,Contabilidade - Casa/Escritório,Transporte - UBER
+373,2017-12-01,6.86,Cartório - Contabilidade,Transporte - UBER
+374,2017-12-01,12.9,Contabilidade - Casa/Escritório,Transporte - UBER
+375,2018-01-27,275.0,Consulta e Medicamento - Luck,Veterinário / Clínica

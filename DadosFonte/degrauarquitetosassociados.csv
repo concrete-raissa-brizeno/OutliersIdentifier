@@ -1,0 +1,967 @@
+,Date,Value,Descricao,Categoria
+0,2016-08-17,44.25,Água,Água
+1,2016-09-28,44.25,Água,Água
+2,2016-10-31,44.25,Água,Água
+3,2016-11-01,44.25,Água,Água
+4,2016-12-01,44.25,Água,Água
+5,2017-01-01,44.25,Água,Água
+6,2017-03-20,44.25,Água,Água
+7,2017-02-20,44.25,Água,Água
+8,2017-04-14,49.2,Água,Água
+9,2017-05-14,49.2,Água,Água
+10,2017-06-26,49.24,Água,Água
+11,2017-07-25,49.24,Água,Água
+12,2017-08-25,65.65,Água,Água
+13,2017-09-25,69.64,Água,Água
+14,2017-10-25,69.65,Água,Água
+15,2017-11-25,69.65,Água,Água
+16,2017-12-25,69.65,Água,Água
+17,2018-01-25,69.65,Água,Água
+18,2018-03-05,69.65,Água,Água
+19,2018-04-05,69.65,Água,Água
+20,2018-05-05,52.2,Água,Água
+21,2018-06-05,52.2,Água,Água
+22,2018-07-05,52.2,Água,Água
+23,2018-08-05,52.2,Água,Água
+24,2018-09-05,52.2,Água,Água
+25,2018-10-05,52.2,Água,Água
+26,2018-11-05,52.2,Água,Água
+27,2018-12-05,52.2,Água,Água
+28,2019-01-05,52.2,Água,Água
+29,2019-02-05,52.2,Água,Água
+30,2019-03-05,52.2,Água,Água
+31,2016-08-09,856.68,Aluguel - Florianópolis,Aluguel
+32,2016-08-01,400.0,Estrutura - Porto Alegre,Aluguel
+33,2016-09-01,400.0,Estrutura - Porto Alegre,Aluguel
+34,2016-09-28,856.68,Aluguel - Florianópolis,Aluguel
+35,2016-10-01,856.68,Aluguel - Florianópolis,Aluguel
+36,2016-11-01,856.68,Aluguel,Aluguel
+37,2016-11-21,550.0,Coworking - Porto Alegre,Aluguel
+38,2016-12-01,856.68,Aluguel,Aluguel
+39,2017-01-01,856.68,Aluguel,Aluguel
+40,2017-01-13,355.0,Coworking - Porto Alegre,Aluguel
+41,2017-02-05,900.0,Aluguel,Aluguel
+42,2017-02-02,550.0,Coworking - Porto Alegre,Aluguel
+43,2017-04-02,550.0,Coworking - Porto Alegre,Aluguel
+44,2017-05-02,550.0,Coworking - Porto Alegre,Aluguel
+45,2017-06-02,550.0,Coworking - Porto Alegre,Aluguel
+46,2017-07-02,550.0,Coworking - Porto Alegre,Aluguel
+47,2017-08-02,550.0,Coworking - Porto Alegre,Aluguel
+48,2017-10-02,550.0,Coworking - Porto Alegre,Aluguel
+49,2017-03-10,550.0,Coworking - Porto Alegre,Aluguel
+50,2017-03-10,900.0,Aluguel,Aluguel
+51,2017-04-14,900.0,Aluguel,Aluguel
+52,2017-05-15,900.0,Aluguel,Aluguel
+53,2017-06-26,900.0,Aluguel,Aluguel
+54,2017-07-25,900.0,Aluguel,Aluguel
+55,2017-08-25,900.0,Aluguel,Aluguel
+56,2017-09-25,900.0,Aluguel,Aluguel
+57,2017-10-25,900.0,Aluguel,Aluguel
+58,2017-11-25,900.0,Aluguel,Aluguel
+59,2017-12-25,900.0,Aluguel,Aluguel
+60,2017-11-05,450.0,Aluguel POA,Aluguel
+61,2017-12-05,450.0,Aluguel POA,Aluguel
+62,2018-02-20,920.0,Aluguel,Aluguel
+63,2018-01-20,900.0,Aluguel,Aluguel
+64,2018-03-05,450.0,Aluguel - POA,Aluguel
+65,2018-04-05,450.0,Aluguel - POA,Aluguel
+66,2018-05-05,450.0,Aluguel - POA,Aluguel
+67,2018-06-05,450.0,Aluguel - POA,Aluguel
+68,2018-07-05,450.0,Aluguel - POA,Aluguel
+69,2018-08-05,450.0,Aluguel - POA,Aluguel
+70,2018-09-05,450.0,Aluguel - POA,Aluguel
+71,2018-10-05,450.0,Aluguel - POA,Aluguel
+72,2018-11-05,450.0,Aluguel - POA,Aluguel
+73,2018-12-05,450.0,Aluguel - POA,Aluguel
+74,2019-01-05,450.0,Aluguel - POA,Aluguel
+75,2019-02-05,450.0,Aluguel - POA,Aluguel
+76,2018-02-05,350.0,Aluguel - POA,Aluguel
+77,2018-03-05,920.0,Aluguel,Aluguel
+78,2018-04-05,920.0,Aluguel,Aluguel
+79,2018-05-05,920.0,Aluguel,Aluguel
+80,2018-06-05,920.0,Aluguel,Aluguel
+81,2018-07-05,920.0,Aluguel,Aluguel
+82,2018-08-05,920.0,Aluguel,Aluguel
+83,2018-09-05,920.0,Aluguel,Aluguel
+84,2018-10-05,920.0,Aluguel,Aluguel
+85,2018-11-05,920.0,Aluguel,Aluguel
+86,2018-12-05,920.0,Aluguel,Aluguel
+87,2019-01-05,920.0,Aluguel,Aluguel
+88,2017-11-11,69.0,Bens e Patrimônio,Aquisição de equipamentos
+89,2017-11-01,185.0,Bens e Patrimônio,Aquisição de equipamentos
+90,2018-01-26,399.72,Bens e Patrimônio,Aquisição de equipamentos
+91,2018-04-05,699.0,Bens e Patrimônio,Aquisição de equipamentos
+92,2018-03-20,8.0,Bens e Patrimônio,Aquisição de equipamentos
+93,2018-04-05,594.0,Bens e Patrimônio,Aquisição de equipamentos
+94,2018-03-02,3825.0,Bens e Patrimônio,Aquisição de equipamentos
+95,2018-05-11,59.0,Bens e Patrimônio,Aquisição de equipamentos
+96,2016-08-01,6.84,Google Drive,Aquisição de suprimentos
+97,2016-08-01,12.08,Alimentos,Aquisição de suprimentos
+98,2016-08-08,11.5,Alimentação,Aquisição de suprimentos
+99,2016-09-12,6.69,Google Drive,Aquisição de suprimentos
+100,2016-09-12,51.91,Material de Limpeza,Aquisição de suprimentos
+101,2016-09-09,11.5,Alimentação,Aquisição de suprimentos
+102,2016-10-01,100.0,Rolo fotocondutor,Aquisição de suprimentos
+103,2016-10-01,7.04,Google Drive,Aquisição de suprimentos
+104,2016-10-01,11.5,Alimentação,Aquisição de suprimentos
+105,2016-10-15,6.74,Google Drive,Aquisição de suprimentos
+106,2016-10-15,580.0,Cartões Visita,Aquisição de suprimentos
+107,2016-12-01,7.29,Google Drive,Aquisição de suprimentos
+108,2016-10-26,9.4,Material de Escritório,Aquisição de suprimentos
+109,2016-11-01,21.1,Alimentação,Aquisição de suprimentos
+110,2016-11-01,15.29,Material de Limpeza,Aquisição de suprimentos
+111,2017-01-10,11.5,Alimentação,Aquisição de suprimentos
+112,2016-11-03,11.5,Alimentação,Aquisição de suprimentos
+113,2017-01-01,7.01,Google Drive,Aquisição de suprimentos
+114,2016-11-28,10.0,Alimentação,Aquisição de suprimentos
+115,2016-12-08,9.2,Material de Limpeza,Aquisição de suprimentos
+116,2017-02-08,10.0,Alimentação,Aquisição de suprimentos
+117,2017-01-23,8.0,Material de Limpeza,Aquisição de suprimentos
+118,2017-02-11,6.78,Google Drive,Aquisição de suprimentos
+119,2017-02-24,10.0,Alimentação,Aquisição de suprimentos
+120,2017-04-11,9.97,Alimentação,Aquisição de suprimentos
+121,2017-03-13,22.1,Material de Limpeza,Aquisição de suprimentos
+122,2017-03-13,10.0,Material de Limpeza,Aquisição de suprimentos
+123,2017-03-13,18.72,Alimentação,Aquisição de suprimentos
+124,2017-03-13,6.52,Google Drive,Aquisição de suprimentos
+125,2017-04-11,9.0,Reembolsável,Aquisição de suprimentos
+126,2017-03-21,10.0,Alimentação,Aquisição de suprimentos
+127,2017-04-11,7.0,Alimentação,Aquisição de suprimentos
+128,2017-04-05,9.88,Alimentação,Aquisição de suprimentos
+129,2017-04-11,8.0,Alimentação,Aquisição de suprimentos
+130,2017-04-11,6.69,Google Drive,Aquisição de suprimentos
+131,2017-04-11,10.0,Alimentação,Aquisição de suprimentos
+132,2017-05-11,9.97,Alimentação,Aquisição de suprimentos
+133,2017-06-12,15.42,Alimentação,Aquisição de suprimentos
+134,2017-06-12,11.45,Material de Limpeza,Aquisição de suprimentos
+135,2017-05-11,6.57,Google Drive,Aquisição de suprimentos
+136,2017-06-12,9.97,Alimentação,Aquisição de suprimentos
+137,2017-05-03,11.5,Alimentação,Aquisição de suprimentos
+138,2017-06-12,8.0,Alimentação,Aquisição de suprimentos
+139,2017-06-12,24.5,Material de Escritório,Aquisição de suprimentos
+140,2017-05-25,11.5,Alimentação,Aquisição de suprimentos
+141,2017-07-11,20.0,Material de Limpeza,Aquisição de suprimentos
+142,2017-07-11,19.58,Alimentação,Aquisição de suprimentos
+143,2017-06-11,6.56,Google Drive,Aquisição de suprimentos
+144,2017-07-11,15.29,Material de Escritório,Aquisição de suprimentos
+145,2017-06-21,10.0,Alimentação,Aquisição de suprimentos
+146,2017-07-11,2.99,Material de Escritório,Aquisição de suprimentos
+147,2017-08-11,19.58,Alimentação,Aquisição de suprimentos
+148,2017-08-11,6.99,Material de limpeza,Aquisição de suprimentos
+149,2017-07-11,7.03,Google Drive,Aquisição de suprimentos
+150,2017-07-17,10.0,Alimentação,Aquisição de suprimentos
+151,2017-08-11,6.76,Google Drive,Aquisição de suprimentos
+152,2017-08-08,10.0,Alimentação,Aquisição de suprimentos
+153,2017-08-04,3.0,Material de Limpeza,Aquisição de suprimentos
+154,2017-09-11,9.97,Alimentação,Aquisição de suprimentos
+155,2017-09-11,25.0,Material de Escritório,Aquisição de suprimentos
+156,2017-08-25,9.0,Material de Limpeza,Aquisição de suprimentos
+157,2017-10-11,19.94,Alimentação,Aquisição de suprimentos
+158,2017-09-11,6.77,Google Drive,Aquisição de suprimentos
+159,2017-10-11,12.97,Material de Limpeza,Aquisição de suprimentos
+160,2017-10-05,15.94,Material de Limpeza,Aquisição de suprimentos
+161,2017-10-11,6.62,Google Drive,Aquisição de suprimentos
+162,2017-10-11,12.75,Manutenção Predial,Aquisição de suprimentos
+163,2017-09-22,10.0,Alimentação,Aquisição de suprimentos
+164,2017-11-11,17.94,Alimentação,Aquisição de suprimentos
+165,2017-10-16,10.0,Alimentação,Aquisição de suprimentos
+166,2017-11-11,18.0,Material de Escritório,Aquisição de suprimentos
+167,2017-11-11,21.96,Material de Limpeza,Aquisição de suprimentos
+168,2017-11-06,12.0,Alimentação,Aquisição de suprimentos
+169,2017-08-30,10.0,Alimentação,Aquisição de suprimentos
+170,2017-12-11,23.0,Alimentação,Aquisição de suprimentos
+171,2017-11-29,12.0,Alimentação,Aquisição de suprimentos
+172,2017-11-11,6.68,Material de Escritório,Aquisição de suprimentos
+173,2018-01-11,54.8,Material de Escritório,Aquisição de suprimentos
+174,2018-01-11,10.13,Alimentação,Aquisição de suprimentos
+175,2017-12-05,2.0,Alimentação,Aquisição de suprimentos
+176,2017-12-11,6.95,Material de Escritório,Aquisição de suprimentos
+177,2017-12-14,12.0,Alimentação,Aquisição de suprimentos
+178,2018-01-11,7.05,Material de Escritório,Aquisição de suprimentos
+179,2018-02-11,11.9,Bens e Patrimônio,Aquisição de suprimentos
+180,2018-02-05,19.94,Alimentação,Aquisição de suprimentos
+181,2018-02-05,42.89,Material de Limpeza,Aquisição de suprimentos
+182,2018-01-26,12.0,Alimentação,Aquisição de suprimentos
+183,2018-02-11,6.82,Material de Escritório,Aquisição de suprimentos
+184,2018-03-11,45.42,Material de Escritório,Aquisição de suprimentos
+185,2018-04-11,45.42,Material de Escritório,Aquisição de suprimentos
+186,2018-05-11,45.42,Material de Escritório,Aquisição de suprimentos
+187,2018-06-11,45.42,Material de Escritório,Aquisição de suprimentos
+188,2018-07-11,45.42,Material de Escritório,Aquisição de suprimentos
+189,2018-08-11,45.42,Material de Escritório,Aquisição de suprimentos
+190,2018-09-11,45.42,Material de Escritório,Aquisição de suprimentos
+191,2018-10-11,45.42,Material de Escritório,Aquisição de suprimentos
+192,2018-11-11,45.42,Material de Escritório,Aquisição de suprimentos
+193,2018-12-11,45.42,Material de Escritório,Aquisição de suprimentos
+194,2019-01-11,45.42,Material de Escritório,Aquisição de suprimentos
+195,2019-02-11,45.42,Material de Escritório,Aquisição de suprimentos
+196,2019-03-11,45.42,Material de Escritório,Aquisição de suprimentos
+197,2018-03-11,11.8,Material de Escritório,Aquisição de suprimentos
+198,2018-03-11,10.95,Alimentação,Aquisição de suprimentos
+199,2018-03-11,6.79,Material de Limpeza,Aquisição de suprimentos
+200,2018-03-11,6.88,Material de Escritório,Aquisição de suprimentos
+201,2018-03-11,1.39,Material de Limpeza,Aquisição de suprimentos
+202,2018-03-11,9.97,Alimentação,Aquisição de suprimentos
+203,2018-03-05,10.0,Alimentação,Aquisição de suprimentos
+204,2018-04-11,16.75,Material de Limpeza,Aquisição de suprimentos
+205,2018-03-19,12.0,Alimentação,Aquisição de suprimentos
+206,2018-04-11,6.89,Material de Escritório,Aquisição de suprimentos
+207,2018-05-11,21.9,Material de Limpeza,Aquisição de suprimentos
+208,2018-05-11,30.0,Material de Escritório,Aquisição de suprimentos
+209,2018-05-11,7.22,Material de Escritório,Aquisição de suprimentos
+210,2018-06-11,7.22,Material de Escritório,Aquisição de suprimentos
+211,2018-07-11,7.22,Material de Escritório,Aquisição de suprimentos
+212,2018-08-11,7.22,Material de Escritório,Aquisição de suprimentos
+213,2018-09-11,7.22,Material de Escritório,Aquisição de suprimentos
+214,2018-10-11,7.22,Material de Escritório,Aquisição de suprimentos
+215,2018-11-11,7.22,Material de Escritório,Aquisição de suprimentos
+216,2018-12-11,7.22,Material de Escritório,Aquisição de suprimentos
+217,2019-01-11,7.22,Material de Escritório,Aquisição de suprimentos
+218,2019-02-11,7.22,Material de Escritório,Aquisição de suprimentos
+219,2018-04-17,10.0,Alimentação,Aquisição de suprimentos
+220,2018-04-20,10.0,Material de Limpeza,Aquisição de suprimentos
+221,2016-08-01,59.5,Aparelho telefônico - Parcela final,Compra de Produtos
+222,2016-10-01,33.8,Impressões,Compra de Produtos
+223,2016-10-01,103.85,Impressões,Compra de Produtos
+224,2017-09-11,13.9,Bens,Compra de Produtos
+225,2018-01-11,70.0,Outros,Compra de Produtos
+226,2018-01-11,19.9,Bens e Patrimônio,Compra de Produtos
+227,2017-12-19,8.35,Correios,Compra de Produtos
+228,2017-12-18,3.0,Correios,Compra de Produtos
+229,2018-03-05,30.0,Bens e Patrimônio,Compra de Produtos
+230,2018-04-11,39.9,Bens e Patrimônio,Compra de Produtos
+231,2018-04-11,16.98,Bens e Patrimônio,Compra de Produtos
+232,2018-04-02,19.9,Bens e Patrimônio,Compra de Produtos
+233,2018-05-11,49.9,Bens e Patrimônio,Compra de Produtos
+234,2018-05-11,29.5,Bens e Patrimônio,Compra de Produtos
+235,2016-08-02,465.0,Contadores,Contabilidade
+236,2016-08-15,131.27,Livros Contábeis,Contabilidade
+237,2016-09-02,465.0,Contadores,Contabilidade
+238,2016-10-03,465.0,Contadores,Contabilidade
+239,2016-11-01,465.0,Contadores,Contabilidade
+240,2016-12-01,465.0,Contadores,Contabilidade
+241,2017-01-01,465.0,Contadores,Contabilidade
+242,2016-12-20,17.8,Livros contábeis,Contabilidade
+243,2017-01-13,278.8,Livros contábeis,Contabilidade
+244,2017-02-02,495.0,Contadores,Contabilidade
+245,2017-03-02,495.0,Contadores,Contabilidade
+246,2017-04-02,495.0,Contadores,Contabilidade
+247,2017-05-02,495.0,Contadores,Contabilidade
+248,2017-06-02,495.0,Contadores,Contabilidade
+249,2017-07-02,495.0,Contadores,Contabilidade
+250,2017-08-02,495.0,Contadores,Contabilidade
+251,2017-09-02,495.0,Contadores,Contabilidade
+252,2017-10-02,495.0,Contadores,Contabilidade
+253,2017-12-02,495.0,Contadores,Contabilidade
+254,2017-11-02,495.0,Contadores,Contabilidade
+255,2018-01-02,495.0,Contadores,Contabilidade
+256,2018-02-02,520.0,Assessoria Contábil,Contabilidade
+257,2018-03-02,520.0,Assessoria Contábil,Contabilidade
+258,2018-04-02,520.0,Assessoria Contábil,Contabilidade
+259,2018-05-02,520.0,Assessoria Contábil,Contabilidade
+260,2018-06-02,520.0,Assessoria Contábil,Contabilidade
+261,2018-07-02,520.0,Assessoria Contábil,Contabilidade
+262,2018-08-02,520.0,Assessoria Contábil,Contabilidade
+263,2018-09-02,520.0,Assessoria Contábil,Contabilidade
+264,2018-10-02,520.0,Assessoria Contábil,Contabilidade
+265,2018-11-02,520.0,Assessoria Contábil,Contabilidade
+266,2018-12-02,520.0,Assessoria Contábil,Contabilidade
+267,2019-01-02,520.0,Assessoria Contábil,Contabilidade
+268,2019-02-02,520.0,Assessoria Contábil,Contabilidade
+269,2016-08-19,142.0,Sindicato - Empregadores,Contribuição sindical
+270,2016-08-01,29.01,Anuidade Cartão,Despesas bancárias
+271,2016-09-12,29.01,Anuidade Cartão,Despesas bancárias
+272,2016-09-26,3.5,Taxa Boleto,Despesas bancárias
+273,2016-10-01,3.5,Taxa Boleto,Despesas bancárias
+274,2016-10-01,29.01,Anuidade Cartão,Despesas bancárias
+275,2016-10-01,2.75,Multa atraso - In Press,Despesas bancárias
+276,2016-10-27,3.5,Taxa Boleto,Despesas bancárias
+277,2016-11-01,3.5,Taxa Boleto,Despesas bancárias
+278,2016-11-01,4.5,Taxa Boleto,Despesas bancárias
+279,2016-12-01,29.01,Anuidade Cartão,Despesas bancárias
+280,2016-11-01,28.97,Anuidade Cartão,Despesas bancárias
+281,2017-01-10,3.5,Boleto,Despesas bancárias
+282,2017-01-06,3.5,Boleto,Despesas bancárias
+283,2017-02-06,3.5,Boleto,Despesas bancárias
+284,2017-03-06,3.5,Boleto,Despesas bancárias
+285,2017-02-05,3.5,Boleto,Despesas bancárias
+286,2017-02-11,29.01,Anuidade Cartão,Despesas bancárias
+287,2017-02-11,29.01,Anuidade Cartão,Despesas bancárias
+288,2017-04-11,29.01,Anuidade Cartão,Despesas bancárias
+289,2017-06-11,29.01,Anuidade Cartão,Despesas bancárias
+290,2017-07-11,29.01,Anuidade Cartão,Despesas bancárias
+291,2017-08-11,29.01,Anuidade Cartão,Despesas bancárias
+292,2017-09-11,29.01,Anuidade Cartão,Despesas bancárias
+293,2017-10-11,29.01,Anuidade Cartão,Despesas bancárias
+294,2017-12-11,29.01,Anuidade Cartão,Despesas bancárias
+295,2017-04-05,3.5,Boleto,Despesas bancárias
+296,2017-03-06,0.7,Boleto,Despesas bancárias
+297,2017-03-06,2.8,Boleto,Despesas bancárias
+298,2017-04-06,1.69,Boleto,Despesas bancárias
+299,2017-04-06,1.81,Boleto,Despesas bancárias
+300,2017-03-13,29.01,Anuidade Cartão,Despesas bancárias
+301,2017-03-07,0.61,Boleto,Despesas bancárias
+302,2017-03-07,2.89,Boleto,Despesas bancárias
+303,2017-04-06,1.0,Boleto,Despesas bancárias
+304,2017-04-11,3.5,Boleto,Despesas bancárias
+305,2017-05-11,0.5,Boleto,Despesas bancárias
+306,2017-05-11,0.5,Boleto,Despesas bancárias
+307,2017-05-11,28.93,Anuidade Cartão,Despesas bancárias
+308,2017-05-26,0.5,Boleto,Despesas bancárias
+309,2017-05-26,0.5,Boleto,Despesas bancárias
+310,2017-06-07,3.5,Boleto,Despesas bancárias
+311,2017-07-17,3.5,Boleto,Despesas bancárias
+312,2017-07-07,3.5,Manutenção de conta,Despesas bancárias
+313,2017-08-07,3.5,Boleto,Despesas bancárias
+314,2017-08-07,3.5,Boleto,Despesas bancárias
+315,2017-09-21,61.53,Despesa protesto,Despesas bancárias
+316,2017-09-06,35.61,Despesa protesto,Despesas bancárias
+317,2017-10-06,2.93,Boleto,Despesas bancárias
+318,2017-10-06,0.57,Boleto,Despesas bancárias
+319,2017-10-06,3.5,Boleto,Despesas bancárias
+320,2017-11-06,3.5,Boleto,Despesas bancárias
+321,2017-12-06,3.5,Boleto,Despesas bancárias
+322,2018-01-06,3.5,Boleto,Despesas bancárias
+323,2017-11-06,3.5,Boleto,Despesas bancárias
+324,2017-12-06,3.5,Boleto,Despesas bancárias
+325,2018-01-06,3.5,Boleto,Despesas bancárias
+326,2018-02-06,3.5,Boleto,Despesas bancárias
+327,2018-03-06,0.24,Boleto,Despesas bancárias
+328,2018-03-06,3.26,Boleto,Despesas bancárias
+329,2017-11-11,28.97,Anuidade Cartão,Despesas bancárias
+330,2017-11-07,1.0,Boleto,Despesas bancárias
+331,2017-12-06,3.5,Boleto,Despesas bancárias
+332,2017-12-06,1.0,Boleto,Despesas bancárias
+333,2018-01-11,29.01,Anuidade Cartão,Despesas bancárias
+334,2018-01-20,3.5,Boleto,Despesas bancárias
+335,2018-02-06,3.5,Boleto,Despesas bancárias
+336,2018-03-20,3.5,Boleto,Despesas bancárias
+337,2018-02-11,29.01,Despesas Bancárias,Despesas bancárias
+338,2018-03-11,29.01,Despesas Bancárias,Despesas bancárias
+339,2018-04-11,29.01,Despesas Bancárias,Despesas bancárias
+340,2018-06-11,29.01,Despesas Bancárias,Despesas bancárias
+341,2018-07-11,29.01,Despesas Bancárias,Despesas bancárias
+342,2018-08-11,29.01,Despesas Bancárias,Despesas bancárias
+343,2018-09-11,29.01,Despesas Bancárias,Despesas bancárias
+344,2018-10-11,29.01,Despesas Bancárias,Despesas bancárias
+345,2018-11-11,29.01,Despesas Bancárias,Despesas bancárias
+346,2018-12-11,29.01,Despesas Bancárias,Despesas bancárias
+347,2019-01-11,29.01,Despesas Bancárias,Despesas bancárias
+348,2018-02-06,1.0,Boleto,Despesas bancárias
+349,2018-03-06,1.0,Boleto,Despesas bancárias
+350,2018-04-06,1.0,Boleto,Despesas bancárias
+351,2018-03-13,3.5,Boleto,Despesas bancárias
+352,2018-03-06,1.0,Boleto - Alteração,Despesas bancárias
+353,2018-03-16,3.5,Boleto,Despesas bancárias
+354,2018-04-09,3.5,Boleto,Despesas bancárias
+355,2018-08-07,2.95,Boleto,Despesas bancárias
+356,2018-08-07,0.55,Boleto,Despesas bancárias
+357,2018-06-07,3.5,Boleto,Despesas bancárias
+358,2018-07-07,3.5,Boleto,Despesas bancárias
+359,2018-05-31,3.5,Boleto,Despesas bancárias
+360,2018-05-11,28.93,Despesas Bancárias,Despesas bancárias
+361,2018-05-08,3.5,Boleto,Despesas bancárias
+362,2016-09-28,219.43,Luz,Energia
+363,2016-08-17,196.34,Luz,Energia
+364,2016-10-31,212.36,Luz,Energia
+365,2016-11-01,241.82,Luz,Energia
+366,2016-12-01,211.57,Luz,Energia
+367,2017-01-01,254.57,Luz,Energia
+368,2017-02-20,238.4,Luz,Energia
+369,2017-03-20,252.6,Luz,Energia
+370,2017-04-14,157.0,Luz,Energia
+371,2017-05-15,132.1,Luz,Energia
+372,2017-06-26,175.77,Luz,Energia
+373,2017-07-25,112.14,Luz,Energia
+374,2017-08-25,125.35,Luz,Energia
+375,2017-09-25,140.32,Luz,Energia
+376,2017-10-25,128.1,Luz,Energia
+377,2017-11-25,202.4,Energia Elétrica,Energia
+378,2017-12-25,167.85,Energia Elétrica,Energia
+379,2018-01-25,172.45,Energia Elétrica,Energia
+380,2018-06-05,250.0,Energia Elétrica,Energia
+381,2018-07-05,250.0,Energia Elétrica,Energia
+382,2018-08-05,250.0,Energia Elétrica,Energia
+383,2018-09-05,250.0,Energia Elétrica,Energia
+384,2018-10-05,250.0,Energia Elétrica,Energia
+385,2018-11-05,250.0,Energia Elétrica,Energia
+386,2018-12-05,250.0,Energia Elétrica,Energia
+387,2019-01-05,250.0,Energia Elétrica,Energia
+388,2019-02-05,250.0,Energia Elétrica,Energia
+389,2019-03-05,250.0,Energia Elétrica,Energia
+390,2018-03-05,187.35,Energia Elétrica,Energia
+391,2018-04-05,207.3,Energia Elétrica,Energia
+392,2018-05-05,158.8,Energia Elétrica,Energia
+393,2016-10-01,83.58,RRT,Filiações e subscrições
+394,2016-09-19,83.58,RRT,Filiações e subscrições
+395,2017-01-13,471.24,Anuidade CAU/BR,Filiações e subscrições
+396,2017-05-15,89.75,RRT,Filiações e subscrições
+397,2017-05-15,89.75,RRT,Filiações e subscrições
+398,2017-12-14,89.75,rrt,Filiações e subscrições
+399,2018-01-25,480.4,Sindicatos e Associações (CAU-BR),Filiações e subscrições
+400,2018-02-16,91.5,RRT,Filiações e subscrições
+401,2016-10-01,1540.63,DAS,Imposto: DAS Simples
+402,2016-10-01,564.33,DAS,Imposto: DAS Simples
+403,2016-09-19,1540.63,DAS,Imposto: DAS Simples
+404,2016-09-01,101.59,DAS,Imposto: DAS Simples
+405,2016-09-01,1182.34,DAS,Imposto: DAS Simples
+406,2016-11-01,203.15,DAS,Imposto: DAS Simples
+407,2016-11-01,580.71,DAS,Imposto: DAS Simples
+408,2016-11-01,564.33,DAS,Imposto: DAS Simples
+409,2016-12-01,564.33,DAS,Imposto: DAS Simples
+410,2017-01-17,2953.69,DAS,Imposto: DAS Simples
+411,2017-02-20,516.94,DAS,Imposto: DAS Simples
+412,2017-01-20,423.25,DAS,Imposto: DAS Simples
+413,2017-02-20,423.25,DAS,Imposto: DAS Simples
+414,2017-03-20,423.25,DAS,Imposto: DAS Simples
+415,2017-04-20,423.25,DAS,Imposto: DAS Simples
+416,2017-04-20,516.94,DAS,Imposto: DAS Simples
+417,2017-03-20,413.56,DAS,Imposto: DAS Simples
+418,2017-03-20,168.88,DAS,Imposto: DAS Simples
+419,2017-03-20,794.22,DAS,Imposto: DAS Simples
+420,2017-04-20,382.82,DAS,Imposto: DAS Simples
+421,2017-04-20,411.4,DAS,Imposto: DAS Simples
+422,2017-03-20,103.37,DAS,Imposto: DAS Simples
+423,2017-05-19,380.92,DAS,Imposto: DAS Simples
+424,2017-05-19,658.58,DAS,Imposto: DAS Simples
+425,2017-07-20,270.88,DAS,Imposto: DAS Simples
+426,2017-08-18,277.78,DAS,Imposto: DAS Simples
+427,2017-08-18,351.3,DAS,Imposto: DAS Simples
+428,2017-10-20,2097.79,DAS,Imposto: DAS Simples
+429,2017-10-20,411.52,DAS,Imposto: DAS Simples
+430,2017-10-20,981.94,DAS,Imposto: DAS Simples
+431,2017-11-20,981.94,DAS,Imposto: DAS Simples
+432,2017-12-20,981.94,DAS,Imposto: DAS Simples
+433,2018-01-20,981.94,DAS,Imposto: DAS Simples
+434,2017-11-20,473.62,DAS,Imposto: DAS Simples
+435,2017-11-20,1105.7,DAS,Imposto: DAS Simples
+436,2017-12-20,1105.7,DAS,Imposto: DAS Simples
+437,2018-01-20,1105.7,DAS,Imposto: DAS Simples
+438,2017-10-20,416.47,DAS,Imposto: DAS Simples
+439,2017-12-20,205.7,DAS,Imposto: DAS Simples
+440,2018-01-19,1028.8,DAS,Imposto: DAS Simples
+441,2017-12-20,473.61,DAS,Imposto: DAS Simples
+442,2018-02-20,285.0,DAS,Imposto: DAS Simples
+443,2018-03-20,285.0,DAS,Imposto: DAS Simples
+444,2018-02-20,364.61,DAS,Imposto: DAS Simples
+445,2018-02-20,348.0,DAS,Imposto: DAS Simples
+446,2018-02-20,391.86,DAS,Imposto: DAS Simples
+447,2018-03-20,372.0,DAS,Imposto: DAS Simples
+448,2018-03-20,27.36,DAS,Imposto: DAS Simples
+449,2018-03-20,364.5,DAS,Imposto: DAS Simples
+450,2018-03-20,231.62,DAS,Imposto: DAS Simples
+451,2018-03-20,6.2,DAS,Imposto: DAS Simples
+452,2018-04-20,231.61,DAS,Imposto: DAS Simples
+453,2018-08-20,480.0,DAS,Imposto: DAS Simples
+454,2018-08-20,89.25,DAS,Imposto: DAS Simples
+455,2018-05-20,569.25,DAS,Imposto: DAS Simples
+456,2018-06-20,569.25,DAS,Imposto: DAS Simples
+457,2018-07-20,569.25,DAS,Imposto: DAS Simples
+458,2018-06-20,372.0,DAS,Imposto: DAS Simples
+459,2016-08-19,290.4,GPS,Imposto: INSS
+460,2016-09-19,290.4,GPS,Imposto: INSS
+461,2016-10-01,290.4,GPS,Imposto: INSS
+462,2016-11-01,290.4,GPS,Imposto: INSS
+463,2016-12-01,290.4,GPS,Imposto: INSS
+464,2017-01-01,290.4,GPS,Imposto: INSS
+465,2017-02-20,309.21,GPS,Imposto: INSS
+466,2017-03-20,309.21,GPS,Imposto: INSS
+467,2017-06-20,309.21,GPS,Imposto: INSS
+468,2017-07-20,309.21,GPS,Imposto: INSS
+469,2017-08-20,309.21,GPS,Imposto: INSS
+470,2017-09-20,309.21,GPS,Imposto: INSS
+471,2017-10-20,309.21,GPS,Imposto: INSS
+472,2017-11-20,309.21,GPS,Imposto: INSS
+473,2017-12-20,309.21,GPS,Imposto: INSS
+474,2018-01-20,309.21,GPS,Imposto: INSS
+475,2017-04-19,309.21,GPS,Imposto: INSS
+476,2017-05-19,309.21,GPS,Imposto: INSS
+477,2018-02-20,594.0,GPS,Imposto: INSS
+478,2018-04-20,693.0,GPS,Imposto: INSS
+479,2018-05-20,693.0,GPS,Imposto: INSS
+480,2018-06-20,693.0,GPS,Imposto: INSS
+481,2018-07-20,693.0,GPS,Imposto: INSS
+482,2018-08-20,693.0,GPS,Imposto: INSS
+483,2018-09-20,693.0,GPS,Imposto: INSS
+484,2018-10-20,693.0,GPS,Imposto: INSS
+485,2018-11-20,693.0,GPS,Imposto: INSS
+486,2018-12-20,693.0,GPS,Imposto: INSS
+487,2019-01-20,693.0,GPS,Imposto: INSS
+488,2019-02-20,693.0,GPS,Imposto: INSS
+489,2018-03-20,693.0,GPS,Imposto: INSS
+490,2018-05-18,123.2,GPS,Imposto: INSS
+491,2018-05-18,85.8,GPS,Imposto: INSS
+492,2018-06-20,209.0,GPS,Imposto: INSS
+493,2018-07-20,209.0,GPS,Imposto: INSS
+494,2018-08-20,112.2,GPS,Imposto: INSS
+495,2018-08-20,96.8,GPS,Imposto: INSS
+496,2018-09-20,18.7,GPS,Imposto: INSS
+497,2017-01-01,230.29,IPTU,Imposto: IPTU
+498,2018-02-05,266.04,IPTU,Imposto: IPTU
+499,2016-09-08,249.72,Alvarás,Impostos: outras taxas
+500,2017-02-15,37.33,Ex Officio,Impostos: outras taxas
+501,2017-03-06,434.32,Taxa de Lixo,Impostos: outras taxas
+502,2017-01-23,223.65,Taxa publicidade,Impostos: outras taxas
+503,2018-03-13,244.69,Taxa Publicidade,Impostos: outras taxas
+504,2016-10-01,6.34,Anúncio Facebook,Marketing e Publicidade
+505,2016-11-07,135.0,Workshop - Tendências em ambientes corporativos,Marketing e Publicidade
+506,2016-12-22,115.0,Alimentação,Marketing e Publicidade
+507,2017-04-03,106.23,Divulgação,Marketing e Publicidade
+508,2017-05-05,47.98,Divulgação,Marketing e Publicidade
+509,2017-05-11,346.8,Divulgação,Marketing e Publicidade
+510,2017-05-11,258.5,Treinamento e Capacitação,Marketing e Publicidade
+511,2017-08-04,248.56,Treinamento/Capacitação,Marketing e Publicidade
+512,2018-04-17,47.98,Divulgação e Marketing,Marketing e Publicidade
+513,2018-01-22,38.43,Taxas Diversas - Alvará 2018,OUTROS impostos mercadorias e serviços
+514,2018-03-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+515,2018-04-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+516,2018-05-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+517,2018-06-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+518,2018-07-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+519,2018-08-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+520,2018-09-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+521,2018-10-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+522,2018-11-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+523,2018-12-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+524,2019-01-05,44.6,Taxa - Lixo,OUTROS impostos mercadorias e serviços
+525,2017-12-07,1650.0,Lucros,Prêmios e outros benefícios
+526,2017-12-07,1650.0,Lucros,Prêmios e outros benefícios
+527,2017-12-07,1650.0,Lucros,Prêmios e outros benefícios
+528,2018-03-05,1300.0,Lucros 1º TRI (1/3),Prêmios e outros benefícios
+529,2018-03-05,1300.0,Lucros 1º TRI (1/3),Prêmios e outros benefícios
+530,2018-03-05,1300.0,Lucros 1º TRI (1/3),Prêmios e outros benefícios
+531,2018-04-05,2600.0,Lucros 1º TRI (2/3),Prêmios e outros benefícios
+532,2018-04-05,2600.0,Lucros 1º TRI (2/3),Prêmios e outros benefícios
+533,2018-04-05,2600.0,Lucros 1º TRI (2/3),Prêmios e outros benefícios
+534,2016-10-05,1650.0,Pro-labore,Pro-labore
+535,2016-10-05,1650.0,Pro-labore,Pro-labore
+536,2016-09-08,2420.0,Pro-labore,Pro-labore
+537,2016-09-08,1320.0,Pro-labore,Pro-labore
+538,2016-09-01,1760.0,Pro-labore,Pro-labore
+539,2016-10-05,1650.0,Pro-labore,Pro-labore
+540,2016-11-01,1870.0,Pro-labore,Pro-labore
+541,2016-11-01,1870.0,Pro-labore,Pro-labore
+542,2016-11-01,1870.0,Pro-labore,Pro-labore
+543,2017-01-01,880.0,Pro-labore,Pro-labore
+544,2016-12-01,880.0,Pro-labore,Pro-labore
+545,2016-12-01,880.0,Pro-labore,Pro-labore
+546,2016-12-01,880.0,Pro-labore,Pro-labore
+547,2017-01-01,880.0,Pro-labore,Pro-labore
+548,2017-01-01,880.0,Pro-labore,Pro-labore
+549,2017-03-05,937.0,Pro-labore - Cris,Pro-labore
+550,2017-04-05,937.0,Pro-labore - Cris,Pro-labore
+551,2017-05-05,937.0,Pro-labore - Cris,Pro-labore
+552,2017-06-05,937.0,Pro-labore - Cris,Pro-labore
+553,2017-07-05,937.0,Pro-labore - Cris,Pro-labore
+554,2017-08-05,937.0,Pro-labore - Cris,Pro-labore
+555,2017-09-05,937.0,Pro-labore - Cris,Pro-labore
+556,2017-10-05,937.0,Pro-labore - Cris,Pro-labore
+557,2017-11-05,937.0,Pro-labore - Cris,Pro-labore
+558,2017-12-05,937.0,Pro-labore - Cris,Pro-labore
+559,2018-01-05,937.0,Pro-labore - Cris,Pro-labore
+560,2017-02-05,937.0,Pro-labore - Fernando,Pro-labore
+561,2017-03-05,937.0,Pro-labore - Fernando,Pro-labore
+562,2017-04-05,937.0,Pro-labore - Fernando,Pro-labore
+563,2017-05-05,937.0,Pro-labore - Fernando,Pro-labore
+564,2017-06-05,937.0,Pro-labore - Fernando,Pro-labore
+565,2017-07-05,937.0,Pro-labore - Fernando,Pro-labore
+566,2017-08-05,937.0,Pro-labore - Fernando,Pro-labore
+567,2017-09-05,937.0,Pro-labore - Fernando,Pro-labore
+568,2017-10-05,937.0,Pro-labore - Fernando,Pro-labore
+569,2017-11-05,937.0,Pro-labore - Fernando,Pro-labore
+570,2017-12-05,937.0,Pro-labore - Fernando,Pro-labore
+571,2018-01-05,937.0,Pro-labore - Fernando,Pro-labore
+572,2017-02-05,937.0,Pro-labore - Márcio,Pro-labore
+573,2017-03-05,937.0,Pro-labore - Márcio,Pro-labore
+574,2017-04-05,937.0,Pro-labore - Márcio,Pro-labore
+575,2017-05-05,937.0,Pro-labore - Márcio,Pro-labore
+576,2017-06-05,937.0,Pro-labore - Márcio,Pro-labore
+577,2017-07-05,937.0,Pro-labore - Márcio,Pro-labore
+578,2017-08-05,937.0,Pro-labore - Márcio,Pro-labore
+579,2017-09-05,937.0,Pro-labore - Márcio,Pro-labore
+580,2017-10-05,937.0,Pro-labore - Márcio,Pro-labore
+581,2017-11-05,937.0,Pro-labore - Márcio,Pro-labore
+582,2017-12-05,937.0,Pro-labore - Márcio,Pro-labore
+583,2018-01-05,937.0,Pro-labore - Márcio,Pro-labore
+584,2017-02-05,937.0,Pro-labore - Cris,Pro-labore
+585,2018-02-05,954.0,Pró-labore,Pro-labore
+586,2018-03-05,954.0,Pró-labore,Pro-labore
+587,2018-04-05,954.0,Pró-labore,Pro-labore
+588,2018-05-05,954.0,Pró-labore,Pro-labore
+589,2018-06-05,954.0,Pró-labore,Pro-labore
+590,2018-07-05,954.0,Pró-labore,Pro-labore
+591,2018-08-05,954.0,Pró-labore,Pro-labore
+592,2018-09-05,954.0,Pró-labore,Pro-labore
+593,2018-10-05,954.0,Pró-labore,Pro-labore
+594,2018-11-05,954.0,Pró-labore,Pro-labore
+595,2018-12-05,954.0,Pró-labore,Pro-labore
+596,2019-01-05,954.0,Pró-labore,Pro-labore
+597,2019-02-05,954.0,Pró-labore,Pro-labore
+598,2018-02-05,954.0,Pró-labore,Pro-labore
+599,2018-03-05,954.0,Pró-labore,Pro-labore
+600,2018-04-05,954.0,Pró-labore,Pro-labore
+601,2018-05-05,954.0,Pró-labore,Pro-labore
+602,2018-06-05,954.0,Pró-labore,Pro-labore
+603,2018-07-05,954.0,Pró-labore,Pro-labore
+604,2018-08-05,954.0,Pró-labore,Pro-labore
+605,2018-09-05,954.0,Pró-labore,Pro-labore
+606,2018-10-05,954.0,Pró-labore,Pro-labore
+607,2018-11-05,954.0,Pró-labore,Pro-labore
+608,2018-12-05,954.0,Pró-labore,Pro-labore
+609,2019-01-05,954.0,Pró-labore,Pro-labore
+610,2019-02-05,954.0,Pró-labore,Pro-labore
+611,2018-02-05,954.0,Pró-labore,Pro-labore
+612,2018-03-05,954.0,Pró-labore,Pro-labore
+613,2018-04-05,954.0,Pró-labore,Pro-labore
+614,2018-05-05,954.0,Pró-labore,Pro-labore
+615,2018-06-05,954.0,Pró-labore,Pro-labore
+616,2018-07-05,954.0,Pró-labore,Pro-labore
+617,2018-08-05,954.0,Pró-labore,Pro-labore
+618,2018-09-05,954.0,Pró-labore,Pro-labore
+619,2018-10-05,954.0,Pró-labore,Pro-labore
+620,2018-11-05,954.0,Pró-labore,Pro-labore
+621,2018-12-05,954.0,Pró-labore,Pro-labore
+622,2019-01-05,954.0,Pró-labore,Pro-labore
+623,2019-02-05,954.0,Pró-labore,Pro-labore
+624,2016-09-12,30.0,Análise Computador,Serviço de terceiro
+625,2016-09-26,6.65,Correios,Serviço de terceiro
+626,2016-09-26,50.0,Faxina,Serviço de terceiro
+627,2016-08-26,50.0,Faxina,Serviço de terceiro
+628,2016-10-28,50.0,Faxina,Serviço de terceiro
+629,2016-11-14,62.0,Gráfica,Serviço de terceiro
+630,2016-11-14,2.4,Gráfica,Serviço de terceiro
+631,2016-12-01,8.0,Reembolsável,Serviço de terceiro
+632,2016-12-01,33.2,Gráfica,Serviço de terceiro
+633,2016-12-22,45.0,Gráfica,Serviço de terceiro
+634,2016-11-01,50.0,Faxina,Serviço de terceiro
+635,2016-12-23,50.0,Faxina,Serviço de terceiro
+636,2017-02-03,50.0,Faxina,Serviço de terceiro
+637,2017-03-03,65.0,Faxina,Serviço de terceiro
+638,2017-04-03,65.0,Faxina,Serviço de terceiro
+639,2017-05-03,65.0,Faxina,Serviço de terceiro
+640,2017-06-03,65.0,Faxina,Serviço de terceiro
+641,2017-07-03,65.0,Faxina,Serviço de terceiro
+642,2017-08-03,65.0,Faxina,Serviço de terceiro
+643,2017-11-03,65.0,Faxina,Serviço de terceiro
+644,2017-12-03,65.0,Faxina,Serviço de terceiro
+645,2018-01-03,65.0,Faxina,Serviço de terceiro
+646,2017-03-14,10.0,Gráfica,Serviço de terceiro
+647,2017-03-14,20.5,Reembolsável,Serviço de terceiro
+648,2017-04-11,151.0,Gráfica,Serviço de terceiro
+649,2017-04-10,68.45,Gráfica,Serviço de terceiro
+650,2017-07-11,51.47,Material de Escritório,Serviço de terceiro
+651,2017-07-07,23.2,Gráfica,Serviço de terceiro
+652,2017-07-07,99.5,Gráfica,Serviço de terceiro
+653,2017-07-06,29.35,Gráfica,Serviço de terceiro
+654,2017-07-07,18.0,Gráfica,Serviço de terceiro
+655,2017-08-11,55.02,Material de Escritório,Serviço de terceiro
+656,2017-09-01,70.0,Faxina,Serviço de terceiro
+657,2017-09-11,55.02,Material de Escritório,Serviço de terceiro
+658,2017-09-11,11.4,Gráfica,Serviço de terceiro
+659,2017-10-11,58.57,Material de Escritório,Serviço de terceiro
+660,2017-11-11,46.38,Material de Escritório,Serviço de terceiro
+661,2017-10-06,60.0,Faxina,Serviço de terceiro
+662,2017-12-11,45.42,Material de Escritório,Serviço de terceiro
+663,2018-01-11,45.42,Material de Escritório,Serviço de terceiro
+664,2018-02-11,45.42,Material de Escritório,Serviço de terceiro
+665,2017-11-17,8.75,Gráfica,Serviço de terceiro
+666,2017-11-17,8.75,Gráfica,Serviço de terceiro
+667,2017-11-17,26.0,Reembolsável,Serviço de terceiro
+668,2017-11-17,2.0,Gráfica,Serviço de terceiro
+669,2017-11-17,2.0,Gráfica,Serviço de terceiro
+670,2017-11-17,19.5,Marketing e Divulgação,Serviço de terceiro
+671,2018-02-02,65.0,Faxina,Serviço de terceiro
+672,2018-05-02,65.0,Faxina,Serviço de terceiro
+673,2018-06-02,65.0,Faxina,Serviço de terceiro
+674,2018-07-02,65.0,Faxina,Serviço de terceiro
+675,2018-08-02,65.0,Faxina,Serviço de terceiro
+676,2018-09-02,65.0,Faxina,Serviço de terceiro
+677,2018-10-02,65.0,Faxina,Serviço de terceiro
+678,2018-11-02,65.0,Faxina,Serviço de terceiro
+679,2018-12-02,65.0,Faxina,Serviço de terceiro
+680,2019-01-02,65.0,Faxina,Serviço de terceiro
+681,2019-02-02,65.0,Faxina,Serviço de terceiro
+682,2018-03-02,66.0,Faxina,Serviço de terceiro
+683,2018-04-11,78.8,Gráfica,Serviço de terceiro
+684,2018-04-06,65.0,Faxina,Serviço de terceiro
+685,2018-04-06,9.5,Gráfica,Serviço de terceiro
+686,2018-04-06,5.6,Gráfica,Serviço de terceiro
+687,2018-04-06,93.7,Gráfica,Serviço de terceiro
+688,2018-05-11,346.8,Divulgação e Marketing ,Serviço de terceiro
+689,2018-04-06,6.0,Reembolsável,Serviço de terceiro
+690,2018-04-13,132.11,Divulgação e Marketing,Serviço de terceiro
+691,2018-05-10,1691.0,Terceirização,Serviço de terceiro
+692,2018-06-10,1691.0,Terceirização,Serviço de terceiro
+693,2018-07-10,907.8,Terceirização,Serviço de terceiro
+694,2018-07-10,783.2,Material de Escritório,Serviço de terceiro
+695,2018-08-10,151.3,Material de Escritório,Serviço de terceiro
+696,2018-04-23,996.8,Terceirização,Serviço de terceiro
+697,2018-04-30,694.2,Terceirização,Serviço de terceiro
+698,2016-08-15,89.51,Internet,Telefone e Internet
+699,2016-08-15,83.87,Telefone Fixo,Telefone e Internet
+700,2016-08-26,241.97,Telefone Celular,Telefone e Internet
+701,2016-09-14,89.51,Internet,Telefone e Internet
+702,2016-09-14,70.16,Telefone Fixo,Telefone e Internet
+703,2016-09-19,262.13,Telefone Celular,Telefone e Internet
+704,2016-10-01,89.51,Internet,Telefone e Internet
+705,2016-10-01,54.89,Telefone Fixo,Telefone e Internet
+706,2016-10-01,257.49,Telefone Celular,Telefone e Internet
+707,2016-11-01,89.51,Internet,Telefone e Internet
+708,2016-11-01,54.89,Telefone Fixo,Telefone e Internet
+709,2016-11-01,310.65,Telefone Celular,Telefone e Internet
+710,2016-12-01,89.51,Internet,Telefone e Internet
+711,2016-12-01,54.89,Telefone Fixo,Telefone e Internet
+712,2016-12-01,245.19,Telefone Celular,Telefone e Internet
+713,2017-01-01,245.1,Telefone Celular,Telefone e Internet
+714,2017-01-01,89.51,Internet,Telefone e Internet
+715,2017-01-01,59.37,Telefone Fixo,Telefone e Internet
+716,2017-02-15,89.51,Internet,Telefone e Internet
+717,2017-03-15,89.51,Internet,Telefone e Internet
+718,2017-04-15,89.51,Internet,Telefone e Internet
+719,2017-02-20,245.1,Telefone Celular,Telefone e Internet
+720,2017-02-15,54.89,Telefone Fixo,Telefone e Internet
+721,2017-03-15,54.89,Telefone Fixo,Telefone e Internet
+722,2017-04-15,54.89,Telefone Fixo,Telefone e Internet
+723,2017-05-15,54.89,Telefone Fixo,Telefone e Internet
+724,2017-06-15,54.89,Telefone Fixo,Telefone e Internet
+725,2017-07-15,54.89,Telefone Fixo,Telefone e Internet
+726,2017-03-20,102.7,Telefone Celular,Telefone e Internet
+727,2017-04-20,194.64,Telefone Celular,Telefone e Internet
+728,2017-05-15,94.33,Internet,Telefone e Internet
+729,2017-06-15,94.33,Internet,Telefone e Internet
+730,2017-07-15,94.33,Internet,Telefone e Internet
+731,2017-08-15,94.33,Internet,Telefone e Internet
+732,2017-09-15,94.33,Internet,Telefone e Internet
+733,2017-10-15,94.33,Internet,Telefone e Internet
+734,2017-05-25,174.77,Telefone Celular,Telefone e Internet
+735,2017-12-25,174.77,Telefone Celular,Telefone e Internet
+736,2017-06-23,174.77,Telefone Celular,Telefone e Internet
+737,2017-07-25,177.78,Telefone Celular,Telefone e Internet
+738,2017-08-15,57.48,Telefone Fixo,Telefone e Internet
+739,2017-08-25,182.39,Telefone Celular,Telefone e Internet
+740,2017-09-25,195.26,Telefone Celular,Telefone e Internet
+741,2017-09-15,56.98,Telefone Fixo,Telefone e Internet
+742,2017-10-25,176.36,Telefone Celular,Telefone e Internet
+743,2017-10-15,59.06,Telefone Fixo,Telefone e Internet
+744,2017-11-15,30.0,Telefone Fixo,Telefone e Internet
+745,2017-11-15,69.9,Internet,Telefone e Internet
+746,2017-11-27,176.04,Telefone Celular,Telefone e Internet
+747,2017-12-15,33.3,Telefone Fixo,Telefone e Internet
+748,2017-12-15,39.9,Internet,Telefone e Internet
+749,2018-01-15,74.9,Internet,Telefone e Internet
+750,2018-01-15,29.99,Telefone Fixo,Telefone e Internet
+751,2018-01-25,175.07,Telefone Celular,Telefone e Internet
+752,2018-04-15,29.99,Telefone Fixo,Telefone e Internet
+753,2018-05-15,29.99,Telefone Fixo,Telefone e Internet
+754,2018-06-15,29.99,Telefone Fixo,Telefone e Internet
+755,2018-07-15,29.99,Telefone Fixo,Telefone e Internet
+756,2018-08-15,29.99,Telefone Fixo,Telefone e Internet
+757,2018-09-15,29.99,Telefone Fixo,Telefone e Internet
+758,2018-10-15,29.99,Telefone Fixo,Telefone e Internet
+759,2018-11-15,29.99,Telefone Fixo,Telefone e Internet
+760,2018-12-15,29.99,Telefone Fixo,Telefone e Internet
+761,2019-01-15,29.99,Telefone Fixo,Telefone e Internet
+762,2019-02-15,29.99,Telefone Fixo,Telefone e Internet
+763,2018-02-15,74.9,Internet,Telefone e Internet
+764,2018-03-15,74.9,Internet,Telefone e Internet
+765,2018-02-15,37.03,Telefone Fixo,Telefone e Internet
+766,2018-04-20,174.77,Telefone Celular,Telefone e Internet
+767,2018-05-20,174.77,Telefone Celular,Telefone e Internet
+768,2018-06-20,174.77,Telefone Celular,Telefone e Internet
+769,2018-07-20,174.77,Telefone Celular,Telefone e Internet
+770,2018-08-20,174.77,Telefone Celular,Telefone e Internet
+771,2018-09-20,174.77,Telefone Celular,Telefone e Internet
+772,2018-10-20,174.77,Telefone Celular,Telefone e Internet
+773,2018-11-20,174.77,Telefone Celular,Telefone e Internet
+774,2018-12-20,174.77,Telefone Celular,Telefone e Internet
+775,2019-01-20,174.77,Telefone Celular,Telefone e Internet
+776,2019-02-20,174.77,Telefone Celular,Telefone e Internet
+777,2018-02-20,175.88,Telefone Celular,Telefone e Internet
+778,2018-03-15,30.83,Telefone Fixo,Telefone e Internet
+779,2018-03-20,183.19,Telefone Celular,Telefone e Internet
+780,2018-04-15,109.9,Internet,Telefone e Internet
+781,2018-05-15,109.9,Internet,Telefone e Internet
+782,2018-06-15,109.9,Internet,Telefone e Internet
+783,2018-07-15,109.9,Internet,Telefone e Internet
+784,2018-08-15,109.9,Internet,Telefone e Internet
+785,2018-09-15,109.9,Internet,Telefone e Internet
+786,2018-10-15,109.9,Internet,Telefone e Internet
+787,2018-11-15,109.9,Internet,Telefone e Internet
+788,2018-12-15,109.9,Internet,Telefone e Internet
+789,2019-01-15,109.9,Internet,Telefone e Internet
+790,2019-02-15,109.9,Internet,Telefone e Internet
+791,2016-11-30,100.0,Conta corrente -> Caixinha | Saque,Transferência
+792,2016-12-23,50.0,Conta corrente -> Caixinha | Saque,Transferência
+793,2017-02-02,100.0,Conta corrente -> Caixinha | Saque,Transferência
+794,2017-03-06,100.0,Conta corrente -> Caixinha | Saque,Transferência
+795,2017-04-11,100.0,Conta corrente -> Caixinha | Saque,Transferência
+796,2017-06-02,100.0,Conta corrente -> Caixinha | Saque,Transferência
+797,2017-07-07,80.0,Conta corrente -> Caixinha | Saque,Transferência
+798,2017-09-01,80.0,Conta corrente -> Caixinha | Saque,Transferência
+799,2017-10-06,80.0,Conta corrente -> Caixinha | Saque,Transferência
+800,2017-11-01,100.0,Conta corrente -> Caixinha | Saque,Transferência
+801,2017-12-01,100.0,Conta corrente -> Caixinha | Saque,Transferência
+802,2018-01-26,100.0,Conta corrente -> Caixinha | Saque,Transferência
+803,2018-03-02,120.0,Conta corrente -> Caixinha | Saque,Transferência
+804,2018-03-06,4000.0,Conta corrente -> Caixinha | Saque,Transferência
+805,2018-04-05,600.0,Conta corrente -> Caixinha | Saque,Transferência
+806,2016-08-09,16.9,Deslocamento,Viagem
+807,2016-08-01,90.26,Deslocamento,Viagem
+808,2016-08-19,110.0,Deslocamento,Viagem
+809,2016-08-05,3.95,Deslocamento,Viagem
+810,2016-09-08,33.85,Deslocamento,Viagem
+811,2016-09-08,6.0,Deslocamento,Viagem
+812,2016-09-08,7.0,Deslocamento,Viagem
+813,2016-09-12,18.57,Alimentação,Viagem
+814,2016-09-12,95.58,Deslocamento,Viagem
+815,2016-10-05,160.0,Deslocamento,Viagem
+816,2016-10-05,36.5,Deslocamento,Viagem
+817,2016-10-05,85.5,Deslocamento,Viagem
+818,2016-10-06,4.6,Deslocamento,Viagem
+819,2016-10-19,110.0,Deslocamento,Viagem
+820,2016-10-24,4.6,Deslocamento,Viagem
+821,2016-10-06,84.16,Deslocamento,Viagem
+822,2016-10-24,130.32,Deslocamento,Viagem
+823,2016-10-24,10.0,Alimentação,Viagem
+824,2016-11-21,110.0,Deslocamento,Viagem
+825,2016-10-28,18.0,Deslocamento,Viagem
+826,2016-11-18,13.5,Deslocamento,Viagem
+827,2016-12-01,237.5,Deslocamento,Viagem
+828,2017-01-11,4.0,Translado,Viagem
+829,2017-02-01,110.0,Translado,Viagem
+830,2017-02-05,30.0,Translado,Viagem
+831,2017-02-05,9.0,Translado,Viagem
+832,2017-02-05,30.1,Translado,Viagem
+833,2017-02-09,110.0,Translado,Viagem
+834,2017-01-12,84.27,Translado,Viagem
+835,2017-03-13,23.57,Alimentação,Viagem
+836,2017-03-13,119.54,Translado,Viagem
+837,2017-03-06,5.2,Translado,Viagem
+838,2017-04-11,44.9,Alimentação,Viagem
+839,2017-04-11,113.26,Translado,Viagem
+840,2017-03-06,4.6,Translado,Viagem
+841,2017-03-06,6.0,Translado,Viagem
+842,2017-03-06,8.0,Translado,Viagem
+843,2017-03-09,220.0,Translado,Viagem
+844,2017-04-03,23.0,Translado,Viagem
+845,2017-04-03,14.25,Translado,Viagem
+846,2017-04-03,16.1,Translado,Viagem
+847,2017-05-02,19.5,Translado,Viagem
+848,2017-05-02,22.05,Translado,Viagem
+849,2017-05-02,37.25,Translado,Viagem
+850,2017-06-12,89.57,Translado,Viagem
+851,2017-05-17,5.0,Translado,Viagem
+852,2017-05-25,5.0,Translado,Viagem
+853,2017-06-02,110.0,Translado,Viagem
+854,2017-06-01,18.5,Translado,Viagem
+855,2017-06-01,5.2,Translado,Viagem
+856,2017-07-11,97.07,Translado,Viagem
+857,2017-07-11,15.37,Alimentação,Viagem
+858,2017-07-13,100.0,Translado,Viagem
+859,2017-07-03,32.8,Translado,Viagem
+860,2017-07-05,5.2,Translado,Viagem
+861,2017-07-05,5.2,Translado,Viagem
+862,2017-08-11,85.72,Translado,Viagem
+863,2017-08-11,10.0,Alimentação,Viagem
+864,2017-07-06,465.0,Translado,Viagem
+865,2017-07-20,110.0,Translado,Viagem
+866,2017-07-25,130.0,Translado,Viagem
+867,2017-08-11,22.05,Alimentação,Viagem
+868,2017-08-11,48.12,Translado,Viagem
+869,2017-08-11,48.56,Translado,Viagem
+870,2017-08-04,5.2,Translado,Viagem
+871,2017-08-04,10.0,Translado,Viagem
+872,2017-08-03,5.2,Translado,Viagem
+873,2017-08-03,9.0,Translado,Viagem
+874,2017-08-04,5.2,Translado,Viagem
+875,2017-09-11,18.5,Alimentação,Viagem
+876,2017-09-11,10.0,Alimentação,Viagem
+877,2017-09-11,53.77,Translado,Viagem
+878,2017-09-11,18.48,Alimentação,Viagem
+879,2017-09-11,121.02,Translado,Viagem
+880,2017-08-23,110.0,Translado,Viagem
+881,2017-08-23,110.0,Translado,Viagem
+882,2017-08-28,2.0,Alimentação,Viagem
+883,2017-10-11,14.72,Alimentação,Viagem
+884,2017-10-11,90.5,Translado,Viagem
+885,2017-09-11,89.73,Translado,Viagem
+886,2017-09-11,8.0,Translado,Viagem
+887,2017-09-11,26.99,Alimentação,Viagem
+888,2017-09-05,103.5,Translado,Viagem
+889,2017-09-04,5.0,Translado,Viagem
+890,2017-09-04,14.0,Translado,Viagem
+891,2017-09-04,8.0,Translado,Viagem
+892,2017-09-04,2.0,Translado,Viagem
+893,2017-09-04,4.0,Translado,Viagem
+894,2017-09-04,10.4,Translado,Viagem
+895,2017-09-04,11.5,Traslado,Viagem
+896,2017-09-04,4.0,Translado,Viagem
+897,2017-09-04,5.0,Reembolsável,Viagem
+898,2017-09-08,110.0,Translado,Viagem
+899,2017-10-11,9.5,Alimentação,Viagem
+900,2017-10-11,13.05,Alimentação,Viagem
+901,2017-09-19,110.0,Translado,Viagem
+902,2017-10-11,100.0,Translado,Viagem
+903,2017-10-11,97.74,Translado,Viagem
+904,2017-10-05,5.2,Translado,Viagem
+905,2017-10-04,110.0,Translado,Viagem
+906,2017-10-16,3.2,Translado,Viagem
+907,2017-11-11,26.37,Alimentação,Viagem
+908,2017-10-26,110.0,Translado,Viagem
+909,2017-11-11,92.83,Translado,Viagem
+910,2017-11-11,9.0,Alimentação,Viagem
+911,2017-11-06,13.78,Alimentação,Viagem
+912,2017-11-06,310.0,Translado,Viagem
+913,2017-11-06,5.2,Translado,Viagem
+914,2017-11-06,2.0,Translado,Viagem
+915,2017-12-11,5.0,Translado,Viagem
+916,2017-12-05,8.0,Translado,Viagem
+917,2017-12-05,24.0,Translado,Viagem
+918,2017-12-05,5.2,Translado,Viagem
+919,2017-12-05,3.0,Translado,Viagem
+920,2018-01-11,121.05,Translado,Viagem
+921,2017-12-13,220.0,Translado,Viagem
+922,2018-01-19,5.1,Translado,Viagem
+923,2018-02-11,21.75,Alimentação,Viagem
+924,2018-02-05,263.1,Translado,Viagem
+925,2018-02-05,5.2,Translado,Viagem
+926,2018-02-11,50.0,Translado,Viagem
+927,2018-02-11,23.09,Alimentação,Viagem
+928,2018-02-11,5.49,Alimentação,Viagem
+929,2018-03-11,85.41,Translado,Viagem
+930,2018-02-14,220.0,Translado,Viagem
+931,2018-02-05,5.2,Translado,Viagem
+932,2018-02-05,6.0,Translado,Viagem
+933,2018-02-07,10.4,Translado,Viagem
+934,2018-02-20,110.0,Translado,Viagem
+935,2018-02-20,110.0,Translado,Viagem
+936,2018-02-20,110.0,Translado,Viagem
+937,2018-03-11,22.49,Alimentação,Viagem
+938,2018-03-11,92.02,Translado,Viagem
+939,2018-03-11,21.8,Alimentação,Viagem
+940,2018-03-11,100.0,Translado,Viagem
+941,2018-03-05,18.0,Translado,Viagem
+942,2018-03-19,110.0,Translado,Viagem
+943,2018-04-11,9.0,Translado,Viagem
+944,2018-04-11,90.47,Translado,Viagem
+945,2018-04-11,15.75,Alimentação,Viagem
+946,2018-03-28,5.4,Translado,Viagem
+947,2018-05-11,93.96,Translado,Viagem
+948,2018-05-11,9.0,Translado,Viagem
+949,2018-04-05,13.78,Alimentação,Viagem
+950,2018-04-04,1.6,Translado,Viagem
+951,2018-04-05,3.6,Translado,Viagem
+952,2018-05-11,21.69,Alimentação,Viagem
+953,2018-05-11,119.95,Translado,Viagem
+954,2018-05-11,5.0,Translado,Viagem
+955,2018-04-02,5.4,Translado,Viagem
+956,2018-04-02,30.0,Translado,Viagem
+957,2018-04-13,110.0,Translado,Viagem
+958,2018-04-06,110.0,Translado,Viagem
+959,2018-04-13,110.0,Translado,Viagem
+960,2018-04-10,5.4,Translado,Viagem
+961,2018-05-11,87.63,Translado,Viagem
+962,2018-05-11,6.0,Translado,Viagem
+963,2018-05-11,16.2,Alimentação,Viagem
+964,2018-05-04,7.0,Translado,Viagem
+965,2018-05-03,30.0,Translado,Viagem

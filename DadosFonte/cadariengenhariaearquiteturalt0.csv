@@ -1,0 +1,1187 @@
+Date,Value,Descricao,Categoria
+0,2017-11-30,154.0,13º Salario Daniele,13º Salário
+1,2017-11-30,1075.0,13º Salario Gilmara,13º Salário
+2,2017-11-30,685.0,13º Salario Jeciane,13º Salário
+3,2018-11-30,1075.0,13º Salario Gilmara,13º Salário
+4,2018-11-30,685.0,13º Salario Jeciane,13º Salário
+5,2018-11-30,922.5,13º Salario Daniele,13º Salário
+6,2018-12-20,978.25,13º Salario Gilmara,13º Salário
+7,2018-12-20,630.2,13º Salario Jeciane,13º Salário
+8,2018-12-20,839.48,13º Salario Daniele,13º Salário
+9,2017-12-20,576.0,13º Salario Jeciane,13º Salário
+10,2017-12-20,129.0,13º Salario Daniele,13º Salário
+11,2017-12-20,882.0,13º Salario Gilmara,13º Salário
+12,2017-12-18,142.68,ART - (CA - 698) Obra 276 QD. 10 ,Água
+13,2017-11-08,89.75,RRT - (CA-763) Valinhos,Água
+14,2017-11-03,60.0,Serviço de limpeza,Água
+15,2017-12-15,60.0,Serviço de limpeza,Água
+16,2017-01-02,37.5,Despesas bancárias,Água
+17,2017-02-02,37.5,Despesas bancárias,Água
+18,2017-03-02,37.5,Despesas bancárias,Água
+19,2017-04-02,37.5,Despesas bancárias,Água
+20,2017-05-02,37.5,Despesas bancárias,Água
+21,2017-06-02,37.5,Despesas bancárias,Água
+22,2017-07-02,37.5,Despesas bancárias,Água
+23,2017-08-02,37.5,Despesas bancárias,Água
+24,2017-09-02,37.5,Despesas bancárias,Água
+25,2017-11-10,60.0,Serviço de limpeza,Água
+26,2017-11-17,60.0,Serviço de limpeza,Água
+27,2017-04-15,198.93,Plano de saúde,Água
+28,2017-11-24,60.0,Serviço de limpeza,Água
+29,2017-11-16,481.31,Telefone celular,Água
+30,2017-12-02,484.23,Condomínio sl. 605,Água
+31,2017-12-22,60.0,Serviço de limpeza,Água
+32,2017-12-29,60.0,Serviço de limpeza,Água
+33,2018-03-02,542.43,Impostos sobre nota fiscal,Água
+34,2018-04-02,53.82,Impostos sobre nota fiscal,Água
+35,2017-01-31,471.24,Anuidade CAU - BR pessoa física ,Anuidade CAU - BR
+36,2017-01-31,471.24,Anuidade CAU - BR pessoa jurídica ,Anuidade CAU - BR
+37,2018-01-31,480.4,Anuidade CAU - BR pessoa física ,Anuidade CAU - BR
+38,2018-01-31,480.4,Anuidade CAU - BR pessoa jurídica ,Anuidade CAU - BR
+39,2017-01-31,450.46,Anuidade CREA - MG pessoa física ,Anuidade CREA - MG
+40,2017-01-31,852.1,Anuidade CREA - MG pessoa jurídica,Anuidade CREA - MG
+41,2018-01-31,458.26,Anuidade CREA - MG pessoa física ,Anuidade CREA - MG
+42,2018-01-31,866.86,Anuidade CREA - MG pessoa jurídica,Anuidade CREA - MG
+43,2017-12-07,6.0,Compra de fio de telefone,Aquisição de equipamentos
+44,2018-03-01,300.0,Locação de pedestal de chão para TV,Aquisição de equipamentos
+45,2018-03-16,967.5,Aquisição de cortinas para salas 604/605,Aquisição de equipamentos
+46,2018-04-26,5.0,Compra de adaptador de tomada.,Aquisição de equipamentos
+47,2018-04-16,967.5,Aquisição de tela solar.,Aquisição de equipamentos
+48,2017-10-03,490.71,Material de escritório ,Aquisição de suprimentos
+49,2017-11-01,90.0,Recarga toner,Aquisição de suprimentos
+50,2017-10-05,72.0,Material de escritório ,Aquisição de suprimentos
+51,2017-02-09,309.6,Material de escritório,Aquisição de suprimentos
+52,2017-02-22,309.6,Material de escritório,Aquisição de suprimentos
+53,2017-12-02,239.0,Compra de ABNT NBR 17505-4:2015 Versão Corrigida:2015,Aquisição de suprimentos
+54,2017-03-10,309.6,Material de escritório,Aquisição de suprimentos
+55,2017-04-12,376.3,Material de escritório,Aquisição de suprimentos
+56,2017-11-21,24.0,Material de escritório,Aquisição de suprimentos
+57,2017-11-27,164.7,Capsulas de café. ,Aquisição de suprimentos
+58,2017-06-08,248.6,Material de escritório,Aquisição de suprimentos
+59,2017-07-03,494.2,Material de escritório,Aquisição de suprimentos
+60,2017-08-09,216.9,Material de escritório,Aquisição de suprimentos
+61,2017-09-11,90.0,Recarga tonner,Aquisição de suprimentos
+62,2017-09-15,166.2,Material de escritório,Aquisição de suprimentos
+63,2017-12-14,99.85,Compra de livro,Aquisição de suprimentos
+64,2017-12-13,90.0,Compra de toner para impressora  Brother,Aquisição de suprimentos
+65,2017-12-15,72.0,Compra de sacolas brancas para entrega de brindes,Aquisição de suprimentos
+66,2017-12-23,328.36,Material de escritório,Aquisição de suprimentos
+67,2017-12-19,319.9,Material de escritório,Aquisição de suprimentos
+68,2018-01-18,2.4,Xerox CAT Simone CA - 734,Aquisição de suprimentos
+69,2018-02-15,350.7,Compra de materiais de escritório,Aquisição de suprimentos
+70,2018-02-22,90.0,Recarga de toner para impressora.,Aquisição de suprimentos
+71,2018-03-09,12.0,Compra de Chip telefônico.,Aquisição de suprimentos
+72,2018-03-22,7.2,Compra de materiais de escritório.,Aquisição de suprimentos
+73,2018-03-23,249.09,Compra de papeis interfolhados.,Aquisição de suprimentos
+74,2018-03-26,283.5,Compra de materiais de escritório.,Aquisição de suprimentos
+75,2018-04-06,13.6,Compras de material de escritório.,Aquisição de suprimentos
+76,2018-04-16,185.7,Compra de materiais de escritório.,Aquisição de suprimentos
+77,2018-04-16,49.12,Compra de produtos de limpeza.,Aquisição de suprimentos
+78,2018-04-25,405.0,Elaboração de cartões de visita,Aquisição de suprimentos
+79,2018-04-30,90.0,Recarga de cartucho de impressora Brother.,Aquisição de suprimentos
+80,2018-04-30,85.0,Compra de cilindro de impressora.,Aquisição de suprimentos
+81,2017-10-17,89.75,RRT ,ART / RRT
+82,2017-11-12,89.75,RRT,ART / RRT
+83,2017-10-20,81.53,ART,ART / RRT
+84,2017-11-07,89.75,RRT,ART / RRT
+85,2017-01-23,89.75,RRT,ART / RRT
+86,2017-01-23,89.75,RRT,ART / RRT
+87,2017-01-30,89.75,RRT,ART / RRT
+88,2017-02-01,81.53,ART,ART / RRT
+89,2017-02-14,89.75,RRT ,ART / RRT
+90,2017-02-21,89.75,RRT ,ART / RRT
+91,2017-03-02,89.75,RRT,ART / RRT
+92,2017-03-17,89.75,RRT,ART / RRT
+93,2017-03-30,89.75,RRT,ART / RRT
+94,2017-03-30,89.75,RRT,ART / RRT
+95,2017-03-30,89.75,RRT,ART / RRT
+96,2017-03-30,89.75,RRT,ART / RRT
+97,2017-03-30,89.75,RRT,ART / RRT
+98,2017-03-30,89.75,RRT,ART / RRT
+99,2017-03-30,89.75,RRT,ART / RRT
+100,2017-03-30,89.75,RRT,ART / RRT
+101,2017-03-30,89.75,RRT,ART / RRT
+102,2017-03-30,89.75,RRT,ART / RRT
+103,2017-03-30,89.75,RRT,ART / RRT
+104,2017-03-30,89.75,RRT,ART / RRT
+105,2017-11-22,81.53,ART,ART / RRT
+106,2017-04-18,89.75,RRT,ART / RRT
+107,2017-04-24,89.75,RRT,ART / RRT
+108,2017-05-05,89.75,RRT,ART / RRT
+109,2017-05-18,89.75,RRT,ART / RRT
+110,2017-05-19,89.75,RRT,ART / RRT
+111,2017-05-25,214.82,ART ,ART / RRT
+112,2017-05-25,89.75,RRT,ART / RRT
+113,2017-06-01,4.8,Taxa de Fiscalização de Localização e Funcionamento - TFLF,ART / RRT
+114,2017-06-08,89.75,RRT,ART / RRT
+115,2017-06-12,89.75,RRT,ART / RRT
+116,2017-06-26,89.75,RRT,ART / RRT
+117,2017-06-27,89.75,RRT,ART / RRT
+118,2017-06-27,246.55,Telefone celular,ART / RRT
+119,2017-07-07,89.75,RRT,ART / RRT
+120,2017-07-07,142.68,ART,ART / RRT
+121,2017-07-12,95.0,Serviços de motoboy,ART / RRT
+122,2017-07-14,89.75,RRT,ART / RRT
+123,2017-07-19,214.82,ART,ART / RRT
+124,2017-07-25,89.75,RRT,ART / RRT
+125,2017-07-27,89.75,RRT,ART / RRT
+126,2017-07-27,89.75,RRT,ART / RRT
+127,2017-07-28,89.75,RRT,ART / RRT
+128,2017-07-31,89.75,RRT,ART / RRT
+129,2017-07-31,89.75,RRT,ART / RRT
+130,2017-07-31,89.75,RRT,ART / RRT
+131,2017-07-31,89.75,RRT,ART / RRT
+132,2017-07-31,89.75,RRT,ART / RRT
+133,2017-08-07,89.75,RRT,ART / RRT
+134,2017-05-30,81.53,ART,ART / RRT
+135,2017-09-01,89.75,RRT,ART / RRT
+136,2018-01-29,82.94,ART Cargo-função Igor,ART / RRT
+137,2018-02-26,91.5,RRT,ART / RRT
+138,2018-02-07,91.5,RRT,ART / RRT
+139,2018-01-16,91.5,RRT,ART / RRT
+140,2018-01-16,91.5,RRT,ART / RRT
+141,2018-01-25,91.5,RRT - Coordenação ,ART / RRT
+142,2018-01-26,91.5,RRT,ART / RRT
+143,2018-01-26,91.5,RRT,ART / RRT
+144,2018-02-08,91.5,RRT,ART / RRT
+145,2018-02-13,91.5,RRT,ART / RRT
+146,2018-02-13,91.5,RRT,ART / RRT
+147,2018-02-16,91.5,RRT,ART / RRT
+148,2018-03-23,91.5,RRT,ART / RRT
+149,2018-04-02,91.5,RRT,ART / RRT
+150,2018-04-04,91.5,RRT,ART / RRT
+151,2018-04-10,91.5,RRT,ART / RRT
+152,2017-11-13,89.75,RRT,ART / RRT
+153,2017-11-13,89.75,RRT,ART / RRT
+154,2017-11-13,89.75,RRT,ART / RRT
+155,2017-11-16,89.75,RRT ,ART / RRT
+156,2017-11-21,89.75,RRT,ART / RRT
+157,2017-11-21,89.75,RRT,ART / RRT
+158,2017-11-29,89.75,RRT,ART / RRT
+159,2017-12-05,89.75,RRT,ART / RRT
+160,2017-11-29,89.75,RRT,ART / RRT
+161,2017-12-06,89.75,RRT,ART / RRT
+162,2017-12-11,89.75,RRT,ART / RRT
+163,2017-12-11,89.75,RRT,ART / RRT
+164,2017-12-22,81.53,ART,ART / RRT
+165,2017-12-22,89.75,RRT,ART / RRT
+166,2017-12-22,89.75,RRT,ART / RRT
+167,2017-12-31,214.82,ART,ART / RRT
+168,2018-04-13,91.5,RRT - (CA-770) Ministério do Trabalho,ART / RRT
+169,2018-04-23,91.5,RRT - (CA-785) Obra 416,ART / RRT
+170,2018-05-11,91.5,RRT - (CA-692) Res. Alphaville,ART / RRT
+171,2017-10-27,930.76,Vale alimentação,Benefício: alimentação
+172,2017-05-27,674.3,Vale alimentação,Benefício: alimentação
+173,2017-07-27,674.3,Vale alimentação,Benefício: alimentação
+174,2017-01-27,657.14,Vale alimentação,Benefício: alimentação
+175,2017-02-22,657.14,Vale alimentação,Benefício: alimentação
+176,2017-03-29,657.14,Vale alimentação,Benefício: alimentação
+177,2017-04-20,669.17,Vale alimentação,Benefício: alimentação
+178,2017-11-29,1200.33,Vale alimentação,Benefício: alimentação
+179,2017-06-27,657.84,Vale alimentação,Benefício: alimentação
+180,2017-08-28,657.84,Vale alimentação,Benefício: alimentação
+181,2017-09-11,212.49,Vale alimentação,Benefício: alimentação
+182,2017-09-27,1194.76,Vale alimentação,Benefício: alimentação
+183,2017-11-14,325.72,Vale alimentação,Benefício: alimentação
+184,2018-05-26,1200.0,Vale alimentação,Benefício: alimentação
+185,2018-06-26,1200.0,Vale alimentação,Benefício: alimentação
+186,2018-07-26,1200.0,Vale alimentação,Benefício: alimentação
+187,2018-08-26,1200.0,Vale alimentação,Benefício: alimentação
+188,2018-09-26,1200.0,Vale alimentação,Benefício: alimentação
+189,2018-10-26,1200.0,Vale alimentação,Benefício: alimentação
+190,2018-11-26,1200.0,Vale alimentação,Benefício: alimentação
+191,2018-12-26,1200.0,Vale alimentação,Benefício: alimentação
+192,2017-12-27,1194.76,Vale alimentação,Benefício: alimentação
+193,2018-01-29,1194.76,Vale alimentação,Benefício: alimentação
+194,2018-02-26,1194.76,Vale alimentação,Benefício: alimentação
+195,2018-03-27,1194.76,Vale alimentação,Benefício: alimentação
+196,2018-04-26,1194.76,Vale alimentação,Benefício: alimentação
+197,2017-11-08,610.22,Plano de saúde,Benefício: plano de saúde
+198,2017-10-15,198.93,Plano de saúde,Benefício: plano de saúde
+199,2017-01-15,177.05,Plano de saúde,Benefício: plano de saúde
+200,2017-06-15,177.05,Plano de saúde,Benefício: plano de saúde
+201,2017-02-15,177.05,Plano de saúde,Benefício: plano de saúde
+202,2017-03-15,177.05,Plano de saúde,Benefício: plano de saúde
+203,2017-04-15,198.93,Plano de saúde,Benefício: plano de saúde
+204,2017-05-15,198.93,Plano de saúde,Benefício: plano de saúde
+205,2017-06-15,198.93,Plano de saúde,Benefício: plano de saúde
+206,2017-07-15,198.93,Plano de saúde,Benefício: plano de saúde
+207,2017-08-15,198.93,Plano de saúde,Benefício: plano de saúde
+208,2017-09-15,198.93,Plano de saúde,Benefício: plano de saúde
+209,2018-03-15,193.98,Plano de saúde,Benefício: plano de saúde
+210,2018-06-15,193.98,Plano de saúde,Benefício: plano de saúde
+211,2018-07-15,193.98,Plano de saúde,Benefício: plano de saúde
+212,2018-08-15,193.98,Plano de saúde,Benefício: plano de saúde
+213,2018-09-15,193.98,Plano de saúde,Benefício: plano de saúde
+214,2018-10-15,193.98,Plano de saúde,Benefício: plano de saúde
+215,2018-11-15,193.98,Plano de saúde,Benefício: plano de saúde
+216,2018-12-15,193.98,Plano de saúde,Benefício: plano de saúde
+217,2017-12-15,384.14,Plano de saúde,Benefício: plano de saúde
+218,2018-02-15,83.0,Plano de saúde,Benefício: plano de saúde
+219,2018-04-15,462.16,Plano de saúde,Benefício: plano de saúde
+220,2018-05-15,343.64,Plano de saúde,Benefício: plano de saúde
+221,2017-10-27,884.97,Vale refeição,Benefício: refeição
+222,2017-05-27,615.0,Vale refeição,Benefício: refeição
+223,2017-07-27,615.0,Vale refeição,Benefício: refeição
+224,2017-01-27,553.44,Vale refeição,Benefício: refeição
+225,2017-02-22,613.44,Vale refeição,Benefício: refeição
+226,2017-03-29,553.44,Vale refeição,Benefício: refeição
+227,2017-04-20,613.44,Vale refeição,Benefício: refeição
+228,2017-11-29,403.98,Vale refeição,Benefício: refeição
+229,2017-06-27,613.98,Vale refeição,Benefício: refeição
+230,2017-08-28,613.98,Vale refeição,Benefício: refeição
+231,2017-09-11,214.35,Vale refeição,Benefício: refeição
+232,2017-09-27,448.98,Vale refeição,Benefício: refeição
+233,2018-05-26,630.0,Vale refeição,Benefício: refeição
+234,2018-06-26,630.0,Vale refeição,Benefício: refeição
+235,2018-07-26,630.0,Vale refeição,Benefício: refeição
+236,2018-08-26,630.0,Vale refeição,Benefício: refeição
+237,2018-09-26,630.0,Vale refeição,Benefício: refeição
+238,2018-10-26,630.0,Vale refeição,Benefício: refeição
+239,2018-11-26,630.0,Vale refeição,Benefício: refeição
+240,2018-12-26,630.0,Vale refeição,Benefício: refeição
+241,2017-12-27,613.98,Vale refeição,Benefício: refeição
+242,2018-01-29,493.98,Vale refeição,Benefício: refeição
+243,2018-02-26,613.98,Vale refeição,Benefício: refeição
+244,2018-03-27,613.98,Vale refeição,Benefício: refeição
+245,2018-04-26,463.98,Vale refeição,Benefício: refeição
+246,2017-11-08,20.25,Passagens Gilmara (Ref. ao dia 01 e 02 de novembro),Benefício: transporte
+247,2017-11-14,50.0,Vale Transporte Ótimo,Benefício: transporte
+248,2017-11-13,17.1,Passagens Daniele (Ref. ao dia 13 e 14 de novembro),Benefício: transporte
+249,2017-11-28,45.45,V. Tranfácil,Benefício: transporte
+250,2017-11-16,238.36,Vale transporte,Benefício: transporte
+251,2017-05-26,242.0,Vale transporte,Benefício: transporte
+252,2017-07-26,242.0,Vale transporte,Benefício: transporte
+253,2017-09-26,707.0,Vale transporte,Benefício: transporte
+254,2017-05-26,707.0,Vale transporte,Benefício: transporte
+255,2017-07-26,707.0,Vale transporte,Benefício: transporte
+256,2017-01-27,636.3,Vale transporte,Benefício: transporte
+257,2017-01-27,241.79,Vale transporte,Benefício: transporte
+258,2017-02-22,299.36,Vale transporte,Benefício: transporte
+259,2017-02-22,813.05,Vale transporte,Benefício: transporte
+260,2017-03-29,236.04,Vale transporte,Benefício: transporte
+261,2017-04-20,276.34,Vale transporte,Benefício: transporte
+262,2017-04-20,777.7,Vale transporte,Benefício: transporte
+263,2017-03-29,712.66,Vale transporte,Benefício: transporte
+264,2017-11-29,191.9,Vale transporte,Benefício: transporte
+265,2017-11-29,446.12,Vale transporte,Benefício: transporte
+266,2017-06-27,824.01,Vale transporte,Benefício: transporte
+267,2017-06-27,272.7,Vale transporte,Benefício: transporte
+268,2017-08-26,258.56,Vale transporte,Benefício: transporte
+269,2017-08-28,704.98,Vale transporte,Benefício: transporte
+270,2017-09-11,245.43,Vale transporte,Benefício: transporte
+271,2017-09-27,460.65,Vale transporte,Benefício: transporte
+272,2017-09-27,539.34,Vale transporte,Benefício: transporte
+273,2018-05-26,770.0,Vale transporte,Benefício: transporte
+274,2018-06-26,770.0,Vale transporte,Benefício: transporte
+275,2018-07-26,770.0,Vale transporte,Benefício: transporte
+276,2018-08-26,770.0,Vale transporte,Benefício: transporte
+277,2018-09-26,770.0,Vale transporte,Benefício: transporte
+278,2018-10-26,770.0,Vale transporte,Benefício: transporte
+279,2018-11-26,770.0,Vale transporte,Benefício: transporte
+280,2018-12-26,770.0,Vale transporte,Benefício: transporte
+281,2018-05-26,300.0,Vale transporte,Benefício: transporte
+282,2018-06-26,300.0,Vale transporte,Benefício: transporte
+283,2018-07-26,300.0,Vale transporte,Benefício: transporte
+284,2018-08-26,300.0,Vale transporte,Benefício: transporte
+285,2018-09-26,300.0,Vale transporte,Benefício: transporte
+286,2018-10-26,300.0,Vale transporte,Benefício: transporte
+287,2018-11-26,300.0,Vale transporte,Benefício: transporte
+288,2018-12-26,300.0,Vale transporte,Benefício: transporte
+289,2018-01-02,341.38,Vale transporte,Benefício: transporte
+290,2018-01-02,806.99,Vale transporte,Benefício: transporte
+291,2018-01-29,707.69,Vale transporte,Benefício: transporte
+292,2018-01-29,286.84,Vale transporte,Benefício: transporte
+293,2018-02-26,331.28,Vale transporte,Benefício: transporte
+294,2018-02-26,931.93,Vale transporte,Benefício: transporte
+295,2018-03-29,960.41,Vale transporte,Benefício: transporte
+296,2018-03-29,348.45,Vale transporte,Benefício: transporte
+297,2018-04-26,310.07,Vale transporte,Benefício: transporte
+298,2018-04-26,379.3,Vale transporte,Benefício: transporte
+299,2017-01-20,48.77,DAE (Documento de Arrecadação Estadual),Bombeiros
+300,2017-02-02,207.15,DAE (Documento de Arrecadação Estadual),Bombeiros
+301,2017-02-14,48.77,DAE (Documento de Arrecadação Estadual),Bombeiros
+302,2017-03-31,48.77,DAE (Documento de Arrecadação Estadual),Bombeiros
+303,2017-04-28,325.14,DAE (Documento de Arrecadação Estadual),Bombeiros
+304,2017-05-03,149.06,Telefone celular,Bombeiros
+305,2018-01-30,252.5,Renovação cadastro CAFJ no CBMAM,Bombeiros
+306,2017-12-01,50.0,Protocolo renovação de AVCB - Funil,Bombeiros
+307,2017-07-14,48.77,DAE (Documento de Arrecadação Estadual),Bombeiros
+308,2017-09-27,48.77,DAE (Documento de Arrecadação Estadual),Bombeiros
+309,2018-08-01,252.5,Renovação cadastro CAFJ no CBMAM,Bombeiros
+310,2018-02-08,583.22,DAE referente a renovação de cadastro do Carlos no CBMERJ.,Bombeiros
+311,2017-11-08,12.58,Reconhecimento de Firma (contrato CA - 770),Cartório
+312,2017-11-20,18.87,Cópia autenticada identidade dos sócios,Cartório
+313,2017-11-24,25.16,Reconhecimento de firma e autenticação de documento,Cartório
+314,2017-11-29,6.29,Reconhecimento de firma atestado Localiza.,Cartório
+315,2017-11-30,6.29,Reconhecimento de firma contrato Localiza.,Cartório
+316,2017-12-07,6.29,Reconhecimento de firma em procuração,Cartório
+317,2017-12-07,6.29,Cópia autenticada ,Cartório
+318,2018-01-09,6.29,Reconhecimento de firma em procuração.,Cartório
+319,2018-01-12,6.29,Reconhecimento de firma procuração.,Cartório
+320,2018-01-23,56.61,Reconhecimento de firma e autenticação de documento para cadastro de fornecedores Caixa.,Cartório
+321,2018-02-06,25.16,"Cópia autenticada, renovação cadastro CBMERJ",Cartório
+322,2018-02-21,6.29,Reconhecimento de firma em procuração.,Cartório
+323,2018-02-27,60.29,Reconhecimento de firma em procuração.,Cartório
+324,2018-04-24,24.85,Certidão de breve relato.,Cartório
+325,2017-10-03,32.6,Domínio cadari@cadari,CAT
+326,2017-12-31,89.75,Certidão de acervo técnico (CA-634) - Localiza,CAT
+327,2017-12-04,89.75,CAT - TERGIP,CAT
+328,2017-12-22,89.75,Certidão de acervo técnico,CAT
+329,2018-05-13,91.5,Certidão de acervo técnico.,CAT
+330,2018-05-13,91.5,Certidão de Acervo Técnico CAT,CAT
+331,2017-12-17,395.0,Renovação de certificado digital Prodemge,Certificado digital
+332,2018-04-09,453.53,Certificado Digital PF.,Certificado digital
+333,2018-04-09,353.53,Aquisição de certificado digital pessoa física.,Certificado digital
+334,2017-11-13,26.94,Material de Limpeza,Compra de produtos
+335,2017-11-11,311.57,Material de Higiene,Compra de produtos
+336,2017-08-18,194.0,Aquisição de norma Técnica,Compra de produtos
+337,2018-01-09,4700.0,Aquisição de brindes final de ano. ,Compra de produtos
+338,2018-02-15,200.0,Serviços de marketing Parcela 1/2,Compra de produtos
+339,2018-03-15,200.0,Serviços de marketing Parcela 1/2,Compra de produtos
+340,2018-01-30,700.0,Biblioteca Revit,Compra de produtos
+341,2018-02-19,27.76,Compra de produtos de limpeza.,Compra de produtos
+342,2017-11-08,484.23,Condomínio sl. 605,Condomínio
+343,2017-11-08,326.36,Condomínio sl. 604,Condomínio
+344,2017-10-02,484.23,Condomínio sl. 605,Condomínio
+345,2017-10-02,326.36,Condomínio sl. 604,Condomínio
+346,2017-01-02,367.53,Condomínio sl. 605,Condomínio
+347,2017-05-02,367.53,Condomínio sl. 605,Condomínio
+348,2017-01-02,247.24,Condomínio sl. 604,Condomínio
+349,2017-02-02,367.53,Condomínio sl. 605,Condomínio
+350,2017-02-02,247.24,Condomínio sl. 604,Condomínio
+351,2017-03-02,367.53,Condomínio sl. 605,Condomínio
+352,2017-03-02,247.24,Condomínio sl. 604,Condomínio
+353,2017-04-02,247.24,Condomínio sl. 604,Condomínio
+354,2017-04-02,367.53,Condomínio sl. 605,Condomínio
+355,2017-05-02,247.24,Condomínio sl. 604,Condomínio
+356,2018-03-02,326.36,Condomínio sl. 604,Condomínio
+357,2018-04-02,326.36,Condomínio sl. 604,Condomínio
+358,2018-05-02,326.36,Condomínio sl. 604,Condomínio
+359,2018-06-02,326.36,Condomínio sl. 604,Condomínio
+360,2018-07-02,326.36,Condomínio sl. 604,Condomínio
+361,2018-08-02,326.36,Condomínio sl. 604,Condomínio
+362,2018-09-02,326.36,Condomínio sl. 604,Condomínio
+363,2018-10-02,326.36,Condomínio sl. 604,Condomínio
+364,2018-11-02,326.36,Condomínio sl. 604,Condomínio
+365,2018-12-02,326.36,Condomínio sl. 604,Condomínio
+366,2017-12-02,326.36,Condomínio sl. 604,Condomínio
+367,2017-06-02,367.53,Condomínio sl. 605,Condomínio
+368,2017-06-02,247.24,Condomínio sl. 604,Condomínio
+369,2017-07-02,247.24,Condomínio sl. 604,Condomínio
+370,2017-07-03,367.53,Condomínio sl. 605,Condomínio
+371,2017-08-02,367.53,Condomínio sl. 605,Condomínio
+372,2017-08-02,247.24,Condomínio sl. 604,Condomínio
+373,2017-09-02,247.24,Condomínio sl. 604,Condomínio
+374,2017-09-02,367.53,Condomínio sl. 605,Condomínio
+375,2018-01-02,484.23,Condomínio sl. 605,Condomínio
+376,2018-01-02,326.36,Condomínio sl. 604,Condomínio
+377,2018-01-09,299.54,Condomínio sl. 601,Condomínio
+378,2018-03-02,484.23,Condomínio sl. 605,Condomínio
+379,2018-04-02,484.23,Condomínio sl. 605,Condomínio
+380,2018-05-02,484.23,Condomínio sl. 605,Condomínio
+381,2018-06-02,484.23,Condomínio sl. 605,Condomínio
+382,2018-07-02,484.23,Condomínio sl. 605,Condomínio
+383,2018-08-02,484.23,Condomínio sl. 605,Condomínio
+384,2018-09-02,484.23,Condomínio sl. 605,Condomínio
+385,2018-10-02,484.23,Condomínio sl. 605,Condomínio
+386,2018-11-02,484.23,Condomínio sl. 605,Condomínio
+387,2018-12-02,484.23,Condomínio sl. 605,Condomínio
+388,2018-03-02,293.09,Condomínio sl. 601,Condomínio
+389,2018-04-02,293.09,Condomínio sl. 601,Condomínio
+390,2018-05-02,293.09,Condomínio sl. 601,Condomínio
+391,2018-06-02,293.09,Condomínio sl. 601,Condomínio
+392,2018-07-02,293.09,Condomínio sl. 601,Condomínio
+393,2018-08-02,293.09,Condomínio sl. 601,Condomínio
+394,2018-09-02,293.09,Condomínio sl. 601,Condomínio
+395,2018-10-02,293.09,Condomínio sl. 601,Condomínio
+396,2018-11-02,293.09,Condomínio sl. 601,Condomínio
+397,2018-12-02,293.09,Condomínio sl. 601,Condomínio
+398,2018-02-02,326.36,Condomínio sl. 604,Condomínio
+399,2018-02-02,484.23,Condomínio sl. 605,Condomínio
+400,2018-02-02,293.09,Condomínio sl. 601,Condomínio
+401,2017-11-10,705.0,Honorários Contabilidade,Contabilidade
+402,2017-10-10,705.0,Honorários de contabilidade ,Contabilidade
+403,2017-11-10,705.0,Honorários contabilidade ,Contabilidade
+404,2017-01-02,705.0,Honorários de contabilidade ,Contabilidade
+405,2017-02-02,705.0,Honorários de contabilidade ,Contabilidade
+406,2017-03-02,705.0,Honorários de contabilidade ,Contabilidade
+407,2017-04-10,705.0,Honorários de contabilidade ,Contabilidade
+408,2017-05-10,705.0,Honorários de contabilidade ,Contabilidade
+409,2017-06-10,705.0,Honorários de contabilidade ,Contabilidade
+410,2017-07-10,705.0,Honorários de contabilidade ,Contabilidade
+411,2017-08-10,705.0,Honorários de contabilidade ,Contabilidade
+412,2017-09-10,705.0,Honorários de contabilidade ,Contabilidade
+413,2017-12-10,705.0,Honorários de contabilidade ,Contabilidade
+414,2018-01-10,1650.0,Honorários de contabilidade ,Contabilidade
+415,2018-02-10,720.0,Honorários de contabilidade ,Contabilidade
+416,2018-04-10,720.0,Honorários de contabilidade ,Contabilidade
+417,2018-05-10,720.0,Honorários de contabilidade ,Contabilidade
+418,2018-06-10,720.0,Honorários de contabilidade ,Contabilidade
+419,2018-07-10,720.0,Honorários de contabilidade ,Contabilidade
+420,2018-08-10,720.0,Honorários de contabilidade ,Contabilidade
+421,2018-09-10,720.0,Honorários de contabilidade ,Contabilidade
+422,2018-10-10,720.0,Honorários de contabilidade ,Contabilidade
+423,2018-11-10,720.0,Honorários de contabilidade ,Contabilidade
+424,2018-12-10,720.0,Honorários de contabilidade ,Contabilidade
+425,2018-03-12,720.0,Honorários de contabilidade ,Contabilidade
+426,2017-02-27,522.25,Contribuição Sindical,Contribuição sindical
+427,2017-04-27,101.23,Contribuição Sindical Urbana,Contribuição sindical
+428,2017-10-03,30.25,Postagem de documentos,Correios
+429,2017-10-11,61.35,Postagem de documentos,Correios
+430,2017-11-09,39.4,Renovação AVCBs - (CA-762) Laudos PCHs,Correios
+431,2017-11-13,21.0,Envio de projeto para carimbo de aprovação.,Correios
+432,2017-11-13,19.7,Envio de Laudo para renovação de AVCB.,Correios
+433,2017-11-17,21.0,Envio de projeto para carimbo de aprovação (CA - Ibis),Correios
+434,2017-11-23,7.55,Envio de contrato assinado (CA - 769 Ed. Luxemburgo),Correios
+435,2017-11-21,56.5,Envio de projeto para protocolo (CA - 771 Obra 372),Correios
+436,2017-11-27,7.55,Envio de contrato assinado (CA - 769 Ed. Luxemburgo),Correios
+437,2017-11-27,67.0,Envio de documentação para renovação de cadastro CBMAM,Correios
+438,2017-11-27,19.7,Envio de Laudo para renovação de AVCB - Funil.	,Correios
+439,2017-12-11,19.7,Envio de procuração PCH Carangola,Correios
+440,2017-12-14,19.7,Envio de 3º e 4º termo aditivo a Prefeitura de Bom Jardim,Correios
+441,2017-12-22,34.4,Envio de brindes,Correios
+442,2018-01-17,21.55,Envio de projeto aprovado,Correios
+443,2018-01-17,24.1,Envio de projeto de Uberlândia a BH,Correios
+444,2018-02-15,54.05,Envio de termo aditivo assinado,Correios
+445,2018-02-15,241.6,Envio de brindes,Correios
+446,2018-02-15,47.1,Envio de projeto para substituição parcial,Correios
+447,2018-02-15,12.23,Envio de projeto para carimbo de aprovação.,Correios
+448,2018-02-15,16.34,Envio de procuração para retirada de projeto,Correios
+449,2018-02-15,18.44,Envio de projeto para retorno de análise,Correios
+450,2018-02-15,9.09,Envio de projeto para carimbo de aprovação,Correios
+451,2018-02-15,16.93,Entrega de projeto para retorno de análise.,Correios
+452,2018-02-15,34.1,Envio de projeto notificado.,Correios
+453,2018-02-15,23.3,Envio de AVCB PCH Carangola.,Correios
+454,2018-02-23,21.0,Envio de projeto aprovado.,Correios
+455,2018-03-01,25.9,Envio de projeto notificado.,Correios
+456,2018-03-12,16.93,Retorno de projeto ao CBMMG de Uberlândia,Correios
+457,2018-03-12,51.48,Envio de brindes.,Correios
+458,2018-03-12,16.34,"Envio de projeto, para protocolo.",Correios
+459,2018-03-12,16.34,Envio de Anexo C e FAT G atualizados.,Correios
+460,2018-03-12,18.44,Envio de projeto para carimbo de aprovação.,Correios
+461,2018-03-12,41.5,Envio de documentos para renovação do Cadastro no CBMERJ.,Correios
+462,2018-03-12,16.93,Envio de projeto para carimbo de aprovação.,Correios
+463,2018-03-13,20.6,Envio de projeto notificado por Sedex.,Correios
+464,2018-04-11,47.1,Envio de projeto para análise no Corpo de Bombeiros.,Correios
+465,2018-04-11,13.21,Envio de projeto para retorno de análise.,Correios
+466,2018-05-11,33.52,Envio de projeto para protocolo.,Correios
+467,2018-05-11,17.65,Envio de projeto para protocolo.,Correios
+468,2018-04-11,16.34,Envio de procuração para retirada de projeto.,Correios
+469,2018-04-11,47.1,Envio de projeto para protocolo.,Correios
+470,2018-04-11,19.92,Envio de projeto aprovado.,Correios
+471,2018-04-11,39.13,Envio de projeto para análise.,Correios
+472,2018-04-11,18.28,Envio de solicitação de recurso para o CBMMG.,Correios
+473,2018-04-11,28.0,Envio de projeto para Cadari.,Correios
+474,2018-05-15,18.28,Envio de projeto para retorno de análise.,Correios
+475,2018-06-11,47.1,Envio de projeto para reaprovação,Correios
+476,2018-05-03,37.5,Taxa de administração bancária ,Despesas bancárias
+477,2018-06-03,37.5,Taxa de administração bancária ,Despesas bancárias
+478,2018-07-03,37.5,Taxa de administração bancária ,Despesas bancárias
+479,2018-08-03,37.5,Taxa de administração bancária ,Despesas bancárias
+480,2018-09-03,37.5,Taxa de administração bancária ,Despesas bancárias
+481,2018-10-03,37.5,Taxa de administração bancária ,Despesas bancárias
+482,2018-11-03,37.5,Taxa de administração bancária ,Despesas bancárias
+483,2018-12-03,37.5,Taxa de administração bancária ,Despesas bancárias
+484,2017-11-03,37.5,Taxa de administração bancária,Despesas bancárias
+485,2017-01-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+486,2017-02-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+487,2017-03-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+488,2017-04-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+489,2017-05-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+490,2017-06-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+491,2017-07-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+492,2017-08-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+493,2017-09-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+494,2017-10-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+495,2017-11-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+496,2017-12-04,55.5,Taxa de administração bancária conta Carlos,Despesas bancárias
+497,2018-01-03,37.5,Taxa de administração bancária ,Despesas bancárias
+498,2017-01-03,37.5,Taxa de administração bancária,Despesas bancárias
+499,2017-02-03,37.5,Taxa de administração bancária,Despesas bancárias
+500,2017-03-03,37.5,Taxa de administração bancária,Despesas bancárias
+501,2017-04-03,37.5,Taxa de administração bancária,Despesas bancárias
+502,2017-05-03,37.5,Taxa de administração bancária,Despesas bancárias
+503,2017-06-03,37.5,Taxa de administração bancária,Despesas bancárias
+504,2017-07-03,37.5,Taxa de administração bancária,Despesas bancárias
+505,2017-08-03,37.5,Taxa de administração bancária,Despesas bancárias
+506,2017-09-03,37.5,Taxa de administração bancária,Despesas bancárias
+507,2017-10-03,37.5,Taxa de administração bancária,Despesas bancárias
+508,2017-11-03,37.5,Taxa de administração bancária,Despesas bancárias
+509,2017-12-03,37.5,Taxa de administração bancária,Despesas bancárias
+510,2017-12-01,3.5,Tarifa referente a saque  em banco 24 horas,Despesas bancárias
+511,2018-02-02,37.5,Taxa de administração bancária ,Despesas bancárias
+512,2018-03-03,41.2,Taxa de administração bancária ,Despesas bancárias
+513,2018-04-03,41.2,Taxa de administração bancária ,Despesas bancárias
+514,2017-01-10,30.6,Domínio cadari@cadari,Domínio
+515,2017-02-06,30.6,Domínio cadari@cadari,Domínio
+516,2017-03-02,30.6,Domínio cadari@cadari,Domínio
+517,2017-04-02,30.6,Domínio cadari@cadari,Domínio
+518,2017-04-18,328.68,Domínio Locaweb,Domínio
+519,2017-05-05,30.3,Domínio cadari@cadari,Domínio
+520,2017-12-05,32.0,Domínio cadari@cadari,Domínio
+521,2017-06-05,30.6,Domínio cadari@cadari,Domínio
+522,2017-07-05,30.6,Domínio cadari@cadari,Domínio
+523,2017-08-02,30.6,Domínio cadari@cadari,Domínio
+524,2017-09-02,30.6,Domínio cadari@cadari,Domínio
+525,2018-06-05,32.0,Domínio cadari@cadari,Domínio
+526,2018-07-05,32.0,Domínio cadari@cadari,Domínio
+527,2018-08-05,32.0,Domínio cadari@cadari,Domínio
+528,2018-09-05,32.0,Domínio cadari@cadari,Domínio
+529,2018-10-05,32.0,Domínio cadari@cadari,Domínio
+530,2018-11-05,32.0,Domínio cadari@cadari,Domínio
+531,2018-12-05,32.0,Domínio cadari@cadari,Domínio
+532,2018-01-09,32.0,Domínio cadari@cadari,Domínio
+533,2018-02-05,32.0,Domínio cadari@cadari,Domínio
+534,2018-03-05,32.7,Domínio cadari@cadari,Domínio
+535,2018-04-05,32.7,Domínio cadari@cadari,Domínio
+536,2018-04-13,328.68,Hospedagem Locaweb,Domínio
+537,2018-04-13,79.2,Upgrade de conta (Carlos e Simone),Domínio
+538,2018-05-07,32.7,Domínio cadari@cadari,Domínio
+539,2017-11-22,126.55,Luz sl. 604,Energia
+540,2017-11-22,248.52,Luz sl. 605,Energia
+541,2018-06-22,200.0,Luz sl. 604,Energia
+542,2018-07-22,200.0,Luz sl. 604,Energia
+543,2018-08-22,200.0,Luz sl. 604,Energia
+544,2018-09-22,200.0,Luz sl. 604,Energia
+545,2018-10-22,200.0,Luz sl. 604,Energia
+546,2018-11-22,200.0,Luz sl. 604,Energia
+547,2018-12-22,200.0,Luz sl. 604,Energia
+548,2018-06-22,200.0,Luz sl. 605,Energia
+549,2018-07-22,200.0,Luz sl. 605,Energia
+550,2017-01-22,89.11,Luz sl. 604,Energia
+551,2017-01-22,196.62,Luz sl. 605,Energia
+552,2017-03-22,66.44,Luz sl. 604,Energia
+553,2017-03-22,221.25,Luz sl. 605,Energia
+554,2017-02-22,70.37,Luz sl. 604,Energia
+555,2017-02-22,285.26,Luz sl. 605,Energia
+556,2017-04-22,77.48,Luz sl. 604,Energia
+557,2017-04-22,280.5,Luz sl. 605,Energia
+558,2017-10-22,158.01,Luz sl. 605,Energia
+559,2017-10-22,105.26,Luz sl. 604,Energia
+560,2017-06-22,101.36,Luz sl. 604,Energia
+561,2017-06-22,179.12,Luz sl. 605,Energia
+562,2017-07-22,148.47,Luz sl. 605,Energia
+563,2017-07-22,97.37,Luz sl. 604,Energia
+564,2017-08-22,94.92,Luz sl. 604,Energia
+565,2017-08-22,152.08,Luz sl. 605,Energia
+566,2017-09-22,92.97,Luz sl. 604,Energia
+567,2017-09-22,170.79,Luz sl. 605,Energia
+568,2017-05-22,73.13,Luz sl. 604,Energia
+569,2017-05-22,177.48,Luz sl. 605,Energia
+570,2017-12-22,142.91,Luz sl. 604,Energia
+571,2017-12-22,215.61,Luz sl. 605,Energia
+572,2018-01-22,123.21,Luz sl. 604,Energia
+573,2018-01-22,174.17,Luz sl. 605,Energia
+574,2018-06-22,19.99,Luz sl. 601,Energia
+575,2018-07-22,19.99,Luz sl. 601,Energia
+576,2018-08-22,19.99,Luz sl. 601,Energia
+577,2018-09-22,19.99,Luz sl. 601,Energia
+578,2018-10-22,19.99,Luz sl. 601,Energia
+579,2018-11-22,19.99,Luz sl. 601,Energia
+580,2018-12-22,19.99,Luz sl. 601,Energia
+581,2017-12-22,42.67,Luz sl. 601,Energia
+582,2018-01-22,37.58,Luz sl. 601(fatura final),Energia
+583,2018-02-22,213.45,Luz sl. 605,Energia
+584,2018-02-22,120.48,Luz sl. 604,Energia
+585,2018-03-22,107.51,Luz sl. 604,Energia
+586,2018-03-22,143.03,Luz sl. 605,Energia
+587,2018-04-22,56.07,Luz sl. 601,Energia
+588,2018-04-22,104.41,Luz sl. 604,Energia
+589,2018-04-22,176.96,Luz sl. 605,Energia
+590,2018-05-22,134.14,Luz sl. 605,Energia
+591,2018-05-22,112.68,Luz sl. 604,Energia
+592,2018-05-22,18.45,Luz sl. 601,Energia
+593,2017-10-10,896.29,Férias Jeciane,Férias
+594,2017-07-26,1209.4,Férias Gilmara,Férias
+595,2018-12-17,1230.76,Férias Gilmara,Férias
+596,2018-12-17,784.24,Férias Jeciane,Férias
+597,2018-12-17,1056.16,Férias Daniele,Férias
+598,2017-12-21,1230.75,Férias Gilmara,Férias
+599,2017-12-21,784.24,Férias Jeciane,Férias
+600,2018-04-30,1406.58,Férias Gilmara,Férias
+601,2017-02-14,652.58,Boletim Universo Licitações,Filiações e subscrições
+602,2017-12-05,89.6,Revista Incêndio,Filiações e subscrições
+603,2018-01-25,269.99,Cadastro E-Licitações Banco do Brasil,Filiações e subscrições
+604,2018-04-02,650.0,Assinatura Anual de Boletim de medição.,Filiações e subscrições
+605,2018-05-09,500.0,Sistema de manutenção evolutiva do sistema Flowup.,Filiações e subscrições
+606,2017-03-22,164.85,COFINS,Imposto: COFINS
+607,2017-04-25,23.55,COFINS,Imposto: COFINS
+608,2017-10-31,1671.06,CSLL,Imposto: CSLL
+609,2017-01-30,1735.65,CSLL,Imposto: CSLL
+610,2017-04-25,835.11,CSLL,Imposto: CSLL
+611,2017-07-31,970.12,CSLL,Imposto: CSLL
+612,2018-01-30,2459.77,CSLL,Imposto: CSLL
+613,2018-04-30,2319.58,CSSL,Imposto: CSLL
+614,2017-12-30,19.08,DARF,Imposto: DAS Simples
+615,2017-10-07,341.34,FGTS ,Imposto: FGTS
+616,2017-11-08,68.88,Multa rescisória Arlete,Imposto: FGTS
+617,2017-11-07,428.22,FGTS,Imposto: FGTS
+618,2017-01-07,240.0,FGTS,Imposto: FGTS
+619,2017-02-07,272.63,FGTS,Imposto: FGTS
+620,2017-03-07,242.94,FGTS,Imposto: FGTS
+621,2017-04-07,242.94,FGTS,Imposto: FGTS
+622,2017-12-07,550.5,FGTS,Imposto: FGTS
+623,2017-06-07,242.94,FGTS,Imposto: FGTS
+624,2017-07-07,242.94,FGTS,Imposto: FGTS
+625,2017-08-07,242.94,FGTS,Imposto: FGTS
+626,2017-09-07,274.16,FGTS,Imposto: FGTS
+627,2018-06-07,550.5,FGTS,Imposto: FGTS
+628,2018-07-07,550.5,FGTS,Imposto: FGTS
+629,2018-08-07,550.5,FGTS,Imposto: FGTS
+630,2018-09-07,550.5,FGTS,Imposto: FGTS
+631,2018-10-07,550.5,FGTS,Imposto: FGTS
+632,2018-11-07,550.5,FGTS,Imposto: FGTS
+633,2018-12-07,550.5,FGTS,Imposto: FGTS
+634,2018-01-05,610.46,FGTS,Imposto: FGTS
+635,2018-02-07,463.61,FGTS,Imposto: FGTS
+636,2018-03-07,429.2,FGTS,Imposto: FGTS
+637,2018-04-06,429.2,FGTS,Imposto: FGTS
+638,2018-05-07,429.2,FGTS,Imposto: FGTS
+639,2017-10-20,1836.46,INSS,Imposto: INSS
+640,2017-01-20,1489.02,INSS,Imposto: INSS
+641,2017-02-20,1531.26,INSS,Imposto: INSS
+642,2017-11-20,2243.72,INSS,Imposto: INSS
+643,2017-03-20,1400.72,INSS,Imposto: INSS
+644,2017-04-20,1396.12,INSS,Imposto: INSS
+645,2018-06-20,2400.82,INSS,Imposto: INSS
+646,2018-07-20,2400.82,INSS,Imposto: INSS
+647,2018-08-20,2400.82,INSS,Imposto: INSS
+648,2018-09-20,2400.82,INSS,Imposto: INSS
+649,2018-10-20,2400.82,INSS,Imposto: INSS
+650,2018-11-20,2400.82,INSS,Imposto: INSS
+651,2018-12-20,2400.82,INSS,Imposto: INSS
+652,2017-06-20,1396.12,INSS,Imposto: INSS
+653,2017-07-20,1396.12,INSS,Imposto: INSS
+654,2017-08-20,1396.12,INSS,Imposto: INSS
+655,2017-09-20,1539.74,INSS,Imposto: INSS
+656,2017-12-20,2400.82,INSS,Imposto: INSS
+657,2017-12-20,1391.74,INSS,Imposto: INSS
+658,2018-01-19,2379.26,INSS,Imposto: INSS
+659,2018-02-20,2412.98,INSS,Imposto: INSS
+660,2018-03-20,2256.36,INSS,Imposto: INSS
+661,2018-04-20,2256.36,INSS,Imposto: INSS
+662,2018-05-20,2256.36,INSS,Imposto: INSS
+663,2017-01-20,195.11,IPTU,Imposto: IPTU
+664,2017-01-20,1105.52,IPTU,Imposto: IPTU
+665,2017-01-20,1168.22,IPTU,Imposto: IPTU
+666,2018-01-22,1052.87,IPTU sala 601,Imposto: IPTU
+667,2018-01-22,179.2,IPTU garagem,Imposto: IPTU
+668,2018-01-22,1117.01,IPTU sala 604,Imposto: IPTU
+669,2018-01-22,1057.08,IPTU sala 605,Imposto: IPTU
+670,2018-02-15,114.96,11ª parcela IPTU Sl. 601,Imposto: IPTU
+671,2018-02-15,121.72,11ª parcela IPTU Sl. 604,Imposto: IPTU
+672,2018-02-15,115.41,11ª parcela IPTU Sl. 605,Imposto: IPTU
+673,2018-02-15,23.0,11ª parcela IPTU garagem,Imposto: IPTU
+674,2017-10-31,2942.67,IRPJ,Imposto: IR
+675,2017-01-30,3080.47,IRPJ,Imposto: IR
+676,2017-04-25,1463.69,IRPJ,Imposto: IR
+677,2017-07-31,1730.63,IRPJ,Imposto: IR
+678,2018-01-30,4347.69,IRPJ,Imposto: IR
+679,2018-04-30,4172.57,IRPJ,Imposto: IR
+680,2017-10-05,359.68,ISSQN,Imposto: ISS
+681,2017-01-05,359.0,ISSQN,Imposto: ISS
+682,2017-02-06,359.68,ISSQN,Imposto: ISS
+683,2017-11-06,359.68,ISSQN,Imposto: ISS
+684,2017-03-05,359.68,ISSQN,Imposto: ISS
+685,2017-04-05,359.68,ISSQN,Imposto: ISS
+686,2017-12-05,359.68,ISSQN,Imposto: ISS
+687,2017-05-05,359.68,ISSQN,Imposto: ISS
+688,2017-06-05,359.68,ISSQN,Imposto: ISS
+689,2017-07-05,359.68,ISSQN,Imposto: ISS
+690,2017-08-05,359.68,ISSQN,Imposto: ISS
+691,2017-09-05,359.68,ISSQN,Imposto: ISS
+692,2018-01-08,366.88,ISSQN,Imposto: ISS
+693,2018-02-05,359.68,ISSQN,Imposto: ISS
+694,2018-03-05,185.13,ISSQN,Imposto: ISS
+695,2018-04-05,196.24,ISSQN,Imposto: ISS
+696,2018-06-05,196.24,ISSQN,Imposto: ISS
+697,2018-07-05,196.24,ISSQN,Imposto: ISS
+698,2018-08-05,196.24,ISSQN,Imposto: ISS
+699,2018-09-05,196.24,ISSQN,Imposto: ISS
+700,2018-10-05,196.24,ISSQN,Imposto: ISS
+701,2018-11-05,196.24,ISSQN,Imposto: ISS
+702,2018-12-05,196.24,ISSQN,Imposto: ISS
+703,2018-05-07,185.13,ISSQN,Imposto: ISS
+704,2017-03-22,35.72,PIS,Imposto: PIS
+705,2017-11-09,2250.0,Produtos Cadari 10 anos e brinde final de ano,Marketing e publicidade
+706,2017-12-01,2250.0,Produtos Cadari 10 anos e brinde final de ano,Marketing e publicidade
+707,2018-02-15,250.0,"Apresentação, email marketing e assinaturas",Marketing e publicidade
+708,2018-03-16,200.0,"Atualização do site, envio de email marketing",Marketing e publicidade
+709,2017-11-07,18.0,Envio de RRT (CA - 763 Valinhos),Motoboy
+710,2017-11-08,18.0,Entrega de documentos Codemig (CA-734 Tergip),Motoboy
+711,2017-11-08,30.0,Entrega de contrato (CA-770 Ed. Lucy),Motoboy
+712,2017-11-10,50.0,Protocolo renovação de AVCB - Funil,Motoboy
+713,2017-11-10,20.0,Protocolo renovação de AVCB - Carangola,Motoboy
+714,2017-11-13,15.0,Envio de anteprojeto (CA - 763 Valinhos),Motoboy
+715,2017-11-10,17.5,Retorno de projeto ao CBMMG,Motoboy
+716,2017-11-14,17.5,Retirada de Projeto notificado no CBMMG.,Motoboy
+717,2017-11-16,18.0,Envio de contrato assinado (CA - 771 Obra 372).,Motoboy
+718,2017-01-10,137.5,Serviços de motoboy,Motoboy
+719,2017-11-20,18.0,Pegar contrato do CA - 769 Ed. Luxemburgo,Motoboy
+720,2017-11-20,18.0,Envio de projeto para assinatura (CA - 771 Obra 372),Motoboy
+721,2017-11-18,81.0,Envio de projeto (CA - 715 Hospital em Bom Jardim),Motoboy
+722,2017-11-27,100.7,Retirada de projeto aprovado (CA - 742 - Obra 405),Motoboy
+723,2017-11-30,114.3,Carimbo de projeto aprovado ,Motoboy
+724,2017-12-01,69.0,Retirada de Projeto notificado em Divinópolis. ,Motoboy
+725,2017-12-04,80.0,Protocolo de renovação de cadastro CBMAM,Motoboy
+726,2017-12-07,76.42,Protocolo de projetos (CA - 771) Obra 372,Motoboy
+727,2017-08-02,33.9,Protocolo de projetos (CA - 742) Obra 405,Motoboy
+728,2017-09-12,70.0,Protocolo de projetos (CA - 742) Obra 405,Motoboy
+729,2017-12-11,89.9,Retirada de AVCB (PCH Funil) no corpo de bombeiros e ida aos correios,Motoboy
+730,2018-01-10,10.0,Entrega de RRT e ART ,Motoboy
+731,2018-01-10,18.0,Envio de projeto de PCI e lista de materiais,Motoboy
+732,2018-01-10,35.0,Envio de termo aditivo assinado,Motoboy
+733,2018-01-10,18.0,Retirada de certidão de casamento atualizada,Motoboy
+734,2018-01-10,18.0,Envio de documentação de Responsável Técnico a BHZ.,Motoboy
+735,2018-01-10,18.0,Entrega de termo aditivo assinado,Motoboy
+736,2018-01-10,25.0,Entrega de projeto aprovado,Motoboy
+737,2018-01-10,18.0,Entrega de projeto executivo e lista de materiais,Motoboy
+738,2017-12-10,18.0,Envio de Laudo técnico e RRT,Motoboy
+739,2017-12-10,18.0,Ida a Myssior buscar atestado técnico (CA - 537),Motoboy
+740,2017-12-10,18.0,Ida ao cartório reconhecer firma de atestado,Motoboy
+741,2017-12-10,15.0,Entrega de projeto executivo e lista de materiais,Motoboy
+742,2017-12-10,20.0,Reconhecimento de firma contrato Localiza.,Motoboy
+743,2017-12-10,35.0,Retorno de projeto ao CBMMG,Motoboy
+744,2017-12-10,11.67,Ida ao CBMMG ,Motoboy
+745,2017-12-13,11.67,Ida ao CBMMG,Motoboy
+746,2017-12-13,11.67,Ida ao CBMMG,Motoboy
+747,2017-12-10,18.0,Entrega de laudo e RRT,Motoboy
+748,2018-01-10,35.0,Ida ao CBMMG,Motoboy
+749,2018-01-10,25.0,"Ida ao Nova Suiça, buscar produtos alimentícios.",Motoboy
+750,2018-01-10,18.0,Envio de contrato assinado (CA - 779 Obra 426),Motoboy
+751,2018-01-11,18.0,Retirada de resultados de exames,Motoboy
+752,2017-12-19,147.0,Retirada e envio de renovação de cadastro CBMAM,Motoboy
+753,2018-01-10,110.0,Entrega de brindes.,Motoboy
+754,2018-01-10,17.0,"Ida a CODEMIG, buscar atestado técnico.",Motoboy
+755,2018-01-10,190.0,Entrega de brindes.,Motoboy
+756,2018-01-10,11.66,Retirada de projeto notificado CBMMG.,Motoboy
+757,2018-01-10,11.66,Carimbo de projeto aprovado no CBMMG.,Motoboy
+758,2018-01-10,11.66,Carimbo de projeto aprovado no CBMMG.,Motoboy
+759,2018-01-10,10.0,Entrega de documentos.,Motoboy
+760,2018-01-10,35.0,Entrega de documentos CAMG.,Motoboy
+761,2018-01-10,9.0,Entrega de projeto aprovado,Motoboy
+762,2018-01-10,9.0,Entrega de projeto aprovado.,Motoboy
+763,2018-01-10,20.5,Retorno de projeto ao CBMMG (Reconsideração de Ato).,Motoboy
+764,2018-01-10,20.5,Retirada de projeto para cópia CBMMG.,Motoboy
+765,2018-01-09,60.0,Protocolo renovação de AVCB - Carangola,Motoboy
+766,2018-01-09,149.52,Retirada de projeto aprovado e entrega para Flávia Cotta,Motoboy
+767,2018-02-09,21.0,Retirada de projeto notificado.,Motoboy
+768,2018-02-09,21.0,Carimbo de projeto aprovado no CBMMG.,Motoboy
+769,2018-01-11,50.0,Retorno de projeto ao CBMMG de Juiz de Fora,Motoboy
+770,2018-02-09,18.0,Entrega de termo de exequibilidade ao DEER/MG,Motoboy
+771,2018-02-09,50.0,Entrega de brindes,Motoboy
+772,2018-02-09,20.0,Entrega de projeto,Motoboy
+773,2018-01-17,50.0,Retorno de projeto ao CBMMG de Divinópolis.,Motoboy
+774,2018-01-17,65.0,Retirada de projeto notificado no Corpo de Bombeiros de Uberlândia e ida aos correios,Motoboy
+775,2018-01-17,90.0,Carimbo de projeto aprovado no Corpo de Bombeiros de Itauna,Motoboy
+776,2018-02-09,11.66,Retorno de projeto ao CBMMG,Motoboy
+777,2018-02-09,11.66,Retorno de projeto ao CBMMG (Reconsideração de Ato),Motoboy
+778,2018-02-09,11.66,Carimbo de projeto aprovado no CBMMG,Motoboy
+779,2018-02-09,10.0,Entrega de termo aditivo assinado,Motoboy
+780,2018-02-09,38.0,Ida ao CREA/MG protocolar pedido de CAT,Motoboy
+781,2018-02-09,10.0,Entrega de brindes.,Motoboy
+782,2018-02-09,20.0,Entrega de projeto aprovado.,Motoboy
+783,2018-02-09,20.0,Entrega de projeto aprovado.,Motoboy
+784,2018-01-26,40.0,Ida ao Corpo de Bombeiros de Valinhos,Motoboy
+785,2018-01-26,100.0,Ida ao Corpo de Bombeiros de Uberlândia,Motoboy
+786,2018-02-09,19.0,Entrega de brindes.,Motoboy
+787,2018-02-09,19.0,Entrega de projeto aprovado.,Motoboy
+788,2018-02-09,28.0,Ida ao CREA/MG retirar CAT,Motoboy
+789,2018-02-09,20.0,Entrega de contrato assinado.,Motoboy
+790,2018-02-09,25.0,Ida ao CREA/MG protocolar inclusão de RT.,Motoboy
+791,2018-02-09,18.0,Entrega de contrato assinado.,Motoboy
+792,2018-02-09,18.0,Entrega de contrato assinado.,Motoboy
+793,2018-02-09,30.0,Entrega de brindes.,Motoboy
+794,2018-02-09,40.0,"Ida ao CBMMG, carimbar projeto aprovado.",Motoboy
+795,2018-02-09,25.0,"Ida ao CBMMG, substituição parcial de projeto.",Motoboy
+796,2018-02-09,15.0,Retirada de contrato,Motoboy
+797,2018-02-07,25.0,Tentativa de protocolo de projeto no CBMMG.,Motoboy
+798,2018-02-08,25.0,Protocolo de projeto no CBMMG.,Motoboy
+799,2018-02-15,40.0,Retirada de projeto notificado.,Motoboy
+800,2018-02-15,25.0,Retirada de AVCB PCH Carangola.,Motoboy
+801,2018-02-15,60.0,Protocolo renovação de CADASTRO CBMERJ,Motoboy
+802,2018-02-23,50.0,Retirada de Processo Aprovado no Copo de Bombeiro.,Motoboy
+803,2018-03-12,18.0,Entrega de projeto aprovado (Residenciais 01 e 03).,Motoboy
+804,2018-03-12,10.0,Ida ao SICAF,Motoboy
+805,2018-03-12,10.0,Entrega de RRT assinada ,Motoboy
+806,2018-03-12,45.0,Envio de RRT ao CBMMG.,Motoboy
+807,2018-03-12,18.0,Entrega de projeto aprovado (Residencial Ipê).,Motoboy
+808,2018-03-12,15.0,Ida ao Serra.,Motoboy
+809,2018-03-12,18.0,ida ao Santo Agostinho,Motoboy
+810,2018-03-12,20.0,Retirada de projeto notificado.,Motoboy
+811,2018-03-12,20.0,Retirada de pasta para cópia.,Motoboy
+812,2018-03-12,35.0,Devolução de pasta ao CBMMG.,Motoboy
+813,2018-03-12,15.0,Pegar pasta de projeto.,Motoboy
+814,2018-03-01,50.0,"Ida ao CBMMG, retirar projeto notificado. (02 idas)",Motoboy
+815,2018-03-01,47.1,Envio de projeto para protocolo.,Motoboy
+816,2018-03-12,20.0,Pegar atestado técnico assinado.,Motoboy
+817,2018-03-12,18.0,Envio de laudo técnico e RRT.,Motoboy
+818,2018-03-13,50.0,Retirada de projeto notificado.,Motoboy
+819,2018-04-10,15.0,Entrega de projeto .,Motoboy
+820,2018-04-10,15.0,Ida ao SICAF.,Motoboy
+821,2018-04-10,18.0,Envio de projeto para assinatura.,Motoboy
+822,2018-04-10,20.0,Entrega de contrato.,Motoboy
+823,2018-04-10,18.0,Entrega de RRT's.,Motoboy
+824,2018-04-10,18.0,Entrega de RRT assinada.,Motoboy
+825,2018-04-10,35.0,"Ida ao CBMMG, retirar projeto notificado.",Motoboy
+826,2018-04-10,18.0,Ida a Hidricon retirar atestado técnico e RRT.,Motoboy
+827,2018-03-29,25.0,Protocolo de projeto no Corpo de Bombeiros.,Motoboy
+828,2018-03-12,18.0,Entrega de RRT assinada,Motoboy
+829,2018-03-12,18.0,Pegar contrato assinado,Motoboy
+830,2018-04-10,18.0,Retirada de atestado técnico assinado.,Motoboy
+831,2018-05-10,15.0,Entrega de propostas a Lucia Helena.,Motoboy
+832,2018-04-10,35.0,"Ida ao CBMMG, retorno de análise.",Motoboy
+833,2018-04-10,18.0,Entrega de RRT assinada.,Motoboy
+834,2018-04-10,14.0,Ida a BHZ entrega de projeto aprovado.,Motoboy
+835,2018-04-10,18.0,Ida ao Crea protocolar atestado.,Motoboy
+836,2018-04-10,28.0,Ida a BHZ retirar cheque.,Motoboy
+837,2018-04-10,22.0,Ida ao Crea protocolar atestado.,Motoboy
+838,2018-04-10,30.0,Entrega de projeto aprovado.,Motoboy
+839,2018-04-10,15.0,Pegar projeto para assinatura.,Motoboy
+840,2018-04-10,33.0,Ida ao DEER entregar a Composição de custo unitário assinados (Convite nº 06.2/2017).,Motoboy
+841,2018-04-10,14.0,Ida a Direcional entrega de projeto aprovado.,Motoboy
+842,2018-04-11,25.0,Retirada de projeto notificado.,Motoboy
+843,2018-04-12,50.0,Retirada de projeto notificado.,Motoboy
+844,2018-04-12,31.5,Envio de projeto por Sedex.,Motoboy
+845,2018-05-10,18.0,Entrega de projeto aprovado.,Motoboy
+846,2018-05-10,45.0,"Ida ao CBMMG, para carimbar anexo C.",Motoboy
+847,2018-05-10,20.0,Entrega de projeto aprovado.,Motoboy
+848,2018-05-10,14.0,Entrega de projeto de instalações de prevenção e combate a incêndio.,Motoboy
+849,2018-05-10,14.0,Entrega de projeto aprovado.,Motoboy
+850,2018-05-10,22.0,Entrega de projeto aprovado.,Motoboy
+851,2018-04-24,25.0,"Retorno de projeto, pedido de recurso.",Motoboy
+852,2018-05-10,15.0,Entrega de contrato assinado.,Motoboy
+853,2018-05-10,15.0,Entrega de RRT assinada.,Motoboy
+854,2018-05-10,15.0,Retirada de cheque na BHZ.,Motoboy
+855,2018-05-10,15.0,Ida ao SICAF.,Motoboy
+856,2017-10-10,60.0,Serviços de boy,Motoboy - Kleydson
+857,2017-11-10,302.0,Serviços de boy,Motoboy - Kleydson
+858,2017-02-10,95.0,Serviços de motoboy,Motoboy - Kleydson
+859,2017-03-10,105.0,Serviços de motoboy,Motoboy - Kleydson
+860,2017-04-10,35.0,Serviços de motoboy,Motoboy - Kleydson
+861,2017-06-08,612.0,Serviços de motoboy,Motoboy - Kleydson
+862,2017-08-10,77.5,Serviços de motoboy,Motoboy - Kleydson
+863,2018-02-01,17.5,Ida a BHZ retirar cheque.,Motoboy - Kleydson
+864,2018-03-05,17.5,Retirada de cheque na BHZ.,Motoboy - Kleydson
+865,2018-05-10,15.0,Retirada de contrato assinado.,Motoboy - Kleydson
+866,2018-01-04,329.39,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+867,2018-01-08,1265.67,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+868,2018-01-08,258.3,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+869,2018-01-15,209.22,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+870,2018-01-23,92.25,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+871,2018-01-31,59.66,Impostos sobre emissão de nota fiscal,OUTROS impostos mercadorias e serviços
+872,2018-01-26,60.27,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+873,2018-01-31,40.04,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+874,2018-02-08,538.13,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+875,2018-03-02,559.65,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+876,2018-01-02,736.77,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+877,2018-02-20,325.34,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+878,2018-02-08,244.77,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+879,2018-03-02,120.54,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+880,2018-03-30,96.56,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+881,2018-04-02,658.79,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+882,2018-04-02,415.13,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+883,2018-04-02,430.5,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+884,2018-03-29,96.68,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+885,2018-03-29,92.25,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+886,2018-05-02,329.39,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+887,2018-05-02,154.06,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+888,2018-05-02,166.05,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+889,2018-04-13,86.1,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+890,2018-04-19,91.14,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+891,2018-04-27,849.93,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+892,2018-05-02,239.85,Impostos sobre nota fiscal,OUTROS impostos mercadorias e serviços
+893,2017-10-05,415.0,Plotagens ,Plotagem
+894,2017-11-05,173.0,Plotagens,Plotagem
+895,2017-01-13,92.7,Plotagens,Plotagem
+896,2017-02-13,285.3,Plotagens,Plotagem
+897,2017-04-13,425.9,Plotagens,Plotagem
+898,2017-05-10,89.1,Plotagens,Plotagem
+899,2017-05-19,108.7,Plotagens,Plotagem
+900,2017-07-03,466.3,Plotagens,Plotagem
+901,2017-08-17,55.76,Plotagens,Plotagem
+902,2017-09-01,325.0,Plotagens,Plotagem
+903,2017-09-01,765.0,Serviços de manutenção de computadores,Plotagem
+904,2017-12-11,10.0,Plotagens,Plotagem
+905,2017-12-11,5.0,Plotagens,Plotagem
+906,2017-12-11,26.0,Plotagens,Plotagem
+907,2017-12-11,22.0,Plotagens,Plotagem
+908,2017-12-11,8.0,Plotagens,Plotagem
+909,2017-12-11,91.0,Plotagens,Plotagem
+910,2018-01-08,15.0,Plotagens,Plotagem
+911,2018-01-08,40.0,Plotagens,Plotagem
+912,2018-01-08,77.0,Plotagens,Plotagem
+913,2018-01-08,10.0,Plotagens,Plotagem
+914,2018-01-11,69.0,Plotagens,Plotagem
+915,2018-02-09,20.0,Plotagens,Plotagem
+916,2018-02-05,20.0,Plotagens,Plotagem
+917,2018-02-05,10.0,Plotagens,Plotagem
+918,2018-02-05,5.0,Plotagens,Plotagem
+919,2018-02-05,31.0,Plotagens,Plotagem
+920,2018-02-09,11.0,Plotagens,Plotagem
+921,2018-02-05,5.0,Plotagens,Plotagem
+922,2018-02-05,15.0,Plotagens,Plotagem
+923,2018-02-05,22.0,Plotagens,Plotagem
+924,2018-02-05,13.0,Plotagens (residencial 03),Plotagem
+925,2018-03-16,11.6,Plotagens,Plotagem
+926,2018-03-16,24.0,Plotagens,Plotagem
+927,2018-02-19,25.0,Plotagens,Plotagem
+928,2018-02-19,24.73,Plotagens,Plotagem
+929,2018-03-16,12.5,Plotagens,Plotagem
+930,2018-03-16,14.4,Plotagens,Plotagem
+931,2018-03-16,16.5,Plotagens,Plotagem
+932,2018-03-06,46.4,Plotagens,Plotagem
+933,2018-03-16,25.0,Plotagens,Plotagem
+934,2018-04-10,91.8,Plotagens,Plotagem
+935,2018-04-10,38.4,Plotagens,Plotagem
+936,2018-04-10,99.76,Plotagens,Plotagem
+937,2018-04-10,14.13,Plotagens,Plotagem
+938,2018-04-10,46.4,Plotagens,Plotagem
+939,2018-04-10,31.5,Plotagens,Plotagem
+940,2018-04-10,6.7,Plotagens,Plotagem
+941,2018-03-29,10.0,Plotagens,Plotagem
+942,2018-04-10,17.4,Plotagens,Plotagem
+943,2018-04-10,86.4,Plotagens,Plotagem
+944,2018-05-10,9.6,Plotagens,Plotagem
+945,2018-05-10,25.0,Plotagens,Plotagem
+946,2018-04-12,30.53,Plotagens,Plotagem
+947,2018-05-10,153.6,Plotagens,Plotagem
+948,2018-05-10,19.2,Plotagens,Plotagem
+949,2018-06-11,10.6,Plotagens,Plotagem
+950,2017-12-20,353.21,Confraternização de final de ano,Prêmios e outros benefícios
+951,2017-01-01,834.0,Pro-labore CAFJ,Pro-labore
+952,2017-02-01,834.0,Pro-labore CAFJ,Pro-labore
+953,2017-03-01,834.0,Pro-labore CAFJ,Pro-labore
+954,2017-04-01,834.0,Pro-labore CAFJ,Pro-labore
+955,2017-05-01,834.0,Pro-labore CAFJ,Pro-labore
+956,2017-06-01,834.0,Pro-labore CAFJ,Pro-labore
+957,2017-07-01,834.0,Pro-labore CAFJ,Pro-labore
+958,2017-08-01,834.0,Pro-labore CAFJ,Pro-labore
+959,2017-09-01,834.0,Pro-labore CAFJ,Pro-labore
+960,2017-10-01,834.0,Pro-labore CAFJ,Pro-labore
+961,2017-11-01,834.0,Pro-labore CAFJ,Pro-labore
+962,2017-12-01,834.0,Pro-labore CAFJ,Pro-labore
+963,2018-01-01,13356.0,Pro-labore ,Pro-labore
+964,2018-02-01,13356.0,Pro-labore ,Pro-labore
+965,2018-04-01,13356.0,Pro-labore ,Pro-labore
+966,2018-05-01,13356.0,Pro-labore ,Pro-labore
+967,2018-06-01,13356.0,Pro-labore ,Pro-labore
+968,2018-07-01,13356.0,Pro-labore ,Pro-labore
+969,2018-08-01,13356.0,Pro-labore ,Pro-labore
+970,2018-09-01,13356.0,Pro-labore ,Pro-labore
+971,2018-10-01,13356.0,Pro-labore ,Pro-labore
+972,2018-11-01,13356.0,Pro-labore ,Pro-labore
+973,2018-12-01,13356.0,Pro-labore ,Pro-labore
+974,2019-01-01,13356.0,Pro-labore ,Pro-labore
+975,2018-03-01,13356.0,Pro-labore ,Pro-labore
+976,2018-03-01,13356.0,Pro-labore,Pro-labore
+977,2017-11-08,1168.76,Rescisão Arlete,Rescisão contratual 
+978,2017-10-31,1568.0,Salário Gilmara,Salário
+979,2017-11-01,1565.0,Salário Arlete,Salário
+980,2017-12-29,1306.0,Salário Gilmara,Salário
+981,2017-12-29,848.0,Salário Jeciane,Salário
+982,2017-01-31,1129.0,Salário Gilmara,Salário
+983,2017-01-31,780.0,Salário Jeciane,Salário
+984,2017-03-02,1569.0,Salário Gilmara,Salário
+985,2017-03-02,1019.0,Salário Jeciane,Salário
+986,2017-03-31,1506.0,Salário Gilmara,Salário
+987,2017-03-31,955.0,Salário Jeciane,Salário
+988,2017-11-01,586.0,Salário Jeciane,Salário
+989,2017-12-01,950.0,Salário Daniele,Salário
+990,2017-12-01,1207.0,Salário Jeciane,Salário
+991,2017-12-01,2007.0,Salário Gilmara,Salário
+992,2017-07-31,1568.0,Salário Gilmara,Salário
+993,2017-07-31,1019.0,Salário Jeciane,Salário
+994,2017-06-30,1569.0,Salário Gilmara,Salário
+995,2017-06-30,992.0,Salário Jeciane,Salário
+996,2017-05-31,1568.0,Salário Gilmara,Salário
+997,2017-05-31,1019.0,Salário Jeciane,Salário
+998,2017-04-28,1495.0,Salário Gilmara,Salário
+999,2017-04-28,971.0,Salário Jeciane,Salário
+1000,2017-09-29,992.0,Salário Jeciane,Salário
+1001,2017-09-29,1568.0,Salário Gilmara,Salário
+1002,2017-09-29,1129.0,Salário Arlete,Salário
+1003,2018-06-01,2000.0,Salário Gilmara,Salário
+1004,2018-07-01,2000.0,Salário Gilmara,Salário
+1005,2018-08-01,2000.0,Salário Gilmara,Salário
+1006,2018-09-01,2000.0,Salário Gilmara,Salário
+1007,2018-10-01,2000.0,Salário Gilmara,Salário
+1008,2018-11-01,2000.0,Salário Gilmara,Salário
+1009,2018-12-01,2000.0,Salário Gilmara,Salário
+1010,2018-06-01,1850.0,Salário Daniele,Salário
+1011,2018-07-01,1850.0,Salário Daniele,Salário
+1012,2018-08-01,1850.0,Salário Daniele,Salário
+1013,2018-09-01,1850.0,Salário Daniele,Salário
+1014,2018-10-01,1850.0,Salário Daniele,Salário
+1015,2018-11-01,1850.0,Salário Daniele,Salário
+1016,2018-12-01,1850.0,Salário Daniele,Salário
+1017,2018-06-01,1300.0,Salário Jeciane,Salário
+1018,2018-07-01,1300.0,Salário Jeciane,Salário
+1019,2018-08-01,1300.0,Salário Jeciane,Salário
+1020,2018-09-01,1300.0,Salário Jeciane,Salário
+1021,2018-10-01,1300.0,Salário Jeciane,Salário
+1022,2018-11-01,1300.0,Salário Jeciane,Salário
+1023,2018-12-01,1300.0,Salário Jeciane,Salário
+1024,2018-01-08,1520.0,Salário Gilmara,Salário
+1025,2018-01-08,978.0,Salário Jeciane,Salário
+1026,2018-01-08,1565.0,Salário Daniele,Salário
+1027,2018-02-01,1676.0,Salário Daniele,Salário
+1028,2018-02-01,900.0,Salário Jeciane,Salário
+1029,2018-02-01,1385.0,Salário Gilmara,Salário
+1030,2018-03-01,1565.0,Salário Daniele,Salário
+1031,2018-03-01,1797.0,Salário Gilmara,Salário
+1032,2018-03-01,1148.0,Salário Jeciane,Salário
+1033,2018-04-01,1565.0,Salário Daniele,Salário
+1034,2018-04-01,1824.0,Salário Gilmara,Salário
+1035,2018-04-01,1176.0,Salário Jeciane,Salário
+1036,2018-05-01,1825.0,Salário Gilmara,Salário
+1037,2018-05-01,1565.0,Salário Daniele,Salário
+1038,2018-05-01,1067.0,Salário Jeciane,Salário
+1039,2018-03-08,190.0,Seguro garantia convite nº 062/2017 DEER/MG,Seguros
+1040,2017-12-08,60.0,Serviço de limpeza,Serviço de limpeza
+1041,2017-12-01,60.0,Serviço de limpeza,Serviço de limpeza
+1042,2018-01-06,60.0,Serviço de limpeza,Serviço de limpeza
+1043,2018-01-12,70.0,Serviço de limpeza,Serviço de limpeza
+1044,2018-01-26,70.0,Serviço de limpeza,Serviço de limpeza
+1045,2018-01-19,70.0,Serviço de limpeza,Serviço de limpeza
+1046,2018-02-03,80.0,Serviço de limpeza,Serviço de limpeza
+1047,2018-03-17,80.0,Serviço de limpeza,Serviço de limpeza
+1048,2018-03-24,80.0,Serviço de limpeza,Serviço de limpeza
+1049,2018-03-31,80.0,Serviço de limpeza,Serviço de limpeza
+1050,2018-04-07,80.0,Serviço de limpeza,Serviço de limpeza
+1051,2018-04-21,80.0,Serviço de limpeza,Serviço de limpeza
+1052,2018-05-05,80.0,Serviço de limpeza,Serviço de limpeza
+1053,2018-05-12,80.0,Serviço de limpeza,Serviço de limpeza
+1054,2018-05-19,80.0,Serviço de limpeza,Serviço de limpeza
+1055,2018-05-26,80.0,Serviço de limpeza,Serviço de limpeza
+1056,2018-06-02,80.0,Serviço de limpeza,Serviço de limpeza
+1057,2018-06-09,80.0,Serviço de limpeza,Serviço de limpeza
+1058,2018-06-16,80.0,Serviço de limpeza,Serviço de limpeza
+1059,2018-06-23,80.0,Serviço de limpeza,Serviço de limpeza
+1060,2018-06-30,80.0,Serviço de limpeza,Serviço de limpeza
+1061,2018-07-07,80.0,Serviço de limpeza,Serviço de limpeza
+1062,2018-07-14,80.0,Serviço de limpeza,Serviço de limpeza
+1063,2018-07-21,80.0,Serviço de limpeza,Serviço de limpeza
+1064,2018-07-28,80.0,Serviço de limpeza,Serviço de limpeza
+1065,2018-08-04,80.0,Serviço de limpeza,Serviço de limpeza
+1066,2018-08-11,80.0,Serviço de limpeza,Serviço de limpeza
+1067,2018-08-18,80.0,Serviço de limpeza,Serviço de limpeza
+1068,2018-08-25,80.0,Serviço de limpeza,Serviço de limpeza
+1069,2018-09-01,80.0,Serviço de limpeza,Serviço de limpeza
+1070,2018-09-08,80.0,Serviço de limpeza,Serviço de limpeza
+1071,2018-09-15,80.0,Serviço de limpeza,Serviço de limpeza
+1072,2018-09-22,80.0,Serviço de limpeza,Serviço de limpeza
+1073,2018-09-29,80.0,Serviço de limpeza,Serviço de limpeza
+1074,2018-10-06,80.0,Serviço de limpeza,Serviço de limpeza
+1075,2018-10-13,80.0,Serviço de limpeza,Serviço de limpeza
+1076,2018-10-20,80.0,Serviço de limpeza,Serviço de limpeza
+1077,2018-10-27,80.0,Serviço de limpeza,Serviço de limpeza
+1078,2018-11-03,80.0,Serviço de limpeza,Serviço de limpeza
+1079,2018-11-10,80.0,Serviço de limpeza,Serviço de limpeza
+1080,2018-11-17,80.0,Serviço de limpeza,Serviço de limpeza
+1081,2018-11-24,80.0,Serviço de limpeza,Serviço de limpeza
+1082,2018-12-01,80.0,Serviço de limpeza,Serviço de limpeza
+1083,2018-12-08,80.0,Serviço de limpeza,Serviço de limpeza
+1084,2018-12-15,80.0,Serviço de limpeza,Serviço de limpeza
+1085,2018-12-22,80.0,Serviço de limpeza,Serviço de limpeza
+1086,2018-12-29,80.0,Serviço de limpeza,Serviço de limpeza
+1087,2019-01-05,80.0,Serviço de limpeza,Serviço de limpeza
+1088,2019-01-12,80.0,Serviço de limpeza,Serviço de limpeza
+1089,2019-01-19,80.0,Serviço de limpeza,Serviço de limpeza
+1090,2019-01-26,80.0,Serviço de limpeza,Serviço de limpeza
+1091,2018-02-08,160.0,Serviços de troca de torneira e mangueira de caixa acoplada.,Serviço de limpeza
+1092,2018-02-09,80.0,Serviço de limpeza,Serviço de limpeza
+1093,2018-02-17,80.0,Serviço de limpeza,Serviço de limpeza
+1094,2018-02-24,80.0,Serviço de limpeza,Serviço de limpeza
+1095,2018-03-03,80.0,Serviço de limpeza,Serviço de limpeza
+1096,2018-04-05,25.0,Limpeza da sala 601,Serviço de limpeza
+1097,2018-04-14,80.0,Serviço de limpeza,Serviço de limpeza
+1098,2018-05-02,80.0,Serviço de limpeza,Serviço de limpeza
+1099,2017-11-06,7000.0,Emissão de laudo de SPDA do Fórum do Recife,Serviço de terceiro
+1100,2017-12-18,3000.0,Pagamento de serviços de elaboração de projeto,Serviço de terceiro
+1101,2018-01-31,1500.0,Elaboração de lista e memorial de arquitetura,Serviço de terceiro
+1102,2018-02-28,1500.0,Elaboração de lista e memorial de arquitetura - parcela 2/2,Serviço de terceiro
+1103,2018-01-31,1500.0,valor referente a 50% dos serviços prestados na BH Airpot parcela 1/2,Serviço de terceiro
+1104,2018-02-07,190.0,Instalação de fechadura eletrônica.,Serviço de terceiro
+1105,2018-02-07,316.0,Instalação de camera,Serviço de terceiro
+1106,2019-03-19,380.0,Manutenção preventiva no Ar condicionado salas 604/605,Serviço de terceiro
+1107,2018-03-19,380.0,Manutenção preventiva no Ar condicionado salas 604/605,Serviço de terceiro
+1108,2018-04-25,120.0,Visita técnica para configuração de linhas telefônicas (PABX).,Serviço de terceiro
+1109,2018-04-30,20.0,Manutenção de impressora Brother.,Serviço de terceiro
+1110,2018-04-26,120.0,Consultoria em revit.,Serviço de terceiro
+1111,2018-05-07,480.0,Serviços referente a medição de maio. Contrato nº 2018-030.,Serviço de terceiro
+1112,2017-11-03,32.0,Domí­nio cadari@cadari,Serviços de TI
+1113,2017-03-23,90.0,Serviços de manutenção de computadores,Serviços de TI
+1114,2017-04-19,240.0,Serviços de manutenção de computadores,Serviços de TI
+1115,2017-05-19,120.0,Serviços de manutenção de computadores,Serviços de TI
+1116,2017-07-03,142.0,Serviços de manutenção de computadores,Serviços de TI
+1117,2017-06-30,475.0,Manutenção de relógio de ponto,Serviços de TI
+1118,2018-03-29,240.0,Visitas técnicas.,Serviços de TI
+1119,2017-11-22,39.9,Software de ponto,Software tratamento de ponto
+1120,2017-11-02,39.9,Software de ponto,Software tratamento de ponto
+1121,2017-08-30,195.0,Manutenção de relógio de ponto,Software tratamento de ponto
+1122,2018-03-21,39.9,Software de ponto,Software tratamento de ponto
+1123,2018-06-21,39.9,Software de ponto,Software tratamento de ponto
+1124,2018-07-21,39.9,Software de ponto,Software tratamento de ponto
+1125,2018-08-21,39.9,Software de ponto,Software tratamento de ponto
+1126,2018-09-21,39.9,Software de ponto,Software tratamento de ponto
+1127,2018-10-21,39.9,Software de ponto,Software tratamento de ponto
+1128,2018-11-21,39.9,Software de ponto,Software tratamento de ponto
+1129,2018-12-21,39.9,Software de ponto,Software tratamento de ponto
+1130,2017-12-19,39.9,Software de ponto,Software tratamento de ponto
+1131,2018-01-19,39.9,Software de ponto,Software tratamento de ponto
+1132,2018-02-20,39.9,Software de ponto,Software tratamento de ponto
+1133,2018-04-20,39.9,Software de ponto,Software tratamento de ponto
+1134,2018-05-21,39.9,Software de ponto,Software tratamento de ponto
+1135,2017-10-03,341.75,Conta de celular ,Telefone e internet
+1136,2017-01-15,807.01,Telefone celular,Telefone e internet
+1137,2017-02-15,452.03,Telefone celular,Telefone e internet
+1138,2017-03-15,348.89,Telefone celular,Telefone e internet
+1139,2017-11-06,344.57,Telefone celular,Telefone e internet
+1140,2017-12-03,566.23,Telefone celular,Telefone e internet
+1141,2018-06-03,566.23,Telefone celular,Telefone e internet
+1142,2018-07-03,566.23,Telefone celular,Telefone e internet
+1143,2017-06-05,136.8,Telefone celular,Telefone e internet
+1144,2017-09-01,435.69,Telefone celular,Telefone e internet
+1145,2017-02-10,247.62,Telefone fixo e internet,Telefone e internet
+1146,2017-01-10,252.13,Telefone fixo e internet,Telefone e internet
+1147,2017-04-10,299.03,Telefone fixo e internet,Telefone e internet
+1148,2017-03-10,279.3,Telefone fixo e internet,Telefone e internet
+1149,2017-05-10,149.06,Telefone celular,Telefone e internet
+1150,2017-05-10,280.65,Telefone fixo e internet,Telefone e internet
+1151,2017-07-10,296.63,Telefone fixo e internet,Telefone e internet
+1152,2017-06-10,17.76,Telefone fixo e internet,Telefone e internet
+1153,2017-08-10,330.53,Telefone fixo e internet,Telefone e internet
+1154,2017-08-02,373.27,Telefone celular,Telefone e internet
+1155,2017-09-10,332.85,Telefone fixo e internet,Telefone e internet
+1156,2017-10-10,275.9,Telefone fixo e internet,Telefone e internet
+1157,2017-10-10,392.79,Telefone fixo e internet,Telefone e internet
+1158,2017-07-03,246.55,Telefone celular,Telefone e internet
+1159,2017-12-10,288.91,Telefone fixo e internet,Telefone e internet
+1160,2018-01-10,256.6,Telefone fixo e internet,Telefone e internet
+1161,2018-01-03,572.71,Telefone celular,Telefone e internet
+1162,2018-02-09,256.6,Telefone fixo e internet,Telefone e internet
+1163,2018-02-03,539.37,Telefone celular,Telefone e internet
+1164,2018-03-05,515.39,Telefone celular,Telefone e internet
+1165,2018-03-12,263.53,Telefone fixo e internet,Telefone e internet
+1166,2018-04-03,364.7,Telefone celular,Telefone e internet
+1167,2018-04-10,267.61,Telefone fixo e internet,Telefone e internet
+1168,2018-06-10,267.61,Telefone fixo e internet,Telefone e internet
+1169,2018-07-10,267.61,Telefone fixo e internet,Telefone e internet
+1170,2018-08-10,267.61,Telefone fixo e internet,Telefone e internet
+1171,2018-09-10,267.61,Telefone fixo e internet,Telefone e internet
+1172,2018-10-10,267.61,Telefone fixo e internet,Telefone e internet
+1173,2018-11-10,267.61,Telefone fixo e internet,Telefone e internet
+1174,2018-12-10,267.61,Telefone fixo e internet,Telefone e internet
+1175,2018-05-03,407.34,Telefone celular,Telefone e internet
+1176,2018-05-15,41.18,Telefone fixo e internet,Telefone e internet
+1177,2018-05-10,266.41,Telefone fixo e internet,Telefone e internet
+1178,2017-05-05,217.32,Taxa de Fiscalização de Localização e Funcionamento - TFLF,TFLF
+1179,2017-05-05,528.5,Serviços de motoboy,TFLF
+1180,2017-05-09,89.75,RRT,TFLF
+1181,2018-05-10,228.31,Taxa de Fiscalização de Localização e Funcionamento - TFLF,TFLF
+1182,2018-02-05,39.9,Cotação de curso de Revit,Treinamento
+1183,2018-02-19,1300.0,Treinamento de Revit para 4 pessoas,Treinamento
+1184,2018-04-04,190.0,Aula extra curso de Revit.,Treinamento
+1185,2018-03-19,1300.0,Treinamento de Revit para 4 pessoas,Treinamento

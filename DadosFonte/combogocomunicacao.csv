@@ -1,0 +1,3351 @@
+,Date,Value,Descricao,Categoria
+0,2016-10-03,433.33,Metade do 13º Thiago,13º Salário
+1,2016-12-12,525.0,13º Catharina,13º Salário
+2,2016-12-12,1319.0,13º Bruna,13º Salário
+3,2016-12-12,1016.0,13º João,13º Salário
+4,2016-12-12,168.0,13º Wendell,13º Salário
+5,2016-12-13,364.0,13º Salário Thiago,13º Salário
+6,2017-05-03,1361.59,Metade do 13º João,13º Salário
+7,2017-06-21,1825.77,Metade 13º Bruna,13º Salário
+8,2017-11-27,779.68,13º Roberta,13º Salário
+9,2017-12-14,1415.0,13º Salário Bruna,13º Salário
+10,2017-12-14,1073.0,13º Salário João,13º Salário
+11,2017-12-14,533.0,13º Salário Wendell Rafael,13º Salário
+12,2017-12-14,639.0,Cheque: 13º roberta,13º Salário
+13,2016-02-15,101.0,Compesa - Sala torre,Água
+14,2017-09-07,119.6,Mlabs - sistema de gestão ,Água
+15,2017-09-12,109.17,Combustível,Água
+16,2016-02-11,761.73,Condomínio,Aluguel
+17,2016-02-11,2800.0,Aluguel Fevereiro 2016,Aluguel
+18,2016-02-10,516.66,Aluguel Sala Antiga,Aluguel
+19,2016-03-10,761.73,Condomínio,Aluguel
+20,2016-03-14,2976.86,Aluguel- Março,Aluguel
+21,2016-04-07,761.73,Condomínio,Aluguel
+22,2016-04-08,2888.43,Aluguel,Aluguel
+23,2016-05-17,3000.0,Cheque - Aluguel,Aluguel
+24,2016-07-18,3263.0,Reembolso de pagamento (Aluguel + Conta Claro Celular),Aluguel
+25,2016-11-14,2888.43,Aluguel,Aluguel
+26,2016-10-14,2888.43,Aluguel,Aluguel
+27,2016-09-15,3020.39,Aluguel,Aluguel
+28,2016-08-15,2888.43,Aluguel,Aluguel
+29,2016-07-02,761.73,Condomínio,Aluguel
+30,2016-06-17,2888.43,Aluguel ,Aluguel
+31,2016-12-14,2800.0,Aluguel ,Aluguel
+32,2017-01-17,2800.0,Aluguel,Aluguel
+33,2017-02-15,1429.13,Aluguel,Aluguel
+34,2017-03-15,1994.13,Cheque - Aluguel,Aluguel
+35,2017-04-13,1994.13,Aluguel,Aluguel
+36,2017-05-17,1380.13,Aluguel,Aluguel
+37,2017-06-12,1994.13,Aluguel,Aluguel
+38,2017-07-14,1994.13,Aluguel,Aluguel
+39,2017-08-15,1994.13,Aluguel,Aluguel
+40,2017-09-15,2100.02,Aluguel,Aluguel
+41,2017-10-18,1994.13,Aluguel,Aluguel
+42,2017-11-09,1994.13,Aluguel,Aluguel
+43,2017-12-13,1900.0,Aluguel,Aluguel
+44,2018-01-11,1900.0,Aluguel,Aluguel
+45,2018-02-16,1989.58,Aluguel,Aluguel
+46,2018-03-14,1989.58,Aluguel,Aluguel
+47,2018-04-17,1989.58,Aluguel,Aluguel
+48,2016-12-15,514.16,Computador Design (6/6),Aquisição de equipamentos
+49,2016-12-15,82.54,Tablet Tino(2/10),Aquisição de equipamentos
+50,2016-12-15,533.0,Celulares (1/6),Aquisição de equipamentos
+51,2017-01-15,82.54,Tablet Tino(3/10),Aquisição de equipamentos
+52,2017-01-15,533.0,Celulares (2/6),Aquisição de equipamentos
+53,2017-02-15,82.54,Tablet Tino(4/10),Aquisição de equipamentos
+54,2017-02-15,533.0,Celulares (3/6),Aquisição de equipamentos
+55,2017-03-15,82.54,Tablet Tino(5/10),Aquisição de equipamentos
+56,2017-03-15,533.0,Celulares (4/6),Aquisição de equipamentos
+57,2017-09-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+58,2017-10-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+59,2017-11-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+60,2018-01-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+61,2017-04-15,533.0,Celulares (5/6),Aquisição de equipamentos
+62,2017-04-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+63,2017-04-15,82.54,Tablet Tino(6/10),Aquisição de equipamentos
+64,2017-05-15,82.54,Tablet Tino(até agosto2017),Aquisição de equipamentos
+65,2017-05-15,533.0,Celulares (6/6),Aquisição de equipamentos
+66,2017-05-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+67,2017-06-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+68,2017-06-15,82.54,Tablet Tino(até agosto2017),Aquisição de equipamentos
+69,2017-07-14,87.05,mop,Aquisição de equipamentos
+70,2017-07-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+71,2017-07-15,82.54,Tablet Tino(até agosto2017),Aquisição de equipamentos
+72,2017-08-15,82.54,Tablet Tino(até agosto2017),Aquisição de equipamentos
+73,2017-08-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+74,2017-10-11,450.0,Computador (4/4),Aquisição de equipamentos
+75,2017-10-15,137.5,Compra de decoração,Aquisição de equipamentos
+76,2017-11-15,400.0,COMPUTADOR FINANCEIRO ULTIMA,Aquisição de equipamentos
+77,2017-12-15,359.9,Computador Kássia - até janeiro 2018,Aquisição de equipamentos
+78,2018-03-15,757.54,Computadores Combogó ,Aquisição de equipamentos
+79,2018-04-15,757.54,Computadores Combogó ,Aquisição de equipamentos
+80,2018-05-15,757.54,Computadores Combogó ,Aquisição de equipamentos
+81,2018-06-15,757.54,Computadores Combogó ,Aquisição de equipamentos
+82,2018-07-15,757.54,Computadores Combogó ,Aquisição de equipamentos
+83,2018-08-15,757.54,Computadores Combogó ,Aquisição de equipamentos
+84,2018-09-15,757.54,Computadores Combogó ,Aquisição de equipamentos
+85,2018-10-15,757.54,Computadores Combogó ,Aquisição de equipamentos
+86,2018-04-15,73.0,Plantas,Aquisição de equipamentos
+87,2016-03-05,72.7,Material escritório,Aquisição de suprimentos
+88,2016-10-03,18.5,Papelaria - Folha de ponto,Aquisição de suprimentos
+89,2016-05-06,70.0,Água Mineral,Aquisição de suprimentos
+90,2016-12-15,171.54,Cartucho (1/3),Aquisição de suprimentos
+91,2016-12-15,68.94,Feira do mês nov,Aquisição de suprimentos
+92,2016-12-15,137.4,Papelaria,Aquisição de suprimentos
+93,2017-01-15,171.54,Cartucho (2/3),Aquisição de suprimentos
+94,2017-01-15,400.0,Feira viagem,Aquisição de suprimentos
+95,2017-02-15,171.54,Cartucho (3/3),Aquisição de suprimentos
+96,2017-07-08,14.78,Copa/cozinha,Aquisição de suprimentos
+97,2018-01-09,92.0,Confra ,Aquisição de suprimentos
+98,2018-01-09,75.0,presente taciana total,Aquisição de suprimentos
+99,2018-01-09,86.2,Pizza escritório final de ano,Aquisição de suprimentos
+100,2018-01-09,6.99,google assinatura,Aquisição de suprimentos
+101,2018-01-09,26.91,mlabs ,Aquisição de suprimentos
+102,2018-01-09,115.83,gasolina do mes dez,Aquisição de suprimentos
+103,2018-01-09,64.9,revistas ,Aquisição de suprimentos
+104,2017-11-15,147.15,VINHO FUNCIONÁRIOS FINAL DE ANO,Aquisição de suprimentos
+105,2018-02-15,121.43,Cafés janeiro,Aquisição de suprimentos
+106,2018-02-15,131.85,Gasolina janeiro,Aquisição de suprimentos
+107,2018-02-15,117.47,cartão de memoria celular escritório,Aquisição de suprimentos
+108,2018-02-15,143.33,jantar escritório pós-evento,Aquisição de suprimentos
+109,2018-02-15,156.7,Presente filho allan moda ,Aquisição de suprimentos
+110,2018-02-15,6.99,google drive,Aquisição de suprimentos
+111,2018-02-15,26.91,mlabs ,Aquisição de suprimentos
+112,2018-02-15,53.82,mlabs,Aquisição de suprimentos
+113,2018-02-15,73.0,Almoço cliente,Aquisição de suprimentos
+114,2018-02-15,67.98,Pizza escritório ,Aquisição de suprimentos
+115,2016-01-22,66.5,Assinatura Jornal do comércio (1/8),Assinaturas Jornais e Revistas
+116,2016-01-29,98.8,Diário de Pernambuco (1/5),Assinaturas Jornais e Revistas
+117,2016-01-29,156.0,Pagseguro - Clipping,Assinaturas Jornais e Revistas
+118,2016-02-22,66.5,Jornal do Commercio (2/8),Assinaturas Jornais e Revistas
+119,2016-03-01,94.0,Folha de Pernambuco (1/7),Assinaturas Jornais e Revistas
+120,2016-03-23,66.5,Jornal do Commercio (3/8),Assinaturas Jornais e Revistas
+121,2016-03-23,98.8,Diário de Pernambuco (2/5),Assinaturas Jornais e Revistas
+122,2016-04-19,98.8,Diário de Pernambuco (3/5),Assinaturas Jornais e Revistas
+123,2016-04-19,66.5,Jornal do Commercio (4/8),Assinaturas Jornais e Revistas
+124,2016-04-26,94.0,Folha de Pernambuco,Assinaturas Jornais e Revistas
+125,2016-05-03,94.0,Folha de PE (3/7),Assinaturas Jornais e Revistas
+126,2016-05-24,66.5,Jornal do Commercio (5/8),Assinaturas Jornais e Revistas
+127,2016-05-24,98.8,Diário de Pernambuco (4/5),Assinaturas Jornais e Revistas
+128,2016-06-21,98.8,Diário de Pernambuco (5/5),Assinaturas Jornais e Revistas
+129,2016-06-21,66.5,Jornal do Commercio (6/8),Assinaturas Jornais e Revistas
+130,2016-06-22,28.0,Revista Você S/A (1/18),Assinaturas Jornais e Revistas
+131,2016-07-02,94.0,Folha de Pernambuco (5/7),Assinaturas Jornais e Revistas
+132,2016-07-20,66.5,Jornal do Commercio (7/8),Assinaturas Jornais e Revistas
+133,2016-08-06,94.0,Folha de PE (6/7),Assinaturas Jornais e Revistas
+134,2016-08-23,66.5,Jornal do Commercio (8/8),Assinaturas Jornais e Revistas
+135,2016-09-10,94.0,Folha de Pernambuco (7/7),Assinaturas Jornais e Revistas
+136,2016-06-01,94.0,Folha de PE (4/7),Assinaturas Jornais e Revistas
+137,2017-01-16,61.25,JC (1/7),Assinaturas Jornais e Revistas
+138,2017-02-06,61.25,JC (2/8),Assinaturas Jornais e Revistas
+139,2017-02-06,71.0,Folha PE (1/7),Assinaturas Jornais e Revistas
+140,2017-03-13,71.0,folha PE (2/7),Assinaturas Jornais e Revistas
+141,2017-03-13,61.25,JC (3/8),Assinaturas Jornais e Revistas
+142,2017-04-17,71.0,Folha PE (3/7),Assinaturas Jornais e Revistas
+143,2017-04-17,61.25,JC (4/8),Assinaturas Jornais e Revistas
+144,2017-05-15,71.0,Folha de Pe (4/7),Assinaturas Jornais e Revistas
+145,2017-05-15,61.25,JC (5/8),Assinaturas Jornais e Revistas
+146,2017-06-05,98.8,Diário de PE (1/5),Assinaturas Jornais e Revistas
+147,2017-06-05,98.8,Diário de PE (2/5),Assinaturas Jornais e Revistas
+148,2017-06-05,98.8,Diário de PE (3/5),Assinaturas Jornais e Revistas
+149,2017-06-05,98.8,Diário de PE (4/5),Assinaturas Jornais e Revistas
+150,2017-06-08,61.25,JC (6/8),Assinaturas Jornais e Revistas
+151,2017-06-08,71.0,Folha PE (5/7),Assinaturas Jornais e Revistas
+152,2017-06-20,98.8,Diário de PE (5/5),Assinaturas Jornais e Revistas
+153,2017-06-28,90.0,Ed Globo TMK,Assinaturas Jornais e Revistas
+154,2017-07-12,61.25,Jornal do commercio (7/8),Assinaturas Jornais e Revistas
+155,2017-07-12,71.0,Folha de PE (6/7),Assinaturas Jornais e Revistas
+156,2017-08-15,71.0,Folha de PE (7/7),Assinaturas Jornais e Revistas
+157,2017-08-15,61.25,Jornal do commercio (8/8),Assinaturas Jornais e Revistas
+158,2018-02-05,102.6,Diário de PE (1/5),Assinaturas Jornais e Revistas
+159,2018-02-08,63.0,Jornal do commercio (1/8),Assinaturas Jornais e Revistas
+160,2018-02-21,63.0,Jornal do commercio (2/8),Assinaturas Jornais e Revistas
+161,2018-03-05,102.6,Diário de PE (2/5),Assinaturas Jornais e Revistas
+162,2018-03-06,71.0,Folha de PE (1/7),Assinaturas Jornais e Revistas
+163,2018-03-28,63.0,Jornal do commercio (3/8),Assinaturas Jornais e Revistas
+164,2018-04-04,102.6,Diário de PE (3/5),Assinaturas Jornais e Revistas
+165,2018-04-09,71.0,Folha PE (2/7),Assinaturas Jornais e Revistas
+166,2018-04-24,63.0,Jornal do commercio (4/8),Assinaturas Jornais e Revistas
+167,2018-05-07,102.6,Diário de PE (4/5),Assinaturas Jornais e Revistas
+168,2018-05-08,71.0,Folha de PE (3/7),Assinaturas Jornais e Revistas
+169,2016-01-12,685.08,Vale Alimentação,Benefício: alimentação
+170,2016-01-26,1045.08,Vale Alimentação,Benefício: alimentação
+171,2016-02-23,1345.08,Alelo - Vale Alimentação,Benefício: alimentação
+172,2016-03-23,1180.08,Vale Alimentação,Benefício: alimentação
+173,2016-04-22,1008.81,Vale alimentação,Benefício: alimentação
+174,2016-05-02,330.0,Vale Alimentação Thiago,Benefício: alimentação
+175,2016-05-25,1531.35,Vale Alimentação - Alelo,Benefício: alimentação
+176,2016-06-27,320.29,Vale Alimentação,Benefício: alimentação
+177,2016-06-29,1613.58,Alelo Refeição,Benefício: alimentação
+178,2016-07-25,1763.98,Vale Refeição,Benefício: alimentação
+179,2016-07-25,350.29,Vale Alimentação,Benefício: alimentação
+180,2016-08-24,965.55,Vale Refeição,Benefício: alimentação
+181,2016-08-24,320.29,Vale Alimentação - Thiago,Benefício: alimentação
+182,2016-11-23,1609.25,Vale Refeição,Benefício: alimentação
+183,2016-11-23,320.29,Vale Alimentação - Thiago,Benefício: alimentação
+184,2016-10-25,1463.98,Vale refeição,Benefício: alimentação
+185,2016-10-25,290.29,Vale alimentação - Tiago,Benefício: alimentação
+186,2016-09-27,1534.25,Vale Alimentação,Benefício: alimentação
+187,2016-09-27,305.29,Vale Refeição ,Benefício: alimentação
+188,2016-12-22,335.29,Vale Alimentação,Benefício: alimentação
+189,2016-12-22,1684.25,Vale refeição,Benefício: alimentação
+190,2017-01-24,1047.4,Vale Refeição,Benefício: alimentação
+191,2017-02-21,1347.4,Vale Alimentação,Benefício: alimentação
+192,2017-03-27,1002.4,Vale Refeição,Benefício: alimentação
+193,2017-04-25,1347.4,Vale Refeição,Benefício: alimentação
+194,2017-05-19,1287.4,Vale Alimentação,Benefício: alimentação
+195,2017-06-05,285.0,Alimentação - Roberta,Benefício: alimentação
+196,2017-06-22,1540.75,Vale refeição,Benefício: alimentação
+197,2017-07-26,1408.64,Vale Refeição,Benefício: alimentação
+198,2017-08-23,1168.64,Vale refeição,Benefício: alimentação
+199,2017-09-27,1535.8,Vale refeição,Benefício: alimentação
+200,2017-10-27,1535.8,Vale refeição,Benefício: alimentação
+201,2017-11-27,1177.04,Vale refeição,Benefício: alimentação
+202,2017-12-27,352.15,Vale alimentação,Benefício: alimentação
+203,2017-12-27,1195.04,Vale Refeição,Benefício: alimentação
+204,2018-01-26,1235.8,Vale refeição,Benefício: alimentação
+205,2018-01-26,245.51,Vale Alimentação,Benefício: alimentação
+206,2018-01-23,135.0,Luana refeição Janeiro,Benefício: alimentação
+207,2018-01-23,57.6,Auxílio Transporte - Maria Eugênia - estagiária,Benefício: alimentação
+208,2018-02-23,305.51,Vale alimentação,Benefício: alimentação
+209,2018-02-23,1540.75,Vale refeição,Benefício: alimentação
+210,2018-03-28,320.51,Vale Alimentação,Benefício: alimentação
+211,2018-03-28,1610.8,Vale refeição,Benefício: alimentação
+212,2018-04-25,335.51,Vale alimentação,Benefício: alimentação
+213,2018-04-25,1400.8,Vale refeição,Benefício: alimentação
+214,2016-01-12,1097.86,Plano Saúde,Benefício: plano de saúde
+215,2016-01-12,109.5,Plano de saúde - Odonto,Benefício: plano de saúde
+216,2016-02-11,1831.38,Plano de Saúde,Benefício: plano de saúde
+217,2016-02-11,233.84,Pnalo de Saúde - Dental,Benefício: plano de saúde
+218,2016-03-14,156.42,Plano de Saude - Odonto,Benefício: plano de saúde
+219,2016-03-14,1337.04,Plano de Saúde,Benefício: plano de saúde
+220,2016-04-11,1446.9,Plano de saúde,Benefício: plano de saúde
+221,2016-04-11,153.3,Plano de saúde - Odonto,Benefício: plano de saúde
+222,2016-05-13,1280.3,Plano de saúde,Benefício: plano de saúde
+223,2016-05-13,153.3,Plano de saúde - Odonto,Benefício: plano de saúde
+224,2016-07-13,101.64,Plana Saúde - Odonto,Benefício: plano de saúde
+225,2016-08-12,1590.44,Plano de Saúde,Benefício: plano de saúde
+226,2016-08-12,145.44,Plano de saúde - Odonto,Benefício: plano de saúde
+227,2016-11-01,740.39,Plano de saúde Zene,Benefício: plano de saúde
+228,2016-11-10,1127.5,Plano de saúde,Benefício: plano de saúde
+229,2016-11-10,96.96,Plano Odonto,Benefício: plano de saúde
+230,2016-10-01,740.39,Plano Saúde - Zene,Benefício: plano de saúde
+231,2016-10-11,1226.42,Plano de saúde,Benefício: plano de saúde
+232,2016-10-11,96.96,Plano Odonto,Benefício: plano de saúde
+233,2016-09-01,740.39,Plano saúde Zene,Benefício: plano de saúde
+234,2016-09-13,1108.85,Plano de saúde,Benefício: plano de saúde
+235,2016-09-13,96.96,Plano Odonto,Benefício: plano de saúde
+236,2016-12-01,740.39,Plano de saúde - Zene,Benefício: plano de saúde
+237,2016-12-09,1139.5,Plano de saúde,Benefício: plano de saúde
+238,2016-12-09,96.96,Plano de saúde - Odonto,Benefício: plano de saúde
+239,2016-06-10,1346.05,Plano de Saúde,Benefício: plano de saúde
+240,2016-06-10,153.3,Plano de Saúde - Odonto,Benefício: plano de saúde
+241,2017-01-02,740.39,Plano de Saúde Zene,Benefício: plano de saúde
+242,2017-01-12,1160.5,Plano de saúde,Benefício: plano de saúde
+243,2017-01-12,96.96,Plano de saúde - Odonto,Benefício: plano de saúde
+244,2017-02-06,740.39,Plano de Saúde - Zene,Benefício: plano de saúde
+245,2017-02-07,1059.5,Plano de saúde,Benefício: plano de saúde
+246,2017-02-07,96.96,Plano de saúde - Odonto,Benefício: plano de saúde
+247,2017-02-22,250.0,Plano de saúde - Hapvida 1º Parcela,Benefício: plano de saúde
+248,2017-03-09,96.96,Plano de saúde - odonto,Benefício: plano de saúde
+249,2017-03-09,225.39,Plano de saúde,Benefício: plano de saúde
+250,2017-03-20,274.9,Hapvida,Benefício: plano de saúde
+251,2017-04-05,740.39,Plano de saúde Zene,Benefício: plano de saúde
+252,2017-04-13,504.78,Plano de saúde - Amil,Benefício: plano de saúde
+253,2017-04-25,274.9,Hapvida,Benefício: plano de saúde
+254,2017-05-05,742.39,Plan de saúde Zene,Benefício: plano de saúde
+255,2017-05-11,563.88,Plana de saúde,Benefício: plano de saúde
+256,2017-05-11,48.48,Odonto,Benefício: plano de saúde
+257,2017-05-23,274.9,Hapvida,Benefício: plano de saúde
+258,2017-06-07,740.39,Plano de saúde Zene,Benefício: plano de saúde
+259,2017-06-08,507.78,Plano de saúde ,Benefício: plano de saúde
+260,2017-06-08,48.48,Plano saúde - Odonto,Benefício: plano de saúde
+261,2017-06-26,297.6,Hapvida,Benefício: plano de saúde
+262,2017-07-11,742.39,Plano de saúde Zene,Benefício: plano de saúde
+263,2017-07-12,589.91,plano de saúde,Benefício: plano de saúde
+264,2017-07-12,56.96,plano de saúde - odonto,Benefício: plano de saúde
+265,2017-07-27,319.94,Hapvida,Benefício: plano de saúde
+266,2017-08-07,874.34,Plano de saúde - zene,Benefício: plano de saúde
+267,2017-08-10,547.76,Plano de saúde - Amil,Benefício: plano de saúde
+268,2017-08-10,56.96,Plano de saúde - Amil odonto,Benefício: plano de saúde
+269,2017-08-23,319.94,Hapvida,Benefício: plano de saúde
+270,2017-09-08,874.34,Plano de saúde Zene,Benefício: plano de saúde
+271,2017-09-12,566.48,Plano de saúde - Amil,Benefício: plano de saúde
+272,2017-09-12,56.96,Plano de saúde - Amil odonto,Benefício: plano de saúde
+273,2017-09-27,319.94,Hapvida,Benefício: plano de saúde
+274,2017-10-05,872.34,Plano de saúde zene,Benefício: plano de saúde
+275,2017-10-09,56.96,Plano de saúde - odonto,Benefício: plano de saúde
+276,2017-10-09,593.42,Plano de saúde amil,Benefício: plano de saúde
+277,2017-10-27,319.94,Hapvida,Benefício: plano de saúde
+278,2017-11-03,874.34,Plano de saúde zene,Benefício: plano de saúde
+279,2017-11-10,596.76,Plano de saúde,Benefício: plano de saúde
+280,2017-11-10,56.96,Plano de saúde - odonto,Benefício: plano de saúde
+281,2017-11-28,319.94,Hapvida,Benefício: plano de saúde
+282,2017-12-11,874.34,Plano de saúde Zene,Benefício: plano de saúde
+283,2017-12-11,571.37,Plano de saúde - amil,Benefício: plano de saúde
+284,2017-12-11,56.96,Plano de saúde - amil - odonto,Benefício: plano de saúde
+285,2017-12-27,319.94,Hapvida,Benefício: plano de saúde
+286,2018-01-04,874.34,Plano de saúde Zene,Benefício: plano de saúde
+287,2018-01-11,537.26,plano de saúde,Benefício: plano de saúde
+288,2018-01-11,56.96,Plano de saúde - odonto,Benefício: plano de saúde
+289,2018-01-29,319.94,Hapvida Kássia,Benefício: plano de saúde
+290,2018-02-05,874.34,Plano de saúde -  Zene,Benefício: plano de saúde
+291,2018-02-06,586.76,Amil,Benefício: plano de saúde
+292,2018-02-06,56.96,Amil odonto,Benefício: plano de saúde
+293,2018-02-23,363.25,Hapvida,Benefício: plano de saúde
+294,2018-03-05,874.34,Plano de saúde Zene,Benefício: plano de saúde
+295,2018-03-12,1580.05,Plano de saúde - Amil,Benefício: plano de saúde
+296,2018-03-12,56.96,Plano de saúde - Aml Odonto,Benefício: plano de saúde
+297,2018-04-02,363.25,Hapvida - Última,Benefício: plano de saúde
+298,2018-04-09,874.34,Plano de saúde zene,Benefício: plano de saúde
+299,2018-04-10,56.96,Amil - Odonto,Benefício: plano de saúde
+300,2018-04-10,1137.64,Amil,Benefício: plano de saúde
+301,2018-05-07,874.34,Plano de saúde Zenilda,Benefício: plano de saúde
+302,2018-05-09,1225.33,Amil,Benefício: plano de saúde
+303,2018-05-09,56.96,Amil - Odonto,Benefício: plano de saúde
+304,2016-02-10,645.44,Cim Prefeitura Recife,CIM (inscrição municipal)
+305,2016-08-10,645.44,CIM - Prefeitura do Recife,CIM (inscrição municipal)
+306,2016-12-16,325.11,Taxa APGI,CIM (inscrição municipal)
+307,2017-02-06,691.14,CIM,CIM (inscrição municipal)
+308,2017-08-10,691.14,CIM,CIM (inscrição municipal)
+309,2018-02-05,709.8,CIM,CIM (inscrição municipal)
+310,2016-12-15,60.3,Artigos de decoração,Compra de Produtos
+311,2016-12-15,80.0,Vinhos funcionários (1/2),Compra de Produtos
+312,2017-01-15,82.32,Vinhos funcionários (2/2),Compra de Produtos
+313,2017-05-15,104.06,Feira Abril,Compra de Produtos
+314,2017-07-04,450.0,Computador (1/4) - Tino,Compra de Produtos
+315,2017-11-03,40.49,PRESENTE CLIENTE,Compra de Produtos
+316,2018-02-15,79.0,Lo cittane  (presente elinaldo),Compra de Produtos
+317,2018-03-15,79.0,Presente filho de allan,Compra de Produtos
+318,2018-03-15,91.5,presente filho marta,Compra de Produtos
+319,2018-03-15,150.9,festa luana,Compra de Produtos
+320,2018-03-15,6.99,google,Compra de Produtos
+321,2018-03-22,300.0,Cheque - Material Brascon,Compra de Produtos
+322,2018-04-15,53.6,Revistas - saraiva ,Compra de Produtos
+323,2018-04-15,159.9,Presente FILHA Marta (UVA),Compra de Produtos
+324,2016-11-01,761.73,Condomínio,Condomínio
+325,2016-10-03,761.73,Condomínio,Condomínio
+326,2016-09-03,761.73,Condomínio,Condomínio
+327,2016-08-02,761.73,Condomínio,Condomínio
+328,2016-05-02,761.73,Condomínio,Condomínio
+329,2016-12-01,761.73,Condomínio,Condomínio
+330,2016-06-01,761.73,Condomínio,Condomínio
+331,2017-01-04,761.73,Condomínio,Condomínio
+332,2017-02-08,561.41,Condomínio,Condomínio
+333,2017-03-13,561.41,Condomínio,Condomínio
+334,2017-04-17,561.41,Condomínio,Condomínio
+335,2017-05-15,561.41,Condomínio,Condomínio
+336,2017-06-08,561.41,Condomínio,Condomínio
+337,2017-07-12,561.41,Condomínio,Condomínio
+338,2017-08-17,561.41,Condomínio,Condomínio
+339,2017-09-05,561.41,Condomínio,Condomínio
+340,2017-10-05,561.41,Condomínio,Condomínio
+341,2017-11-06,561.41,Condomínio,Condomínio
+342,2017-12-04,561.41,Condomínio,Condomínio
+343,2018-01-04,561.41,Condomínio,Condomínio
+344,2018-02-05,561.41,Condomínio,Condomínio
+345,2018-03-05,561.41,Condomínio,Condomínio
+346,2018-04-05,561.41,Condomínio,Condomínio
+347,2018-05-07,561.41,Condomínio,Condomínio
+348,2016-01-15,788.0,Contabilidade Antiga (1/2),Contabilidade
+349,2016-02-19,880.0,Contabiliade (Referente a Janeiro),Contabilidade
+350,2016-02-19,500.0,Alteração contratual,Contabilidade
+351,2016-02-23,880.0,Contabilidade Antiga (2/2),Contabilidade
+352,2016-03-24,880.0,Contabilidade,Contabilidade
+353,2016-04-18,880.0,Contabilidade,Contabilidade
+354,2016-05-17,880.0,Cheque - Contabilidade,Contabilidade
+355,2016-10-17,300.0,Motoboy,Contabilidade
+356,2016-11-14,880.0,Contabilidade,Contabilidade
+357,2016-10-17,880.0,Contabilidade,Contabilidade
+358,2016-09-19,880.0,Contabilidade,Contabilidade
+359,2016-08-19,880.0,Cheque - Contabilidade,Contabilidade
+360,2016-07-19,880.0,Contabilidade,Contabilidade
+361,2016-06-14,880.0,Contabilidade,Contabilidade
+362,2016-12-13,880.0,Contabilidade,Contabilidade
+363,2017-01-17,880.0,Contabilidade,Contabilidade
+364,2017-02-15,937.0,Contabilidade,Contabilidade
+365,2017-03-16,937.0,Contabilidade,Contabilidade
+366,2017-04-24,937.0,Contabilidade,Contabilidade
+367,2017-05-19,937.0,Contabilidade,Contabilidade
+368,2017-06-21,937.0,Contabilidade,Contabilidade
+369,2017-07-24,937.0,Contabilidade,Contabilidade
+370,2017-08-23,937.0,Contabilidade,Contabilidade
+371,2017-09-22,937.0,Contabilidade,Contabilidade
+372,2017-10-24,937.0,Contabilidade,Contabilidade
+373,2017-11-28,937.0,Contabilidade,Contabilidade
+374,2017-12-20,937.0,Contabilidade,Contabilidade
+375,2018-01-22,937.0,Contabilidade,Contabilidade
+376,2018-02-05,937.0,Contabilidade 13º,Contabilidade
+377,2018-02-21,954.0,Contabilidade,Contabilidade
+378,2018-02-20,7.0,Transporte Contabilidade,Contabilidade
+379,2018-03-22,954.0,Contabilidade,Contabilidade
+380,2018-04-24,954.0,Contabilidade,Contabilidade
+381,2016-04-19,262.85,Sindicato dos Publicitários,Contribuição sindical
+382,2016-06-21,43.33,Contribuição Sindical - Publicitários,Contribuição sindical
+383,2016-10-25,40.0,Contribuição Sindical,Contribuição sindical
+384,2016-01-01,1545.11,Negativo BB 2015,Despesas bancárias
+385,2016-01-04,46.22,IOF - 2015,Despesas bancárias
+386,2016-01-11,42.0,Serviço,Despesas bancárias
+387,2016-01-11,5.3,Tarifa,Despesas bancárias
+388,2016-01-11,7.0,Tarifa,Despesas bancárias
+389,2016-01-11,14.0,Tarifa,Despesas bancárias
+390,2016-01-11,5.3,Tarifa,Despesas bancárias
+391,2016-01-11,52.5,Tarifa Serviço,Despesas bancárias
+392,2016-01-11,3.0,Tarifa,Despesas bancárias
+393,2016-01-12,7.0,Serviço cobrança,Despesas bancárias
+394,2016-01-12,7.85,Tarifa,Despesas bancárias
+395,2016-01-13,7.0,Serviço cobrança,Despesas bancárias
+396,2016-01-14,6.1,serviço cobrança,Despesas bancárias
+397,2016-01-15,14.0,serviço cobrança,Despesas bancárias
+398,2016-01-18,5.3,serviço cobrança,Despesas bancárias
+399,2016-01-18,7.0,serviço cobrança,Despesas bancárias
+400,2016-01-18,7.0,serviço cobrança,Despesas bancárias
+401,2016-01-19,5.3,serviço cobrança,Despesas bancárias
+402,2016-01-20,4.82,serviço cobrança,Despesas bancárias
+403,2016-01-20,6.3,serviço cobrança,Despesas bancárias
+404,2016-01-20,7.0,serviço cobrança,Despesas bancárias
+405,2016-01-22,7.0,serviço cobrança,Despesas bancárias
+406,2016-01-25,7.0,Serviço de cobrança,Despesas bancárias
+407,2016-01-26,7.0,Serviço cobrança,Despesas bancárias
+408,2016-01-26,7.0,serviço cobrança,Despesas bancárias
+409,2016-01-28,7.0,servico de cobrança,Despesas bancárias
+410,2016-01-29,69.45,Juros bb,Despesas bancárias
+411,2016-01-28,5.3,serviço cobrança,Despesas bancárias
+412,2016-02-01,0.82,Encargos IOF bb,Despesas bancárias
+413,2016-02-02,6.0,Tarifa BB pagamento salário,Despesas bancárias
+414,2016-02-03,21.0,Serviço de cobrança bb,Despesas bancárias
+415,2016-02-05,5.33,serviço cobrança bb,Despesas bancárias
+416,2016-02-05,6.3,serviço cobrança bb,Despesas bancárias
+417,2016-02-05,56.7,Tarifa pacote serviços bb,Despesas bancárias
+418,2016-02-11,7.0,Serviço de cobrança bb,Despesas bancárias
+419,2016-02-11,6.3,Serviço de cobrança,Despesas bancárias
+420,2016-02-11,7.0,serviço cobrança bb,Despesas bancárias
+421,2016-02-15,5.3,Serviço cobrança bb,Despesas bancárias
+422,2016-02-15,10.6,Serviço cobrança bb,Despesas bancárias
+423,2016-02-18,45.5,Tarifa bb devolução de cheque,Despesas bancárias
+424,2016-02-18,14.0,Serviço de cobrança bb,Despesas bancárias
+425,2016-02-19,10.6,Serviço cobrança bb,Despesas bancárias
+426,2016-02-19,163.52,Serviço cobrança bb,Despesas bancárias
+427,2016-02-16,21.0,Serviço de cobrança bb,Despesas bancárias
+428,2016-02-01,5.3,serviço cobrança,Despesas bancárias
+429,2016-02-01,56.0,serviço cobrança,Despesas bancárias
+430,2016-01-21,7.0,serviço de cobrança,Despesas bancárias
+431,2016-02-22,14.0,Serviço cobrança bb,Despesas bancárias
+432,2016-02-23,7.0,serviço de cobramça bb,Despesas bancárias
+433,2016-02-25,35.0,serviço cobrança bb,Despesas bancárias
+434,2016-02-25,25.72,Tarifa renovação cadastro,Despesas bancárias
+435,2016-02-26,7.0,Serviço cobrança bb,Despesas bancárias
+436,2016-03-01,10.6,Serviço cobrança bb,Despesas bancárias
+437,2016-03-01,14.0,Serviço cobrança bb,Despesas bancárias
+438,2016-03-02,7.0,Serviço cobrança bb,Despesas bancárias
+439,2016-03-02,119.0,Serviço cobrança bb,Despesas bancárias
+440,2016-03-09,1896.06,Empréstimo 1,Despesas bancárias
+441,2016-03-07,54.39,Empréstimo 1,Despesas bancárias
+442,2016-03-09,7.0,Serviço cobrança bb,Despesas bancárias
+443,2016-03-09,5.3,Tarifa cobrança bb,Despesas bancárias
+444,2016-03-09,56.7,Tarifa serviços bb,Despesas bancárias
+445,2016-03-09,0.03,Empréstimo 1,Despesas bancárias
+446,2016-03-12,14.0,Serviço cobrança bb,Despesas bancárias
+447,2016-03-16,7.0,Serviço de cobrança,Despesas bancárias
+448,2016-03-18,7.0,Serviço de cobrança bb,Despesas bancárias
+449,2016-03-18,14.0,Serviço de cobrança bb,Despesas bancárias
+450,2016-03-21,21.0,Serviço Cobrança bb,Despesas bancárias
+451,2016-03-23,7.0,Serviço de cobrança bb,Despesas bancárias
+452,2016-03-24,7.0,serviço de cobrança bb,Despesas bancárias
+453,2016-03-28,38.67,Seguro,Despesas bancárias
+454,2016-03-28,7.0,Serviço cobrança bb,Despesas bancárias
+455,2016-03-29,7.0,Serviço de cobrança bb,Despesas bancárias
+456,2016-03-29,5.3,Serviço de cobrança bb,Despesas bancárias
+457,2016-03-30,6.1,Serviço de cobrança bb,Despesas bancárias
+458,2016-03-30,7.0,Serviço cobrança bb,Despesas bancárias
+459,2016-03-31,14.46,Empréstimo 1,Despesas bancárias
+460,2016-04-01,10.66,serviço cobrança bb,Despesas bancárias
+461,2016-04-01,22.0,Serviço cobrança bb,Despesas bancárias
+462,2016-04-01,6.0,Tarifa bb,Despesas bancárias
+463,2016-04-05,7.0,Serviço de cobrança bb,Despesas bancárias
+464,2016-04-04,49.0,Serviço de cobrança bb,Despesas bancárias
+465,2016-04-05,1944.33,Empréstimo 1 bb,Despesas bancárias
+466,2016-04-05,25.37,Tarifa Pacote de serviços bb,Despesas bancárias
+467,2016-04-06,6.1,Serviço de cobrança bb,Despesas bancárias
+468,2016-04-06,31.33,Tarifa pacote de serviço bb,Despesas bancárias
+469,2016-04-07,7.0,Serviço de cobrança bb,Despesas bancárias
+470,2016-04-07,7.0,Serviço de cobrança bb,Despesas bancárias
+471,2016-04-08,16.3,Serviço de cobrança bb,Despesas bancárias
+472,2016-04-08,7.0,Serviço Cobrança bb,Despesas bancárias
+473,2016-04-11,5.3,Serviço de cobrança bb,Despesas bancárias
+474,2016-04-11,14.0,Serviço de cobrança bb,Despesas bancárias
+475,2016-04-11,7.0,Serviço de cobrança bb,Despesas bancárias
+476,2016-04-12,7.0,Serviço de cobrança bb,Despesas bancárias
+477,2016-04-13,163.52,Serviço de cobrança bb,Despesas bancárias
+478,2016-04-13,5.3,Serviço de cobrança bb,Despesas bancárias
+479,2016-04-14,6.1,Serviço de cobrança bb,Despesas bancárias
+480,2016-04-14,7.0,Serviço de cobrança bb,Despesas bancárias
+481,2016-04-18,7.0,Serviço de cobrança bb,Despesas bancárias
+482,2016-04-18,5.3,Serviço de cobrança bb,Despesas bancárias
+483,2016-04-19,14.0,Serviço de cobrança bb,Despesas bancárias
+484,2016-04-19,7.0,Serviço de cobrança bb,Despesas bancárias
+485,2016-04-20,7.0,Serviço de cobrança bb,Despesas bancárias
+486,2016-04-22,21.0,Serviço de cobrança bb,Despesas bancárias
+487,2016-04-22,1365.48,Empréstimo 2 bb,Despesas bancárias
+488,2016-04-25,7.0,Serviço de cobrança bb,Despesas bancárias
+489,2016-04-25,7.0,Serviço de cobrança bb,Despesas bancárias
+490,2016-04-26,14.0,Serviço de cobrança bb,Despesas bancárias
+491,2016-04-27,14.0,serviço de cobrança bb,Despesas bancárias
+492,2016-05-03,15.9,Serviço de cobrança bb,Despesas bancárias
+493,2016-05-03,70.0,Serviço de cobrança bb,Despesas bancárias
+494,2016-05-03,3.0,Tarifa Cred. Salário bb,Despesas bancárias
+495,2016-05-05,56.7,Tarifa pacote de serviços bb,Despesas bancárias
+496,2016-05-09,5.3,serviço de cobrança bb,Despesas bancárias
+497,2016-05-11,14.0,Serviço de cobrança bb,Despesas bancárias
+498,2016-05-11,7.0,Serviço de cobrança bb,Despesas bancárias
+499,2016-05-12,5.3,Serviço de cobrança bb,Despesas bancárias
+500,2016-05-13,7.0,Serviço de cobrança bb,Despesas bancárias
+501,2016-05-16,35.0,Serviço de cobrança bb,Despesas bancárias
+502,2016-05-16,7.0,Serviço de cobrança bb,Despesas bancárias
+503,2016-05-16,12.2,Serviço de cobrança bb,Despesas bancárias
+504,2016-05-18,14.0,Serviço cobrança bb,Despesas bancárias
+505,2016-05-19,7.0,Serviço de cobrança bb,Despesas bancárias
+506,2016-05-19,7.0,Serviço de cobrança bb,Despesas bancárias
+507,2016-05-20,5.3,Serviço de cobrança bb,Despesas bancárias
+508,2016-05-23,28.0,Serviço de cobrança bb,Despesas bancárias
+509,2016-05-24,5.3,Serviço de cobrança bb,Despesas bancárias
+510,2016-05-24,7.0,Serviço de cobrança bb,Despesas bancárias
+511,2016-05-25,7.0,Serviço de cobrança bb,Despesas bancárias
+512,2016-05-30,7.0,Serviço de cobrança bb,Despesas bancárias
+513,2016-05-30,5.3,Serviço de cobrança bb,Despesas bancárias
+514,2016-05-31,7.0,Serviço de cobrança bb,Despesas bancárias
+515,2016-06-17,14.0,Serviço de cobrança bb,Despesas bancárias
+516,2016-06-22,28.0,Serviço de cobrança bb,Despesas bancárias
+517,2016-06-22,1311.15,Empréstimo 2 bb,Despesas bancárias
+518,2016-06-22,5.3,Serviço de cobrança bb,Despesas bancárias
+519,2016-06-22,1500.0,Arquiteta - Clara Magalhães (2/2),Despesas bancárias
+520,2016-06-23,5.3,Serviço de cobrança bb,Despesas bancárias
+521,2016-06-23,7.0,Serviço de cobrança bb,Despesas bancárias
+522,2016-06-24,7.0,Serviço de cobrança bb,Despesas bancárias
+523,2016-06-29,7.0,Serviço de cobrança bb,Despesas bancárias
+524,2016-06-29,7.0,Serviço de cobrança bb,Despesas bancárias
+525,2016-06-30,18.27,Empréstimo bb,Despesas bancárias
+526,2016-07-01,5.3,Serviço de cobrança bb,Despesas bancárias
+527,2016-07-01,77.0,Serviço de cobrança bb,Despesas bancárias
+528,2016-07-04,7.0,Serviço de cobrança bb,Despesas bancárias
+529,2016-07-05,1819.23,Empréstimo 1,Despesas bancárias
+530,2016-07-05,5.3,Serviço de cobrança bb,Despesas bancárias
+531,2016-07-05,63.0,Tarifa pacote de serviços bb,Despesas bancárias
+532,2016-07-06,7.0,Serviço de cobrança bb,Despesas bancárias
+533,2016-07-07,7.0,Serviço de cobrança bb,Despesas bancárias
+534,2016-07-07,86.5,Cheque - Reembolso Juros Aluguel ,Despesas bancárias
+535,2016-07-08,7.0,Serviço de cobrança bb,Despesas bancárias
+536,2016-07-12,7.0,Serviço de cobrança bb,Despesas bancárias
+537,2016-07-14,6.1,Serviço de cobrança bb,Despesas bancárias
+538,2016-07-15,7.0,Serviço de cobrança bb,Despesas bancárias
+539,2016-07-15,6.1,Serviço de cobrança bb,Despesas bancárias
+540,2016-07-19,14.0,Serviço de cobrança bb,Despesas bancárias
+541,2016-07-21,21.0,Serviço de cobrança bb,Despesas bancárias
+542,2016-07-22,1274.03,Empréstimo 2,Despesas bancárias
+543,2016-07-22,7.0,Serviço de cobrança bb,Despesas bancárias
+544,2016-07-27,27.0,Tarifa Fornecimento Cheque BB,Despesas bancárias
+545,2016-07-27,7.0,Serviço de cobrança bb,Despesas bancárias
+546,2016-07-29,7.0,Serviço de cobrança bb,Despesas bancárias
+547,2016-08-02,14.0,Serviço de cobrança bb,Despesas bancárias
+548,2016-08-04,148.0,Juros Itaú,Despesas bancárias
+549,2016-08-04,7.0,Serviço de cobrança bb,Despesas bancárias
+550,2016-08-06,1793.02,Empréstimo 1 BB,Despesas bancárias
+551,2016-08-06,7.0,Serviço de cobrança bb,Despesas bancárias
+552,2016-08-06,63.0,Tarifa BB,Despesas bancárias
+553,2016-08-08,7.0,Serviço de cobrança bb,Despesas bancárias
+554,2016-08-09,14.0,Serviço de cobrança bb,Despesas bancárias
+555,2016-08-11,7.0,Serviço de cobrança bb,Despesas bancárias
+556,2016-08-12,17.5,Serviço de cobrança bb,Despesas bancárias
+557,2016-08-18,10.6,Serviço de cobrança bb,Despesas bancárias
+558,2016-08-17,7.0,Serviço de cobrança bb,Despesas bancárias
+559,2016-08-19,14.0,Serviço de cobrança bb,Despesas bancárias
+560,2016-08-22,1257.08,Empréstimo 2 BB,Despesas bancárias
+561,2016-08-22,21.0,Serviço de cobrança bb,Despesas bancárias
+562,2016-08-23,5.3,Serviço de cobrança bb,Despesas bancárias
+563,2016-08-23,7.0,Serviço de cobrança bb,Despesas bancárias
+564,2016-08-26,7.0,Serviço de cobrança bb,Despesas bancárias
+565,2016-08-26,32.15,Tarifa cadastro bb,Despesas bancárias
+566,2016-08-29,7.0,Serviço de cobrança bb,Despesas bancárias
+567,2016-08-29,7.0,Serviço de cobrança bb,Despesas bancárias
+568,2016-08-30,7.0,Serviço de cobrança bb,Despesas bancárias
+569,2016-08-31,7.0,Serviço de cobrança bb,Despesas bancárias
+570,2016-09-02,5.3,Serviço de cobrança bb,Despesas bancárias
+571,2016-09-02,7.0,Serviço de cobrança bb,Despesas bancárias
+572,2016-09-02,42.0,Serviço de cobrança bb,Despesas bancárias
+573,2016-09-05,1754.39,Empréstimo 1,Despesas bancárias
+574,2016-09-05,5.3,Serviço de cobrança bb,Despesas bancárias
+575,2016-09-05,28.0,Serviço de cobrança bb,Despesas bancárias
+576,2016-09-05,63.0,Tarifa pacote de serviços bb,Despesas bancárias
+577,2016-09-12,7.0,Serviço de cobrança bb,Despesas bancárias
+578,2016-09-13,11.4,Serviço de cobrança bb,Despesas bancárias
+579,2016-09-14,5.3,Serviço de cobrança bb,Despesas bancárias
+580,2016-09-14,7.0,Serviço de cobrança bb,Despesas bancárias
+581,2016-09-14,6.1,Serviço de cobrança bb,Despesas bancárias
+582,2016-09-19,7.0,Serviço de cobrança bb,Despesas bancárias
+583,2016-09-21,28.0,Serviço de cobrança bb,Despesas bancárias
+584,2016-09-22,1229.93,Empréstimo 2,Despesas bancárias
+585,2016-09-22,7.0,Serviço de cobrança bb,Despesas bancárias
+586,2016-09-26,38.67,Seguro,Despesas bancárias
+587,2016-09-26,7.0,serviço de cobrança bb,Despesas bancárias
+588,2016-09-30,21.0,Serviço de cobrança bb,Despesas bancárias
+589,2016-10-03,98.0,Serviço de cobrança bb,Despesas bancárias
+590,2016-10-03,15.9,Serviço de cobrança bb,Despesas bancárias
+591,2016-10-04,7.0,Serviço de cobrança bb,Despesas bancárias
+592,2016-10-05,1709.28,Empréstimo 1,Despesas bancárias
+593,2016-10-05,7.0,Serviço de cobrança bb,Despesas bancárias
+594,2016-10-05,63.0,Tarifa bb,Despesas bancárias
+595,2016-10-06,7.0,Serviço de cobrança bb,Despesas bancárias
+596,2016-10-10,7.0,Serviço de cobrança bb,Despesas bancárias
+597,2016-10-10,77.9,Seguro,Despesas bancárias
+598,2016-10-11,5.33,Serviço de cobrança bb,Despesas bancárias
+599,2016-10-11,7.0,Serviço de cobrança bb,Despesas bancárias
+600,2016-10-11,11.0,Serviço de cobrança bb,Despesas bancárias
+601,2016-10-13,5.3,Serviço de cobrança bb,Despesas bancárias
+602,2016-10-17,6.1,Serviço de cobrança bb,Despesas bancárias
+603,2016-10-17,14.0,Serviço de cobrança bb,Despesas bancárias
+604,2016-10-19,5.3,Serviço de cobrança bb,Despesas bancárias
+605,2016-10-21,35.0,Serviço de cobrança bb,Despesas bancárias
+606,2016-10-21,6.1,Serviço de cobrança bb,Despesas bancárias
+607,2016-10-24,1194.96,Empréstimo 2,Despesas bancárias
+608,2016-10-24,7.0,Serviço de cobrança bb,Despesas bancárias
+609,2016-10-25,14.0,Serviço de cobrança bb,Despesas bancárias
+610,2016-10-31,14.0,Serviço de cobrança bb,Despesas bancárias
+611,2016-11-03,5.3,Serviço de cobrança bb,Despesas bancárias
+612,2016-11-03,7.0,Serviço de cobrança bb,Despesas bancárias
+613,2016-11-03,105.0,Serviço de cobrança bb,Despesas bancárias
+614,2016-11-04,7.0,Serviço de cobrança bb,Despesas bancárias
+615,2016-11-07,63.0,Tarifa pacote de serviços bb,Despesas bancárias
+616,2016-11-07,1677.45,Empréstimo bb,Despesas bancárias
+617,2016-11-11,5.3,Serviço de cobrança bb,Despesas bancárias
+618,2016-11-11,7.0,Serviço de cobrança bb,Despesas bancárias
+619,2016-11-14,11.4,Serviço de cobrança bb,Despesas bancárias
+620,2016-11-16,14.0,Serviço de cobrança bb,Despesas bancárias
+621,2016-11-17,14.0,Serviço de cobrança bb,Despesas bancárias
+622,2016-11-18,7.0,Serviço de cobrança bb,Despesas bancárias
+623,2016-11-21,7.0,Serviço de cobrança bb,Despesas bancárias
+624,2016-11-21,6.1,Serviço de cobrança bb,Despesas bancárias
+625,2016-11-21,29.0,Tarifa Fornecimento de Cheque,Despesas bancárias
+626,2016-11-22,1174.49,Empréstimo 2,Despesas bancárias
+627,2016-11-22,28.0,Serviço de cobrança bb,Despesas bancárias
+628,2016-11-22,11.0,Serviço de cobrança bb,Despesas bancárias
+629,2016-11-22,5.33,Serviço de cobrança bb,Despesas bancárias
+630,2016-11-23,10.6,Serviço de cobrança bb,Despesas bancárias
+631,2016-11-23,7.0,Serviço de cobrança bb,Despesas bancárias
+632,2016-11-29,7.0,Serviço de cobrança bb,Despesas bancárias
+633,2016-11-29,7.0,Serviço de cobrança bb,Despesas bancárias
+634,2016-12-01,7.0,Serviço de cobrança bb,Despesas bancárias
+635,2016-12-01,5.3,Serviço de cobrança bb,Despesas bancárias
+636,2016-12-01,98.0,Serviço de cobrança bb,Despesas bancárias
+637,2016-12-02,7.0,Serviço de cobrança bb,Despesas bancárias
+638,2016-12-05,1633.52,Empréstimo 1,Despesas bancárias
+639,2016-12-05,7.0,Serviço de cobrança bb,Despesas bancárias
+640,2016-12-05,63.0,Tarifa pacote de serviços bb,Despesas bancárias
+641,2016-12-06,7.0,Serviço de cobrança bb,Despesas bancárias
+642,2016-12-07,7.0,Serviço de cobrança bb,Despesas bancárias
+643,2016-12-07,7.0,Serviço de cobrança bb,Despesas bancárias
+644,2016-12-09,7.0,Serviço de cobrança bb,Despesas bancárias
+645,2016-12-09,14.0,Serviço de cobrança bb,Despesas bancárias
+646,2016-12-13,14.0,Serviço de cobrança bb,Despesas bancárias
+647,2016-12-14,10.6,Serviço de cobrança bb,Despesas bancárias
+648,2016-12-14,6.1,Serviço de cobrança bb,Despesas bancárias
+649,2016-06-03,5.3,Serviço de cobrança bb,Despesas bancárias
+650,2016-06-03,5.3,Servio de cobrança bb,Despesas bancárias
+651,2016-06-06,670.18,Empréstimo 1 bb,Despesas bancárias
+652,2016-06-10,5.3,Serviço de cobrança bb,Despesas bancárias
+653,2016-06-10,7.0,Serviço de cobrança bb,Despesas bancárias
+654,2016-06-03,70.0,Serviço de cobrança bb,Despesas bancárias
+655,2016-06-10,7.0,Serviço de cobrança bb,Despesas bancárias
+656,2016-06-10,63.0,Tarifa Serviços bb,Despesas bancárias
+657,2016-06-10,1198.26,Empréstimo 1 bb,Despesas bancárias
+658,2016-06-13,14.0,Serviço de cobrança bb,Despesas bancárias
+659,2016-06-13,0.03,Empréstimo 1 BB,Despesas bancárias
+660,2016-06-14,12.2,Serviço de cobrança bb,Despesas bancárias
+661,2016-06-14,7.0,Serviço de cobrança bb,Despesas bancárias
+662,2016-12-15,14.0,Serviço de cobrança bb,Despesas bancárias
+663,2016-12-19,6.1,Serviço de cobrança bb,Despesas bancárias
+664,2016-12-19,7.0,Serviço de cobrança bb,Despesas bancárias
+665,2016-12-21,28.0,Serviço de cobrança bb,Despesas bancárias
+666,2016-12-22,1141.49,Empréstimo bb 2,Despesas bancárias
+667,2016-12-27,5.33,Serviço de cobrança bb,Despesas bancárias
+668,2016-12-27,5.3,Serviço de cobrança bb,Despesas bancárias
+669,2016-12-27,11.0,Serviço de cobrança bb,Despesas bancárias
+670,2016-12-28,14.0,Serviço de cobrança bb,Despesas bancárias
+671,2017-01-02,35.0,Serviço de cobrança bb,Despesas bancárias
+672,2017-01-03,14.0,Serviço de cobrança bb,Despesas bancárias
+673,2017-01-03,35.0,Serviço de cobrança bb,Despesas bancárias
+674,2017-01-10,5.26,Empréstimo bb 1,Despesas bancárias
+675,2017-01-10,1594.11,Empréstimo bb 1,Despesas bancárias
+676,2017-01-10,14.0,Tarifa BB,Despesas bancárias
+677,2017-01-10,10.6,Tarifa bb,Despesas bancárias
+678,2017-01-10,21.0,Tarifa bb,Despesas bancárias
+679,2017-01-10,63.0,Tarifa bb pacote de serviços,Despesas bancárias
+680,2017-01-11,5.33,Serviço de cobrança bb,Despesas bancárias
+681,2017-01-11,7.0,Serviço de cobrança bb,Despesas bancárias
+682,2017-01-11,11.0,Serviço de cobrança bb,Despesas bancárias
+683,2017-01-12,10.6,Serviço de cobrança bb,Despesas bancárias
+684,2017-01-12,7.0,Serviço de cobrança bb,Despesas bancárias
+685,2017-01-13,5.3,Serviço de cobrança bb,Despesas bancárias
+686,2017-01-13,7.0,Serviço de cobrança bb,Despesas bancárias
+687,2017-01-17,7.0,Serviço de cobrança bb ,Despesas bancárias
+688,2017-01-17,7.0,Serviço de cobrança bb,Despesas bancárias
+689,2017-01-18,11.0,Serviço de cobrança bb,Despesas bancárias
+690,2017-01-18,7.0,Serviço de cobrança bb,Despesas bancárias
+691,2017-01-18,11.0,Serviço de cobrança bb,Despesas bancárias
+692,2017-01-18,5.33,Serviço de cobrança bb,Despesas bancárias
+693,2017-01-23,1119.36,Empréstimo 2,Despesas bancárias
+694,2017-01-23,35.0,Serviço de cobrança bb,Despesas bancárias
+695,2017-01-23,11.0,Serviço de cobrança bb,Despesas bancárias
+696,2017-01-27,5.3,Serviço de cobrança bb,Despesas bancárias
+697,2017-01-31,12.08,Débito bb,Despesas bancárias
+698,2017-01-31,14.0,Serviço de cobrança bb,Despesas bancárias
+699,2017-02-01,7.0,Serviço de cobrança bb,Despesas bancárias
+700,2017-02-02,15.9,Serviço de cobrança bb,Despesas bancárias
+701,2017-02-03,14.0,Serviço de cobrança bb,Despesas bancárias
+702,2017-02-06,1569.12,Empréstimo 1,Despesas bancárias
+703,2017-02-06,6.1,Serviço de cobrança bb,Despesas bancárias
+704,2017-02-06,68.0,Tarifa Pacote de serviços bb,Despesas bancárias
+705,2017-02-07,91.0,Serviço de cobrança bb,Despesas bancárias
+706,2017-02-08,7.0,Serviço de cobrança bb,Despesas bancárias
+707,2017-02-08,5.3,Serviço de cobrança bb,Despesas bancárias
+708,2017-02-09,7.0,Serviço de cobrança bb,Despesas bancárias
+709,2017-02-10,33.63,Juros cartão janeiro,Despesas bancárias
+710,2017-02-10,7.0,Serviço de cobrança bb,Despesas bancárias
+711,2017-02-14,14.0,Serviço de cobrança bb,Despesas bancárias
+712,2017-02-16,5.3,Serviço de cobrança bb,Despesas bancárias
+713,2017-02-16,7.0,Serviço de cobrança bb,Despesas bancárias
+714,2017-02-17,14.0,Serviço de cobrança bb,Despesas bancárias
+715,2017-02-20,7.0,Serviço de cobrança bb,Despesas bancárias
+716,2017-02-20,11.0,Serviço de cobrança bb,Despesas bancárias
+717,2017-02-20,5.33,Serviço de cobrança bb,Despesas bancárias
+718,2017-02-21,14.0,Serviço de cobrança bb,Despesas bancárias
+719,2017-02-22,1091.36,Empréstimo 2,Despesas bancárias
+720,2017-02-23,7.0,Serviço de cobrança bb,Despesas bancárias
+721,2017-03-01,5.3,Serviço de cobrança bb,Despesas bancárias
+722,2017-03-01,77.0,Serviço de cobrança bb,Despesas bancárias
+723,2017-03-02,14.0,Serviço de cobrança bb,Despesas bancárias
+724,2017-03-02,14.0,Serviço de cobrança bb,Despesas bancárias
+725,2017-03-02,42.0,Tarifa renovação de cadastro bb,Despesas bancárias
+726,2017-03-06,7.0,Serviço de cobrança bb,Despesas bancárias
+727,2017-03-06,2.31,Tarifa oacote de serviços bb,Despesas bancárias
+728,2017-03-09,7.0,Serviço de cobrança bb,Despesas bancárias
+729,2017-03-09,6.1,Tarifa cobrança bb,Despesas bancárias
+730,2017-03-09,65.69,Tarifa pacote de serviços,Despesas bancárias
+731,2017-03-10,7.0,Serviço de cobrança bb,Despesas bancárias
+732,2017-03-14,7.0,Serviço de cobrança bb,Despesas bancárias
+733,2017-03-15,14.0,Serviço de cobrança bb,Despesas bancárias
+734,2017-03-16,7.0,Serviço de cobrança bb,Despesas bancárias
+735,2017-03-17,7.0,Serviço de cobrança bb,Despesas bancárias
+736,2017-03-20,5.33,Serviço de cobrança bb,Despesas bancárias
+737,2017-03-20,11.0,Serviço de cobrança bb,Despesas bancárias
+738,2017-03-21,21.0,Serviço de cobrança bb,Despesas bancárias
+739,2017-03-22,1053.16,Empréstimo 2,Despesas bancárias
+740,2017-03-22,56.0,Serviço de cobrança bb,Despesas bancárias
+741,2017-03-28,7.0,Serviço de cobrança bb,Despesas bancárias
+742,2017-03-28,7.0,Serviço de cobrança bb,Despesas bancárias
+743,2017-03-30,7.0,Serviço de cobrança bb,Despesas bancárias
+744,2017-03-31,7.0,Serviço de cobrança bb,Despesas bancárias
+745,2017-04-04,7.0,Serviço de cobrança bb,Despesas bancárias
+746,2017-04-05,7.0,Serviço de cobrança bb,Despesas bancárias
+747,2017-04-05,84.0,Serviço de cobrança bb,Despesas bancárias
+748,2017-04-05,68.0,Tarifa pacote de serviços bb,Despesas bancárias
+749,2017-04-06,5.3,Serviço de cobrança bb,Despesas bancárias
+750,2017-04-06,11.0,Serviço de cobrança bb,Despesas bancárias
+751,2017-04-06,7.0,Serviço de cobrança bb,Despesas bancárias
+752,2017-04-06,5.33,Serviço de cobrança bb,Despesas bancárias
+753,2017-04-10,10.6,Serviço de cobrança bb,Despesas bancárias
+754,2017-04-10,7.0,Serviço de cobrança bb,Despesas bancárias
+755,2017-04-11,7.0,Serviço de cobrança bb,Despesas bancárias
+756,2017-04-11,31.8,Serviço de cobrança bb,Despesas bancárias
+757,2017-04-13,7.0,Serviço de cobrança bb,Despesas bancárias
+758,2017-04-13,28.0,Serviço de cobrança bb,Despesas bancárias
+759,2017-04-18,7.0,Serviço de cobrança bb,Despesas bancárias
+760,2017-04-18,5.3,Serviço de cobrança bb,Despesas bancárias
+761,2017-04-19,7.0,Serviço de cobrança bb,Despesas bancárias
+762,2017-04-19,5.33,Serviço de cobrança bb,Despesas bancárias
+763,2017-04-19,11.0,Serviço de cobrança bb,Despesas bancárias
+764,2017-04-20,37.26,Serviço de cobrança bb,Despesas bancárias
+765,2017-04-20,14.0,Serviço de cobrança bb,Despesas bancárias
+766,2017-04-20,5.3,Serviço de cobrança bb,Despesas bancárias
+767,2017-04-24,1032.62,Empréstimo 2,Despesas bancárias
+768,2017-04-24,21.0,Serviço de cobrança bb,Despesas bancárias
+769,2017-04-28,7.0,Serviço de cobrança bb,Despesas bancárias
+770,2017-05-03,5.3,Serviço de cobrança bb,Despesas bancárias
+771,2017-05-03,14.0,Serviço de cobrança bb,Despesas bancárias
+772,2017-05-04,21.0,Servio de cobrança bb,Despesas bancárias
+773,2017-05-05,68.0,Tarifa pacote de serviços bb,Despesas bancárias
+774,2017-05-08,5.3,Serviço de cobrança bb,Despesas bancárias
+775,2017-05-08,56.0,Serviço de cobrança bb,Despesas bancárias
+776,2017-05-11,7.0,Serviço de cobrança bb,Despesas bancárias
+777,2017-05-12,14.0,Serviço de cobrança bb,Despesas bancárias
+778,2017-05-15,38.37,Despesas atraso cartão,Despesas bancárias
+779,2017-05-15,6.1,Serviço de cobrança bb,Despesas bancárias
+780,2017-05-16,7.0,Serviço de cobrança bb,Despesas bancárias
+781,2017-05-17,21.0,Serviço de cobrança bb,Despesas bancárias
+782,2017-05-18,7.0,Serviço de cobrança bb,Despesas bancárias
+783,2017-05-18,11.0,Serviço de cobrança bb,Despesas bancárias
+784,2017-05-18,5.33,Serviço de cobrança bb,Despesas bancárias
+785,2017-05-19,14.0,Serviço de cobrança bb,Despesas bancárias
+786,2017-05-22,35.0,Serviço de cobrnça bb,Despesas bancárias
+787,2017-05-22,1008.75,Empréstimo 2 - Última,Despesas bancárias
+788,2017-05-26,5.3,Serviço de cobrança bb,Despesas bancárias
+789,2017-05-26,7.0,Serviço de cobrança bb,Despesas bancárias
+790,2017-05-29,7.0,Serviço de cobrança bb,Despesas bancárias
+791,2017-05-30,7.0,Serviço de cobrança bb,Despesas bancárias
+792,2017-06-03,7.0,Serviço de cobrança bb,Despesas bancárias
+793,2017-06-05,68.0,Tarifa pacote de serviços bb,Despesas bancárias
+794,2017-06-06,7.0,Serviço de cobrança bb,Despesas bancárias
+795,2017-06-06,84.0,Serviço de cobrança bb,Despesas bancárias
+796,2017-06-13,14.0,Serviço de cobrança bb,Despesas bancárias
+797,2017-06-13,11.0,Serviço de cobrança bb,Despesas bancárias
+798,2017-06-14,7.0,Serviço de cobrança bb,Despesas bancárias
+799,2017-06-16,14.0,Serviço de cobrança bb,Despesas bancárias
+800,2017-06-19,14.0,Serviço de cobrança bb,Despesas bancárias
+801,2017-06-20,5.71,Serviço de cobrança bb,Despesas bancárias
+802,2017-06-20,11.0,Serviço de cobrança bb,Despesas bancárias
+803,2017-06-21,21.0,Serviço de cobrança bb,Despesas bancárias
+804,2017-06-21,5.3,Serviço de cobrança bb,Despesas bancárias
+805,2017-06-27,14.0,Serviço de cobrança bb,Despesas bancárias
+806,2017-06-29,7.0,Serviço de cobrança bb,Despesas bancárias
+807,2017-06-29,6.1,Serviço de cobrança bb,Despesas bancárias
+808,2017-06-30,7.0,Serviço de cobrança bb,Despesas bancárias
+809,2017-07-03,14.0,Serviço de cobrança bb,Despesas bancárias
+810,2017-07-03,26.9,Serviço de cobrança bb,Despesas bancárias
+811,2017-07-03,98.0,Serviço de cobrança bb,Despesas bancárias
+812,2017-07-04,16.3,Serviço de cobrança bb,Despesas bancárias
+813,2017-07-04,7.0,Serviço de cobrança bb,Despesas bancárias
+814,2017-07-05,68.0,Pacote de tarifa BB,Despesas bancárias
+815,2017-07-06,7.0,Serviço de cobrança bb,Despesas bancárias
+816,2017-07-10,11.0,Serviço de cobrança bb,Despesas bancárias
+817,2017-07-11,28.0,Serviço de cobrança bb,Despesas bancárias
+818,2017-07-12,181.97,Serviço de cobrança bb - cartório procenge,Despesas bancárias
+819,2017-07-13,5.3,Serviço de cobrança bb,Despesas bancárias
+820,2017-07-13,7.0,Serviço de cobrança bb,Despesas bancárias
+821,2017-07-17,7.0,Serviço de cobrança bb,Despesas bancárias
+822,2017-07-19,5.71,Serviço de cobrança bb,Despesas bancárias
+823,2017-07-19,11.0,Serviço de cobrança bb,Despesas bancárias
+824,2017-07-19,7.0,Serviço de cobrança bb,Despesas bancárias
+825,2017-07-18,7.0,Serviço de cobrança bb,Despesas bancárias
+826,2017-07-21,21.0,Serviço de cobrança bb,Despesas bancárias
+827,2017-07-26,5.3,Serviço de cobrança bb,Despesas bancárias
+828,2017-07-27,5.3,Serviço de cobrança bb,Despesas bancárias
+829,2017-07-31,7.0,Serviço de cobrança bb,Despesas bancárias
+830,2017-07-31,12.2,Serviço de cobrança bb,Despesas bancárias
+831,2017-08-01,14.0,Serviço de cobrança bb,Despesas bancárias
+832,2017-08-02,63.0,Serviço de  cobrança bb,Despesas bancárias
+833,2017-08-02,7.0,Serviço de  cobrança bb,Despesas bancárias
+834,2017-08-02,5.3,Serviço de  cobrança bb,Despesas bancárias
+835,2017-08-03,7.0,Serviço de  cobrança bb,Despesas bancárias
+836,2017-08-04,49.0,Serviço de cobrança bb,Despesas bancárias
+837,2017-08-07,0.35,Devolução cheque bb,Despesas bancárias
+838,2017-08-07,71.0,Tarifa pacote de Serviços bb,Despesas bancárias
+839,2017-08-08,50.85,Tarifa devolução cheque bb,Despesas bancárias
+840,2017-08-09,14.0,Serviço de cobrança bb,Despesas bancárias
+841,2017-08-11,21.0,Serviço de cobrança bb,Despesas bancárias
+842,2017-08-17,14.0,Serviço de cobrança bb,Despesas bancárias
+843,2017-08-16,14.0,Serviço de cobrança bb,Despesas bancárias
+844,2017-08-17,9.4,Tarifa Ted BB,Despesas bancárias
+845,2017-08-18,9.4,Ted bb,Despesas bancárias
+846,2017-08-21,5.3,Serviço de cobrança bb,Despesas bancárias
+847,2017-08-21,7.0,Serviço de cobrança bb,Despesas bancárias
+848,2017-08-22,14.0,Serviço de cobrança bb,Despesas bancárias
+849,2017-08-23,9.4,Tarifa Ted bb,Despesas bancárias
+850,2017-08-25,42.0,Tarifa cadastro bb,Despesas bancárias
+851,2017-08-28,5.3,Serciço de cobrança bb,Despesas bancárias
+852,2017-08-28,5.3,Serviço de cobrança bb,Despesas bancárias
+853,2017-08-29,6.1,Serviço de cobrança bb,Despesas bancárias
+854,2017-08-30,7.0,Serviço de cobrança bb,Despesas bancárias
+855,2017-08-30,5.3,Serviço de cobrança bb,Despesas bancárias
+856,2017-09-01,5.3,Serviço de cobrança bb,Despesas bancárias
+857,2017-09-01,112.0,Serviço de cobrança bb,Despesas bancárias
+858,2017-09-01,0.77,Tarifa ted bb,Despesas bancárias
+859,2017-08-31,8.63,Tarifa ted bb,Despesas bancárias
+860,2017-09-05,7.0,Serviço de cobrança bb,Despesas bancárias
+861,2017-09-05,7.0,Serviço de cobrança bb,Despesas bancárias
+862,2017-09-05,5.3,Serviço de cobrança bb,Despesas bancárias
+863,2017-09-06,71.0,Pacote de serviços bb,Despesas bancárias
+864,2017-09-06,14.0,Serviço de cobrança bb,Despesas bancárias
+865,2017-09-11,7.0,Serviço de cobrança bb,Despesas bancárias
+866,2017-09-12,35.0,Serviço de cobrança bb,Despesas bancárias
+867,2017-09-12,9.4,Tarifa ted bb,Despesas bancárias
+868,2017-09-13,9.4,Tarifa ted bb,Despesas bancárias
+869,2017-09-13,7.0,Serviço de cobrança bb,Despesas bancárias
+870,2017-09-14,11.0,Serviço de cobrança bb,Despesas bancárias
+871,2017-09-14,6.1,Serviço de cobrança bb,Despesas bancárias
+872,2017-09-15,7.0,Serviço de cobrança bb,Despesas bancárias
+873,2017-09-18,7.0,Serviço de cobrança bb,Despesas bancárias
+874,2017-09-19,14.0,Serviço de cobrança bb,Despesas bancárias
+875,2017-09-20,9.4,ted bb,Despesas bancárias
+876,2017-09-20,14.0,Serviço de cobrança bb,Despesas bancárias
+877,2017-09-20,10.6,Serviço de cobrança bb,Despesas bancárias
+878,2017-09-21,14.0,Serviço de cobrança bb,Despesas bancárias
+879,2017-09-22,9.4,Tarifa ted bb,Despesas bancárias
+880,2017-09-25,7.0,Serviço de cobrança bb,Despesas bancárias
+881,2017-09-26,5.3,Serviço de cobranca bb,Despesas bancárias
+882,2017-09-26,7.0,Serviço de cobrança bb,Despesas bancárias
+883,2017-09-26,9.4,Tarifa ted bb,Despesas bancárias
+884,2017-09-27,11.0,Serviço de cobrança bb,Despesas bancárias
+885,2017-09-27,5.71,Serviço de cobrança bb,Despesas bancárias
+886,2017-09-27,7.0,Serviço de cobrança bb,Despesas bancárias
+887,2017-09-28,5.3,Serviço de cobrança bb,Despesas bancárias
+888,2017-09-28,5.3,Serviço de cobrança bb,Despesas bancárias
+889,2017-09-28,7.38,Tarifa ted bb,Despesas bancárias
+890,2017-10-02,6.1,Serviço de cobrança bb,Despesas bancárias
+891,2017-10-02,2.02,Tarifa ted bb,Despesas bancárias
+892,2017-10-02,5.3,Serviço de cobrança bb,Despesas bancárias
+893,2017-10-02,28.0,Serviço de cobrança bb,Despesas bancárias
+894,2017-10-03,63.0,Serviço de cobrança bb,Despesas bancárias
+895,2017-10-04,7.0,Serviço de cobrança bb,Despesas bancárias
+896,2017-10-04,5.71,Serviço de cobrança bb,Despesas bancárias
+897,2017-10-04,11.0,Serviço de cobrança bb,Despesas bancárias
+898,2017-10-05,71.0,Pacote de serviços bb,Despesas bancárias
+899,2017-10-06,7.0,Serviço de cobrança bb,Despesas bancárias
+900,2017-10-06,7.0,Serviço de cobrança bb,Despesas bancárias
+901,2017-10-10,5.3,serviço de cobrança bb,Despesas bancárias
+902,2017-10-11,7.0,Serviço de cobrança bb,Despesas bancárias
+903,2017-10-13,14.0,Serviço de cobrança bb,Despesas bancárias
+904,2017-10-16,14.0,Serviço de cobrança bb,Despesas bancárias
+905,2017-10-17,14.0,Serviço de cobrança bb,Despesas bancárias
+906,2017-10-18,7.0,Serviço de cobrança bb,Despesas bancárias
+907,2017-10-18,7.0,Serviço de cobrança bb,Despesas bancárias
+908,2017-10-18,5.71,Serviço de cobrança bb,Despesas bancárias
+909,2017-10-18,11.0,Serviço de cobrança bb,Despesas bancárias
+910,2017-10-19,9.4,Tarifa Ted,Despesas bancárias
+911,2017-10-19,7.0,Serviço de cobrança bb,Despesas bancárias
+912,2017-10-19,7.0,Serviço de cobrança bb,Despesas bancárias
+913,2017-10-20,9.4,Tarifa Ted bb,Despesas bancárias
+914,2017-10-23,7.0,Serviço de cobrança bb,Despesas bancárias
+915,2017-10-23,7.0,Serviço de cobrança bb,Despesas bancárias
+916,2017-10-24,7.0,Serviço de cobrança bb,Despesas bancárias
+917,2017-10-24,9.4,Tarifa ted bb,Despesas bancárias
+918,2017-10-25,7.0,Serviço de cobrança bb,Despesas bancárias
+919,2017-10-25,9.4,Tarifa ted bb,Despesas bancárias
+920,2017-10-27,9.4,Tarifa ted bb,Despesas bancárias
+921,2017-10-30,6.1,Serviço de cobrança bb,Despesas bancárias
+922,2017-10-30,7.0,Serviço de cobrança bb,Despesas bancárias
+923,2017-10-31,14.0,Serviço de cobrança bb,Despesas bancárias
+924,2017-10-31,9.4,Tarifa ted bb,Despesas bancárias
+925,2017-10-31,9.4,Tarifa Doc bb,Despesas bancárias
+926,2017-11-01,28.0,Serviço de cobrança bb,Despesas bancárias
+927,2017-11-03,2000.0,Pró-labore Kássia,Despesas bancárias
+928,2017-11-03,7.0,Serviço de cobrança bb,Despesas bancárias
+929,2017-11-03,63.0,Serviço de cobrança bb,Despesas bancárias
+930,2017-11-06,7.0,Serviço ce cobrança bb,Despesas bancárias
+931,2017-11-06,71.0,Tarifa bb,Despesas bancárias
+932,2017-11-07,7.0,Serviço de cobrança bb,Despesas bancárias
+933,2017-11-09,7.0,Serviço de cobrança bb,Despesas bancárias
+934,2017-11-13,7.0,Serviço de cobrança bb,Despesas bancárias
+935,2017-11-13,5.3,Serviço de cobrança bb,Despesas bancárias
+936,2017-11-17,28.0,Serviço de cobrança bb,Despesas bancárias
+937,2017-11-20,11.0,Serviço de cobrança bb,Despesas bancárias
+938,2017-11-20,5.71,Serviço de cobrança bb,Despesas bancárias
+939,2017-11-21,5.3,Serviço de cobrança bb,Despesas bancárias
+940,2017-11-21,21.0,Serviço de cobrança bb,Despesas bancárias
+941,2017-11-22,7.0,Serviço de cobrança bb,Despesas bancárias
+942,2017-11-22,7.0,Serviço de cobrança bb,Despesas bancárias
+943,2017-11-28,7.0,Serviço de cobrança bb,Despesas bancárias
+944,2017-11-28,5.3,Serviço de cobrança bb,Despesas bancárias
+945,2017-11-30,7.0,Serviço de cobraça bb,Despesas bancárias
+946,2017-12-01,28.0,Serviço de cobrança bb,Despesas bancárias
+947,2017-12-05,7.0,Serviço de cobrança bb,Despesas bancárias
+948,2017-12-04,70.0,Serviço de cobrança bb,Despesas bancárias
+949,2017-12-05,71.0,Pacote de tarifas bb,Despesas bancárias
+950,2017-12-08,7.0,Serviço de cobrança bb,Despesas bancárias
+951,2017-12-06,5.3,Serviço de cobrança bb,Despesas bancárias
+952,2017-12-11,7.0,Serviço de cobrança bb,Despesas bancárias
+953,2017-12-11,5.3,Serviço de cobrança bb,Despesas bancárias
+954,2017-12-12,14.0,Serviço de cobrança bb,Despesas bancárias
+955,2017-12-14,7.0,Serviço de cobrança bb,Despesas bancárias
+956,2017-12-18,7.0,Serviço de cobrança bb,Despesas bancárias
+957,2017-12-19,14.0,Serviço de cobrança bb,Despesas bancárias
+958,2017-12-20,5.71,Serviço de cobrança bb,Despesas bancárias
+959,2017-12-20,11.0,Serviço de cobrança bb,Despesas bancárias
+960,2017-12-20,5.3,Serviço de cobrança bb,Despesas bancárias
+961,2017-12-20,7.0,Serviço de cobrança bb,Despesas bancárias
+962,2017-12-21,7.0,Serviço de cobrança bb,Despesas bancárias
+963,2017-12-21,14.0,Serviço de cobrança bb,Despesas bancárias
+964,2017-12-22,7.0,Serviço de cobrança bb,Despesas bancárias
+965,2017-12-26,7.0,Serviço de cobrança bb,Despesas bancárias
+966,2017-12-28,7.0,Serviço de cobrança bb,Despesas bancárias
+967,2018-01-02,5.3,Serviço de cobrança bb,Despesas bancárias
+968,2018-01-02,182.0,Serviço de cobrança bb,Despesas bancárias
+969,2018-01-08,71.0,Pacote de serviços bb,Despesas bancárias
+970,2018-01-09,7.0,Serviço de cobrança bb,Despesas bancárias
+971,2018-01-10,7.0,Serviço de cobrança bb,Despesas bancárias
+972,2018-01-11,14.0,Serviço de cobrança bb,Despesas bancárias
+973,2018-01-12,5.3,Serviço de cobrança bb,Despesas bancárias
+974,2018-01-15,7.0,Serviço de cobrança bb,Despesas bancárias
+975,2018-01-15,9.4,Tarifa doc bb,Despesas bancárias
+976,2018-01-15,21.0,Serviço de cobrança bb,Despesas bancárias
+977,2018-01-17,21.0,Serviço de cobrança bb,Despesas bancárias
+978,2018-01-16,9.4,tarifa doc bb,Despesas bancárias
+979,2018-01-16,14.0,Serviço de cobrança bb,Despesas bancárias
+980,2018-01-18,7.0,Serviço de cobrança bb,Despesas bancárias
+981,2018-01-18,5.71,Serviço de cobrança bb,Despesas bancárias
+982,2018-01-18,11.0,Serviço de cobrança bb,Despesas bancárias
+983,2018-01-19,7.0,Serviço de cobrança bb,Despesas bancárias
+984,2018-01-23,7.0,Serviço de cobrança bb,Despesas bancárias
+985,2018-01-24,9.4,tarifa ted bb,Despesas bancárias
+986,2018-01-26,5.71,Serviço de cobrança bb,Despesas bancárias
+987,2018-01-26,11.0,Serviço de cobrança bb,Despesas bancárias
+988,2018-01-29,21.0,Serviço de cobrança bb,Despesas bancárias
+989,2018-01-30,7.0,Serviço de cobrança bb,Despesas bancárias
+990,2018-01-30,7.0,Serviço de cobrança bb,Despesas bancárias
+991,2018-01-31,7.0,Serviço de cobrança bb,Despesas bancárias
+992,2018-02-01,7.0,Serviço de cobrança bb,Despesas bancárias
+993,2018-02-01,56.0,Serviço de cobrança bb,Despesas bancárias
+994,2018-02-02,7.0,Serviço de cobrança bb,Despesas bancárias
+995,2018-02-02,7.0,Serviço de cobrança bb,Despesas bancárias
+996,2018-02-05,73.4,Tarifa de pacotes de serviços bb,Despesas bancárias
+997,2018-02-06,7.0,Serviço de cobrança bb,Despesas bancárias
+998,2018-02-06,7.0,Serviço de cobrança bb,Despesas bancárias
+999,2018-02-07,7.0,Serviço de cobrança bb,Despesas bancárias
+1000,2018-02-07,5.3,Serviço de cobrança bb,Despesas bancárias
+1001,2018-02-07,179.85,Serviço de cobrança bb,Despesas bancárias
+1002,2018-02-07,9.7,Tarifa doc bb,Despesas bancárias
+1003,2018-02-14,7.0,serviço de cobrança bb,Despesas bancárias
+1004,2018-02-09,9.7,Tarifa ted bb,Despesas bancárias
+1005,2018-02-09,14.0,Serviço de cobrança bb,Despesas bancárias
+1006,2018-02-15,7.0,Serviço de cobrança bb,Despesas bancárias
+1007,2018-02-15,5.3,Serviço de cobrança bb,Despesas bancárias
+1008,2018-02-15,14.0,Serviço de cobrança bb,Despesas bancárias
+1009,2018-02-15,9.7,Tarifa ted bb,Despesas bancárias
+1010,2018-02-16,7.0,Serviço de cobrança bb,Despesas bancárias
+1011,2018-02-19,7.0,Serviço de cobrança bb,Despesas bancárias
+1012,2018-02-20,5.71,Serviço de cobrança bb,Despesas bancárias
+1013,2018-02-20,11.0,Serviço de cobrança bb,Despesas bancárias
+1014,2018-02-20,7.0,Serviço de cobrança bb,Despesas bancárias
+1015,2018-02-23,9.7,Tarifa ted bb,Despesas bancárias
+1016,2018-02-26,7.0,Serviço de cobrança bb,Despesas bancárias
+1017,2018-02-26,42.45,Tarifa cadastro bb,Despesas bancárias
+1018,2018-02-28,7.0,Serviço de cobrança bb,Despesas bancárias
+1019,2018-02-27,5.3,Serviço de cobrança bb,Despesas bancárias
+1020,2018-02-28,5.3,Serviço de cobrança bb,Despesas bancárias
+1021,2018-03-01,14.0,Serviço de cobrança bb,Despesas bancárias
+1022,2018-03-01,56.0,Serviço de cobrança bb,Despesas bancárias
+1023,2018-03-05,73.4,Tarifa pacote de serviços bb,Despesas bancárias
+1024,2018-03-05,42.0,Serviço de cobrança bb,Despesas bancárias
+1025,2018-03-05,10.6,Serviço de cobrança bb,Despesas bancárias
+1026,2018-03-06,7.0,Serviço de cobrança bb,Despesas bancárias
+1027,2018-03-09,7.0,Serviços de cobrança bb,Despesas bancárias
+1028,2018-03-12,7.0,Serviços de cobrança bb,Despesas bancárias
+1029,2018-03-07,5.3,Serviços de cobrança bb,Despesas bancárias
+1030,2018-03-13,9.7,Tarifa doc bb,Despesas bancárias
+1031,2018-03-13,21.0,Serviço de cobrança bb,Despesas bancárias
+1032,2018-03-13,7.0,Serviço de cobrança bb,Despesas bancárias
+1033,2018-03-16,14.0,Serviço de cobrança bb,Despesas bancárias
+1034,2018-03-16,9.7,Tarifa Ted bb,Despesas bancárias
+1035,2018-03-16,5.3,Serviço de cobrança bb,Despesas bancárias
+1036,2018-03-19,14.0,Serviço de cobrança bb,Despesas bancárias
+1037,2018-03-20,5.71,Serviço de cobrança bb,Despesas bancárias
+1038,2018-03-20,7.0,Serviço de cobrança bb,Despesas bancárias
+1039,2018-03-20,11.0,Serviço de cobrança bb,Despesas bancárias
+1040,2018-03-21,9.7,Tarifa ted bb,Despesas bancárias
+1041,2018-03-22,7.0,Serviço de cobrança bb,Despesas bancárias
+1042,2018-03-23,14.0,Serviço de cobrança bb,Despesas bancárias
+1043,2018-03-22,9.7,Tarifa ted bb,Despesas bancárias
+1044,2018-03-27,5.3,Serviço de cobrança bb,Despesas bancárias
+1045,2018-03-29,7.0,Serviço de cobrança bb,Despesas bancárias
+1046,2018-03-29,9.7,Ted BB,Despesas bancárias
+1047,2018-04-03,14.0,Serviço de cobrança bb,Despesas bancárias
+1048,2018-04-02,11.0,Serviço de cobrança bb,Despesas bancárias
+1049,2018-04-02,11.0,Serviço de cobrança bb,Despesas bancárias
+1050,2018-04-02,105.0,Serviço de cobrança bb,Despesas bancárias
+1051,2018-04-02,5.71,Serviço de cobrança bb,Despesas bancárias
+1052,2018-04-02,7.0,Serviço de cobrança bb,Despesas bancárias
+1053,2018-04-04,9.7,Tarifa ted,Despesas bancárias
+1054,2018-04-04,21.0,Serviço de cobrança bb,Despesas bancárias
+1055,2018-04-05,73.4,Tarifa bb,Despesas bancárias
+1056,2018-04-05,14.0,Serviço de cobrança bb,Despesas bancárias
+1057,2018-04-10,14.0,Serviço de cobrança bb,Despesas bancárias
+1058,2018-04-11,14.0,Serviço de cobrança bb,Despesas bancárias
+1059,2018-04-12,179.85,Serviço de cobrança bb,Despesas bancárias
+1060,2018-04-16,5.3,Serviço de cobrança bb,Despesas bancárias
+1061,2018-04-16,14.0,Serviço de cobrança bb,Despesas bancárias
+1062,2018-04-17,21.0,Serviço de cobrança bb,Despesas bancárias
+1063,2018-04-18,7.0,Serviço de cobrança bb,Despesas bancárias
+1064,2018-04-18,11.0,Serviço de cobrança bb,Despesas bancárias
+1065,2018-04-18,9.7,Tarifa ted bb,Despesas bancárias
+1066,2018-04-18,5.71,Serviço de cobrança bb,Despesas bancárias
+1067,2018-04-20,9.7,Tarifa ted bb,Despesas bancárias
+1068,2018-04-19,9.7,Tarifa ted bb,Despesas bancárias
+1069,2018-04-23,14.0,Serviço de cobrança bb,Despesas bancárias
+1070,2018-04-24,6.1,Serviço de cobrança bb,Despesas bancárias
+1071,2018-05-02,14.0,Serviço de cobrança bb,Despesas bancárias
+1072,2018-05-03,7.0,Serviço de cobrança bb,Despesas bancárias
+1073,2018-05-03,5.3,Serviço de cobrança bb,Despesas bancárias
+1074,2018-05-03,91.0,Serviço de cobrança bb,Despesas bancárias
+1075,2018-05-08,7.0,Serviço de cobrança bb,Despesas bancárias
+1076,2018-05-07,73.4,pacote de serviços bb,Despesas bancárias
+1077,2018-05-07,7.0,Serviço de cobrança bb,Despesas bancárias
+1078,2018-05-09,7.0,Serviço de cobrança bb,Despesas bancárias
+1079,2018-05-10,7.0,Serviço de cobrança bb,Despesas bancárias
+1080,2016-01-11,2057.69,Empréstimo BB 1 (11/24),Empréstimo
+1081,2016-01-11,0.12,Empréstimo BB1,Empréstimo
+1082,2016-01-22,1446.7,Empréstimo BB 2,Empréstimo
+1083,2016-02-01,34.54,BB Empréstimo capital de giro,Empréstimo
+1084,2016-02-05,2021.12,Empréstimo bb,Empréstimo
+1085,2016-02-22,1419.15,Empréstimo bb capital de giro,Empréstimo
+1086,2016-05-05,1893.33,Empréstimo 1 bb,Empréstimo
+1087,2017-01-24,1100.0,Devolução Empréstimo Kássia,Empréstimo
+1088,2017-01-24,438.41,Devolução Empréstimo Artur ,Empréstimo
+1089,2017-01-30,900.0,Reembolso Empréstimo Zene,Empréstimo
+1090,2017-03-10,4000.0,Reembolso Empréstimo Rui,Empréstimo
+1091,2017-03-10,740.39,reembolso rui - Pagamento plano de saúde Zene,Empréstimo
+1092,2017-06-14,1500.0,Empréstimo Art (1/7),Empréstimo
+1093,2017-06-19,1500.0,Empréstimo Art (2/7),Empréstimo
+1094,2017-06-19,1500.0,Empréstimo Art (3/7),Empréstimo
+1095,2017-07-18,1500.0,Empréstimo Art (4/7),Empréstimo
+1096,2017-07-20,1500.0,Empréstimo Art (5/7),Empréstimo
+1097,2017-08-17,3000.0,Empréstimo - RUI (3mil de 8.500),Empréstimo
+1098,2017-08-18,2500.0,"Empréstimo - RUI (2,5mil de 8.500) - Falta - 3mil",Empréstimo
+1099,2017-08-23,1000.0,"Empréstimo Rui (3+2,5+1mil de 8,5mil) - Falta 2mil",Empréstimo
+1100,2017-08-31,1800.0,"Empréstimo Rui (3+2,5+1+1,8mil de 8,5mil) - Falta 200,00",Empréstimo
+1101,2017-09-01,750.0,"Empréstimo Rui (3+2,5+1+1,8+0,2+Juros)",Empréstimo
+1102,2017-09-12,3000.0,Empréstimo Rui (3mil de 12mil) - Falta 9mil,Empréstimo
+1103,2017-09-13,3000.0,Empréstimo Rui (3+3mil de 12 mil) - falta 6 mil,Empréstimo
+1104,2017-09-20,2500.0,"Empréstimo Rui (3+3+2,5 de 12mil)",Empréstimo
+1105,2017-09-22,1500.0,"Empréstimo Rui (3+3+2,5+1,5 de 12mil) - Falta 2mil",Empréstimo
+1106,2017-09-26,2000.0,"Empréstimo Rui (3+3+2,5+1,5+2 de 12 mil)",Empréstimo
+1107,2017-09-28,700.0,Empréstimo Rui de 12 mil - juros,Empréstimo
+1108,2017-10-17,3000.0,Empréstimo Rui - Outubro (3mil de 12 mil),Empréstimo
+1109,2017-10-19,2000.0,Empréstimo Rui Outubro (3+2 de 12mil),Empréstimo
+1110,2017-10-20,2000.0,Empréstimo Rui Outubro (3+2+2 de 12mil),Empréstimo
+1111,2017-10-24,1500.0,"Empréstimo Rui - Outubro (3+2+2+1,5 de 12mil) falta 3,5mil",Empréstimo
+1112,2017-10-25,2500.0,"Empréstimo Rui Outubro (3+2+2+1,5+2,5 de 12mil) falta 1mil",Empréstimo
+1113,2017-10-27,1000.0,"Empréstimo Rui Outubro (3+2+2+1,5+2,5+1 de 12mil) Falta Juros",Empréstimo
+1114,2017-10-30,2000.0,Empréstimo Art (6/7) - Falta 1mil,Empréstimo
+1115,2017-10-31,1000.0,Empréstimo Rui Outubro - Juros,Empréstimo
+1116,2017-11-03,1000.0,Empréstimo Art (7/7) - Última,Empréstimo
+1117,2018-01-12,3000.0,Empréstimo Rui (3mil de 6mil),Empréstimo
+1118,2018-01-16,1415.0,"Empréstimo Rui 1mil (Falta 2mil) + Auxílio Rui 415,00",Empréstimo
+1119,2018-01-17,2000.0,Empréstimo Ru de 6mil (3 + 1 + 2mil),Empréstimo
+1120,2018-01-17,9.4,Tarifa doc bb,Empréstimo
+1121,2018-02-05,3000.0,Doc Empréstimo Rui (3mil de 7mil),Empréstimo
+1122,2018-02-09,3000.0,Empréstimo Rui 7mil (3mil+3mil) - Falta 1mil,Empréstimo
+1123,2018-02-15,1000.0,Empréstimo Rui 7mil (3+3+1mil),Empréstimo
+1124,2018-03-13,3000.0,Empréstimo Rui de 9mil (Falta 6mil),Empréstimo
+1125,2018-03-21,3000.0,Empréstimo Rui 6mil (3mil+3mil) Falta 3mil,Empréstimo
+1126,2018-03-21,2000.0,Empréstimo Rui (3+3+2mil de 9mil) - falta 1mil,Empréstimo
+1127,2018-03-22,1000.0,Empréstimo Rui 9mil (3+3+2+1mil),Empréstimo
+1128,2018-03-29,3000.0,Empréstimo Rui 2 Março,Empréstimo
+1129,2018-04-03,660.0,Empréstimos Rui - Março - Juros,Empréstimo
+1130,2018-04-18,3000.0,Empréstimo Rui 6mil (pago 3mil - falta 3mil),Empréstimo
+1131,2018-04-19,3000.0,Empréstimo Rui 6mil (3+3mil),Empréstimo
+1132,2016-02-17,454.46,Celpe - Sala torre,Energia
+1133,2016-03-01,250.01,Celpe,Energia
+1134,2016-04-19,505.41,Celpe,Energia
+1135,2016-05-24,441.28,Celpe,Energia
+1136,2016-11-23,406.19,Celpe,Energia
+1137,2016-10-21,355.62,Celpe,Energia
+1138,2016-09-22,438.65,Celpe,Energia
+1139,2016-08-23,455.07,Celpe,Energia
+1140,2016-07-23,494.49,Celpe,Energia
+1141,2016-06-21,479.78,Celpe,Energia
+1142,2016-12-22,444.83,Celpe,Energia
+1143,2017-01-24,466.48,Celpe,Energia
+1144,2017-02-17,487.02,Celpe,Energia
+1145,2017-03-17,308.74,Celpe - Sala 201A,Energia
+1146,2017-03-20,221.84,Celpe - sala 202C,Energia
+1147,2017-04-24,472.26,Celpe,Energia
+1148,2017-05-19,452.37,Celpe,Energia
+1149,2017-06-20,508.5,Celpe,Energia
+1150,2017-07-18,508.18,Celpe,Energia
+1151,2017-08-15,445.32,Celpe,Energia
+1152,2017-09-20,445.92,Celpe,Energia
+1153,2017-10-19,397.1,Celpe,Energia
+1154,2017-11-17,407.39,Celpe,Energia
+1155,2017-12-20,447.78,Celpe,Energia
+1156,2018-01-19,441.57,Celpe,Energia
+1157,2018-02-16,452.64,Celpe,Energia
+1158,2018-03-21,410.18,Celpe,Energia
+1159,2018-04-24,461.52,Celpe,Energia
+1160,2016-01-25,250.0,Caixinha,Escritório
+1161,2016-01-25,74.0,Cartório,Escritório
+1162,2016-01-26,30.0,Registro Domínio Internet,Escritório
+1163,2016-01-25,8.0,Água Mineral,Escritório
+1164,2016-02-04,700.0,Transferência para depósito na caixinha,Escritório
+1165,2016-02-21,50.14,Material Limpeza/Copa,Escritório
+1166,2016-03-13,98.01,Compras Copa-Cozinha,Escritório
+1167,2016-03-13,64.11,"Anivers[ario do M""es",Escritório
+1168,2016-03-13,60.0,Carimbo,Escritório
+1169,2016-03-18,9.0,Envelopes,Escritório
+1170,2016-03-18,24.0,Impressão de Etiquetas,Escritório
+1171,2016-03-18,14.0,Envelopes,Escritório
+1172,2016-06-15,50.0,Água Mineral,Escritório
+1173,2016-12-01,57.0,Domínio Internet,Escritório
+1174,2016-12-12,60.0,Água Mineral,Escritório
+1175,2016-12-07,50.0,Faxina,Escritório
+1176,2016-12-18,22.2,2 Lâmpadas,Escritório
+1177,2016-12-21,100.0,Abradi,Escritório
+1178,2016-12-21,80.0,Faxina,Escritório
+1179,2016-12-21,300.0,Saque - Pagamento Garagem,Escritório
+1180,2016-12-22,298.89,RD Stattion,Escritório
+1181,2016-12-22,254.76,VEM,Escritório
+1182,2016-12-22,110.0,Zona Azul (110 Folhas),Escritório
+1183,2016-12-22,28.29,Confraternização,Escritório
+1184,2016-12-30,394.08,Reembolso Cartão Artur,Escritório
+1185,2016-12-28,2076.59,Pagamento Cartão,Escritório
+1186,2017-01-28,86.66,Tok e Stok ( dezembro a Abril),Escritório
+1187,2017-01-28,63.0,Gráfica,Escritório
+1188,2017-01-28,88.43,Confraternização - Casa dos frios,Escritório
+1189,2017-01-28,99.0,Confraaternização - Game station,Escritório
+1190,2017-01-28,40.0,Feira Copa,Escritório
+1191,2017-01-28,131.4,Microsoft ,Escritório
+1192,2017-01-28,134.92,Microsoft,Escritório
+1193,2017-01-09,60.0,Faxina,Escritório
+1194,2017-01-16,79.35,Táxi,Escritório
+1195,2017-01-18,17.8,2 Lâmpadas,Escritório
+1196,2017-01-06,72.57,Suprimento Escritório,Escritório
+1197,2017-01-12,29.0,Gráfica,Escritório
+1198,2017-01-24,123.56,Vem - Wendell,Escritório
+1199,2017-01-26,300.0,Garagem,Escritório
+1200,2017-01-28,14.7,Uber,Escritório
+1201,2017-01-30,710.42,Reembolso Cartão Artur,Escritório
+1202,2017-01-27,70.0,Troca de vidro Celular,Escritório
+1203,2017-01-24,12.0,Estacionamento,Escritório
+1204,2017-01-27,112.4,Material de consumo,Escritório
+1205,2017-01-31,9.32,Cartório,Escritório
+1206,2017-01-31,18.64,Cartório,Escritório
+1207,2017-02-05,10.0,Chip Celular roubado,Escritório
+1208,2017-02-06,60.0,Água Mineral,Escritório
+1209,2017-02-14,300.0,Cheque - Instalação Ar condicionado,Escritório
+1210,2017-02-20,146.52,Vem,Escritório
+1211,2017-02-19,44.4,Lâmpadas,Escritório
+1212,2017-02-20,8.3,Correios,Escritório
+1213,2017-02-28,189.4,Material de construção Mudança (Fevereiro/Março),Escritório
+1214,2017-02-28,32.56,Copa Cozinha,Escritório
+1215,2017-02-28,330.04,Nagem (Fevereiro a Abril),Escritório
+1216,2017-02-28,109.4,Microsoft,Escritório
+1217,2017-02-28,90.42,Microsoft,Escritório
+1218,2017-02-28,199.4,Copa / Cozinha,Escritório
+1219,2017-02-04,86.88,Ferreira costa / Material Mudança (fevereiro a Abril),Escritório
+1220,2017-02-11,86.66,Tok e Stok ( dezembro a Abril),Escritório
+1221,2017-03-01,133.63,Reembolso Cartão Artur,Escritório
+1222,2017-02-28,300.0,Garagem,Escritório
+1223,2017-02-21,13.65,Correios,Escritório
+1224,2017-02-28,30.0,Zona azul,Escritório
+1225,2017-03-03,270.0,Porta (2/2),Escritório
+1226,2017-03-04,9.1,Gráfica,Escritório
+1227,2017-03-04,7.5,Estacionamento,Escritório
+1228,2017-03-05,40.0,Chaves,Escritório
+1229,2017-03-09,4.66,Cartório,Escritório
+1230,2017-03-11,86.66,Tok e Stok ( dezembro a Abril),Escritório
+1231,2017-03-28,189.4,Material de construção Mudança (Fevereiro/Março),Escritório
+1232,2017-02-28,56.2,Nescafé (fevereiro a março),Escritório
+1233,2017-03-28,56.2,Nescafé (fevereiro a março),Escritório
+1234,2017-03-04,86.86,Ferreira costa / Material Mudança (fevereiro a Abril),Escritório
+1235,2017-03-28,330.03,Nagem (Fevereiro a Abril),Escritório
+1236,2017-03-03,190.5,Gráfica,Escritório
+1237,2017-03-03,140.0,Gráfica,Escritório
+1238,2017-03-10,5.0,Chave,Escritório
+1239,2017-03-10,30.0,Zona azul (10 folhas),Escritório
+1240,2017-03-16,343.26,Clipping - Fevereiro,Escritório
+1241,2017-03-16,343.26,Clipping - março,Escritório
+1242,2017-03-16,100.0,Abradi,Escritório
+1243,2017-03-16,1736.89,RD Statio - Cenos (2/3),Escritório
+1244,2017-03-17,350.0,Pedro - Serviços de Informática,Escritório
+1245,2017-03-28,85.94,Compras Copa/Cozinha,Escritório
+1246,2017-03-27,120.28,VEM - Rafael,Escritório
+1247,2017-03-28,300.0,Cheque - Garagem,Escritório
+1248,2017-03-29,611.38,Reembolso cartão Artur,Escritório
+1249,2017-03-27,60.0,Água Mineral,Escritório
+1250,2017-03-29,7.5,Estacionamento,Escritório
+1251,2017-03-24,150.0,Vacina,Escritório
+1252,2017-03-31,18.0,Estacionamento,Escritório
+1253,2017-03-31,100.0,Conserto Gesso do teto,Escritório
+1254,2017-04-08,45.63,Feira/Copa,Escritório
+1255,2017-04-22,104.06,Decoração,Escritório
+1256,2017-04-24,7.0,Estacionamento,Escritório
+1257,2017-04-24,80.0,Cartucho,Escritório
+1258,2017-04-26,300.0,Garafem,Escritório
+1259,2017-04-26,300.0,Adesivo,Escritório
+1260,2017-04-25,32.0,Gráfica,Escritório
+1261,2017-04-25,7.5,Estacionamento,Escritório
+1262,2017-04-25,14.4,Cartão Chip vivo,Escritório
+1263,2017-04-28,146.52,Vem ,Escritório
+1264,2017-05-06,120.0,Combustível - Kássia,Escritório
+1265,2017-05-06,250.0,Eletricista - Joselito,Escritório
+1266,2017-05-06,80.0,Encanador,Escritório
+1267,2017-05-05,109.0,Reembolso Kássia,Escritório
+1268,2017-05-17,50.0,IEL,Escritório
+1269,2017-05-23,139.96,VEM,Escritório
+1270,2017-05-08,124.0,Sansa - Aniversário Bruna ,Escritório
+1271,2017-05-28,521.1,RD - (Maio a Outubro),Escritório
+1272,2017-07-28,521.1,RD - (Maio a Outubro),Escritório
+1273,2017-08-28,521.1,RD - (Maio a Outubro),Escritório
+1274,2017-09-28,521.1,RD - (Maio a Outubro),Escritório
+1275,2017-10-28,521.1,RD - (Maio a Outubro),Escritório
+1276,2017-05-28,99.92,Facebook,Escritório
+1277,2017-05-28,6.91,Facebook,Escritório
+1278,2017-05-28,6.99,Google Play,Escritório
+1279,2017-05-28,112.59,google,Escritório
+1280,2017-05-28,95.26,Google,Escritório
+1281,2017-05-28,99.0,ferreira costa - Reforma,Escritório
+1282,2017-05-28,114.26,Ferreira costa - Reforma,Escritório
+1283,2017-04-11,86.66,Tok e Stok ( dezembro a Abril),Escritório
+1284,2017-04-04,86.86,Ferreira costa / Material Mudança (fevereiro a Abril),Escritório
+1285,2017-04-28,330.04,Nagem (Fevereiro a Abril),Escritório
+1286,2017-05-25,703.87,Clipping,Escritório
+1287,2017-05-24,300.0,Garagem,Escritório
+1288,2017-06-01,67.2,Passagens Aurélio Junho,Escritório
+1289,2017-06-08,94.04,Vem trabalhador - Roberta,Escritório
+1290,2017-06-08,6.4,Passagens contabilidade,Escritório
+1291,2017-06-07,19.0,Gráfica,Escritório
+1292,2017-06-06,5.0,Estacionamento,Escritório
+1293,2017-06-07,25.0,Exame admissional,Escritório
+1294,2017-06-07,15.0,Estacionamento,Escritório
+1295,2017-06-08,35.0,Passagens - Roberta,Escritório
+1296,2017-06-09,500.0,Conserto Ar condicionado,Escritório
+1297,2017-09-15,400.0,Computador Financeiro,Escritório
+1298,2017-06-10,73.5,Copa/cozinha,Escritório
+1299,2017-06-10,79.93,copa/cozinha,Escritório
+1300,2017-06-20,50.0,IEL,Escritório
+1301,2017-06-17,104.43,Combustível mensal,Escritório
+1302,2017-06-28,521.06,RD - (Maio a Outubro),Escritório
+1303,2017-06-28,153.47,Combustível - Maio,Escritório
+1304,2017-06-28,220.6,Material escritório - Kalunga - (Junho e julho),Escritório
+1305,2017-07-28,220.6,Material escritório - Kalunga - (Junho e julho),Escritório
+1306,2017-06-28,76.75,Livros p clientes - Saraiva - (junho e junlho),Escritório
+1307,2017-07-28,76.75,Livros p clientes - Saraiva - (junho e junlho),Escritório
+1308,2017-06-25,360.0,Clipping,Escritório
+1309,2017-06-26,300.0,Pagamento Garagem,Escritório
+1310,2017-06-26,277.72,VEM,Escritório
+1311,2017-06-26,65.0,Água mineral,Escritório
+1312,2017-06-30,7.5,Estacionamento,Escritório
+1313,2017-06-27,15.0,Encadernação - Crea,Escritório
+1314,2017-06-26,55.2,transporte - Ivandro Galdino,Escritório
+1315,2017-01-30,298.89,RD Station,Escritório
+1316,2017-03-01,299.64,RD Station,Escritório
+1317,2017-04-28,299.64,RD Station,Escritório
+1318,2017-07-01,36.22,Cartório,Escritório
+1319,2017-07-15,400.0,Computador Financeiro,Escritório
+1320,2017-07-24,153.08,VEM,Escritório
+1321,2017-07-24,360.0,Clipping,Escritório
+1322,2017-07-26,300.0,Garagem,Escritório
+1323,2017-08-02,10.6,Papelaria,Escritório
+1324,2017-08-01,5.0,Estacionamento,Escritório
+1325,2017-08-01,7.0,Estacionamneto,Escritório
+1326,2017-08-03,147.2,Transporte - Igor (férias Bruna),Escritório
+1327,2017-08-03,30.0,Zona Azul,Escritório
+1328,2017-08-04,50.0,Água Mineral,Escritório
+1329,2017-08-11,450.0,Computador (2/4),Escritório
+1330,2017-08-07,116.56,Copa/cozinha,Escritório
+1331,2017-08-15,30.0,Zona Azul,Escritório
+1332,2017-08-15,13.0,Copa/Cozinha,Escritório
+1333,2017-08-12,20.45,Copa/cozinha,Escritório
+1334,2017-08-18,126.84,Vem,Escritório
+1335,2017-08-15,400.0,Computador Financeiro,Escritório
+1336,2017-09-26,300.0,Garagem,Escritório
+1337,2017-09-27,133.4,VEM,Escritório
+1338,2017-10-19,150.0,Adesivo,Escritório
+1339,2017-10-23,1327.43,Cheque - Léo Vieira,Escritório
+1340,2017-10-24,133.4,Vem,Escritório
+1341,2017-10-24,50.0,IEL,Escritório
+1342,2017-10-15,400.0,Computador Financeiro,Escritório
+1343,2017-10-26,300.0,Garagem,Escritório
+1344,2017-10-30,30.0,Zona azul,Escritório
+1345,2017-11-03,42.0,Correios - Rota,Escritório
+1346,2017-11-21,126.84,Vem Trabalhador,Escritório
+1347,2017-11-14,102.0,Água Mineral,Escritório
+1348,2017-11-20,21.8,Papelaria,Escritório
+1349,2017-11-20,10.0,Estacionamento,Escritório
+1350,2017-11-23,60.0,Almoço Reunião equipe,Escritório
+1351,2017-11-27,300.0,Garagem,Escritório
+1352,2017-11-27,550.0,Cheque: Manutenção ar condicionado,Escritório
+1353,2017-11-28,13.55,Correios,Escritório
+1354,2017-11-27,7.5,Estacionamento,Escritório
+1355,2017-11-24,100.0,Gráfica,Escritório
+1356,2017-12-04,79.12,Táxi,Escritório
+1357,2017-12-15,100.0,grafica ,Escritório
+1358,2017-12-19,50.0,IEL - Última Gustavo,Escritório
+1359,2017-12-26,342.0,Pagamento Clipping Knewin,Escritório
+1360,2017-12-27,74.36,Vem,Escritório
+1361,2017-12-27,102.0,Água mineral,Escritório
+1362,2017-12-22,8.0,Estacionamento,Escritório
+1363,2017-12-22,86.8,Almoço Cliente,Escritório
+1364,2017-12-22,68.31,Café com Vivianne,Escritório
+1365,2017-12-21,100.0,Caixinha de Natal portaria,Escritório
+1366,2017-12-21,75.0,Presente Aniversário,Escritório
+1367,2017-12-21,7.5,Estacionamento,Escritório
+1368,2017-12-28,300.0,Cheque: Garagem,Escritório
+1369,2018-01-04,143.14,Reembolso Cartão Bruna,Escritório
+1370,2018-01-06,50.65,Copa/Cozinha,Escritório
+1371,2018-01-16,62.0,gráfica,Escritório
+1372,2018-01-14,19.9,copa cozonha,Escritório
+1373,2018-01-13,121.45,Copa cozinha,Escritório
+1374,2018-01-14,13.94,Copa cozinha,Escritório
+1375,2018-01-17,131.85,Combustível,Escritório
+1376,2018-01-26,300.0,Garagem,Escritório
+1377,2018-01-29,107.16,VEM Trabalhador,Escritório
+1378,2018-01-23,57.6,Auxílio Transporte - Estagiário ,Escritório
+1379,2018-01-23,15.0,Gráfica,Escritório
+1380,2018-01-25,25.0,Exame Admissional - Luana,Escritório
+1381,2018-01-30,30.0,Zona Azul,Escritório
+1382,2018-02-02,83.7,Faxina,Escritório
+1383,2018-02-02,150.0,Foto - Full Jump,Escritório
+1384,2018-02-20,38.33,IEL,Escritório
+1385,2018-02-13,30.0,Zona azul,Escritório
+1386,2018-02-17,21.41,Almoço,Escritório
+1387,2018-02-26,300.0,Garagem,Escritório
+1388,2018-02-23,372.0,faxina Março,Escritório
+1389,2018-02-23,1000.0,Curso Sergio Mendonça (1/2),Escritório
+1390,2018-02-26,342.0,Clipping Knewin,Escritório
+1391,2018-02-27,133.4,Vem,Escritório
+1392,2018-02-24,144.14,Gasolina,Escritório
+1393,2018-03-01,11.0,Copa / Cozinha,Escritório
+1394,2018-03-14,1390.0,Gráfica (1/2) - Material Escritório,Escritório
+1395,2018-03-12,72.0,Água Mineral,Escritório
+1396,2018-03-14,8.0,Estacionamento,Escritório
+1397,2018-03-10,10.0,Estacionamento,Escritório
+1398,2018-03-12,30.0,Zona Azul,Escritório
+1399,2018-03-08,224.0,Presente dia da mulher,Escritório
+1400,2018-03-16,1000.0,Curso - Sergio Mendonça (2/2),Escritório
+1401,2018-03-16,100.0,IEL,Escritório
+1402,2018-03-22,128.35,Pagamento material no Cartão de Artur,Escritório
+1403,2018-03-22,844.0,DA Costa Fuchs - Material escritório,Escritório
+1404,2018-03-26,372.0,Faxina ,Escritório
+1405,2018-03-26,342.0,Knewin,Escritório
+1406,2018-03-26,300.0,Garagem,Escritório
+1407,2018-03-23,81.6,Passagens - Arthur Rodrigues - Estagiário,Escritório
+1408,2018-04-04,169.0,OAB reembolso nfse1152,Escritório
+1409,2018-04-17,1390.0,Gráfica (2/2),Escritório
+1410,2018-04-05,66.0,Água Mineral,Escritório
+1411,2018-04-20,100.0,IEL,Escritório
+1412,2018-04-24,465.0,Faxina - Maio,Escritório
+1413,2018-04-23,59.9,Papelaria,Escritório
+1414,2018-04-25,400.0,massa conteúdo - sergio roberto,Escritório
+1415,2018-04-26,300.0,Garagem,Escritório
+1416,2018-05-09,110.3,Seguro sala (3/4),Escritório
+1417,2016-11-04,50.0,Faxina,Faxina
+1418,2016-11-18,50.0,Faxina,Faxina
+1419,2016-11-25,50.0,Faxina,Faxina
+1420,2016-10-14,50.0,Faxina,Faxina
+1421,2016-10-21,50.0,Faxina,Faxina
+1422,2016-10-28,50.0,Faxina,Faxina
+1423,2016-09-02,50.0,Faxina,Faxina
+1424,2016-09-12,100.0,Faxina - 5 e 12/09,Faxina
+1425,2016-09-22,50.0,Faxina ,Faxina
+1426,2016-09-30,50.0,Faxina,Faxina
+1427,2016-08-11,50.0,Faxina,Faxina
+1428,2016-08-24,50.0,Faxina,Faxina
+1429,2016-08-24,50.0,Faxina,Faxina
+1430,2016-07-07,70.0,Faxina,Faxina
+1431,2016-06-06,70.0,Faxina,Faxina
+1432,2016-06-09,70.0,Faxina,Faxina
+1433,2016-06-22,140.0,Faxina - 13 e 20/06,Faxina
+1434,2016-05-02,140.0,Faxina - 2 faxinas,Faxina
+1435,2016-10-07,50.0,Faxina,Faxina
+1436,2016-12-16,50.0,Faxina,Faxina
+1437,2016-12-27,50.0,Faxina,Faxina
+1438,2018-02-15,186.0,Faxina,Faxina
+1439,2016-04-27,3684.0,Bruna: 1/3 de férias + Salário de junho,Férias
+1440,2016-03-10,125.0,Abracom,Filiações e subscrições
+1441,2016-04-06,125.0,Abracom,Filiações e subscrições
+1442,2016-05-03,125.0,Abracom,Filiações e subscrições
+1443,2016-07-02,135.0,Abracom,Filiações e subscrições
+1444,2016-08-06,135.0,ABRACOM,Filiações e subscrições
+1445,2016-08-23,123.33,Sindicato Publicitário,Filiações e subscrições
+1446,2016-08-24,100.0,Abradi,Filiações e subscrições
+1447,2016-09-10,135.0,Abracom,Filiações e subscrições
+1448,2016-09-23,100.0,Abradi,Filiações e subscrições
+1449,2016-10-21,135.0,Abracom,Filiações e subscrições
+1450,2016-11-10,135.0,Abracom,Filiações e subscrições
+1451,2016-11-22,100.0,Abradi,Filiações e subscrições
+1452,2016-10-24,100.0,Abradi-Pe,Filiações e subscrições
+1453,2016-12-07,135.0,Abracom,Filiações e subscrições
+1454,2016-06-01,125.0,Abracom,Filiações e subscrições
+1455,2017-01-10,135.0,Abracom,Filiações e subscrições
+1456,2017-01-24,100.0,Abradi,Filiações e subscrições
+1457,2017-02-17,100.0,Abradi,Filiações e subscrições
+1458,2017-04-19,50.0,IEL,Filiações e subscrições
+1459,2017-04-24,100.0,Abradi,Filiações e subscrições
+1460,2017-04-25,254.86,Contribuição Sindical,Filiações e subscrições
+1461,2017-05-19,100.0,Abradi,Filiações e subscrições
+1462,2017-06-20,100.0,Abradi,Filiações e subscrições
+1463,2017-07-21,100.0,Abradi,Filiações e subscrições
+1464,2017-08-15,100.0,Abradi,Filiações e subscrições
+1465,2017-08-15,100.0,IEL,Filiações e subscrições
+1466,2017-09-20,50.0,IEL,Filiações e subscrições
+1467,2017-09-20,100.0,Abradi,Filiações e subscrições
+1468,2017-10-19,100.0,Abradi,Filiações e subscrições
+1469,2017-11-23,100.0,Abradi,Filiações e subscrições
+1470,2017-12-19,100.0,Abradi,Filiações e subscrições
+1471,2018-01-29,100.0,Abradi,Filiações e subscrições
+1472,2018-02-26,100.0,Abradi,Filiações e subscrições
+1473,2018-03-28,100.0,Abradi,Filiações e subscrições
+1474,2018-04-24,100.0,Abradi,Filiações e subscrições
+1475,2016-01-15,740.3,DAS - Simples Nacional,Imposto: DAS Simples
+1476,2016-02-18,1571.7,DAS - Referente a Janeiro 2016,Imposto: DAS Simples
+1477,2016-03-24,3501.0,DAS Simples Nacional,Imposto: DAS Simples
+1478,2016-05-20,3354.81,DAS - Simples Nacional,Imposto: DAS Simples
+1479,2016-06-17,3759.49,DAS - Simples Nacional,Imposto: DAS Simples
+1480,2016-07-26,6421.45,DAS - Simples Nacional - Abril,Imposto: DAS Simples
+1481,2016-07-27,4560.51,DAS - Simples Nacional,Imposto: DAS Simples
+1482,2016-10-27,300.38,Das - Parcelamento (1/43),Imposto: DAS Simples
+1483,2016-11-23,4406.9,DAS - Competência Outubro,Imposto: DAS Simples
+1484,2016-11-24,7295.54,DAS - Competência 09/2016,Imposto: DAS Simples
+1485,2016-11-24,303.38,DAS - parcelado (2/43),Imposto: DAS Simples
+1486,2016-12-16,5322.74,DAS - Simples Nacional,Imposto: DAS Simples
+1487,2016-12-22,306.5,DAS (3/43),Imposto: DAS Simples
+1488,2017-01-19,4925.68,DAS,Imposto: DAS Simples
+1489,2017-01-24,309.87,DAS (4/43),Imposto: DAS Simples
+1490,2017-02-20,4044.5,DAS,Imposto: DAS Simples
+1491,2017-02-21,313.14,Das Parcelado (5/43),Imposto: DAS Simples
+1492,2017-03-27,315.75,DAS Parcelado (6/43),Imposto: DAS Simples
+1493,2017-03-28,4495.97,DAS,Imposto: DAS Simples
+1494,2017-04-25,318.91,Das Parcelado (7/43),Imposto: DAS Simples
+1495,2017-05-19,5726.32,DAS,Imposto: DAS Simples
+1496,2017-05-24,321.28,DAS Atrasado (8/43),Imposto: DAS Simples
+1497,2017-05-25,6901.9,DAS Abril (Competência 03.2017),Imposto: DAS Simples
+1498,2017-06-20,5038.13,DAS ,Imposto: DAS Simples
+1499,2017-06-27,324.07,DAS ( 9/43),Imposto: DAS Simples
+1500,2017-07-20,5377.13,DAS,Imposto: DAS Simples
+1501,2017-07-27,326.51,DAS parcelado (9/43),Imposto: DAS Simples
+1502,2017-08-18,328.91,DAS (11/43),Imposto: DAS Simples
+1503,2017-09-27,331.31,DAS parcelado (12/43),Imposto: DAS Simples
+1504,2017-10-27,333.24,DAS Parcelado (13/43),Imposto: DAS Simples
+1505,2017-11-28,335.16,Das Parcelado (14/43),Imposto: DAS Simples
+1506,2017-12-20,4582.2,DAS,Imposto: DAS Simples
+1507,2017-12-20,565.96,DAS parcelado (1/60),Imposto: DAS Simples
+1508,2018-01-19,6003.0,DAS,Imposto: DAS Simples
+1509,2018-01-25,571.61,DAS Parcelado (2/60),Imposto: DAS Simples
+1510,2018-02-19,4488.65,DAS Simples nacional,Imposto: DAS Simples
+1511,2018-02-21,574.9,Das Parcelado (3/60),Imposto: DAS Simples
+1512,2018-03-19,4317.76,DAS,Imposto: DAS Simples
+1513,2018-03-28,577.56,Das Parcelado (4/60),Imposto: DAS Simples
+1514,2018-04-20,4515.95,DAS ,Imposto: DAS Simples
+1515,2018-04-27,580.56,DAS Parcelado (5/60),Imposto: DAS Simples
+1516,2016-01-13,621.82,FGTS,Imposto: FGTS
+1517,2016-02-03,589.2,FGTS - Cpmpetência 01/2016,Imposto: FGTS
+1518,2016-03-22,622.13,Reembolso FGTS,Imposto: FGTS
+1519,2016-04-06,777.13,FGTS,Imposto: FGTS
+1520,2016-05-03,706.85,FGTS,Imposto: FGTS
+1521,2016-05-13,1078.23,FGTS - Competência 01/2014 Atrasado,Imposto: FGTS
+1522,2016-06-17,1017.12,FGTS,Imposto: FGTS
+1523,2016-07-07,734.85,FGTS,Imposto: FGTS
+1524,2016-08-09,929.41,FGTS - Demissão Patrícia,Imposto: FGTS
+1525,2016-08-10,1088.03,FGTS,Imposto: FGTS
+1526,2016-11-01,878.85,FGTS,Imposto: FGTS
+1527,2016-10-07,946.5,FGTS,Imposto: FGTS
+1528,2016-09-01,216.0,FGTS - Recissão Fotógrafo,Imposto: FGTS
+1529,2016-09-22,826.71,FGTS,Imposto: FGTS
+1530,2016-12-06,1008.43,FGTS,Imposto: FGTS
+1531,2016-12-12,1313.31,FGTS,Imposto: FGTS
+1532,2017-01-17,1116.34,FGTS Catharina (Demissão),Imposto: FGTS
+1533,2017-01-17,697.91,FGTS Thiago ( Demissão),Imposto: FGTS
+1534,2017-01-17,1296.15,FGTS,Imposto: FGTS
+1535,2017-02-06,648.47,FGTS,Imposto: FGTS
+1536,2017-03-16,719.21,FGTS,Imposto: FGTS
+1537,2017-04-24,645.34,FGTS,Imposto: FGTS
+1538,2017-05-03,720.58,FGTS,Imposto: FGTS
+1539,2017-06-01,1231.59,FGTS - Competência 03/2015,Imposto: FGTS
+1540,2017-06-01,797.78,FGTS - Competência 08/2015,Imposto: FGTS
+1541,2017-06-01,757.72,FGTS - Competência 05/2017,Imposto: FGTS
+1542,2017-07-04,784.99,FGTS,Imposto: FGTS
+1543,2017-08-07,811.66,FGTS,Imposto: FGTS
+1544,2017-09-11,1000.38,FGTS,Imposto: FGTS
+1545,2017-10-05,941.11,FGTS,Imposto: FGTS
+1546,2017-11-06,899.24,FGTS,Imposto: FGTS
+1547,2017-12-06,874.03,FGTS,Imposto: FGTS
+1548,2018-01-04,1264.23,FGTS,Imposto: FGTS
+1549,2018-02-05,828.6,FGTS,Imposto: FGTS
+1550,2018-03-05,1011.66,FGTS,Imposto: FGTS
+1551,2018-04-09,1154.14,FGTS,Imposto: FGTS
+1552,2018-05-07,1331.64,FGTS,Imposto: FGTS
+1553,2016-01-12,16.13,INSS - Atrasado,Imposto: INSS
+1554,2016-01-15,862.83,INSS,Imposto: INSS
+1555,2016-02-17,824.55,INSS - competência janeiro 2016,Imposto: INSS
+1556,2016-03-23,933.51,INSS,Imposto: INSS
+1557,2016-04-12,1032.39,INSS,Imposto: INSS
+1558,2016-05-18,971.88,INSS,Imposto: INSS
+1559,2016-06-16,1201.6,Imposto INSS,Imposto: INSS
+1560,2016-07-20,1075.88,INSS,Imposto: INSS
+1561,2016-08-22,1402.39,INSS,Imposto: INSS
+1562,2016-10-20,1335.57,INSS,Imposto: INSS
+1563,2016-09-19,1542.71,INSS,Imposto: INSS
+1564,2016-11-17,1225.88,FGTS,Imposto: INSS
+1565,2016-12-16,820.94,INSS - 13º,Imposto: INSS
+1566,2017-01-18,1225.88,INSS,Imposto: INSS
+1567,2017-02-17,1630.86,INSS,Imposto: INSS
+1568,2017-03-17,1102.22,INSS,Imposto: INSS
+1569,2017-04-20,954.59,INSS,Imposto: INSS
+1570,2017-05-17,954.59,INSS,Imposto: INSS
+1571,2017-06-12,954.59,INSS,Imposto: INSS
+1572,2017-06-16,196.61,INSS - Competência 03/2015,Imposto: INSS
+1573,2017-07-18,1149.59,INSS,Imposto: INSS
+1574,2017-08-15,1179.59,INSS,Imposto: INSS
+1575,2017-09-20,1417.3,INSS,Imposto: INSS
+1576,2017-10-19,1287.67,INSS,Imposto: INSS
+1577,2017-11-17,1855.38,INSS,Imposto: INSS
+1578,2017-12-14,889.86,INSS 13°,Imposto: INSS
+1579,2017-12-19,1684.96,INSS,Imposto: INSS
+1580,2018-01-18,1839.27,INSS,Imposto: INSS
+1581,2018-02-15,1716.37,INSS,Imposto: INSS
+1582,2018-03-21,1924.43,INSS,Imposto: INSS
+1583,2018-04-20,2029.74,INSS,Imposto: INSS
+1584,2016-01-15,103.73,IRRF,Imposto: IR
+1585,2016-01-15,97.13,IRRF - 13º,Imposto: IR
+1586,2016-02-17,100.78,IRRF - período de apuração 31.01.2016,Imposto: IR
+1587,2016-03-14,100.78,IRRF,Imposto: IR
+1588,2016-04-11,208.06,IRRF,Imposto: IR
+1589,2016-05-16,413.97,IRRF,Imposto: IR
+1590,2016-06-16,31.71,Imposto IRRF,Imposto: IR
+1591,2016-07-20,134.64,IRRF,Imposto: IR
+1592,2016-08-19,162.47,IR,Imposto: IR
+1593,2016-10-20,130.76,IRPF,Imposto: IR
+1594,2016-12-12,269.16,IR,Imposto: IR
+1595,2017-01-18,312.07,IR,Imposto: IR
+1596,2017-02-15,212.5,IR,Imposto: IR
+1597,2017-03-17,253.34,IRRF,Imposto: IR
+1598,2017-04-19,175.74,IR,Imposto: IR
+1599,2017-05-17,175.74,IR,Imposto: IR
+1600,2017-05-17,34.88,Darf - Clipping,Imposto: IR
+1601,2017-05-17,16.74,Darf - Clipping,Imposto: IR
+1602,2017-05-17,11.25,Darf - Clipping,Imposto: IR
+1603,2017-05-17,16.74,Darf - Clipping,Imposto: IR
+1604,2017-06-28,11.62,Darf Knewin,Imposto: IR
+1605,2017-06-28,36.02,Darf Knewin,Imposto: IR
+1606,2017-07-18,175.74,IR,Imposto: IR
+1607,2017-08-15,545.87,IR,Imposto: IR
+1608,2017-09-11,7.2,Ir - Kewin,Imposto: IR
+1609,2017-09-20,79.68,IR,Imposto: IR
+1610,2017-10-19,348.52,IR,Imposto: IR
+1611,2017-11-17,918.47,IR,Imposto: IR
+1612,2017-12-14,803.7,IR,Imposto: IR
+1613,2018-01-18,828.32,IRRF,Imposto: IR
+1614,2018-02-16,701.8,IR,Imposto: IR
+1615,2018-03-16,729.63,IR,Imposto: IR
+1616,2018-04-20,743.81,IR,Imposto: IR
+1617,2016-08-10,5.77,ISS,Imposto: ISS
+1618,2016-08-10,6.75,ISS,Imposto: ISS
+1619,2016-08-10,19.72,ISS,Imposto: ISS
+1620,2017-08-18,18.45,ISS Knewin (julho),Imposto: ISS
+1621,2017-08-18,18.9,ISS Knewin (junho),Imposto: ISS
+1622,2017-08-18,40.31,ISS Knewin (maio),Imposto: ISS
+1623,2017-08-18,41.25,ISS Knewin (abril),Imposto: ISS
+1624,2017-08-18,19.89,ISS Knewin (março),Imposto: ISS
+1625,2017-08-18,19.98,ISS Knewin (fevereiro),Imposto: ISS
+1626,2017-10-05,3.88,ISS Knew,Imposto: ISS
+1627,2017-11-10,7.2,ISS - Kewin,Imposto: ISS
+1628,2017-12-07,18.0,ISS Knewin,Imposto: ISS
+1629,2017-12-21,11.34,ISS Kewin,Imposto: ISS
+1630,2017-12-21,11.88,ISS Kewin,Imposto: ISS
+1631,2017-12-21,6.26,ISS Kewin,Imposto: ISS
+1632,2018-01-04,18.0,ISS Knewin ,Imposto: ISS
+1633,2018-03-06,18.45,ISS Knewin - janeiro,Imposto: ISS
+1634,2018-03-06,18.0,ISS Knewin - fevereiro,Imposto: ISS
+1635,2018-04-06,16.61,ISS,Imposto: ISS
+1636,2018-04-06,18.0,ISS Knewin,Imposto: ISS
+1637,2018-05-09,18.0,ISS Knewin,Imposto: ISS
+1638,2016-11-17,162.47,IRPF,IRPF
+1639,2016-09-19,262.81,IRPF,IRPF
+1640,2017-06-12,175.74,IRRF,IRPF
+1641,2016-08-10,546.0,Anuncio Folha de PE,Marketing e Publicidade
+1642,2017-05-17,500.0,Anúncio - Folha de PE,Marketing e Publicidade
+1643,2017-05-17,734.88,Anúncio - Jornal do commercio,Marketing e Publicidade
+1644,2016-01-25,6000.0,Pro-labore,Pro-labore
+1645,2016-02-02,700.0,Pro-Labore Zene,Pro-labore
+1646,2016-02-03,1000.0,Pro-Labore Zene,Pro-labore
+1647,2016-02-04,3000.0,Pro-Labore Kássia,Pro-labore
+1648,2016-02-22,1100.0,Pró-Labore Kássia,Pro-labore
+1649,2016-02-23,1100.0,Pró-Labore Kássia,Pro-labore
+1650,2016-02-23,800.0,Pró-Labrore Kássia,Pro-labore
+1651,2016-03-03,350.0,Pró-Labore Kássia,Pro-labore
+1652,2016-02-26,300.0,Reembolso Artur,Pro-labore
+1653,2016-03-07,200.0,Pró-Labore Zene,Pro-labore
+1654,2016-03-07,1000.0,Pró-Labore Kássia,Pro-labore
+1655,2016-03-11,2140.0,Pró-Labore Kássia,Pro-labore
+1656,2016-03-11,1300.0,Pró-Labore Zene,Pro-labore
+1657,2016-03-14,500.0,Pró-Labore Zene,Pro-labore
+1658,2016-03-14,400.0,Pró-Labore Kássia,Pro-labore
+1659,2016-03-15,100.0,Pró-Labore Kássia,Pro-labore
+1660,2016-03-21,500.0,Pró-Labore Kássia,Pro-labore
+1661,2016-03-22,1000.0,Pró-Labore Zene,Pro-labore
+1662,2016-03-23,2000.0,Pró-Labore Zene,Pro-labore
+1663,2016-03-23,1000.0,Pró-Labore Zene,Pro-labore
+1664,2016-03-24,2000.0,Pró-Labore Kássia,Pro-labore
+1665,2016-03-28,1760.0,Pró-Labore Zene,Pro-labore
+1666,2016-03-29,5700.0,Pró-Labore Kássia,Pro-labore
+1667,2016-04-06,2000.0,Pró-Labore Zene,Pro-labore
+1668,2016-04-06,3000.0,Pró-Labore Kássia,Pro-labore
+1669,2016-04-06,2000.0,Pró-Labore Kássia,Pro-labore
+1670,2016-04-06,1000.0,Pró-Labore Kássia,Pro-labore
+1671,2016-04-07,300.0,Pró-Labore Zene,Pro-labore
+1672,2016-04-11,2000.0,Pró-Labore Zene,Pro-labore
+1673,2016-04-11,1000.0,Pró-Labore Kássia,Pro-labore
+1674,2016-04-20,1000.0,Pró-Labore Zene,Pro-labore
+1675,2016-04-29,100.0,Pró-Labore Kássia,Pro-labore
+1676,2016-05-02,451.58,Prólabore Kássia,Pro-labore
+1677,2016-05-02,2900.0,Pró-labore Kássia,Pro-labore
+1678,2016-05-02,1000.0,Pró-labore Kássia,Pro-labore
+1679,2016-05-03,1200.0,Prólabore Zene,Pro-labore
+1680,2016-05-03,800.0,Prólabore Zene,Pro-labore
+1681,2016-05-03,2000.0,Pró-labore Kássia,Pro-labore
+1682,2016-05-05,1000.0,Pró-labore Zene,Pro-labore
+1683,2016-05-20,500.0,Pró-Labore Kássia,Pro-labore
+1684,2016-05-24,1000.0,Pró-Labore Zene,Pro-labore
+1685,2016-05-24,1000.0,Pró-labore Kássia,Pro-labore
+1686,2016-06-18,1000.0,Pró-Labore Zene,Pro-labore
+1687,2016-06-22,1000.0,Pró-Labore Zene,Pro-labore
+1688,2016-06-22,1000.0,Pró-Labore Zene,Pro-labore
+1689,2016-07-02,500.0,Pró-Labore Zene,Pro-labore
+1690,2016-07-02,500.0,Pró-Labore Kássia,Pro-labore
+1691,2016-07-05,500.0,Pró-Labore Kássia ,Pro-labore
+1692,2016-07-05,3500.0,Pró-Labore Kássia,Pro-labore
+1693,2016-07-05,500.0,Pró-Labore Zene,Pro-labore
+1694,2016-07-07,500.0,Pró-Labore Kássia,Pro-labore
+1695,2016-07-08,500.0,Pró-Labore Kássia,Pro-labore
+1696,2016-07-13,500.0,Pró-Labore Kássia,Pro-labore
+1697,2016-07-18,690.0,Pró-Labore Zene,Pro-labore
+1698,2016-07-21,1300.0,Pró-Labore Zene,Pro-labore
+1699,2016-07-22,2000.0,Pró-Labore Zene,Pro-labore
+1700,2016-07-25,350.0,Pró-Labore Zene,Pro-labore
+1701,2016-08-01,900.0,Pró-Labore Zene,Pro-labore
+1702,2016-08-01,500.0,Pró-Labore Zene,Pro-labore
+1703,2016-08-01,1000.0,Pró-Labore Kássia,Pro-labore
+1704,2016-08-03,1000.0,Pró-Labore Kássia,Pro-labore
+1705,2016-08-03,500.0,Pró-Labore Zene,Pro-labore
+1706,2016-08-10,500.0,Pró-Labore Zene,Pro-labore
+1707,2016-08-11,500.0,Pró-Labore Kássia,Pro-labore
+1708,2016-08-12,1500.0,Pró-Labore Kássia ,Pro-labore
+1709,2016-08-23,1900.0,Pr-o-Labore Zene,Pro-labore
+1710,2016-11-25,950.0,Pró-Labore Zene,Pro-labore
+1711,2016-11-01,1000.0,Pró-Labore Kássia,Pro-labore
+1712,2016-11-01,2000.0,Pró-Labore Kássia,Pro-labore
+1713,2016-11-01,800.0,Pró-Labore Zene,Pro-labore
+1714,2016-11-01,2000.0,Pró-Labore Kássia,Pro-labore
+1715,2016-11-03,1000.0,Pró-Labore Zene,Pro-labore
+1716,2016-11-03,1000.0,Pró-Labore Kássia,Pro-labore
+1717,2016-11-18,1135.6,Pró-labore Zene (Cheque - Itaú),Pro-labore
+1718,2016-11-25,300.0,Pró-Labore Kássia,Pro-labore
+1719,2016-10-01,1000.0,Pró-Labore Zene,Pro-labore
+1720,2016-10-01,3000.0,Pró-Labore Kássia,Pro-labore
+1721,2016-10-04,2000.0,Pró-Labore Kássia,Pro-labore
+1722,2016-10-05,1000.0,Pró-Labore Kássia,Pro-labore
+1723,2016-10-11,1044.78,Pró-Labore Zene (Cartão Carrefour),Pro-labore
+1724,2016-10-14,1000.0,Cheque - Pró-labore Zene (Itaú),Pro-labore
+1725,2016-10-21,300.0,Pr-o-Labore Zene,Pro-labore
+1726,2016-10-25,218.4,Pró-Labore Zene,Pro-labore
+1727,2016-10-25,300.0,Pró-labore Kássia,Pro-labore
+1728,2016-10-26,100.0,Pró-labore Zene,Pro-labore
+1729,2016-09-05,2000.0,Pró-labore Kássia,Pro-labore
+1730,2016-09-13,1000.0,Pró-Labore Kássia,Pro-labore
+1731,2016-09-13,1000.0,Pró-Labore Kássia,Pro-labore
+1732,2016-09-14,1000.0,Pró-Labore Kássia,Pro-labore
+1733,2016-09-21,1100.0,Pró-Labore Zene,Pro-labore
+1734,2016-12-01,1000.0,Pró-Labore Zene,Pro-labore
+1735,2016-12-01,3000.0,Pró-labore Kássia,Pro-labore
+1736,2016-12-05,2000.0,Pró-Labore Kássia,Pro-labore
+1737,2016-12-07,1000.0,Pró-Labore Kássia,Pro-labore
+1738,2016-12-09,800.0,Pró-Labore Zene,Pro-labore
+1739,2016-12-07,1200.0,Pró-Labore Zene,Pro-labore
+1740,2016-06-01,1380.96,Pró-Labore Zene,Pro-labore
+1741,2016-06-01,1000.0,Pró-Labore Zene,Pro-labore
+1742,2016-06-01,3000.0,Pró-Labore Kássia,Pro-labore
+1743,2016-06-01,1000.0,Pró-Labore Kássia,Pro-labore
+1744,2016-06-04,1000.0,Pró-labore Kássia,Pro-labore
+1745,2016-06-10,1000.0,Pró-Labore Kássia,Pro-labore
+1746,2016-12-16,1279.61,Pró-Labore Zene,Pro-labore
+1747,2017-01-04,2000.0,Pró-Labore Kássia,Pro-labore
+1748,2017-01-04,600.0,Pró-Labore Zene,Pro-labore
+1749,2017-01-17,2000.0,Pró-labore Kássia,Pro-labore
+1750,2017-01-17,1000.0,Pró-Labore Kássia,Pro-labore
+1751,2017-01-17,937.0,Rui,Pro-labore
+1752,2017-01-24,1200.0,Pró-Labore Zene,Pro-labore
+1753,2017-01-24,1000.0,Pró-Labore Kássia,Pro-labore
+1754,2017-01-24,300.0,Artur,Pro-labore
+1755,2017-02-06,2000.0,Pró-labore Kássia,Pro-labore
+1756,2017-02-07,1000.0,Pró-Labore Kássia,Pro-labore
+1757,2017-02-09,1000.0,Pró-Labore Kássia,Pro-labore
+1758,2017-02-09,1000.0,Pró-Labore Kássia,Pro-labore
+1759,2017-02-09,800.0,Pró-Labore Zene,Pro-labore
+1760,2017-02-09,937.0,Rui,Pro-labore
+1761,2017-02-10,1000.0,Pró-Labore Kássia,Pro-labore
+1762,2017-02-16,300.0,Artur,Pro-labore
+1763,2017-02-20,1000.0,Pró-Labore Zene,Pro-labore
+1764,2017-03-09,1000.0,Pró-Labore Zene,Pro-labore
+1765,2017-03-09,1500.0,Pró-labore Kássia,Pro-labore
+1766,2017-03-09,1500.0,Pró-labore Kássia,Pro-labore
+1767,2017-03-14,800.0,Pró-Labore Zene,Pro-labore
+1768,2017-03-15,900.0,Pró-Labore Kássia,Pro-labore
+1769,2017-03-16,2100.0,Pró-Labore Kássia,Pro-labore
+1770,2017-03-16,620.0,Cheque - Rui,Pro-labore
+1771,2017-03-20,500.0,Artur - Consultoria Financeira,Pro-labore
+1772,2017-03-29,437.0,Consultoria - Artur,Pro-labore
+1773,2017-04-07,1000.0,Pró-Labore Kássia,Pro-labore
+1774,2017-04-10,800.0,Pró-labore Kássia,Pro-labore
+1775,2017-04-12,1000.0,Pro-labore Kássia,Pro-labore
+1776,2017-04-12,800.0,Pró-labore Zene,Pro-labore
+1777,2017-04-19,800.0,Pró-labore Kássia,Pro-labore
+1778,2017-04-20,500.0,Pró-Labore Kássia,Pro-labore
+1779,2017-04-24,1000.0,Pró-Labore Zene,Pro-labore
+1780,2017-04-24,1500.0,Pró-labore Kássia,Pro-labore
+1781,2017-04-27,397.0,Auxílio Rui,Pro-labore
+1782,2017-05-03,937.0,Consultoria Financeira,Pro-labore
+1783,2017-05-03,1000.0,Pró-Labore Zene,Pro-labore
+1784,2017-05-03,3000.0,Pró-Labore Kássia,Pro-labore
+1785,2017-05-03,1000.0,Pró-labore Kássia,Pro-labore
+1786,2017-05-04,397.0,Auxílio Rui,Pro-labore
+1787,2017-05-15,800.0,Pró-labore Zene,Pro-labore
+1788,2017-05-15,2000.0,Pró-labore Kássia,Pro-labore
+1789,2017-06-01,1000.0,Pró-Labore Kássia,Pro-labore
+1790,2017-06-01,1000.0,Pró-Labore Kássia,Pro-labore
+1791,2017-06-01,250.0,Prólabore Kássia,Pro-labore
+1792,2017-06-02,800.0,Pró-labore Zene,Pro-labore
+1793,2017-06-07,1000.0,Pró-labore kássia,Pro-labore
+1794,2017-06-08,3000.0,Pró-labore Kássia,Pro-labore
+1795,2017-06-08,1000.0,Pró-labore Zene,Pro-labore
+1796,2017-06-08,937.0,Consultoria Financeira,Pro-labore
+1797,2017-06-09,415.0,Auxílio Rui,Pro-labore
+1798,2017-06-16,1200.0,Pró-labore Kássia,Pro-labore
+1799,2017-07-04,1000.0,Pró-labore Zene,Pro-labore
+1800,2017-07-04,3000.0,Pró-labore Kássia,Pro-labore
+1801,2017-07-06,1000.0,Pró-labore Kássia,Pro-labore
+1802,2017-07-11,1000.0,Pró-labore Kássia,Pro-labore
+1803,2017-07-11,937.0,consultoria financeira,Pro-labore
+1804,2017-07-14,1000.0,Pró-labore Kássia,Pro-labore
+1805,2017-07-14,800.0,Pró-labore Zene,Pro-labore
+1806,2017-07-17,1000.0,Pró-labore Kássia,Pro-labore
+1807,2017-07-18,750.0,Auxílio Rui,Pro-labore
+1808,2017-08-07,1000.0,Pró-labore Kássia,Pro-labore
+1809,2017-08-10,800.0,Pró-labore Zene,Pro-labore
+1810,2017-08-10,1000.0,Pró-labore Kássia,Pro-labore
+1811,2017-08-10,500.0,Pró-labore kássia,Pro-labore
+1812,2017-08-12,500.0,Pró-labore Kássia,Pro-labore
+1813,2017-08-15,3000.0,Pró-labore Kássia,Pro-labore
+1814,2017-08-15,1000.0,Pró-labore Zene,Pro-labore
+1815,2017-08-15,937.0,Consultoria Financeira,Pro-labore
+1816,2017-08-18,415.0,Auxílio Rui,Pro-labore
+1817,2017-09-05,1000.0,Pró-Labore Kássia,Pro-labore
+1818,2017-09-06,1000.0,Pró-labore Zene,Pro-labore
+1819,2017-09-06,600.0,Pró-labore Kássia,Pro-labore
+1820,2017-09-08,1400.0,Pró-labore kássia,Pro-labore
+1821,2017-09-15,1000.0,Pró-labore Kássia,Pro-labore
+1822,2017-09-25,500.0,Pró-labore Kássia,Pro-labore
+1823,2017-09-25,1500.0,Pró-labore Kássia,Pro-labore
+1824,2017-09-11,937.0,Auxílio Artur,Pro-labore
+1825,2017-09-26,414.8,Auxílio Rui,Pro-labore
+1826,2017-09-26,800.0,Pró-labore Zene,Pro-labore
+1827,2017-10-04,800.0,Pró-labore Kássia,Pro-labore
+1828,2017-10-05,2200.0,Pró-labore Kássia,Pro-labore
+1829,2017-10-05,800.0,Pró-labore Zene,Pro-labore
+1830,2017-10-16,2500.0,Pró-labore Kássia,Pro-labore
+1831,2017-10-17,500.0,Pró-labore Kássia,Pro-labore
+1832,2017-10-18,937.0,Auxílio Artur,Pro-labore
+1833,2017-10-27,605.0,Auxílio Rui,Pro-labore
+1834,2017-10-31,1000.0,Pró-labore Zene,Pro-labore
+1835,2017-11-03,4000.0,Pró-labore Kássia,Pro-labore
+1836,2017-11-03,937.0,Auxílio Artur,Pro-labore
+1837,2017-11-03,1000.0,Pró-labore Zene,Pro-labore
+1838,2017-11-06,800.0,Pró-labore Zene,Pro-labore
+1839,2017-11-09,2000.0,Pró-labore Kássia - Textos Gastronomia,Pro-labore
+1840,2017-11-16,447.0,Auxílio Rui,Pro-labore
+1841,2017-11-30,800.0,Prólabore Zene - parte de dezembro adiantado,Pro-labore
+1842,2017-12-01,2000.0,Pró-labore Kássia,Pro-labore
+1843,2017-12-11,1000.0,Pró-labore Kássia,Pro-labore
+1844,2017-12-13,125.66,Pró-labore Zene,Pro-labore
+1845,2017-12-13,2500.0,Pró-labore Kássia,Pro-labore
+1846,2017-12-13,500.0,Pró-labore Kássia,Pro-labore
+1847,2017-12-14,485.0,Auxílio Rui,Pro-labore
+1848,2017-12-20,937.0,Auxílio Artur,Pro-labore
+1849,2017-12-21,874.34,Pró-labore zene,Pro-labore
+1850,2017-12-22,500.0,13º Zene,Pro-labore
+1851,2017-12-28,1000.0,13º Kássia,Pro-labore
+1852,2017-12-28,1000.0,13º Kássia,Pro-labore
+1853,2018-01-04,1000.0,Pró-labore Kássia,Pro-labore
+1854,2018-01-08,3000.0,Pró-labore Kássia,Pro-labore
+1855,2018-01-08,1000.0,Pró-labore Zene,Pro-labore
+1856,2018-01-08,954.0,Auxílio Artur,Pro-labore
+1857,2018-01-09,1500.0,Pró-labore Kássia,Pro-labore
+1858,2018-01-11,1500.0,Pró-labore Kássia,Pro-labore
+1859,2018-01-11,1000.0,Pró-labore Zene,Pro-labore
+1860,2018-02-02,2000.0,Pró-labore Kássia,Pro-labore
+1861,2018-02-02,1000.0,Pró-labore Zene,Pro-labore
+1862,2018-02-05,1500.0,Pró-labore Kássia,Pro-labore
+1863,2018-02-06,1500.0,pró-labore Kássia,Pro-labore
+1864,2018-02-15,2000.0,Pró-labore kássia,Pro-labore
+1865,2018-02-15,1000.0,Pró-labore Zene,Pro-labore
+1866,2018-02-15,431.8,Auxílio Rui,Pro-labore
+1867,2018-02-21,954.0,Pró-labore Zene,Pro-labore
+1868,2018-03-02,2500.0,Pró-labore Kássia,Pro-labore
+1869,2018-03-06,1000.0,Pró-labore Zene,Pro-labore
+1870,2018-03-06,500.0,Pró-labore Kássia,Pro-labore
+1871,2018-03-12,500.0,Pró-labore Kássia,Pro-labore
+1872,2018-03-13,3500.0,Pró-labore Kássia,Pro-labore
+1873,2018-03-13,1000.0,Pró-labore Zene,Pro-labore
+1874,2018-03-22,431.8,Auxílio Rui,Pro-labore
+1875,2018-03-29,954.0,Pró-labore Zene,Pro-labore
+1876,2018-04-03,1500.0,Pró-labore Kássia,Pro-labore
+1877,2018-04-03,500.0,Pró-labore Zene,Pro-labore
+1878,2018-04-09,2000.0,Pró-labore Kássia,Pro-labore
+1879,2018-04-09,500.0,Pró-labore Zene,Pro-labore
+1880,2018-04-10,2500.0,Pró-labore Kássia,Pro-labore
+1881,2018-04-13,1000.0,Pró-labore Zene,Pro-labore
+1882,2018-04-16,850.0,Pró-labore Kássia,Pro-labore
+1883,2018-04-16,150.0,Pró-labore Kássia,Pro-labore
+1884,2018-04-20,450.0,Auxílio Rui,Pro-labore
+1885,2018-04-23,200.0,Pr=o-labore Zenilda,Pro-labore
+1886,2018-04-30,750.0,Pró-labore Zenilda,Pro-labore
+1887,2018-05-08,3000.0,Pró-labore Kássia,Pro-labore
+1888,2018-05-08,1000.0,Pró-labore Zenilda,Pro-labore
+1889,2017-01-28,590.54,RD Neurotech (Novembro a Agosto),RD Station (Resultados Digitais)
+1890,2017-07-28,590.54,RD Neurotech (Novembro a Agosto),RD Station (Resultados Digitais)
+1891,2017-08-28,590.54,RD Neurotech (Novembro a Agosto),RD Station (Resultados Digitais)
+1892,2017-01-28,521.06,RD Neurotech (novembro a Abril),RD Station (Resultados Digitais)
+1893,2017-02-28,590.54,RD Neurotech (Novembro a Agosto),RD Station (Resultados Digitais)
+1894,2017-02-28,521.06,RD Neurotech (novembro a Abril),RD Station (Resultados Digitais)
+1895,2017-03-28,521.06,RD Neurotech (novembro a Abril),RD Station (Resultados Digitais)
+1896,2017-03-28,590.54,RD Neurotech (Novembro a Agosto),RD Station (Resultados Digitais)
+1897,2017-05-28,590.54,RD Neurotech (Novembro a Agosto),RD Station (Resultados Digitais)
+1898,2017-04-28,521.06,RD Neurotech (novembro a Abril),RD Station (Resultados Digitais)
+1899,2017-04-28,590.54,RD Neurotech (Novembro a Agosto),RD Station (Resultados Digitais)
+1900,2017-05-29,318.77,RD Station,RD Station (Resultados Digitais)
+1901,2017-06-28,590.54,RD Neurotech (Novembro a Agosto),RD Station (Resultados Digitais)
+1902,2017-03-29,299.64,RD Station,RD Station (Resultados Digitais)
+1903,2017-07-31,318.77,RD Station,RD Station (Resultados Digitais)
+1904,2017-10-24,318.77,RD Gestão,RD Station (Resultados Digitais)
+1905,2017-11-23,318.77,RD,RD Station (Resultados Digitais)
+1906,2017-12-22,318.77,RD gestão,RD Station (Resultados Digitais)
+1907,2018-01-29,318.77,RD station,RD Station (Resultados Digitais)
+1908,2018-02-23,318.77,RD Gestão,RD Station (Resultados Digitais)
+1909,2018-03-28,318.77,RD  Gestão,RD Station (Resultados Digitais)
+1910,2018-04-27,318.77,RD Station,RD Station (Resultados Digitais)
+1911,2016-01-19,7.65,Passagem - Complemento de Janeiro,Salário
+1912,2016-01-19,4.77,Passagem - Complemento de Janeiro,Salário
+1913,2016-01-19,9.0,Passagem - Complemento de Janeiro,Salário
+1914,2016-01-13,3422.0,Reembolso - Salários Funcionários,Salário
+1915,2016-01-11,2675.0,Salário Bruna,Salário
+1916,2016-01-12,1415.0,Salário - Patrícia,Salário
+1917,2016-01-15,100.0,IEL,Salário
+1918,2016-01-15,50.0,IEL - Dezembro,Salário
+1919,2016-02-01,782.4,Bolsa Estágio Ítalo + Passagem,Salário
+1920,2016-02-02,824.05,Bolsa Estágio Gustavvo + Passagem,Salário
+1921,2016-02-02,4720.0,Salários: João e Bruna,Salário
+1922,2016-02-05,1118.0,Salário Patrícia,Salário
+1923,2016-03-01,803.4,Bolsa estágio + passagem,Salário
+1924,2016-03-02,838.6,Bolsa eestágio Gustavo + passagem,Salário
+1925,2016-03-04,958.0,Salário Patrícia,Salário
+1926,2016-03-24,3000.0,Reembolso Salário Bruna e João,Salário
+1927,2016-03-24,3660.0,Reembolso Salário Bruna e João,Salário
+1928,2016-04-01,1065.0,Salário patrícia,Salário
+1929,2016-04-01,2046.0,Salário João,Salário
+1930,2016-04-01,790.8,Bolsa estágio Ítalo,Salário
+1931,2016-04-01,4364.49,Salário bruna + metade do 13º João,Salário
+1932,2016-04-01,821.2,Bolsa estágio Gustavo,Salário
+1933,2016-05-02,2142.0,Salário João,Salário
+1934,2016-05-02,803.4,Bolsa estágio Ítalo,Salário
+1935,2016-05-02,838.6,Bolsa estágio Gustavo,Salário
+1936,2016-05-03,980.0,Salário Patrícia,Salário
+1937,2016-05-03,950.0,Metade do 13º Patrícia,Salário
+1938,2016-05-03,2787.0,Salário Bruna,Salário
+1939,2016-05-03,500.0,prestação de serviço - Catharina (1/2),Salário
+1940,2016-06-13,70.0,Passagens Estagiária,Salário
+1941,2016-06-27,355.5,Estagiária - Férias Gustavo,Salário
+1942,2016-06-29,2000.0,Salário Catharina - Junho (2/2),Salário
+1943,2016-07-01,2161.0,Salário João,Salário
+1944,2016-07-01,799.2,Bolsa estágio - Ítalo,Salário
+1945,2016-07-01,2791.0,Salário Bruna,Salário
+1946,2016-07-04,1204.0,Salário Patrícia,Salário
+1947,2016-07-04,832.8,Bolsa Estágio Gustavo,Salário
+1948,2016-07-04,1166.0,Salário Thiago,Salário
+1949,2016-08-01,2141.0,Salário João,Salário
+1950,2016-08-01,2016.0,Salário Catharina,Salário
+1951,2016-08-01,711.0,Bolsa estágio - Ítalo,Salário
+1952,2016-08-01,2765.0,Salário Bruna,Salário
+1953,2016-08-02,1208.0,Salário Patrícia,Salário
+1954,2016-08-02,1064.0,Salário Diego,Salário
+1955,2016-08-02,2000.0,Pró-Labore Kássia,Salário
+1956,2016-08-02,827.0,Bolsa estágio Gustavo - Cheque,Salário
+1957,2016-08-02,1166.0,Salário Thiago,Salário
+1958,2016-08-03,500.0,Salário Wendell Rafael (1/2),Salário
+1959,2016-08-10,500.0,Salário Wendell Rafael (2/2),Salário
+1960,2016-08-11,3737.17,Demissão patrícia,Salário
+1961,2016-08-26,616.2,Bolsa Estágio Gustavo,Salário
+1962,2016-08-30,2810.0,Férias João,Salário
+1963,2016-08-30,500.0,Salário Rafael ,Salário
+1964,2016-11-01,1002.0,salário Wendell,Salário
+1965,2016-11-01,2037.0,Salário João Paulo,Salário
+1966,2016-11-01,2752.0,Salário Bruna,Salário
+1967,2016-11-03,2105.0,Salário Catharina,Salário
+1968,2016-11-04,1166.0,Salário Thiago,Salário
+1969,2016-11-10,200.0,Metade do 13º - Wendell,Salário
+1970,2016-11-10,625.0,Metade do 13º - Catharina,Salário
+1971,2016-10-01,629.0,Salário wendell Rafael,Salário
+1972,2016-10-01,2100.0,Salário Catharina,Salário
+1973,2016-10-01,2795.0,Salário Bruna,Salário
+1974,2016-10-03,1166.0,Salário Thiago,Salário
+1975,2016-10-25,117.0,Vem - rafael,Salário
+1976,2016-10-25,111.26,Vem - Catharina,Salário
+1977,2016-10-25,112.0,Passagens Wendell rafael - Outubro,Salário
+1978,2016-09-01,2100.0,Salário João,Salário
+1979,2016-09-01,2099.0,Salário Catharina,Salário
+1980,2016-09-02,1166.0,Salário Thiago,Salário
+1981,2016-09-01,2752.0,Salário Bruna,Salário
+1982,2016-09-03,1000.0,Pró-Labore Kássia,Salário
+1983,2016-09-03,1000.0,Pró-Labore Zene,Salário
+1984,2016-09-03,2114.67,Recissão Fotógrafo - Diego,Salário
+1985,2016-09-13,334.0,"Salário Rafael (Alimentação, passagens, admissional)",Salário
+1986,2016-12-01,2061.0,Salário João,Salário
+1987,2016-12-01,1002.0,Salário Wendell,Salário
+1988,2016-12-01,3395.0,Salário Bruna,Salário
+1989,2016-12-02,2111.0,Salário Catharina,Salário
+1990,2016-12-02,1166.0,Salário Thiago,Salário
+1991,2016-06-01,2161.0,Salário - João Paulo,Salário
+1992,2016-06-01,795.0,Bolsa Estágio - Ìtalo,Salário
+1993,2016-06-01,1714.34,Metade do 13º Bruna,Salário
+1994,2016-06-02,1112.0,Salário Thiago,Salário
+1995,2016-06-03,827.0,Bolsa Estágio Gustavo,Salário
+1996,2016-06-02,500.0,Salário Catharina - Junho (1/2),Salário
+1997,2016-06-02,1102.0,Salário Patrícia,Salário
+1998,2017-01-02,2795.0,Salário Bruna,Salário
+1999,2017-01-02,2050.0,Salário João,Salário
+2000,2017-01-02,2099.0,Salário Catharina,Salário
+2001,2017-01-02,1002.0,Salário Wendell,Salário
+2002,2017-01-02,1166.0,Salário Thiago,Salário
+2003,2017-01-17,4943.34,Rescisão Catharina,Salário
+2004,2017-01-17,2866.23,Rescisão Thiago,Salário
+2005,2017-02-03,2908.0,Salário Bruna,Salário
+2006,2017-02-06,2232.0,Salário João,Salário
+2007,2017-02-06,1128.0,Salário Wendell,Salário
+2008,2017-02-06,1113.33,Salário Larissa,Salário
+2009,2017-02-06,86.67,Salário Larissa,Salário
+2010,2017-03-02,3164.0,Salário Bruna,Salário
+2011,2017-03-02,1151.0,Salário Wendell Rafael,Salário
+2012,2017-03-03,2300.0,Salário Larissa,Salário
+2013,2017-03-03,825.4,Bolsa de estágio - Gustavo,Salário
+2014,2017-03-09,2381.0,Salário João,Salário
+2015,2017-04-03,2688.0,Salário Bruna,Salário
+2016,2017-04-03,1020.0,Salário Wendell Rafael,Salário
+2017,2017-04-03,804.6,Cheque - Salário gustavo,Salário
+2018,2017-04-05,2060.0,Salário João,Salário
+2019,2017-04-07,2836.66,Salário Larissa,Salário
+2020,2017-04-11,162.38,Horas extras Rafael,Salário
+2021,2017-05-03,2809.0,Salário Bruna,Salário
+2022,2017-05-03,2131.0,Salário João,Salário
+2023,2017-05-03,1063.0,Salário Wendell Rafael,Salário
+2024,2017-05-04,783.8,Bolsa estágio Gustavo,Salário
+2025,2017-05-23,450.0,Rafael - Horas extras Maio,Salário
+2026,2017-05-31,175.0,Estagiário - Matheus Silva (Passsagens Maio e Junho),Salário
+2027,2017-06-01,2734.0,Salário Bruna,Salário
+2028,2017-06-01,2145.0,Salário João,Salário
+2029,2017-06-01,1063.0,Salário Wendell Rafael,Salário
+2030,2017-06-02,783.8,Cheque - Bolsa estágio Gustavo,Salário
+2031,2017-06-26,450.0,Rafael - Horas extras,Salário
+2032,2017-06-30,778.2,Bolsa Estágio Matheus - referente a pagamento em 01/07/2017,Salário
+2033,2017-07-03,1064.0,Salário Wendell Rafael,Salário
+2034,2017-07-03,2779.0,Salário Bruna,Salário
+2035,2017-07-03,2158.0,Salário João Paulo,Salário
+2036,2017-07-03,778.2,Bolsa estágio Aurélio,Salário
+2037,2017-07-03,773.4,Bolsa Estágio Gustavo,Salário
+2038,2017-07-03,1728.0,Salário roberta,Salário
+2039,2017-07-10,700.0,Designer - Ivandro - Tirou Férias de João,Salário
+2040,2017-07-10,139.82,Bolsa estágio - Aurélio - Encerramento,Salário
+2041,2017-07-26,3758.0,Bruna - Férias,Salário
+2042,2017-08-02,450.0,Wendell Rafael - Horas extras - Julho,Salário
+2043,2017-08-02,1800.0,Salário Luana - Tino,Salário
+2044,2017-08-02,784.6,Bolsa estágio Matheus,Salário
+2045,2017-08-03,789.0,Bolsa Estágio - Gustavo,Salário
+2046,2017-08-04,1063.0,Rafael,Salário
+2047,2017-08-04,2097.0,Salário João,Salário
+2048,2017-08-04,2749.0,Salário Bruna,Salário
+2049,2017-08-04,750.0,Metade do Salário Igor - (Férias de Bruna),Salário
+2050,2017-08-08,2081.0,Salário Roberta,Salário
+2051,2017-09-01,450.0,Rafael - Horas extras,Salário
+2052,2017-09-04,771.8,Bolsa estágio - Matheus,Salário
+2053,2017-09-04,1063.0,Salário Wendel,Salário
+2054,2017-09-05,2108.0,Salário João,Salário
+2055,2017-09-05,2516.0,Salário Roberta,Salário
+2056,2017-09-05,750.0,Igor (2/2) - Tirou Férias de Bruna,Salário
+2057,2017-09-05,773.4,Bolsa Estágio Gustavo,Salário
+2058,2017-09-06,1800.0,Salário Luana,Salário
+2059,2017-09-27,450.0,Salário Rafael - Horas extras setembro,Salário
+2060,2017-10-03,1800.0,Salário Luana,Salário
+2061,2017-10-03,711.0,Bolsa estágio Matheus,Salário
+2062,2017-10-03,773.4,Bolsa estágio Gustavo,Salário
+2063,2017-10-03,2231.0,Salário Roberta,Salário
+2064,2017-10-05,2109.0,Salário João,Salário
+2065,2017-10-05,635.54,Metade do 13º Rafael,Salário
+2066,2017-10-05,1063.0,Salário Rafael,Salário
+2067,2017-10-05,3653.0,Salário Bruna,Salário
+2068,2017-10-27,450.0,Rafael - Horas extras - Outubro,Salário
+2069,2017-11-01,1063.0,Salário Wendell,Salário
+2070,2017-11-01,900.0,Cheque: Salário Luana,Salário
+2071,2017-11-03,3217.0,Salário Bruna,Salário
+2072,2017-11-03,2097.0,Salário João,Salário
+2073,2017-11-03,768.2,Bolsa estágio Gustavo,Salário
+2074,2017-11-03,2568.0,Salário Roberta,Salário
+2075,2017-11-23,450.0,Rafael - horas extras novembro,Salário
+2076,2017-11-24,2805.0,Férias João,Salário
+2077,2017-12-01,2779.0,Salário Bruna,Salário
+2078,2017-12-01,1063.0,Salário Wendell,Salário
+2079,2017-12-01,2231.0,Cheque - Salário Roberta,Salário
+2080,2017-12-01,711.0,Bolsa estágio Gustavo - Última,Salário
+2081,2017-12-01,1800.0,Cheque - Salário Luana,Salário
+2082,2017-12-04,2059.0,Saláio João,Salário
+2083,2017-12-21,400.0,Bruna - comissão (revista 80 anos),Salário
+2084,2017-12-27,450.0,Rafael - Horas extras,Salário
+2085,2017-12-27,779.0,Rafael - Férias,Salário
+2086,2018-01-02,2232.0,Salário Roberta,Salário
+2087,2018-01-02,2791.0,Salário Bruna,Salário
+2088,2018-01-02,1800.0,Salário Luana,Salário
+2089,2018-01-04,1064.0,Salário Rafael,Salário
+2090,2018-01-16,1200.0,Cheque: Emanuel - Funcionário  - Férias de Rafael e João,Salário
+2091,2018-01-30,225.0,Rafael - Horas extras Janeiro,Salário
+2092,2018-02-02,2790.0,Salário Bruna,Salário
+2093,2018-02-02,593.12,Bolsa estágio Victor Hugo,Salário
+2094,2018-02-02,532.0,Salário Wendell rafael,Salário
+2095,2018-02-02,2231.0,Salário Roberta,Salário
+2096,2018-02-02,1290.3,Salário Luana,Salário
+2097,2018-02-02,593.12,Cheque: Bolsa Estágio Mara Eugênia,Salário
+2098,2018-02-02,2110.0,Salário João,Salário
+2099,2018-02-28,450.0,Salário Wendell Rafael - Horas Extras fevereiro,Salário
+2100,2018-03-02,764.0,Bolsa Estágio Victor,Salário
+2101,2018-03-02,764.0,Cheque: Bolsa estágio Maria,Salário
+2102,2018-03-02,2232.0,Cheque: salário Roberta,Salário
+2103,2018-03-05,2790.0,Salário Bruna,Salário
+2104,2018-03-05,2057.0,Salário João,Salário
+2105,2018-03-05,2217.0,Cheque: Salário Luana,Salário
+2106,2018-03-06,1063.0,Salário Wendell Rafael,Salário
+2107,2018-04-04,764.0,Bolsa estágio Victor,Salário
+2108,2018-04-05,2097.0,Salário João,Salário
+2109,2018-04-05,2791.0,Salário Bruna,Salário
+2110,2018-04-04,660.0,Cheque - Bolsa estágio Arthur,Salário
+2111,2018-04-04,2231.0,cheque - Salário Roberta,Salário
+2112,2018-04-04,2217.0,Sala´rio Luana,Salário
+2113,2018-04-04,764.0,Cheque - Bolsa estágio Maria,Salário
+2114,2018-04-05,1921.0,Salário Wendell Rafael,Salário
+2115,2018-05-02,3896.0,Férias Bruna,Salário
+2116,2018-05-02,2049.0,Salário Wendell Rafael,Salário
+2117,2018-05-02,2109.0,Salário João,Salário
+2118,2018-05-03,770.4,Bolsa estágio Victor Hugo,Salário
+2119,2018-05-03,1361.59,Metade do 13º Joao Paulo,Salário
+2120,2018-05-03,805.6,Bolsa estágio Arthur,Salário
+2121,2018-05-03,2232.0,Salário Roberta,Salário
+2122,2018-05-03,770.4,Bolsa estágio Maria,Salário
+2123,2018-05-07,1043.6,Salário Alexandre - Férias de Bruna,Salário
+2124,2018-05-07,2298.0,Salário Luana,Salário
+2125,2018-05-08,2979.0,Salário Bruna,Salário
+2126,2016-01-13,257.4,Seguro,Seguros
+2127,2016-01-11,77.9,Seguro,Seguros
+2128,2016-01-26,38.67,Seguro,Seguros
+2129,2016-02-01,243.03,Seguro de vida,Seguros
+2130,2016-02-10,77.9,Seguro,Seguros
+2131,2016-02-26,38.67,Seguro bb,Seguros
+2132,2016-03-02,208.98,Seguro,Seguros
+2133,2016-03-09,77.9,Seguro,Seguros
+2134,2016-03-14,127.46,Seguro Sala (1/4),Seguros
+2135,2016-04-01,243.03,Seguro,Seguros
+2136,2016-04-11,77.9,Seguro,Seguros
+2137,2016-04-11,127.46,Seguro Sala (2/4),Seguros
+2138,2016-04-26,38.67,Seguro,Seguros
+2139,2016-05-02,243.03,Seguro,Seguros
+2140,2016-05-09,77.9,Seguro,Seguros
+2141,2016-05-27,38.67,Seguro,Seguros
+2142,2016-06-13,257.4,Seguro,Seguros
+2143,2016-06-16,127.46,Seguro Sala (4/4),Seguros
+2144,2016-06-27,38.67,Seguro,Seguros
+2145,2016-07-02,243.03,Seguro,Seguros
+2146,2016-07-11,77.9,Seguro,Seguros
+2147,2016-07-26,38.67,Seguro,Seguros
+2148,2016-08-02,278.02,Seguro de vida,Seguros
+2149,2016-08-09,77.9,Seguro,Seguros
+2150,2016-08-26,38.67,Seguro bb,Seguros
+2151,2016-09-09,77.9,Seguro,Seguros
+2152,2016-09-16,320.49,Seguro de vida,Seguros
+2153,2016-09-27,17.0,Papelaria,Seguros
+2154,2016-10-26,38.67,Seguro,Seguros
+2155,2016-11-09,77.9,Seguro,Seguros
+2156,2016-11-01,302.6,Seguro,Seguros
+2157,2016-10-03,302.6,Seguro,Seguros
+2158,2016-12-01,302.6,Seguro de vida,Seguros
+2159,2016-12-09,77.9,Seguro,Seguros
+2160,2016-06-10,77.9,Seguro,Seguros
+2161,2016-12-26,38.67,Seguro,Seguros
+2162,2017-01-02,302.6,Seguro,Seguros
+2163,2017-01-26,38.67,Seguro,Seguros
+2164,2017-02-02,302.6,Seguro de vida,Seguros
+2165,2017-03-01,38.67,Seguro,Seguros
+2166,2017-03-01,226.44,Seguro de vida,Seguros
+2167,2017-03-13,119.18,Seguro sala - Sompo (1/4),Seguros
+2168,2017-03-27,38.67,Seguro,Seguros
+2169,2017-04-03,226.44,Seguro,Seguros
+2170,2017-04-17,119.17,Seguro sala Sompo (2/4),Seguros
+2171,2017-05-03,226.44,Seguro de vida,Seguros
+2172,2017-05-15,119.17,Seguro sala Sompo (3/4),Seguros
+2173,2017-06-01,226.44,Seguro,Seguros
+2174,2017-06-08,119.17,Seguro Sompo (4/4),Seguros
+2175,2017-07-03,226.44,Seguro,Seguros
+2176,2017-08-02,226.44,Seguro,Seguros
+2177,2017-09-01,234.59,Seguro,Seguros
+2178,2017-10-02,234.59,Seguro,Seguros
+2179,2017-11-01,234.59,Seguro,Seguros
+2180,2017-12-01,234.59,Seguro,Seguros
+2181,2018-01-02,234.59,Seguro,Seguros
+2182,2018-02-01,234.59,Seguro,Seguros
+2183,2018-03-01,234.59,Seguro,Seguros
+2184,2018-03-13,110.3,Seguro Sala (1/4),Seguros
+2185,2018-04-02,234.59,Seguro,Seguros
+2186,2018-04-10,110.3,Seguro Sala (2/4),Seguros
+2187,2018-05-02,234.59,Seguro,Seguros
+2188,2016-01-07,10.0,Estacionamento,Serviço de terceiro
+2189,2016-01-20,1500.0,Arquiteta (1/2),Serviço de terceiro
+2190,2016-01-15,323.59,Papelaria,Serviço de terceiro
+2191,2016-01-15,250.0,Curso Patríca Monteiro,Serviço de terceiro
+2192,2016-01-12,350.0,Reembolso Passagens dos funcionários,Serviço de terceiro
+2193,2016-01-13,796.78,Cartão Carrefour - Passagem Fortaleza + Cuso (5/12),Serviço de terceiro
+2194,2016-01-15,20.91,Táxi,Serviço de terceiro
+2195,2016-01-13,380.0,Certificado digital,Serviço de terceiro
+2196,2016-01-22,300.0,Pauta.com,Serviço de terceiro
+2197,2016-01-22,142.0,INPI - Registro de Marca,Serviço de terceiro
+2198,2016-01-22,7.0,Estacionamento,Serviço de terceiro
+2199,2016-01-29,135.37,Vem - patrícia,Serviço de terceiro
+2200,2016-01-27,24.1,Correios,Serviço de terceiro
+2201,2016-01-27,28.05,Café da manhã,Serviço de terceiro
+2202,2016-01-26,137.44,Combustível,Serviço de terceiro
+2203,2016-01-27,24.78,Almoço Rota do Mar,Serviço de terceiro
+2204,2016-01-15,10.0,Estacionamento,Serviço de terceiro
+2205,2016-01-05,8.0,Estacionmento,Serviço de terceiro
+2206,2016-01-04,31.35,Domínio Internet,Serviço de terceiro
+2207,2016-01-11,27.32,Cartório,Serviço de terceiro
+2208,2016-01-07,4.0,Água Mineral,Serviço de terceiro
+2209,2016-01-09,85.17,Mercado,Serviço de terceiro
+2210,2016-01-05,6.5,Estacionamento,Serviço de terceiro
+2211,2016-01-13,8.0,Água Mineral,Serviço de terceiro
+2212,2016-01-07,67.93,Jantar com cliente,Serviço de terceiro
+2213,2016-01-11,26.59,Material,Serviço de terceiro
+2214,2016-01-29,10.0,estacionamento,Serviço de terceiro
+2215,2016-01-29,17.98,Cartório,Serviço de terceiro
+2216,2016-02-01,300.0,Trânsferência para Depósito na Caixinha,Serviço de terceiro
+2217,2016-02-02,8.0,Estacionamento,Serviço de terceiro
+2218,2016-02-01,4.36,Cartório,Serviço de terceiro
+2219,2016-02-02,21.0,Mudança de contrato Social - Darf,Serviço de terceiro
+2220,2016-02-02,293.0,Mudança de contrato social - Jucepe,Serviço de terceiro
+2221,2016-02-03,300.0,Pauta comunicação ( Iara da Luna Ieno),Serviço de terceiro
+2222,2016-02-03,100.0,Ligação energia,Serviço de terceiro
+2223,2016-02-05,42.9,Material de construção,Serviço de terceiro
+2224,2016-02-04,20.0,Chaveiro,Serviço de terceiro
+2225,2016-02-05,250.0,Eletricista,Serviço de terceiro
+2226,2016-02-05,21.2,Material de construção,Serviço de terceiro
+2227,2016-02-11,37.33,Cartório,Serviço de terceiro
+2228,2016-02-11,90.0,Zona Azul,Serviço de terceiro
+2229,2016-02-11,180.0,Reembolso Kássia,Serviço de terceiro
+2230,2016-02-15,193.88,Cartão Carrefour Fevereiro,Serviço de terceiro
+2231,2016-02-15,51.67,Material escritório,Serviço de terceiro
+2232,2016-02-17,1000.0,Monte frio Ar Condicionado (2/2),Serviço de terceiro
+2233,2016-02-18,800.0,Instalação e Manutenção de Ar condicionado ,Serviço de terceiro
+2234,2016-02-18,500.0,Instalação de Rede de computadores (1/2),Serviço de terceiro
+2235,2016-02-18,436.0,Santander (Débito antigo da Signo),Serviço de terceiro
+2236,2016-02-18,20.0,Santander (Débito antigo da Signo),Serviço de terceiro
+2237,2016-02-16,7.0,Estacionamento,Serviço de terceiro
+2238,2016-02-16,33.0,Táxi ,Serviço de terceiro
+2239,2016-02-18,205.0,Motoboy (Janeiro),Serviço de terceiro
+2240,2016-02-19,700.0,Clipping Net,Serviço de terceiro
+2241,2016-02-02,1000.0,Ar condicionado (1/2),Serviço de terceiro
+2242,2016-02-23,174.84,VEM - Passagem Patrícia,Serviço de terceiro
+2243,2016-02-23,50.0,IEL (Novembro 2015),Serviço de terceiro
+2244,2016-02-23,100.0,IEL (competência Janeiro 2016),Serviço de terceiro
+2245,2016-02-25,154.0,ZonaZul,Serviço de terceiro
+2246,2016-02-05,1100.0,Marcineiro (1/3),Serviço de terceiro
+2247,2016-02-11,12.0,Cópia Chaves (3 cópias),Serviço de terceiro
+2248,2016-02-11,45.0,Cópia Chaves (12 cópias),Serviço de terceiro
+2249,2016-02-29,156.0,Clipping,Serviço de terceiro
+2250,2016-02-26,5.0,Estacionamento,Serviço de terceiro
+2251,2016-02-04,35.0,Cópia Chave,Serviço de terceiro
+2252,2016-03-07,70.0,Faxina,Serviço de terceiro
+2253,2016-03-01,7.0,Estacionamento,Serviço de terceiro
+2254,2016-03-02,343.51,Reembolso Cartão Artur (Banco de Imagem),Serviço de terceiro
+2255,2016-03-01,689.5,RD Gestão e Sistema,Serviço de terceiro
+2256,2016-03-03,380.0,Curso Kássia,Serviço de terceiro
+2257,2016-03-11,60.0,Adesivo,Serviço de terceiro
+2258,2016-03-11,77.0,Curso Kássia,Serviço de terceiro
+2259,2016-03-13,7.0,Estacionamento,Serviço de terceiro
+2260,2016-03-18,70.0,Faxina,Serviço de terceiro
+2261,2016-03-14,108.71,Táxi,Serviço de terceiro
+2262,2016-03-14,100.0,IEL,Serviço de terceiro
+2263,2016-03-14,1000.0,Cartão Carrefour,Serviço de terceiro
+2264,2016-03-21,1000.0,Marceneiro (2/3),Serviço de terceiro
+2265,2016-03-21,750.0,Van Luck Viagens - Rota do Mar,Serviço de terceiro
+2266,2016-03-21,500.0,Rede de computadores (2/2),Serviço de terceiro
+2267,2016-03-22,300.0,Pauta Comunicação (março),Serviço de terceiro
+2268,2016-03-22,1364.32,Empréstimo 2 (BB capital de giro),Serviço de terceiro
+2269,2016-03-22,95.0,Motoboy,Serviço de terceiro
+2270,2016-03-22,70.0,Faxina,Serviço de terceiro
+2271,2016-03-19,6.6,Pedágio,Serviço de terceiro
+2272,2016-03-19,6.6,Pedágio,Serviço de terceiro
+2273,2016-03-19,60.0,Jantar,Serviço de terceiro
+2274,2016-03-19,50.0,Gasolina,Serviço de terceiro
+2275,2016-03-20,110.0,6 Crachás em pvc com cordão,Serviço de terceiro
+2276,2016-03-23,50.0,Água Mineral,Serviço de terceiro
+2277,2016-03-23,151.16,Vem - Patrícia,Serviço de terceiro
+2278,2016-03-23,156.0,Clipping,Serviço de terceiro
+2279,2016-03-23,689.5,RD Gestão e Sistema (2/3),Serviço de terceiro
+2280,2016-03-25,1137.28,Cartão Carrefour,Serviço de terceiro
+2281,2016-03-28,133.0,Zona Azul (133 talões),Serviço de terceiro
+2282,2016-03-31,7.0,Estacionamento,Serviço de terceiro
+2283,2016-03-31,18.0,Gráfica - Papel Adesivo,Serviço de terceiro
+2284,2016-04-01,70.0,Faxina,Serviço de terceiro
+2285,2016-03-30,14.0,Estacionamento,Serviço de terceiro
+2286,2016-03-29,24.72,Cartório,Serviço de terceiro
+2287,2016-04-05,478.59,Reembolso Cartão Banco de Imagem Total,Serviço de terceiro
+2288,2016-03-29,4000.0,Mudança - Móveis,Serviço de terceiro
+2289,2016-03-29,4000.0,Mudança - Rede de Computadores,Serviço de terceiro
+2290,2016-03-29,4500.0,Mudança - Marcineiro Móveis,Serviço de terceiro
+2291,2016-04-05,147.36,Combustível - Moda Center,Serviço de terceiro
+2292,2016-04-06,832.5,Pendrivers - 30% (Solar-Kit),Serviço de terceiro
+2293,2016-04-06,57.56,Domínio Internet,Serviço de terceiro
+2294,2016-04-07,300.0,Pauta Comunicação,Serviço de terceiro
+2295,2016-04-07,1520.0,Reembolso Cartão,Serviço de terceiro
+2296,2016-04-05,7.0,Estacionamento,Serviço de terceiro
+2297,2016-04-06,18.0,Almoço,Serviço de terceiro
+2298,2016-04-07,19.8,Almoço,Serviço de terceiro
+2299,2016-04-07,30.0,Combustível,Serviço de terceiro
+2300,2016-04-06,54.0,Gráfica - Papel Adesivo,Serviço de terceiro
+2301,2016-04-06,60.0,Hospedagem - Bruna ,Serviço de terceiro
+2302,2016-04-08,70.0,Faxina,Serviço de terceiro
+2303,2016-04-11,1000.0,Marceneiro (3/3),Serviço de terceiro
+2304,2016-04-11,284.88,Táxi,Serviço de terceiro
+2305,2016-04-12,670.0,Cartão de visita,Serviço de terceiro
+2306,2016-04-12,146.0,Combustível,Serviço de terceiro
+2307,2016-04-12,18.43,Refeição,Serviço de terceiro
+2308,2016-04-12,21.45,Refeição,Serviço de terceiro
+2309,2016-04-12,16.8,Almoço,Serviço de terceiro
+2310,2016-04-12,24.1,Correios,Serviço de terceiro
+2311,2016-04-10,10.0,Estacionamneto,Serviço de terceiro
+2312,2016-04-10,7.0,Estacionamneto,Serviço de terceiro
+2313,2016-04-11,18.0,Estacionamento,Serviço de terceiro
+2314,2016-04-14,70.0,Faxina,Serviço de terceiro
+2315,2016-04-14,235.0,Cheque Motoboy,Serviço de terceiro
+2316,2016-04-18,100.0,Taxa IEL,Serviço de terceiro
+2317,2016-04-20,156.0,Clippping,Serviço de terceiro
+2318,2016-04-20,1000.0,Fotógrafo,Serviço de terceiro
+2319,2016-04-19,360.0,Gráfica,Serviço de terceiro
+2320,2016-04-19,21.0,Gráfica,Serviço de terceiro
+2321,2016-04-19,5.0,Estacionamento,Serviço de terceiro
+2322,2016-04-20,7.0,Estacionamento,Serviço de terceiro
+2323,2016-04-22,298.89,RD Gestão e Sistemas,Serviço de terceiro
+2324,2016-04-25,80.0,Cheque - Recarga de Tonner,Serviço de terceiro
+2325,2016-04-27,1120.46,Débito Antigo Itaú,Serviço de terceiro
+2326,2016-04-25,14.0,Gráfica,Serviço de terceiro
+2327,2016-04-25,70.0,Faxina,Serviço de terceiro
+2328,2016-04-28,174.84,Vem - Patrícia,Serviço de terceiro
+2329,2016-04-27,23.1,Kit dia das mães,Serviço de terceiro
+2330,2016-04-26,100.0,Gráfica,Serviço de terceiro
+2331,2016-04-28,90.0,Zona Azul - 90 talões,Serviço de terceiro
+2332,2016-04-29,689.5,Resultados Digitais (3/3),Serviço de terceiro
+2333,2016-05-02,25.0,Exame admissional - Thiago,Serviço de terceiro
+2334,2016-05-02,20.0,Chaveiro - 4 chaves,Serviço de terceiro
+2335,2016-05-02,390.0,Ingressos RD on the Rod,Serviço de terceiro
+2336,2016-05-02,50.0,Curso Kássia,Serviço de terceiro
+2337,2016-05-09,122.8,Cordões dos Crachás,Serviço de terceiro
+2338,2016-05-10,31.6,Material Escritório,Serviço de terceiro
+2339,2016-05-10,7.0,Estacionamento,Serviço de terceiro
+2340,2016-05-05,69.0,Gráfica,Serviço de terceiro
+2341,2016-05-04,8.0,Estacionamento,Serviço de terceiro
+2342,2016-05-05,15.0,Estacionamento,Serviço de terceiro
+2343,2016-05-13,40.95,Cartório,Serviço de terceiro
+2344,2016-05-13,51.0,Gráfica,Serviço de terceiro
+2345,2016-05-16,1329.36,Cartão de crédito,Serviço de terceiro
+2346,2016-05-16,215.29,Táxi,Serviço de terceiro
+2347,2016-05-16,127.46,Seguro Sala (3/4),Serviço de terceiro
+2348,2016-05-16,250.0,Anúncio Folha de PE (1/2),Serviço de terceiro
+2349,2016-05-16,100.0,IEL,Serviço de terceiro
+2350,2016-05-12,11.0,Papelaria,Serviço de terceiro
+2351,2016-05-12,26.1,Correios,Serviço de terceiro
+2352,2016-05-17,300.0,Cheque - Motoboy,Serviço de terceiro
+2353,2016-05-18,15.0,Estacionamento,Serviço de terceiro
+2354,2016-05-18,41.75,Refeição Evento RD,Serviço de terceiro
+2355,2016-05-23,7.0,Estacionamento,Serviço de terceiro
+2356,2016-05-23,9.0,Estacionamento,Serviço de terceiro
+2357,2016-05-23,20.5,Correios,Serviço de terceiro
+2358,2016-05-23,1326.02,Empréstimo 2 BB,Serviço de terceiro
+2359,2016-05-24,159.05,Vem Trabalhador - Patrícia,Serviço de terceiro
+2360,2016-05-24,298.89,RD Gestão e Sistema,Serviço de terceiro
+2361,2016-05-24,156.0,Clipping,Serviço de terceiro
+2362,2016-05-25,1000.0,Cheque - Crepe,Serviço de terceiro
+2363,2016-05-26,615.0,Material da Total - Campanha de 20 anos (1/2),Serviço de terceiro
+2364,2016-05-27,50.0,Táxi aeroporto petrolina - Catharina,Serviço de terceiro
+2365,2016-05-27,6.0,Estacionamento,Serviço de terceiro
+2366,2016-05-23,140.0,Faxina (2 faxinas),Serviço de terceiro
+2367,2016-05-27,264.75,Hotel Ibis - Petrolina,Serviço de terceiro
+2368,2016-05-27,2000.0,Prestação de serviço - Catharina (2/2),Serviço de terceiro
+2369,2016-05-27,21.0,Motoboy - Solar ,Serviço de terceiro
+2370,2016-05-28,29.7,Almoço - Solar,Serviço de terceiro
+2371,2016-05-28,128.98,Combustível,Serviço de terceiro
+2372,2016-06-01,5.0,Estacionamento,Serviço de terceiro
+2373,2016-06-02,615.0,Material da Total - Campanha de 20 anos (2/2),Serviço de terceiro
+2374,2016-06-02,7.0,Estacionamento,Serviço de terceiro
+2375,2016-06-02,100.0,Combustível,Serviço de terceiro
+2376,2016-06-02,56.12,Almoço,Serviço de terceiro
+2377,2016-06-02,23.1,Café da manhã,Serviço de terceiro
+2378,2016-06-06,6.0,Estacionamento,Serviço de terceiro
+2379,2016-06-06,58.0,Correios,Serviço de terceiro
+2380,2016-06-06,20.7,Total - Papelaria,Serviço de terceiro
+2381,2016-06-06,385.6,Total - Correios,Serviço de terceiro
+2382,2016-06-06,266.0,Total - Correios,Serviço de terceiro
+2383,2016-06-08,208.3,Feira,Serviço de terceiro
+2384,2016-05-27,120.0,Zona Azul (120 Talões),Serviço de terceiro
+2385,2016-06-13,42.9,Refeição,Serviço de terceiro
+2386,2016-06-13,100.0,Hospedagem ,Serviço de terceiro
+2387,2016-06-13,59.99,Combustível,Serviço de terceiro
+2388,2016-06-13,59.0,Combustível,Serviço de terceiro
+2389,2016-06-13,53.33,Refeição,Serviço de terceiro
+2390,2016-06-13,199.0,Curso,Serviço de terceiro
+2391,2016-06-14,658.0,Reembolso Passagens Petrolina Cartão,Serviço de terceiro
+2392,2016-06-15,155.0,Motoboy,Serviço de terceiro
+2393,2016-06-16,426.29,Táxi,Serviço de terceiro
+2394,2016-06-16,100.0,Taxa IEL,Serviço de terceiro
+2395,2016-06-16,250.0,Anúncio Folha de Pernambuco (2/2),Serviço de terceiro
+2396,2016-06-17,1800.0,Pauta.com - Débito Antigo (1/2),Serviço de terceiro
+2397,2016-06-18,700.0,Bruna - Bonificação - Débito Antigo,Serviço de terceiro
+2398,2016-06-18,700.0,Painel 20 anos Total - Reembolso Kássia,Serviço de terceiro
+2399,2016-06-18,1000.0,painel 20 anos Total,Serviço de terceiro
+2400,2016-06-20,550.0,Instalação Porta de Vidro,Serviço de terceiro
+2401,2016-06-22,6.0,Estacionamento,Serviço de terceiro
+2402,2016-06-27,166.94,Vem -  Patrícia,Serviço de terceiro
+2403,2016-07-01,300.0,Cheque - Manutenção Ar condicionado,Serviço de terceiro
+2404,2016-07-01,121.74,VEM- Passagem Catharina,Serviço de terceiro
+2405,2016-07-02,56.43,Domínio Internet,Serviço de terceiro
+2406,2016-06-30,12.0,Crachá,Serviço de terceiro
+2407,2016-06-30,100.0,Adesivo porta,Serviço de terceiro
+2408,2016-06-29,10.0,Estacionamento,Serviço de terceiro
+2409,2016-06-28,132.0,Combustível,Serviço de terceiro
+2410,2016-07-02,187.71,Reembolso Cartão Zene,Serviço de terceiro
+2411,2016-07-05,12.0,Estacionamento,Serviço de terceiro
+2412,2016-07-05,16.0,Estacionamento,Serviço de terceiro
+2413,2016-07-05,14.0,Estacionamento,Serviço de terceiro
+2414,2016-07-05,32.1,Papelaria,Serviço de terceiro
+2415,2016-07-05,5.0,Estacionamento,Serviço de terceiro
+2416,2016-07-05,139.99,Devolução cheque Brascolor,Serviço de terceiro
+2417,2016-07-07,60.0,Cheque - Motoboy,Serviço de terceiro
+2418,2016-07-13,500.0,Cheque - Manutenção Computador e Internet,Serviço de terceiro
+2419,2016-07-18,3500.0,Reembolso de pagamentos (Plano de Saúde + Claro Modem + Cartão),Serviço de terceiro
+2420,2016-07-15,140.0,Faxina - 11 e 18/07,Serviço de terceiro
+2421,2016-07-13,33.55,Refeição,Serviço de terceiro
+2422,2016-07-13,126.65,Combustível,Serviço de terceiro
+2423,2016-07-13,51.15,Refeição,Serviço de terceiro
+2424,2016-07-14,25.0,Exame Admissional,Serviço de terceiro
+2425,2016-07-16,99.09,Compra de Revistas,Serviço de terceiro
+2426,2016-07-14,7.0,Estacionamento,Serviço de terceiro
+2427,2016-07-20,100.0,Taxa IEL,Serviço de terceiro
+2428,2016-07-20,426.2,Táxi,Serviço de terceiro
+2429,2016-07-20,140.0,Cheque Ávila,Serviço de terceiro
+2430,2016-07-21,9.0,Estacionamento,Serviço de terceiro
+2431,2016-07-20,90.0,Passagem de ònibus  - Wendell,Serviço de terceiro
+2432,2016-07-25,314.75,Vem - Catharina e Patrícia,Serviço de terceiro
+2433,2016-07-27,40.19,Refeiçãp,Serviço de terceiro
+2434,2016-07-27,7.0,Estacionamento,Serviço de terceiro
+2435,2016-07-26,112.0,Gráfica,Serviço de terceiro
+2436,2016-07-26,7.0,Estacionamento,Serviço de terceiro
+2437,2016-07-28,7.0,Estacionamento,Serviço de terceiro
+2438,2016-07-28,7.0,Estacionamento,Serviço de terceiro
+2439,2016-07-26,140.0,Faxina 26/07 e 01/08,Serviço de terceiro
+2440,2016-08-01,300.0,Garagem - Kássia,Serviço de terceiro
+2441,2016-08-01,5.3,Serviço de cobrança bb,Serviço de terceiro
+2442,2016-08-01,7.0,Serviço de cobrança bb,Serviço de terceiro
+2443,2016-08-01,84.0,Serviço de cobrança bb,Serviço de terceiro
+2444,2016-08-05,70.0,Faxina,Serviço de terceiro
+2445,2016-08-05,25.0,Exame Demissional - Patrícia,Serviço de terceiro
+2446,2016-08-05,33.9,Correios,Serviço de terceiro
+2447,2016-08-10,6.0,Estacionamento,Serviço de terceiro
+2448,2016-08-11,300.0,Pauta Comunicação,Serviço de terceiro
+2449,2016-08-11,84.0,Passagem de ônibus - Wendell Rafael,Serviço de terceiro
+2450,2016-08-12,750.0,Site Combogó (1/2) - Maturi Comunicação,Serviço de terceiro
+2451,2016-08-12,375.25,Táxi,Serviço de terceiro
+2452,2016-08-12,1711.42,Cartão Carrefour,Serviço de terceiro
+2453,2016-08-19,100.0,IEL,Serviço de terceiro
+2454,2016-08-15,7.0,Estacionamento,Serviço de terceiro
+2455,2016-08-15,16.0,Hospitalmed,Serviço de terceiro
+2456,2016-08-17,7.0,Estacionamento,Serviço de terceiro
+2457,2016-08-19,85.0,Cheque - Motoboy,Serviço de terceiro
+2458,2016-08-24,7.0,Estacionamento,Serviço de terceiro
+2459,2016-08-24,7.0,Estacionamento,Serviço de terceiro
+2460,2016-08-25,300.0,Estacionamento - Garagem,Serviço de terceiro
+2461,2016-08-30,121.74,Vem Trabalhador - Catharina,Serviço de terceiro
+2462,2016-08-26,7.0,Estacionamento,Serviço de terceiro
+2463,2016-08-26,5.0,Estacionamento,Serviço de terceiro
+2464,2016-09-01,51.0,Karpa Produções culturais,Serviço de terceiro
+2465,2016-09-01,170.09,Reembolso Cartão ,Serviço de terceiro
+2466,2016-09-05,120.0,Hackaton - Laboral,Serviço de terceiro
+2467,2016-08-30,210.0,Gráfica,Serviço de terceiro
+2468,2016-09-07,170.0,Hackaton - Crachá Banner,Serviço de terceiro
+2469,2016-09-07,400.0,Hackaton - Pizzas Léo,Serviço de terceiro
+2470,2016-09-07,400.0,Hackaton - Pizzas Léo,Serviço de terceiro
+2471,2016-09-07,280.09,Hackaton - Almoço Léo,Serviço de terceiro
+2472,2016-09-07,9.0,Hackaton - Gelo Léo,Serviço de terceiro
+2473,2016-09-07,7.0,Hachaton - Estacionamento Kássia,Serviço de terceiro
+2474,2016-09-07,63.71,Hachaton - Biscoitos Kássia,Serviço de terceiro
+2475,2016-09-07,28.5,Hachaton - Padaria Kássia,Serviço de terceiro
+2476,2016-09-07,160.0,Hachaton - Limpeza Kássia,Serviço de terceiro
+2477,2016-09-07,20.0,Hachaton - Frutas Kássia,Serviço de terceiro
+2478,2016-09-07,30.0,Hachaton - Domínio - Marcos,Serviço de terceiro
+2479,2016-09-09,300.0,Despesas Viagem - Bruna,Serviço de terceiro
+2480,2016-09-08,153.01,Almoço,Serviço de terceiro
+2481,2016-09-09,6.0,Estacionamneto,Serviço de terceiro
+2482,2016-09-08,7.0,Estacionamento,Serviço de terceiro
+2483,2016-09-13,2265.01,Cartão Carrefour,Serviço de terceiro
+2484,2016-09-16,1480.0,Camisas - Hackaton ,Serviço de terceiro
+2485,2016-09-15,6.0,Estacionamento,Serviço de terceiro
+2486,2016-09-13,360.0,Gráfica - GPL,Serviço de terceiro
+2487,2016-09-19,280.23,Taxi,Serviço de terceiro
+2488,2016-09-19,46.66,IEL,Serviço de terceiro
+2489,2016-09-19,2150.0,Hackathon - Marcos,Serviço de terceiro
+2490,2016-09-20,1141.55,Hackathon - Badoque,Serviço de terceiro
+2491,2016-09-21,240.0,Motoboy,Serviço de terceiro
+2492,2016-09-26,56.43,K2host Internet,Serviço de terceiro
+2493,2016-09-27,436.0,Reembolso Cartão Artur,Serviço de terceiro
+2494,2016-09-26,25.0,Exame Ocupacional,Serviço de terceiro
+2495,2016-09-30,58.4,Aniversário do mês,Serviço de terceiro
+2496,2016-09-30,50.0,Doação dia das crianças,Serviço de terceiro
+2497,2016-10-07,7.0,Estacionamento,Serviço de terceiro
+2498,2016-10-11,108.7,Combustível,Serviço de terceiro
+2499,2016-10-11,1305.01,Cartão  Carrefour,Serviço de terceiro
+2500,2016-10-11,134.55,Táxi,Serviço de terceiro
+2501,2016-10-14,6.1,Serviço de cobrança bb,Serviço de terceiro
+2502,2016-10-17,158.68,Combustível,Serviço de terceiro
+2503,2016-10-19,6.0,Estacionamento,Serviço de terceiro
+2504,2016-10-19,30.28,Jantar,Serviço de terceiro
+2505,2016-10-20,6.0,Estacionamento,Serviço de terceiro
+2506,2016-10-20,27.76,Lanche,Serviço de terceiro
+2507,2016-10-20,42.35,Lanche,Serviço de terceiro
+2508,2016-10-19,16.53,Almoço,Serviço de terceiro
+2509,2016-10-19,30.25,Lanche,Serviço de terceiro
+2510,2016-10-21,750.0,Site Combogó (2/2),Serviço de terceiro
+2511,2016-10-24,7.5,Estacionamento,Serviço de terceiro
+2512,2016-10-25,100.0,Livro rota do mar (1/2),Serviço de terceiro
+2513,2016-10-25,500.0,Moda - edição de fotos - fotógrafo Diego Nóbrega (1/2),Serviço de terceiro
+2514,2016-10-19,190.0,Hospedagem,Serviço de terceiro
+2515,2016-11-01,26.65,Reembolso Cartão,Serviço de terceiro
+2516,2016-11-06,13.87,Refeição - Bruna,Serviço de terceiro
+2517,2016-11-10,7.0,Estacionamento,Serviço de terceiro
+2518,2016-11-10,1904.9,Cartão Carrefour,Serviço de terceiro
+2519,2016-11-10,587.4,Speedcred - Tino ,Serviço de terceiro
+2520,2016-11-13,60.3,Decoração natal,Serviço de terceiro
+2521,2016-11-12,55.0,Vaso e adubo,Serviço de terceiro
+2522,2016-11-12,55.0,Plantas,Serviço de terceiro
+2523,2016-11-17,50.0,Adesivo / Gráfica,Serviço de terceiro
+2524,2016-11-17,218.31,Táxi,Serviço de terceiro
+2525,2016-11-18,600.0,Fotógrafo (RevistaSetsistemas +GPL),Serviço de terceiro
+2526,2016-11-16,69.41,Refeição,Serviço de terceiro
+2527,2016-11-16,7.0,Estacionamento,Serviço de terceiro
+2528,2016-11-23,60.0,Cheque - Motoboy,Serviço de terceiro
+2529,2016-11-23,400.0,Saque (Garagem + Zona Azul),Serviço de terceiro
+2530,2016-11-23,15.0,Estacionamento,Serviço de terceiro
+2531,2016-11-23,5.0,Estacionamento,Serviço de terceiro
+2532,2016-11-23,7.0,Estacionamento,Serviço de terceiro
+2533,2016-11-24,500.0,Fotógrafo - Diego Nóbrega (2/2),Serviço de terceiro
+2534,2016-11-24,325.0,GAC - Camisas Corrida,Serviço de terceiro
+2535,2016-11-25,100.0,Hugo - Livro rota do mar (2/2),Serviço de terceiro
+2536,2016-11-21,11.5,Refeição,Serviço de terceiro
+2537,2016-11-20,120.03,Combustível - Bruna,Serviço de terceiro
+2538,2016-11-21,40.8,Refeição,Serviço de terceiro
+2539,2016-11-21,21.57,Alimentação,Serviço de terceiro
+2540,2016-11-21,29.99,Combustível,Serviço de terceiro
+2541,2016-11-22,22.0,Refeição,Serviço de terceiro
+2542,2016-11-25,15.0,Estacionamento,Serviço de terceiro
+2543,2016-11-25,7.5,Estacionamneto,Serviço de terceiro
+2544,2016-05-24,675.0,Vídeo Algo Mais (1/2),Serviço de terceiro
+2545,2016-06-13,7.0,Estacionamento,Serviço de terceiro
+2546,2016-06-22,7.0,Estacionamento,Serviço de terceiro
+2547,2016-06-21,675.0,Vídeo Algo Mais (2/2),Serviço de terceiro
+2548,2016-08-18,1050.0,Produção de vídeo NAORA (1/2),Serviço de terceiro
+2549,2016-10-27,31.0,Papelaria,Serviço de terceiro
+2550,2016-05-27,59.72,Táxi Petrolina - catharina,Serviço de terceiro
+2551,2016-04-06,1500.0,Site - Qualinfo,Serviço de terceiro
+2552,2016-11-29,1336.17,Cartão SKA BB,Serviço de terceiro
+2553,2016-11-29,38.67,Seguro,Serviço de terceiro
+2554,2016-05-18,2022.8,Pen driver (70% restantes),Serviço de terceiro
+2555,2016-10-25,1000.0,Pauta.com - Steerycyclo,Serviço de terceiro
+2556,2016-10-31,715.0,Maturi (1/3),Serviço de terceiro
+2557,2016-11-04,50.0,Água Mineral,Serviço de terceiro
+2558,2016-11-05,125.03,Combustível - Bruna,Serviço de terceiro
+2559,2016-11-06,68.02,Combustível - Bruna,Serviço de terceiro
+2560,2016-11-11,7.0,Estacionamento,Serviço de terceiro
+2561,2016-11-11,50.0,Faxina,Serviço de terceiro
+2562,2016-11-29,298.89,RD Station,Serviço de terceiro
+2563,2016-03-01,298.89,RD Gestão e Sistema,Serviço de terceiro
+2564,2016-03-23,298.89,RD Gestão e Sistema,Serviço de terceiro
+2565,2016-10-20,80.0,Recarga Tonner,Serviço de terceiro
+2566,2016-10-27,298.89,RD Station,Serviço de terceiro
+2567,2016-10-25,300.0,Pauta.com,Serviço de terceiro
+2568,2016-09-19,50.0,Água Mineral (10),Serviço de terceiro
+2569,2016-09-26,298.89,Rd Gestão e sistemas,Serviço de terceiro
+2570,2016-08-04,70.0,Água Mineral - (14 águas),Serviço de terceiro
+2571,2016-08-04,76.5,Antena,Serviço de terceiro
+2572,2016-08-23,298.89,RD Gestão e Sistema,Serviço de terceiro
+2573,2016-08-23,155.0,Clipping,Serviço de terceiro
+2574,2016-08-25,60.0,Zona Azul (60 Bilhetes),Serviço de terceiro
+2575,2016-07-19,300.0,Pauta Comunicação - Junho,Serviço de terceiro
+2576,2016-07-21,101.02,Combustível - Caruaru,Serviço de terceiro
+2577,2016-07-25,50.0,Zona Azul (50Talões),Serviço de terceiro
+2578,2016-07-25,298.89,RD Gestão e Sistemas,Serviço de terceiro
+2579,2016-07-07,25.0,Exame Admissional - Catharina,Serviço de terceiro
+2580,2016-06-16,1800.0,Pauta.com - Tocha Olímpica,Serviço de terceiro
+2581,2016-06-18,156.0,Clipping,Serviço de terceiro
+2582,2016-06-22,298.89,RD Gestão e sistemas,Serviço de terceiro
+2583,2016-06-24,300.0,Pauta.com - maio,Serviço de terceiro
+2584,2016-06-27,136.0,Zona Azul (136 talões),Serviço de terceiro
+2585,2016-06-30,70.0,Faxina,Serviço de terceiro
+2586,2016-05-03,300.0,Pauta Com,Serviço de terceiro
+2587,2016-11-24,400.0,Cnserto Ar condicionado,Serviço de terceiro
+2588,2016-11-24,243.28,Vem Trabalhador,Serviço de terceiro
+2589,2016-11-29,110.0,Conserto Telefone Celular,Serviço de terceiro
+2590,2016-10-14,150.0,Cheque - Conserto Ar condicionado,Serviço de terceiro
+2591,2016-10-25,390.0,"Saque (garagem 300,00 + Zona Azul 90,00)",Serviço de terceiro
+2592,2016-09-13,1091.13,Cartão Carrefour - Pró-labore Zene,Serviço de terceiro
+2593,2016-09-26,80.0,Saque - Zona azul (80 Folhas),Serviço de terceiro
+2594,2016-09-26,300.0,Saque - Garagem Carro,Serviço de terceiro
+2595,2016-09-30,117.0,Vem Trabalhador - Catharina,Serviço de terceiro
+2596,2016-12-01,372.11,Reembolso Cartão Artur,Serviço de terceiro
+2597,2016-12-02,129.0,Hugo ,Serviço de terceiro
+2598,2016-12-06,715.0,Maturi (2/2) - Vilar pontual,Serviço de terceiro
+2599,2016-12-01,7.5,Estacionamento,Serviço de terceiro
+2600,2016-12-02,50.0,Faxina,Serviço de terceiro
+2601,2016-12-14,120.0,Cheque - Dedetização,Serviço de terceiro
+2602,2016-06-10,300.0,Pauta comunicação,Serviço de terceiro
+2603,2016-06-15,1170.95,Cartão ,Serviço de terceiro
+2604,2016-12-15,7.0,Estacionamento,Serviço de terceiro
+2605,2017-01-05,200.0,Fotógrafo,Serviço de terceiro
+2606,2016-02-23,690.0,WDT Gráfica,Serviço de terceiro
+2607,2017-01-12,150.0,Fotógrafo,Serviço de terceiro
+2608,2017-01-13,25.0,Exame Demissional - Thiago,Serviço de terceiro
+2609,2017-01-13,25.0,Exame Demissional - Catharina,Serviço de terceiro
+2610,2017-01-11,5.0,Estacionamento,Serviço de terceiro
+2611,2017-01-24,1050.0,Produção de vídeo NAORA (2/2),Serviço de terceiro
+2612,2017-02-01,15.0,Estacionamento,Serviço de terceiro
+2613,2017-02-05,7.5,Estacionamento,Serviço de terceiro
+2614,2017-02-01,5.0,Estacionamneto,Serviço de terceiro
+2615,2017-02-05,600.0,Instalação de 2 Ar condicionado,Serviço de terceiro
+2616,2017-02-07,90.0,Passagem Gustavo,Serviço de terceiro
+2617,2017-02-13,30.0,Hugo texto,Serviço de terceiro
+2618,2017-02-08,7.0,Estacionamento,Serviço de terceiro
+2619,2017-02-11,9.7,Material Construção Mudança,Serviço de terceiro
+2620,2017-02-11,250.0,Serviço telefone,Serviço de terceiro
+2621,2017-02-13,250.0,Serviço eletricidade - Joselito,Serviço de terceiro
+2622,2017-02-15,716.0,Maturi Vilar pontual (3/3),Serviço de terceiro
+2623,2017-02-15,400.0,Serviços de informática - Pedro,Serviço de terceiro
+2624,2017-02-15,200.0,Cheque - Serviço telefone,Serviço de terceiro
+2625,2017-02-17,150.0,Aplicação de gesso,Serviço de terceiro
+2626,2017-02-17,15.0,Pagamento Motoboy,Serviço de terceiro
+2627,2017-01-18,165.0,Motoboy,Serviço de terceiro
+2628,2016-12-13,355.0,Motoboy,Serviço de terceiro
+2629,2017-02-17,300.0,Cheque - Porta (1/2),Serviço de terceiro
+2630,2017-02-21,1774.49,RD Station Cenos (1/3),Serviço de terceiro
+2631,2017-02-28,50.05,Facebook,Serviço de terceiro
+2632,2017-03-06,4.0,Gráfica,Serviço de terceiro
+2633,2017-03-28,30.28,Facebook,Serviço de terceiro
+2634,2017-03-01,78.5,Refeição ,Serviço de terceiro
+2635,2017-03-13,150.94,Facebook,Serviço de terceiro
+2636,2017-03-13,109.4,Microsoft Mongagua,Serviço de terceiro
+2637,2017-03-13,149.06,Microsoft,Serviço de terceiro
+2638,2017-03-13,110.0,Inscrição Evento,Serviço de terceiro
+2639,2017-03-13,152.4,Gráfica,Serviço de terceiro
+2640,2017-03-13,15.0,Estacionamento,Serviço de terceiro
+2641,2017-03-13,80.0,Retirada de parede,Serviço de terceiro
+2642,2017-03-13,7.0,Serviço de cobrança bb,Serviço de terceiro
+2643,2017-03-14,900.0,Ilustrador Total,Serviço de terceiro
+2644,2017-03-16,1000.0,Emídia - Uva Revista 80 anos,Serviço de terceiro
+2645,2017-03-17,400.0,Bruna - 10% Revista UVA,Serviço de terceiro
+2646,2017-03-17,24.0,Estacionamento,Serviço de terceiro
+2647,2017-03-16,7.5,Estacionamento,Serviço de terceiro
+2648,2017-04-28,189.42,Almoço,Serviço de terceiro
+2649,2017-03-27,150.0,Fotógrafo,Serviço de terceiro
+2650,2017-03-22,170.03,Combustível,Serviço de terceiro
+2651,2017-03-21,15.0,Estacionamento,Serviço de terceiro
+2652,2017-04-03,365.0,Cheque - Vivianne,Serviço de terceiro
+2653,2017-04-06,150.0,Fotógrafo,Serviço de terceiro
+2654,2017-04-05,8.0,Estacionamento,Serviço de terceiro
+2655,2017-04-04,48.11,Táxi - Petrolina,Serviço de terceiro
+2656,2017-04-03,21.45,Táxi - Petrolina,Serviço de terceiro
+2657,2017-04-02,50.0,Táxi - Petrolina,Serviço de terceiro
+2658,2017-04-04,107.0,Refeição - Petrolina,Serviço de terceiro
+2659,2017-04-04,47.0,Refeição - Petrolina,Serviço de terceiro
+2660,2017-04-11,50.0,Gráfica,Serviço de terceiro
+2661,2017-04-11,14.0,Gráfica,Serviço de terceiro
+2662,2017-04-12,15.36,Reembolso Rui,Serviço de terceiro
+2663,2017-04-14,100.0,Conserto HD Notebook,Serviço de terceiro
+2664,2017-04-20,1736.89,RD Station - Cenos (3/3),Serviço de terceiro
+2665,2017-04-19,30.0,Gráfica,Serviço de terceiro
+2666,2017-04-24,350.0,Pedro - Informática,Serviço de terceiro
+2667,2017-04-24,60.0,Encanador,Serviço de terceiro
+2668,2017-04-24,937.0,Consultoria Financeira,Serviço de terceiro
+2669,2017-04-25,703.87,Clipping,Serviço de terceiro
+2670,2017-04-28,372.14,Google,Serviço de terceiro
+2671,2017-04-28,240.8,Microsoft,Serviço de terceiro
+2672,2017-04-28,168.33,facebook,Serviço de terceiro
+2673,2017-04-28,472.68,Storage (Abril a Stembro),Serviço de terceiro
+2674,2017-07-28,472.68,Storage (Abril a Stembro),Serviço de terceiro
+2675,2017-08-28,472.68,Storage (Abril a Stembro),Serviço de terceiro
+2676,2017-09-28,472.68,Storage (Abril a Stembro),Serviço de terceiro
+2677,2017-04-28,124.81,Mídias Digitais ($39),Serviço de terceiro
+2678,2017-04-28,1010.32,"Linkdin ($287,51)",Serviço de terceiro
+2679,2017-04-28,300.0,Fotógrafo,Serviço de terceiro
+2680,2017-05-03,30.0,Zona Azul ,Serviço de terceiro
+2681,2017-05-03,7.0,Estacionamento,Serviço de terceiro
+2682,2017-05-11,300.0,Fotógrafo,Serviço de terceiro
+2683,2017-05-15,1000.0,Montori - solar Perolina,Serviço de terceiro
+2684,2017-05-15,131.4,Microsoft,Serviço de terceiro
+2685,2017-05-15,109.4,Micrisoft,Serviço de terceiro
+2686,2017-05-11,50.0,Água Mineral,Serviço de terceiro
+2687,2017-05-10,70.09,Copa/Cozinha,Serviço de terceiro
+2688,2017-05-10,25.6,Copa/Cozinha,Serviço de terceiro
+2689,2017-05-22,2200.0,Saque - Pagamento Empréstimo Art1,Serviço de terceiro
+2690,2017-05-19,8.0,Estacionamento,Serviço de terceiro
+2691,2017-05-28,472.68,Storage (Abril a Stembro),Serviço de terceiro
+2692,2017-05-23,7.5,Estacionamento,Serviço de terceiro
+2693,2017-05-23,46.2,Correios,Serviço de terceiro
+2694,2017-05-23,11.0,Gráfica,Serviço de terceiro
+2695,2017-05-23,33.0,Gráfica,Serviço de terceiro
+2696,2017-06-01,7.0,Estacionamento,Serviço de terceiro
+2697,2017-06-01,7.0,Estacionamento,Serviço de terceiro
+2698,2017-06-01,7.5,Estacionamento,Serviço de terceiro
+2699,2017-06-01,50.9,Correios,Serviço de terceiro
+2700,2017-06-03,1541.0,Gráfica Chicãi (1/2),Serviço de terceiro
+2701,2017-05-21,131.4,Microsoft,Serviço de terceiro
+2702,2017-06-08,109.4,Microsoft,Serviço de terceiro
+2703,2017-06-16,267.0,Revisão - GPL revista ,Serviço de terceiro
+2704,2017-06-09,131.4,Microsoft ,Serviço de terceiro
+2705,2017-06-22,47.0,Gráfica,Serviço de terceiro
+2706,2017-06-22,5.0,Estacionamento,Serviço de terceiro
+2707,2017-06-28,472.68,Storage (Abril a Stembro),Serviço de terceiro
+2708,2017-05-11,1000.0,Pagamento Tino - Miguel Gaia - Desenvolvimento web para a Neurotech,Serviço de terceiro
+2709,2017-06-30,650.05,Reembolso Leo,Serviço de terceiro
+2710,2017-06-28,72.54,Almoço Assenpro,Serviço de terceiro
+2711,2017-06-28,246.98,Sympla (junho e julho),Serviço de terceiro
+2712,2017-07-28,246.98,Sympla (junho e julho),Serviço de terceiro
+2713,2017-07-04,250.0,Locução Vídeo,Serviço de terceiro
+2714,2017-07-10,1541.0,Gráfica Chicão (2/2),Serviço de terceiro
+2715,2017-07-10,500.0,Emídia (2/3),Serviço de terceiro
+2716,2017-07-15,400.0,Pagamento Van Maracaípe - rota do Mar,Serviço de terceiro
+2717,2017-07-14,150.0,Fotógrafo - João Luiz Vicente - comunidade,Serviço de terceiro
+2718,2017-07-14,450.0,Fotógrafo - João Vicente - total ,Serviço de terceiro
+2719,2017-07-10,7.0,Estacionamento,Serviço de terceiro
+2720,2017-07-18,100.0,IEL,Serviço de terceiro
+2721,2017-07-20,9.0,Estacionamento,Serviço de terceiro
+2722,2017-08-02,49.0,Gráfica,Serviço de terceiro
+2723,2017-08-02,47.52,Combustível,Serviço de terceiro
+2724,2017-08-12,500.0,Emídia (3/3),Serviço de terceiro
+2725,2017-08-08,9.5,Estacionamento,Serviço de terceiro
+2726,2017-08-25,778.52,Devolução NFSe Atacadão para Flavia Maria,Serviço de terceiro
+2727,2017-08-25,155.0,GAC - McDia Feliz,Serviço de terceiro
+2728,2017-08-04,50.0,Água Mineral,Serviço de terceiro
+2729,2017-08-31,7.0,Estacionamento,Serviço de terceiro
+2730,2017-08-29,300.0,Garagem,Serviço de terceiro
+2731,2017-08-28,7.5,Estacionamento,Serviço de terceiro
+2732,2017-09-08,691.2,Gilson (lacaweb + pipedrive),Serviço de terceiro
+2733,2017-09-11,250.0,Fotógrafo,Serviço de terceiro
+2734,2017-09-14,70.0,Hugo,Serviço de terceiro
+2735,2017-09-15,9.0,Estacionamento,Serviço de terceiro
+2736,2017-09-14,12.0,Estacionamento,Serviço de terceiro
+2737,2017-09-14,12.0,Estacionamento,Serviço de terceiro
+2738,2017-09-19,6.0,Estacionamento,Serviço de terceiro
+2739,2017-09-19,7.5,Estacionamento,Serviço de terceiro
+2740,2017-09-21,128.0,Água Mineral,Serviço de terceiro
+2741,2017-09-22,7.0,Estacionamento,Serviço de terceiro
+2742,2017-10-02,250.0,Fotógrafo,Serviço de terceiro
+2743,2017-09-29,100.0,Roberta,Serviço de terceiro
+2744,2017-09-29,7.0,Estacionamento,Serviço de terceiro
+2745,2017-09-29,7.0,Estacionamento,Serviço de terceiro
+2746,2017-10-03,9.0,Estacionamento,Serviço de terceiro
+2747,2017-10-06,80.0,Tonner,Serviço de terceiro
+2748,2017-10-06,30.0,Táxi,Serviço de terceiro
+2749,2017-10-10,7.5,Estacionamento,Serviço de terceiro
+2750,2017-10-18,1300.0,Cheque - Luiza Freitas (Textos),Serviço de terceiro
+2751,2017-10-19,7.0,Estacionamento,Serviço de terceiro
+2752,2017-10-24,1500.0,Pauta comunicação,Serviço de terceiro
+2753,2017-10-23,8.0,Estacionamento,Serviço de terceiro
+2754,2017-10-20,7.5,Estacionamento,Serviço de terceiro
+2755,2017-11-03,150.0,fotógrafo - João - Rekomendo,Serviço de terceiro
+2756,2017-11-03,77.4,Gráfica,Serviço de terceiro
+2757,2017-11-03,28.8,Gráfica,Serviço de terceiro
+2758,2017-11-03,93.0,Gráfica,Serviço de terceiro
+2759,2017-11-03,3.5,Água mineral,Serviço de terceiro
+2760,2017-11-07,9.0,Estacionamento,Serviço de terceiro
+2761,2017-11-06,12.5,Gráfica,Serviço de terceiro
+2762,2017-11-17,50.0,IEL,Serviço de terceiro
+2763,2017-11-21,2500.0,Fotógrafo - Textos gastronomia,Serviço de terceiro
+2764,2017-11-20,70.0,Compra de fotos - Leonardo Araújo,Serviço de terceiro
+2765,2017-11-20,480.0,Compra de fotos - Igor Bione,Serviço de terceiro
+2766,2017-11-20,70.0,Compra de fotos - Francisco Pelinca,Serviço de terceiro
+2767,2017-11-20,40.0,Revisão PE Turismo - Hugo,Serviço de terceiro
+2768,2017-11-20,200.0,Compra fotos - Sebastião Costa,Serviço de terceiro
+2769,2017-11-23,1500.0,Patrícia Monteiro,Serviço de terceiro
+2770,2017-11-28,345.0,Clipping - Knewin,Serviço de terceiro
+2771,2017-11-28,250.0,Ávila - Pagamento terceiro,Serviço de terceiro
+2772,2017-12-09,30.0,Zona Azul,Serviço de terceiro
+2773,2017-12-03,70.0,Foto - Engenho,Serviço de terceiro
+2774,2017-12-14,250.0,Hugo (revista 80 anos),Serviço de terceiro
+2775,2017-12-11,5.0,Estacionamento,Serviço de terceiro
+2776,2017-12-12,7.5,Estacionamento,Serviço de terceiro
+2777,2017-12-27,650.0,Ilustração Total - Marcel,Serviço de terceiro
+2778,2018-01-02,70.0,Gráfica Ávila,Serviço de terceiro
+2779,2018-01-15,450.0,Fotógrafo - Revista Set,Serviço de terceiro
+2780,2018-01-03,8.0,Estacionamento,Serviço de terceiro
+2781,2018-01-15,421.2,Tino - Gilson,Serviço de terceiro
+2782,2018-01-15,446.27,Tino - Léo,Serviço de terceiro
+2783,2018-01-16,2000.0,Monitori - Serttel,Serviço de terceiro
+2784,2018-01-16,285.0,Fardas Ana Júlia,Serviço de terceiro
+2785,2018-01-17,8.0,Estacionamento,Serviço de terceiro
+2786,2018-01-17,8.0,Estacionamento,Serviço de terceiro
+2787,2018-01-24,200.0,Clipping net,Serviço de terceiro
+2788,2018-01-24,50.0,Gráfica,Serviço de terceiro
+2789,2018-01-29,91.0,gráfica,Serviço de terceiro
+2790,2018-01-24,70.0,Gráfica,Serviço de terceiro
+2791,2018-02-02,8.0,estacionamento,Serviço de terceiro
+2792,2018-02-02,5.0,Gráfica,Serviço de terceiro
+2793,2018-02-02,8.0,Gráfica,Serviço de terceiro
+2794,2018-02-07,1500.0,Gilson - Tino,Serviço de terceiro
+2795,2018-02-07,1500.0,Léo - Tino,Serviço de terceiro
+2796,2018-02-06,96.0,Água mineral,Serviço de terceiro
+2797,2018-02-05,40.0,Gráfica,Serviço de terceiro
+2798,2018-03-01,25.0,Gráfica - ávila,Serviço de terceiro
+2799,2018-03-12,150.0,fotógrafo João,Serviço de terceiro
+2800,2018-03-12,150.0,Produção Web Ávila,Serviço de terceiro
+2801,2018-03-07,10.0,Estacionamento,Serviço de terceiro
+2802,2018-03-03,10.0,Estacionamento,Serviço de terceiro
+2803,2018-03-09,86.02,Frete - Combogó,Serviço de terceiro
+2804,2018-03-21,8.0,Estacionamento,Serviço de terceiro
+2805,2018-03-15,92.07,Almoço,Serviço de terceiro
+2806,2018-03-23,300.0,Compra de material - Ciro Borges - Ávila,Serviço de terceiro
+2807,2018-03-26,14.0,Gráfica - Full Jump,Serviço de terceiro
+2808,2018-04-02,10.0,Estacionamento,Serviço de terceiro
+2809,2018-04-02,10.0,Estacionamento,Serviço de terceiro
+2810,2018-04-04,150.0,Foto - GPL,Serviço de terceiro
+2811,2018-04-16,8.0,Estacionamento,Serviço de terceiro
+2812,2018-04-24,342.0,knewin,Serviço de terceiro
+2813,2018-04-25,300.0,rodrigo site das Usinas,Serviço de terceiro
+2814,2016-12-15,6.99,Google Drive,Serviços de Informática
+2815,2016-12-15,54.7,Microsoft ,Serviços de Informática
+2816,2017-01-15,6.99,Google Drive,Serviços de Informática
+2817,2017-02-15,6.99,Google Drive,Serviços de Informática
+2818,2017-03-15,15.99,Google Drive,Serviços de Informática
+2819,2017-05-08,100.0,properly solução computador,Serviços de Informática
+2820,2017-05-23,350.0,Pedro - Informática,Serviços de Informática
+2821,2017-06-28,6.99,Google play,Serviços de Informática
+2822,2017-06-28,193.33,Properly Soluções,Serviços de Informática
+2823,2017-06-28,0.02,Facebook,Serviços de Informática
+2824,2017-06-28,0.11,Facebook,Serviços de Informática
+2825,2017-06-28,10.95,Facebook,Serviços de Informática
+2826,2017-06-28,27.84,Facebook,Serviços de Informática
+2827,2017-06-26,56.43,k2host internet,Serviços de Informática
+2828,2017-06-26,350.0,Pedro - informática,Serviços de Informática
+2829,2017-06-28,318.77,RD Station,Serviços de Informática
+2830,2017-10-14,131.4,Microsoft,Serviços de Informática
+2831,2017-09-14,109.4,mocrosoft,Serviços de Informática
+2832,2017-10-14,109.4,mocrosoft,Serviços de Informática
+2833,2018-01-14,109.4,mocrosoft,Serviços de Informática
+2834,2017-07-14,131.4,Microsoft,Serviços de Informática
+2835,2017-07-14,109.4,mocrosoft,Serviços de Informática
+2836,2017-08-10,130.0,Gráfica,Serviços de Informática
+2837,2017-08-18,350.0,Pedro - Informática,Serviços de Informática
+2838,2017-08-23,360.0,Clipping,Serviços de Informática
+2839,2017-08-31,325.36,Rd Station,Serviços de Informática
+2840,2017-09-04,350.0,Pedro - Informática,Serviços de Informática
+2841,2017-09-14,148.35,Microsoft,Serviços de Informática
+2842,2017-09-08,450.0,Computador (3/4),Serviços de Informática
+2843,2017-08-14,175.2,Microsoft,Serviços de Informática
+2844,2017-08-14,109.4,mocrosoft,Serviços de Informática
+2845,2017-09-27,56.43,K2host internet,Serviços de Informática
+2846,2017-09-27,194.02,Clipping - Knewin,Serviços de Informática
+2847,2017-09-28,318.77,RD Gestão,Serviços de Informática
+2848,2017-10-25,334.8,Clipping - Knewin,Serviços de Informática
+2849,2017-12-14,102.45,mocrosoft,Serviços de Informática
+2850,2018-01-02,56.43,K2Host Internet,Serviços de Informática
+2851,2018-01-26,342.0,Clipping Knewin,Serviços de Informática
+2852,2018-02-15,28.4,Mlabs ,Serviços de Informática
+2853,2018-02-23,280.0,Pedro Informática,Serviços de Informática
+2854,2018-02-21,90.0,Gráfica - BVR,Serviços de Informática
+2855,2018-02-21,91.0,Gráfica - Brascon,Serviços de Informática
+2856,2018-04-15,142.0,Mlabs ,Serviços de Informática
+2857,2018-04-15,26.91,mLABS ,Serviços de Informática
+2858,2017-01-28,26.41,Uber ,Táxi e Uber
+2859,2017-01-28,6.76,Uber,Táxi e Uber
+2860,2017-01-28,10.42,Uber,Táxi e Uber
+2861,2017-01-28,13.56,Uber,Táxi e Uber
+2862,2017-01-28,12.45,Uber,Táxi e Uber
+2863,2017-01-24,12.76,Uber,Táxi e Uber
+2864,2017-01-24,10.08,Uber,Táxi e Uber
+2865,2017-02-28,13.49,Uber,Táxi e Uber
+2866,2017-02-28,9.07,Uber,Táxi e Uber
+2867,2017-02-28,8.86,Uber,Táxi e Uber
+2868,2017-02-28,13.7,Uber,Táxi e Uber
+2869,2017-02-28,14.43,Uber,Táxi e Uber
+2870,2017-02-28,12.56,Uber,Táxi e Uber
+2871,2017-02-28,7.13,Uber,Táxi e Uber
+2872,2017-02-28,10.99,Uber,Táxi e Uber
+2873,2017-03-13,19.69,Uber,Táxi e Uber
+2874,2017-03-13,17.84,Uber,Táxi e Uber
+2875,2017-03-13,13.25,Uber,Táxi e Uber
+2876,2017-03-13,13.92,Uber,Táxi e Uber
+2877,2017-03-13,12.89,Uber,Táxi e Uber
+2878,2017-03-13,14.56,Uber,Táxi e Uber
+2879,2017-03-13,17.01,Uber,Táxi e Uber
+2880,2017-03-13,13.13,Uber,Táxi e Uber
+2881,2017-03-13,13.69,Uber,Táxi e Uber
+2882,2017-03-13,16.65,Uber,Táxi e Uber
+2883,2017-03-13,12.74,Uber,Táxi e Uber
+2884,2017-03-13,15.72,Uber,Táxi e Uber
+2885,2017-03-13,13.68,Uber,Táxi e Uber
+2886,2017-04-11,25.62,Táxi - Bruna,Táxi e Uber
+2887,2017-04-18,10.4,Uber,Táxi e Uber
+2888,2017-04-11,11.87,Táxi,Táxi e Uber
+2889,2017-04-18,17.86,Uber,Táxi e Uber
+2890,2017-04-28,11.83,Uber,Táxi e Uber
+2891,2017-04-28,11.44,Uber,Táxi e Uber
+2892,2017-04-28,11.59,Uber,Táxi e Uber
+2893,2017-04-28,10.19,Uber,Táxi e Uber
+2894,2017-04-28,8.42,Uber,Táxi e Uber
+2895,2017-04-28,11.16,Uber,Táxi e Uber
+2896,2017-04-28,11.21,Uber,Táxi e Uber
+2897,2017-04-28,15.21,Uber,Táxi e Uber
+2898,2017-04-28,14.71,Uber,Táxi e Uber
+2899,2017-04-28,12.15,Uber,Táxi e Uber
+2900,2017-04-28,11.34,Uber,Táxi e Uber
+2901,2017-04-28,8.62,Uber,Táxi e Uber
+2902,2017-04-28,10.61,Uber,Táxi e Uber
+2903,2017-05-28,8.2,Uber,Táxi e Uber
+2904,2017-05-28,10.39,Uber,Táxi e Uber
+2905,2017-05-28,20.68,Uber,Táxi e Uber
+2906,2017-05-28,20.35,Uber,Táxi e Uber
+2907,2017-05-28,12.97,Uber,Táxi e Uber
+2908,2017-05-28,28.4,Uber,Táxi e Uber
+2909,2017-06-19,171.74,Emídia Ubers,Táxi e Uber
+2910,2017-06-28,12.75,Uber,Táxi e Uber
+2911,2017-06-28,15.29,Uber,Táxi e Uber
+2912,2017-06-28,9.47,Uber,Táxi e Uber
+2913,2017-06-28,15.12,Uber,Táxi e Uber
+2914,2017-06-28,12.48,Uber,Táxi e Uber
+2915,2017-06-28,11.95,Uber,Táxi e Uber
+2916,2017-06-28,18.06,Uber,Táxi e Uber
+2917,2017-06-28,12.91,Uber,Táxi e Uber
+2918,2017-06-28,14.46,Uber,Táxi e Uber
+2919,2017-06-28,12.27,Uber,Táxi e Uber
+2920,2017-06-28,10.05,Uber,Táxi e Uber
+2921,2017-07-03,39.62,Táxi - roberta (Greve),Táxi e Uber
+2922,2017-07-04,41.37,Transporte / Greve,Táxi e Uber
+2923,2017-08-15,245.46,Táxi,Táxi e Uber
+2924,2017-11-06,173.3,Táxi,Táxi e Uber
+2925,2017-12-11,12.87,Táxi,Táxi e Uber
+2926,2017-12-12,450.0,Cheque: Táxi Moda center,Táxi e Uber
+2927,2018-01-02,109.68,Táxi,Táxi e Uber
+2928,2018-01-08,400.0,Van - Maracaípe - rota do Mar,Táxi e Uber
+2929,2018-01-23,129.27,99 Táxi,Táxi e Uber
+2930,2018-02-05,315.1,Táxi,Táxi e Uber
+2931,2018-02-19,457.44,99 Táxi,Táxi e Uber
+2932,2018-03-05,378.03,99 Táxi,Táxi e Uber
+2933,2018-03-14,153.37,Trans serv Táxi,Táxi e Uber
+2934,2018-03-29,160.51,99 Táxi,Táxi e Uber
+2935,2018-04-09,198.29,99táxi,Táxi e Uber
+2936,2018-04-23,150.54,99 táxi,Táxi e Uber
+2937,2018-04-12,10.35,Uber,Táxi e Uber
+2938,2018-04-17,8.85,Uber,Táxi e Uber
+2939,2018-04-17,7.61,Uber,Táxi e Uber
+2940,2018-04-12,10.42,Uber,Táxi e Uber
+2941,2018-04-23,17.77,Uber,Táxi e Uber
+2942,2018-04-20,9.81,uber,Táxi e Uber
+2943,2018-04-20,8.5,Uber,Táxi e Uber
+2944,2016-02-02,66.51,Embratel - Interurbano,Telefone e Internet
+2945,2016-03-01,49.03,Interurbano Embratel,Telefone e Internet
+2946,2016-03-10,234.13,GVT,Telefone e Internet
+2947,2016-03-23,162.34,GVT,Telefone e Internet
+2948,2016-04-11,89.46,Claro - modem,Telefone e Internet
+2949,2016-04-11,373.85,Claro- Celular,Telefone e Internet
+2950,2016-04-22,272.99,GVT,Telefone e Internet
+2951,2016-04-22,80.95,Embratel,Telefone e Internet
+2952,2016-04-22,162.29,Embratel,Telefone e Internet
+2953,2016-05-13,99.8,Claro Modem,Telefone e Internet
+2954,2016-05-16,409.69,Claro Cel,Telefone e Internet
+2955,2016-05-24,277.37,GVT,Telefone e Internet
+2956,2016-11-04,41.88,Embratel,Telefone e Internet
+2957,2016-11-10,119.88,Claro - Modem,Telefone e Internet
+2958,2016-11-10,457.64,Claro,Telefone e Internet
+2959,2016-11-17,82.35,Celular vivo,Telefone e Internet
+2960,2016-11-23,248.58,Vivo,Telefone e Internet
+2961,2016-10-06,32.79,Embratel,Telefone e Internet
+2962,2016-10-11,82.35,celular Vivo,Telefone e Internet
+2963,2016-10-11,119.88,Claro Modem,Telefone e Internet
+2964,2016-10-11,469.56,Claro ,Telefone e Internet
+2965,2016-10-21,249.15,Vivo ,Telefone e Internet
+2966,2016-09-01,70.33,Embratel,Telefone e Internet
+2967,2016-09-13,119.88,Claro - Modem,Telefone e Internet
+2968,2016-09-13,455.3,Claro,Telefone e Internet
+2969,2016-09-16,82.22,Celular Vivo,Telefone e Internet
+2970,2016-09-22,245.83,GVT,Telefone e Internet
+2971,2016-08-02,14.47,Embratel,Telefone e Internet
+2972,2016-08-12,82.23,Celular vivo,Telefone e Internet
+2973,2016-08-12,119.88,Claro - Modem,Telefone e Internet
+2974,2016-08-12,433.82,Claro,Telefone e Internet
+2975,2016-08-23,246.16,GVT,Telefone e Internet
+2976,2016-07-02,80.48,Embratel,Telefone e Internet
+2977,2016-07-18,43.33,Celular Vivo,Telefone e Internet
+2978,2016-07-23,250.37,GVT (Telefone fixo + Internet),Telefone e Internet
+2979,2016-06-21,336.55,GVT,Telefone e Internet
+2980,2016-05-05,31.34,Embratel,Telefone e Internet
+2981,2016-12-01,41.88,Embratel,Telefone e Internet
+2982,2016-12-12,82.35,Celular vivo,Telefone e Internet
+2983,2016-12-12,119.88,Claro modem,Telefone e Internet
+2984,2016-12-12,455.3,Claro,Telefone e Internet
+2985,2016-06-02,18.17,Embratel,Telefone e Internet
+2986,2016-06-10,119.88,Claro - Modem,Telefone e Internet
+2987,2016-06-10,407.75,Claro,Telefone e Internet
+2988,2016-06-10,44.66,Celular - Vivo,Telefone e Internet
+2989,2016-12-22,246.39,GVT,Telefone e Internet
+2990,2016-12-28,56.43,K2Host Internet,Telefone e Internet
+2991,2017-01-04,41.88,Embratel,Telefone e Internet
+2992,2017-01-16,522.23,Claro,Telefone e Internet
+2993,2017-01-16,119.88,Claro Modem,Telefone e Internet
+2994,2017-01-17,82.35,Celular Vivo,Telefone e Internet
+2995,2017-01-24,403.59,Vivo (Telefone + internet),Telefone e Internet
+2996,2017-02-02,41.88,Embratel,Telefone e Internet
+2997,2017-02-07,119.88,Claro Modem,Telefone e Internet
+2998,2017-02-07,501.06,Claro,Telefone e Internet
+2999,2017-02-14,91.73,Cel Vivo,Telefone e Internet
+3000,2017-02-17,310.23,Vivo,Telefone e Internet
+3001,2017-03-13,41.88,Embratel,Telefone e Internet
+3002,2017-03-13,91.73,Celular Vivo,Telefone e Internet
+3003,2017-03-14,545.44,Claro,Telefone e Internet
+3004,2017-03-14,119.88,Claro - Modem,Telefone e Internet
+3005,2017-03-27,56.43,K2host Internet,Telefone e Internet
+3006,2017-03-27,301.83,Vivo,Telefone e Internet
+3007,2017-04-03,46.29,Embratel,Telefone e Internet
+3008,2017-04-17,573.74,Claro,Telefone e Internet
+3009,2017-04-17,127.7,Claro - Modem,Telefone e Internet
+3010,2017-04-18,5.3,Serviço de cobrança bb,Telefone e Internet
+3011,2017-04-18,91.73,celular vivo,Telefone e Internet
+3012,2017-04-25,306.97,Vivo,Telefone e Internet
+3013,2017-05-15,127.7,Claro Modem,Telefone e Internet
+3014,2017-05-15,586.61,Claro,Telefone e Internet
+3015,2017-05-15,93.59,Cel vivo,Telefone e Internet
+3016,2017-05-22,94.0,Embratel,Telefone e Internet
+3017,2017-05-23,312.36,VIVO,Telefone e Internet
+3018,2017-06-01,47.98,Embratel,Telefone e Internet
+3019,2017-06-08,573.35,Claro,Telefone e Internet
+3020,2017-06-08,127.7,Claro modem,Telefone e Internet
+3021,2017-06-09,106.59,Celular vivo,Telefone e Internet
+3022,2017-06-23,318.79,Vivo,Telefone e Internet
+3023,2017-07-05,46.26,Embratel,Telefone e Internet
+3024,2017-07-12,582.32,claro,Telefone e Internet
+3025,2017-07-12,127.7,Claro modem,Telefone e Internet
+3026,2017-07-17,93.25,Vivo,Telefone e Internet
+3027,2017-07-24,325.45,Vivo,Telefone e Internet
+3028,2017-08-02,45.66,Embratel,Telefone e Internet
+3029,2017-08-15,100.54,Cel Vivo,Telefone e Internet
+3030,2017-08-15,596.62,Claro,Telefone e Internet
+3031,2017-08-15,127.7,Claro modem,Telefone e Internet
+3032,2017-08-25,346.13,Vivo,Telefone e Internet
+3033,2017-09-04,44.88,Embratel,Telefone e Internet
+3034,2017-09-15,610.48,Claro Cel,Telefone e Internet
+3035,2017-09-15,127.7,Claro modem,Telefone e Internet
+3036,2017-09-21,96.34,Cel vivo,Telefone e Internet
+3037,2017-09-22,334.21,Vivo,Telefone e Internet
+3038,2017-10-05,44.88,Embratel,Telefone e Internet
+3039,2017-10-16,591.31,Claro,Telefone e Internet
+3040,2017-10-17,127.7,Claro modem,Telefone e Internet
+3041,2017-10-17,93.79,Cel vivo,Telefone e Internet
+3042,2017-10-19,344.34,Vivo,Telefone e Internet
+3043,2017-11-06,44.88,Embratel,Telefone e Internet
+3044,2017-11-14,91.73,Cel vivo,Telefone e Internet
+3045,2017-11-14,592.87,Claro,Telefone e Internet
+3046,2017-11-14,130.29,Claro - modem,Telefone e Internet
+3047,2017-11-23,323.62,Vivo,Telefone e Internet
+3048,2017-12-04,44.88,Embratel,Telefone e Internet
+3049,2017-12-11,127.7,Claro modem,Telefone e Internet
+3050,2017-12-11,449.88,Claro,Telefone e Internet
+3051,2017-12-11,91.73,Celular vivo,Telefone e Internet
+3052,2017-12-26,332.01,Vivo telefone e internet,Telefone e Internet
+3053,2018-01-04,44.88,Embratel,Telefone e Internet
+3054,2018-01-11,379.0,Claro cel,Telefone e Internet
+3055,2018-01-11,127.7,Claro modem,Telefone e Internet
+3056,2018-01-23,314.56,Telefone e internet,Telefone e Internet
+3057,2018-01-23,90.84,Celular vivo,Telefone e Internet
+3058,2018-02-05,44.88,Embratel,Telefone e Internet
+3059,2018-02-15,377.89,Claro,Telefone e Internet
+3060,2018-02-15,127.7,Claro - modem,Telefone e Internet
+3061,2018-02-20,97.99,Cel vivo,Telefone e Internet
+3062,2018-02-23,318.67,VIVO,Telefone e Internet
+3063,2018-03-06,44.88,Embratel,Telefone e Internet
+3064,2018-03-13,378.28,Claro,Telefone e Internet
+3065,2018-03-13,127.7,Claro modem,Telefone e Internet
+3066,2018-03-14,98.01,Cel vivo,Telefone e Internet
+3067,2018-03-22,341.69,Vivo,Telefone e Internet
+3068,2018-04-04,56.43,K2hostinternet,Telefone e Internet
+3069,2018-04-04,44.88,Embratel,Telefone e Internet
+3070,2018-04-10,395.83,Claro,Telefone e Internet
+3071,2018-04-13,133.08,Claro Modem - Última,Telefone e Internet
+3072,2018-04-19,95.99,Cel vivo,Telefone e Internet
+3073,2018-04-24,336.58,vivo,Telefone e Internet
+3074,2018-05-07,44.88,Embratel,Telefone e Internet
+3075,2016-01-13,1000.0,Caixinha -> SKA BB | Pagamento da Neocondo em Dinheiro (nota 642),Transferência
+3076,2016-02-23,250.0,SKA BB -> Caixinha,Transferência
+3077,2016-03-11,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3078,2016-03-15,100.0,SKA BB -> Caixinha | Transferência para Caixinha,Transferência
+3079,2016-03-18,58.05,SKA BB -> Caixinha | Transferência para Caixinha,Transferência
+3080,2016-03-22,300.0,SKA BB -> Caixinha | Transferência para Caixinha,Transferência
+3081,2016-03-23,300.0,SKA BB -> Caixinha | Transferência para Caixinha,Transferência
+3082,2016-04-06,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3083,2016-04-08,54.08,SKA BB -> Caixinha | Transferência para Caixinha,Transferência
+3084,2016-04-11,300.0,SKA BB -> Caixinha | Transferência para Caixinha,Transferência
+3085,2016-04-14,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3086,2016-04-18,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3087,2016-04-27,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3088,2016-05-02,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3089,2016-05-14,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3090,2016-05-20,500.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3091,2016-05-27,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3092,2016-06-01,300.0,SKA BB -> Caixinha | Transferência para Caixinha,Transferência
+3093,2016-06-10,1200.0,SKA BB -> Caixinha | Transferência para o caixinha,Transferência
+3094,2016-06-10,300.0,SKA BB -> Caixinha | Transferência para o caixinha,Transferência
+3095,2016-06-21,250.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3096,2016-06-27,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3097,2016-07-08,300.0,SKA BB -> Caixinha | Transferência para a caixinha,Transferência
+3098,2016-07-19,250.0,SKA BB -> Caixinha | Transferência para o caixinha,Transferência
+3099,2016-07-20,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3100,2016-07-25,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3101,2016-08-02,300.0,SKA BB -> Caixinha | Transferência para o caixinha,Transferência
+3102,2016-08-12,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3103,2016-08-23,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3104,2016-08-25,360.0,SKA BB -> Caixinha | Saque para caixinha,Transferência
+3105,2016-08-30,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3106,2016-09-07,1281.17,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3107,2016-09-10,400.0,SKA BB -> Caixinha | Transferência para o caixinha,Transferência
+3108,2016-09-16,150.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3109,2016-09-19,300.0,SKA BB -> Caixinha | Transferência para o caixinha,Transferência
+3110,2016-09-26,300.0,SKA BB -> Caixinha | Transferência para o caixinha,Transferência
+3111,2016-10-07,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3112,2016-10-18,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3113,2016-10-21,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3114,2016-10-25,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3115,2016-11-01,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3116,2016-11-16,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3117,2016-11-17,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3118,2016-11-29,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3119,2016-12-12,300.0,SKA BB -> Caixinha | Transferência para Caixinha,Transferência
+3120,2016-12-12,300.0,SKA BB -> Caixinha | Transferênica para caixinha,Transferência
+3121,2016-12-12,2085.23,SKA BB -> Cartão Carrefour | Pagamento de Cartão,Transferência
+3122,2016-12-13,355.0,SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3123,2016-12-16,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3124,2016-12-16,249.4,SKA BB -> Taxi | Transferência para táxi,Transferência
+3125,2016-12-20,300.0,SKA BB -> Caixinha | Transferência para caixinha,Transferência
+3126,2016-12-27,2076.59,SKA BB -> Cartão BB | Pagamento Cartão BB SKA,Transferência
+3127,2017-01-10,300.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3128,2017-01-17,1370.74,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3129,2017-01-17,1853.81,1. SKA BB -> Cartão Carrefour | Pagamneto Cartão Carrefour,Transferência
+3130,2017-01-17,300.0,1. SKA BB -> 2. Caixinha | Transferência para o Caixinha,Transferência
+3131,2017-01-19,165.0,1. SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3132,2017-01-26,300.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3133,2017-01-30,1940.88,1. SKA BB -> Cartão BB | Pagamento Cartão BB,Transferência
+3134,2017-02-06,546.76,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3135,2017-02-07,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3136,2017-02-10,500.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3137,2017-02-10,1002.7,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3138,2017-02-16,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3139,2017-02-16,300.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3140,2017-02-17,15.0,2. Caixinha -> Motoboy | Pagamento Motoboy,Transferência
+3141,2017-02-23,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3142,2017-02-24,2700.91,1. SKA BB -> Cartão BB | Pagamento do Cartão BB,Transferência
+3143,2017-03-01,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3144,2017-03-13,806.53,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3145,2017-03-13,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3146,2017-03-18,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3147,2017-03-23,2922.04,1. SKA BB -> Cartão BB | Pagamento Cartão bb,Transferência
+3148,2017-03-23,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3149,2017-03-29,60.0,1. SKA BB -> Motoboy | Cheque - Pagamento Motoboy,Transferência
+3150,2017-04-03,250.0,1. SKA BB -> 2. Caixinha | Transferência para Caixinha,Transferência
+3151,2017-04-03,250.0,1. SKA BB -> 2. Caixinha | Transferência para Caixinha,Transferência
+3152,2017-04-19,1150.44,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3153,2017-04-21,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3154,2017-04-25,600.0,1. SKA BB -> 2. Caixinha | Transferênia para caixinha,Transferência
+3155,2017-04-25,4879.77,1. SKA BB -> Cartão BB | Pagamento Cartão BB,Transferência
+3156,2017-04-27,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3157,2017-04-30,75.0,1. SKA BB -> Motoboy | Cheque - Pagamento Motoboy,Transferência
+3158,2017-05-05,500.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3159,2017-05-10,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3160,2017-05-15,1358.67,1. SKA BB -> Cartão Carrefour | Pagamento Cartaão Carrefour,Transferência
+3161,2017-05-15,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3162,2017-05-22,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3163,2017-05-23,2638.36,1. SKA BB -> Cartão BB | Pagamento Cartão BB,Transferência
+3164,2017-05-23,550.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3165,2017-06-05,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3166,2017-06-09,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3167,2017-06-09,551.84,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3168,2017-06-12,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3169,2017-06-17,131.4,2. Caixinha -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3170,2017-06-19,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3171,2017-06-21,175.0,1. SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3172,2017-06-23,3029.13,1. SKA BB -> Cartão BB | Pagamento Cartão,Transferência
+3173,2017-06-26,300.0,1. SKA BB -> 2. Caixinha | Pagamento Garagem,Transferência
+3174,2017-06-26,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3175,2017-07-01,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3176,2017-07-06,450.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3177,2017-07-06,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3178,2017-07-14,400.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3179,2017-07-17,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3180,2017-07-17,1170.29,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3181,2017-07-18,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3182,2017-07-24,30.0,1. SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3183,2017-07-25,300.0,1. SKA BB -> 2. Caixinha | Transferência caixinha,Transferência
+3184,2017-08-02,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3185,2017-08-07,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3186,2017-08-08,4011.03,1. SKA BB -> Cartão BB | Pagamento Cartão bb - Julho,Transferência
+3187,2017-08-11,450.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3188,2017-08-15,1127.04,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3189,2017-08-18,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3190,2017-08-22,90.0,1. SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3191,2017-08-25,300.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3192,2017-08-25,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3193,2017-08-30,50.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3194,2017-09-01,1037.54,"1. SKA BB -> Cartão BB | Pagamento Cartão Agosto (1.034,54 de 3.037,54mil)",Transferência
+3195,2017-09-05,2041.79,1. SKA BB -> Cartão BB | Pagamento Cartão bb,Transferência
+3196,2017-09-05,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3197,2017-09-08,450.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3198,2017-09-11,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3199,2017-09-18,1137.25,1. SKA BB -> Cartão Carrefour | Pagamento cartão carrefour,Transferência
+3200,2017-09-20,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3201,2017-09-25,250.0,1. SKA BB -> 2. Caixinha | Transferênci para o caixinha,Transferência
+3202,2017-09-26,400.0,1. SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3203,2017-09-28,1344.13,1. SKA BB -> Cartão BB | Pagamento cartão bb,Transferência
+3204,2017-10-02,2000.0,1. SKA BB -> Cartão BB | Pagamento catão bb,Transferência
+3205,2017-10-05,250.0,1. SKA BB -> 2. Caixinha | Transferência caixinha,Transferência
+3206,2017-10-09,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3207,2017-10-11,390.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3208,2017-10-13,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3209,2017-10-15,1135.35,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3210,2017-10-20,90.0,1. SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3211,2017-10-25,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixnha,Transferência
+3212,2017-10-25,334.8,1. SKA BB -> 2. Caixinha | Transferência para caixinha - Knewin,Transferência
+3213,2017-10-26,300.0,1. SKA BB -> 2. Caixinha | Transferênica para caixinha - Garagem,Transferência
+3214,2017-10-27,3899.67,1. SKA BB -> Cartão BB | Pagamento Cartão,Transferência
+3215,2017-11-03,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3216,2017-11-09,950.39,1. SKA BB -> Cartão Carrefour | Pagamento Cartão carrefour,Transferência
+3217,2017-11-13,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3218,2017-11-20,520.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3219,2017-11-23,250.0,1. SKA BB -> 2. Caixinha | Transferênia para caixinha,Transferência
+3220,2017-11-23,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3221,2017-11-20,300.0,1. SKA BB -> 2. Caixinha | Saque para o caixinha,Transferência
+3222,2017-11-23,2720.57,1. SKA BB -> Cartão BB | Pagamento cartão bb,Transferência
+3223,2017-11-27,90.0,1. SKA BB -> Motoboy | Cheque: Pagamento Motoboy,Transferência
+3224,2017-11-28,445.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3225,2017-12-06,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3226,2017-12-13,562.35,1. SKA BB -> Cartão Carrefour | Pagamento Cartão carrefour,Transferência
+3227,2017-12-21,250.0,1. SKA BB -> 2. Caixinha | Transferência para a caixinha,Transferência
+3228,2017-12-22,700.0,1. SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3229,2017-12-27,5391.9,1. SKA BB -> Cartão BB | Pagamento cartão bb,Transferência
+3230,2017-12-27,250.0,1. SKA BB -> 2. Caixinha | Transferência para caixinha,Transferência
+3231,2018-01-08,250.0,1. SKA BB -> 2. Caixinha | Transferênica para o caixinha,Transferência
+3232,2018-01-11,937.13,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3233,2018-01-18,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3234,2018-01-23,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3235,2018-01-23,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3236,2018-01-24,105.0,1. SKA BB -> Motoboy | Cheque: Pagamento Motoboy,Transferência
+3237,2018-01-24,500.0,1. SKA BB -> 2. Caixinha | Saque para o caixinha,Transferência
+3238,2018-01-25,342.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3239,2018-01-29,1465.8,1. SKA BB -> Cartão BB | Pagamento Cartão BB,Transferência
+3240,2018-01-31,2000.0,1. SKA BB -> Cartão BB | Pagamento cartão BB,Transferência
+3241,2018-02-01,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3242,2018-02-08,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3243,2018-02-15,1006.88,1. SKA BB -> Cartão Carrefour | Pagamento cartão carrefour,Transferência
+3244,2018-02-16,250.0,1. SKA BB -> 2. Caixinha | transferência para o caixinha,Transferência
+3245,2018-02-23,60.0,1. SKA BB -> Motoboy | Pagamento Motoboy,Transferência
+3246,2018-02-23,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3247,2018-02-23,300.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3248,2018-02-26,2222.34,1. SKA BB -> Cartão BB | Pagamento Cartão BB,Transferência
+3249,2018-02-27,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3250,2018-02-28,2000.0,1. SKA BB -> Cartão BB | Pagamento cartão bb,Transferência
+3251,2018-03-02,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3252,2018-03-13,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3253,2018-03-13,328.39,1. SKA BB -> Cartão Carrefour | Pagamento Cartão carrefour,Transferência
+3254,2018-03-13,757.54,1. SKA BB -> Master itau | Pagamento Master Itaú,Transferência
+3255,2018-03-14,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3256,2018-03-23,300.0,1. SKA BB -> 2. Caixinha | Transferência para a caixinha,Transferência
+3257,2018-03-26,300.0,1. SKA BB -> 2. Caixinha | Transferência para a caixinha,Transferência
+3258,2018-03-29,250.0,1. SKA BB -> 2. Caixinha | Transferência para a caixinha,Transferência
+3259,2018-03-29,1034.72,1. SKA BB -> Cartão BB | Pagamento Cartão BB,Transferência
+3260,2018-04-03,3800.0,1. SKA BB -> Cartão BB | Pagamento Cartão bb,Transferência
+3261,2018-04-10,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3262,2018-04-13,757.54,1. SKA BB -> Master itau | Pagamento Cartão Itaú,Transferência
+3263,2018-04-16,455.41,1. SKA BB -> Cartão Carrefour | Pagamento Cartão Carrefour,Transferência
+3264,2018-04-12,30.0,2. Caixinha -> Motoboy | Motoboy - Março,Transferência
+3265,2018-04-24,300.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha - site usinas,Transferência
+3266,2018-04-24,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3267,2018-04-24,300.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha - Garagem,Transferência
+3268,2018-04-24,400.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha - massa conteúdo,Transferência
+3269,2018-04-26,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3270,2018-05-03,4223.69,1. SKA BB -> Cartão BB | Pagamento Cartão BB,Transferência
+3271,2018-05-04,250.0,1. SKA BB -> 2. Caixinha | Transferência para o caixinha,Transferência
+3272,2016-08-24,29.15,Refeição,Viagem
+3273,2016-08-24,73.6,Refeição,Viagem
+3274,2016-12-08,26.95,Alimentação,Viagem
+3275,2016-12-08,126.89,Combustível,Viagem
+3276,2016-12-09,0.33,Refeição,Viagem
+3277,2016-12-15,175.0,GOL - viagem Floripa (2/6),Viagem
+3278,2016-12-15,200.66,Hospedagem Floripa (2/3),Viagem
+3279,2016-12-02,166.42,Despesa viagem Floripa,Viagem
+3280,2016-12-15,136.68,Combustível,Viagem
+3281,2016-12-13,38.48,Refeição Confraternização,Viagem
+3282,2016-12-17,180.0,Hospedagem,Viagem
+3283,2016-12-16,27.0,Alimentação,Viagem
+3284,2016-12-17,22.97,Alimentação,Viagem
+3285,2017-01-15,175.0,GOL - viagem Floripa (3/6),Viagem
+3286,2017-01-15,1572.5,Viagem final de ano,Viagem
+3287,2017-01-15,200.66,Hospedagem Floripa (3/3),Viagem
+3288,2017-01-27,57.2,Alimentação,Viagem
+3289,2017-01-25,33.0,Alimentação Rota,Viagem
+3290,2017-01-25,154.23,Combustível Moda,Viagem
+3291,2017-01-25,58.0,Alimentação Rota,Viagem
+3292,2017-02-15,175.0,GOL - viagem Floripa (4/6),Viagem
+3293,2017-03-15,175.0,GOL - viagem Floripa (5/6),Viagem
+3294,2017-04-15,175.0,GOL - viagem Floripa (6/6),Viagem
+3295,2017-04-28,337.16,Ibis - Petrolina,Viagem
+3296,2017-04-28,200.47,Avianca - Petrolina,Viagem
+3297,2017-05-06,22.0,Refeição - Bruna,Viagem
+3298,2017-05-07,125.79,Combustível - Bruna,Viagem
+3299,2017-05-07,15.43,Refeição - Bruna,Viagem
+3300,2017-05-06,86.9,Aluguel Carro - Bruna,Viagem
+3301,2017-05-28,200.46,Avianca - Petrolina,Viagem
+3302,2017-06-14,52.03,Alimentação,Viagem
+3303,2017-06-14,80.0,Alimentação,Viagem
+3304,2017-06-13,80.0,Gráfica,Viagem
+3305,2017-06-15,7.5,Estacionamento,Viagem
+3306,2017-06-28,200.46,Avianca - Petrolina,Viagem
+3307,2017-06-14,53.0,Alimentação,Viagem
+3308,2017-07-14,19.0,Refeição,Viagem
+3309,2017-07-14,33.0,Alimentação - Moda,Viagem
+3310,2017-07-14,124.15,combustível,Viagem
+3311,2017-07-09,55.0,Almoço - rota - Maracaípe,Viagem
+3312,2017-07-09,24.0,Jantar - Maracaípe - rota,Viagem
+3313,2017-07-08,14.0,Pedágio - maracaípe,Viagem
+3314,2017-07-09,14.0,Pedágio - Maracaípe,Viagem
+3315,2017-07-15,14.0,Pedágio,Viagem
+3316,2017-07-15,14.0,Pedágio,Viagem
+3317,2017-07-15,164.0,Bar da festa Rota  do Mar,Viagem
+3318,2017-07-17,46.57,Combustível,Viagem
+3319,2017-07-23,14.0,Pedágio,Viagem
+3320,2017-07-23,105.6,Almoço - Maracaípe,Viagem
+3321,2017-09-02,8.6,Pedágio,Viagem
+3322,2017-09-01,460.0,Gráfica,Viagem
+3323,2017-10-04,57.0,Bruna - Consumo hotel,Viagem
+3324,2017-10-02,313.24,Refeição - Moda,Viagem
+3325,2017-10-06,30.6,Transporte,Viagem
+3326,2017-10-07,12.0,consumo Bruna - Viagem con,Viagem
+3327,2017-10-26,19.36,Refeição,Viagem
+3328,2017-10-25,120.0,Combustível,Viagem
+3329,2017-11-06,39.67,Transporte - Reembolso Bruna,Viagem
+3330,2018-01-05,100.0,Evento Rota,Viagem
+3331,2018-01-11,7.3,Prospecção,Viagem
+3332,2018-01-18,49.0,Almoço,Viagem
+3333,2018-01-18,137.24,Gasolina,Viagem
+3334,2018-02-01,36.5,refeição,Viagem
+3335,2018-02-01,26.45,Refeição,Viagem
+3336,2018-02-09,166.43,Combustível,Viagem
+3337,2018-02-08,32.51,Almoço - Moda,Viagem
+3338,2018-02-23,45.0,Almoço,Viagem
+3339,2018-02-23,152.2,Gasolina,Viagem
+3340,2018-03-01,82.8,jantar - Bruna - Moda,Viagem
+3341,2018-03-01,8.0,hospedagem - consumo - Bruna,Viagem
+3342,2018-03-02,154.51,Gasolina,Viagem
+3343,2018-03-16,50.5,Almoço,Viagem
+3344,2018-03-22,33.36,Almoço - Moda,Viagem
+3345,2018-04-11,16.5,Alimentação - Moda center,Viagem
+3346,2018-04-11,26.5,Alimentação -Moda,Viagem
+3347,2018-04-20,25.53,Refeição,Viagem
+3348,2018-04-19,32.0,refeiçaõ,Viagem
+3349,2018-04-20,170.0,Hospedagem,Viagem
