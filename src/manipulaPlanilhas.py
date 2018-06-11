@@ -1,6 +1,7 @@
 
 # coding: utf-8
 
+
 import pandas as pd
 import xlsxwriter as xls
 import numpy as np
@@ -30,6 +31,7 @@ dfs = {
     'wodesign0': pd.read_csv('../DadosFonte/wodesign0.csv', sep=',', encoding='ISO-8859-1')}
 
 
+# Algoritmos de teste de normalização
 
 #todas as funçÕes que são nativas da biblioteca são com o inicio em minusculo, as minhas em maiusculo.
 
@@ -53,6 +55,7 @@ def Skewness(df):
         return 0
     
 def Kolgomorov(df):
+    #print(kstest(df, 'norm'))
     if kstest(df, 'norm')[1] > 0.05:
         return 1
     else:
@@ -68,11 +71,10 @@ def KurtosisTest(df):
 def SkewTest(df):
     if skewtest(df)[1] > 0.05:
         return 1
-    else:
+    else:       
         return 0
 
-
-# Manipulando planilhas
+#  Manipulando planilhas
 
 
 worksheet = xls.Workbook('../AnaliseExploratoria/PlanilhaResultado.xlsx')
@@ -80,6 +82,7 @@ worksheet = xls.Workbook('../AnaliseExploratoria/PlanilhaResultado.xlsx')
 aba_grupo1 = worksheet.add_worksheet('Grupo 1')
 aba_grupo2 = worksheet.add_worksheet('Grupo 2')
 aba_grupo3 = worksheet.add_worksheet('Grupo 3')
+
 
 bold = worksheet.add_format({'bold': 1})
 
@@ -109,6 +112,11 @@ aba_grupo1.write('W1', 'Shapiro e Skewness V', bold)
 aba_grupo1.write('X1', 'Kurtosis e Kolgomorov V', bold)
 aba_grupo1.write('Y1', 'Skewness e Kolgomorov V', bold)
 aba_grupo1.write('Z1', 'Shapiro e Kolgomorov V', bold)
+aba_grupo1.write('AA1', 'Valor Máximo', bold)
+aba_grupo1.write('AB1', 'Média', bold)
+aba_grupo1.write('AC1', 'Desvio padrão', bold)
+aba_grupo1.write('AD1', 'Alpha', bold)
+aba_grupo1.write('AE1', 'Limite Gama', bold)
 
 aba_grupo2.write('A1', 'Lançamentos de todas as empresas de 11 a 20', bold)
 aba_grupo2.write('B1', 'Quantidade de lançamentos', bold)
@@ -136,6 +144,11 @@ aba_grupo2.write('W1', 'Shapiro e Skewness V', bold)
 aba_grupo2.write('X1', 'Kurtosis e Kolgomorov V', bold)
 aba_grupo2.write('Y1', 'Skewness e Kolgomorov V', bold)
 aba_grupo2.write('Z1', 'Shapiro e Kolgomorov V', bold)
+aba_grupo2.write('AA1', 'Valor Máximo', bold)
+aba_grupo2.write('AB1', 'Média', bold)
+aba_grupo2.write('AC1', 'Desvio padrão', bold)
+aba_grupo2.write('AD1', 'Alpha', bold)
+aba_grupo2.write('AE1', 'Limite Gama', bold)
 
 aba_grupo3.write('A1', 'Lançamentos de todas as empresas acima de 21', bold)
 aba_grupo3.write('B1', 'Quantidade de lançamentos', bold)
@@ -163,6 +176,12 @@ aba_grupo3.write('W1', 'Shapiro e Skewness V', bold)
 aba_grupo3.write('X1', 'Kurtosis e Kolgomorov V', bold)
 aba_grupo3.write('Y1', 'Skewness e Kolgomorov V', bold)
 aba_grupo3.write('Z1', 'Shapiro e Kolgomorov V', bold)
+aba_grupo3.write('AA1', 'Valor Máximo', bold)
+aba_grupo3.write('AB1', 'Média', bold)
+aba_grupo3.write('AC1', 'Desvio padrão', bold)
+aba_grupo3.write('AD1', 'Alpha', bold)
+aba_grupo3.write('AE1', 'Limite Gama', bold)
+
 
 
 def tabela_verdade(aba_grupo, num_linhas, KurtosisVar, ShapiroVar, SkewnessVar, KolgomorovVar):
@@ -221,6 +240,9 @@ def tabela_verdade(aba_grupo, num_linhas, KurtosisVar, ShapiroVar, SkewnessVar, 
         aba_grupo.write('W' + str(num_linhas), 0)
         
     
+
+
+
 num_linhas_1 = 2
 num_linhas_2 = 2
 num_linhas_3 = 2
@@ -256,8 +278,20 @@ for key, df in dfs.items():
             #p-valor kolgomorov
             aba_grupo1.write('M' + str(num_linhas_1), kstest((df[df.Categoria == categoria].Value), 'norm')[1])
             aba_grupo1.write('N' + str(num_linhas_1), KolgomorovVar)
-                
-                
+            
+            aba_grupo1.write('AA' + str(num_linhas_1), (df[df.Categoria == categoria].Value).max())
+            #média
+            aba_grupo1.write('AB' + str(num_linhas_1), (df[df.Categoria == categoria].Value).mean())
+            #desvio padrão
+            aba_grupo1.write('AC' + str(num_linhas_1), (df[df.Categoria == categoria].Value).std())
+          
+            #Alpha 
+            aba_grupo1.write('AD' + str(num_linhas_1),((((df[df.Categoria == categoria].Value).max()) - ((df[df.Categoria == categoria].Value).min()))/((df[df.Categoria == categoria].Value).mean())))
+
+            #LIMIT_GAMA=3DESVIO_PAD + MEDIA
+            aba_grupo1.write('AE' + str(num_linhas_1), (((df[df.Categoria == categoria].Value).std())+((df[df.Categoria == categoria].Value).mean())))
+            
+            
             tabela_verdade(aba_grupo1, num_linhas_1, KurtosisVar, ShapiroVar, SkewnessVar, KolgomorovVar)    
                 
             num_linhas_1 += 1
@@ -291,6 +325,18 @@ for key, df in dfs.items():
             #p-valor kolgomorov
             aba_grupo2.write('M' + str(num_linhas_2), kstest((df[df.Categoria == categoria].Value), 'norm')[1])
             aba_grupo2.write('N' + str(num_linhas_2), KolgomorovVar)
+            
+            aba_grupo2.write('AA' + str(num_linhas_2), (df[df.Categoria == categoria].Value).max())
+            #media
+            aba_grupo2.write('AB' + str(num_linhas_2), (df[df.Categoria == categoria].Value).mean())
+            #desvio padrão
+            aba_grupo2.write('AC' + str(num_linhas_2), (df[df.Categoria == categoria].Value).std())
+            
+            #Alpha 
+            aba_grupo2.write('AD' + str(num_linhas_2),((((df[df.Categoria == categoria].Value).max()) - ((df[df.Categoria == categoria].Value).min()))/((df[df.Categoria == categoria].Value).mean())))
+
+            #LIMIT_GAMA
+            aba_grupo2.write('AE' + str(num_linhas_2), (((df[df.Categoria == categoria].Value).std())+((df[df.Categoria == categoria].Value).mean())))
             
             tabela_verdade(aba_grupo2, num_linhas_2, KurtosisVar, ShapiroVar, SkewnessVar, KolgomorovVar)    
                 
@@ -329,9 +375,25 @@ for key, df in dfs.items():
             aba_grupo3.write('M' + str(num_linhas_3), kstest((df[df.Categoria == categoria].Value), 'norm')[1])
             aba_grupo3.write('N' + str(num_linhas_3), KolgomorovVar)
             
+            aba_grupo3.write('AA' + str(num_linhas_3), (df[df.Categoria == categoria].Value).max())
+            #média
+            aba_grupo3.write('AB' + str(num_linhas_3), (df[df.Categoria == categoria].Value).mean())
+            #dedvio padrão
+            aba_grupo3.write('AC' + str(num_linhas_3), (df[df.Categoria == categoria].Value).std())
+            
+            #Alpha 
+            aba_grupo3.write('AD' + str(num_linhas_3),((((df[df.Categoria == categoria].Value).max()) - ((df[df.Categoria == categoria].Value).min()))/((df[df.Categoria == categoria].Value).mean())))
+
+            #LIMIT_GAMA
+            aba_grupo3.write('AE' + str(num_linhas_3), (((df[df.Categoria == categoria].Value).std())+((df[df.Categoria == categoria].Value).mean())))
+            
+            
             tabela_verdade(aba_grupo3, num_linhas_3, KurtosisVar, ShapiroVar, SkewnessVar, KolgomorovVar)    
             
+            
+            
             num_linhas_3 += 1
+
 
 
 worksheet.close()
