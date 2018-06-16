@@ -2,12 +2,10 @@
 # coding: utf-8
 
 
-
-
 import pandas as pd
 import xlsxwriter as xls
 import numpy as np
-from scipy.stats import kurtosis, shapiro, skew, kstest, kurtosistest, skewtest, iqr
+from scipy.stats import kurtosis, shapiro, skew, kstest, kurtosistest, skewtest, iqr, stats
 
 
 dfs = {
@@ -33,9 +31,7 @@ dfs = {
     'wodesign0': pd.read_csv('../DadosFonte/wodesign0.csv', sep=',', encoding='ISO-8859-1')}
 
 
-
 # Algoritmos de teste de normalização
-
 
 #todas as funçÕes que são nativas da biblioteca são com o inicio em minusculo, as minhas em maiusculo.
 
@@ -79,14 +75,15 @@ def SkewTest(df):
         return 0
 
 
-
 # ### Manipulando planilhas
+
 
 worksheet = xls.Workbook('../AnaliseExploratoria/PlanilhaResultado.xlsx')
 
 aba_grupo1 = worksheet.add_worksheet('Grupo 1')
 aba_grupo2 = worksheet.add_worksheet('Grupo 2')
 aba_grupo3 = worksheet.add_worksheet('Grupo 3')
+
 
 def inserir_cabecalho(aba, titulo):
     bold = worksheet.add_format({'bold': 1})
@@ -123,10 +120,13 @@ def inserir_cabecalho(aba, titulo):
     aba.write('AE1', 'Limite Gama', bold)
     aba.write('AF1', 'Normal | Empate', bold)
     aba.write('AG1', 'Distância interquartil', bold)
+    aba.write('AH1', 'Limite Beta', bold)
 
 inserir_cabecalho(aba_grupo1, "Lançamentos de todas as empresas de 6 a 10")
 inserir_cabecalho(aba_grupo2, "Lançamentos de todas as empresas de 11 a 20")
 inserir_cabecalho(aba_grupo3, "Lançamentos de todas as empresas acima de 21")
+
+
 
 def tabela_verdade(aba_grupo, num_linhas, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar):
     #todos verdadeiros
@@ -203,7 +203,6 @@ def tabela_verdade(aba_grupo, num_linhas, KurtosisVar, ShapiroVar, SkewnessVar, 
     
 
 
-
 def normal_empate(aba_grupo, num_linhas, array_testes):
     count = 0
     
@@ -217,8 +216,6 @@ def normal_empate(aba_grupo, num_linhas, array_testes):
         aba_grupo.write('AF' + str(num_linhas), 'Empate')
     else:
         aba_grupo.write('AF' + str(num_linhas), 'Não atende')
-
-
 
 
 
@@ -237,7 +234,7 @@ for key, df in dfs.items():
             
             aba_grupo1.write('A' + str(num_linhas_1), categoria + ' - ' + key)
             aba_grupo1.write('B' + str(num_linhas_1), len(df[df.Categoria == categoria]))
-            
+                     
             #valor Kurtosis
             aba_grupo1.write('C' + str(num_linhas_1), kurtosis(df[df.Categoria == categoria].Value))
             aba_grupo1.write('D' + str(num_linhas_1), ' - ')
@@ -261,6 +258,7 @@ for key, df in dfs.items():
             aba_grupo1.write('N' + str(num_linhas_1), KolmogorovVar)
             
             aba_grupo1.write('AA' + str(num_linhas_1), (df[df.Categoria == categoria].Value).max())
+           
             #média
             aba_grupo1.write('AB' + str(num_linhas_1), (df[df.Categoria == categoria].Value).mean())
             #desvio padrão
@@ -274,6 +272,9 @@ for key, df in dfs.items():
             
             #Distância interquartil
             aba_grupo1.write('AG' + str(num_linhas_1), iqr(df[df.Categoria == categoria].Value))
+            
+            #Limite_beta = Q3 + 2(dist_interquartil)
+            aba_grupo1.write('AH' + str(num_linhas_1), ((stats.scoreatpercentile((df[df.Categoria == categoria].Value),75)) + 2*(iqr(df[df.Categoria == categoria].Value))))
             
             tabela_verdade(aba_grupo1, num_linhas_1, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar)    
             normal_empate(aba_grupo1, num_linhas_1, [KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar])
@@ -312,6 +313,7 @@ for key, df in dfs.items():
             aba_grupo2.write('N' + str(num_linhas_2), KolmogorovVar)
             
             aba_grupo2.write('AA' + str(num_linhas_2), (df[df.Categoria == categoria].Value).max())
+           
             #media
             aba_grupo2.write('AB' + str(num_linhas_2), (df[df.Categoria == categoria].Value).mean())
             #desvio padrão
@@ -325,6 +327,9 @@ for key, df in dfs.items():
             
             #Distância interquartil
             aba_grupo2.write('AG' + str(num_linhas_2), iqr(df[df.Categoria == categoria].Value))
+            
+            #Limite_beta = Q3 + 2(dist_interquartil)
+            aba_grupo2.write('AH' + str(num_linhas_2), ((stats.scoreatpercentile((df[df.Categoria == categoria].Value),75)) + 2*(iqr(df[df.Categoria == categoria].Value))))
             
             tabela_verdade(aba_grupo2, num_linhas_2, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar)    
             normal_empate(aba_grupo2, num_linhas_2, [KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar])
@@ -340,7 +345,6 @@ for key, df in dfs.items():
             
             aba_grupo3.write('A' + str(num_linhas_3), categoria + ' - ' + key)
             aba_grupo3.write('B' + str(num_linhas_3), len(df[df.Categoria == categoria]))
-            
             
             #valor Kurtosis
             aba_grupo3.write('C' + str(num_linhas_3), kurtosistest(df[df.Categoria == categoria].Value)[0])
@@ -365,6 +369,7 @@ for key, df in dfs.items():
             aba_grupo3.write('N' + str(num_linhas_3), KolmogorovVar)
             
             aba_grupo3.write('AA' + str(num_linhas_3), (df[df.Categoria == categoria].Value).max())
+            
             #média
             aba_grupo3.write('AB' + str(num_linhas_3), (df[df.Categoria == categoria].Value).mean())
             #dedvio padrão
@@ -379,6 +384,9 @@ for key, df in dfs.items():
             #Distância interquartil
             aba_grupo3.write('AG' + str(num_linhas_3), iqr(df[df.Categoria == categoria].Value))
             
+            #Limite_beta = Q3 + 2(dist_interquartil)
+            aba_grupo3.write('AH' + str(num_linhas_3), ((stats.scoreatpercentile((df[df.Categoria == categoria].Value),75)) + 2*(iqr(df[df.Categoria == categoria].Value))))
+            
             tabela_verdade(aba_grupo3, num_linhas_3, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar)    
             normal_empate(aba_grupo3, num_linhas_3, [KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar])
             
@@ -386,8 +394,4 @@ for key, df in dfs.items():
 
 
 
-
-
 worksheet.close()
-
-
