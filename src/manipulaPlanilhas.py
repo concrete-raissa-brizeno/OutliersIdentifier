@@ -1,12 +1,9 @@
 
-# coding: utf-8
-
-
 import pandas as pd
 import xlsxwriter as xls
 import numpy as np
 from scipy.stats import kurtosis, shapiro, skew, kstest, kurtosistest, skewtest, iqr, stats
-
+import pyexcel as p
 
 dfs = {
     'CadariEngenharia': pd.read_csv('../DadosFonte/cadariengenhariaearquiteturalt0.csv', sep=',', encoding='ISO-8859-1'),
@@ -29,9 +26,6 @@ dfs = {
     'tectobrastelecomltda': pd.read_csv('../DadosFonte/tectobrastelecomltda.csv', sep=',', encoding='ISO-8859-1'),
     'tkcconsulting': pd.read_csv('../DadosFonte/tkcconsulting.csv', sep=',', encoding='ISO-8859-1'),
     'wodesign0': pd.read_csv('../DadosFonte/wodesign0.csv', sep=',', encoding='ISO-8859-1')}
-
-
-# Algoritmos de teste de normalização
 
 #todas as funçÕes que são nativas da biblioteca são com o inicio em minusculo, as minhas em maiusculo.
 
@@ -74,16 +68,11 @@ def SkewTest(df):
     else:       
         return 0
 
-
-# ### Manipulando planilhas
-
-
 worksheet = xls.Workbook('../AnaliseExploratoria/PlanilhaResultado.xlsx')
 
 aba_grupo1 = worksheet.add_worksheet('Grupo 1')
 aba_grupo2 = worksheet.add_worksheet('Grupo 2')
 aba_grupo3 = worksheet.add_worksheet('Grupo 3')
-
 
 def inserir_cabecalho(aba, titulo):
     bold = worksheet.add_format({'bold': 1})
@@ -125,8 +114,6 @@ def inserir_cabecalho(aba, titulo):
 inserir_cabecalho(aba_grupo1, "Lançamentos de todas as empresas de 6 a 10")
 inserir_cabecalho(aba_grupo2, "Lançamentos de todas as empresas de 11 a 20")
 inserir_cabecalho(aba_grupo3, "Lançamentos de todas as empresas acima de 21")
-
-
 
 def tabela_verdade(aba_grupo, num_linhas, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar):
     #todos verdadeiros
@@ -202,7 +189,6 @@ def tabela_verdade(aba_grupo, num_linhas, KurtosisVar, ShapiroVar, SkewnessVar, 
         aba_grupo.write('Z' + str(num_linhas), 0)
     
 
-
 def normal_empate(aba_grupo, num_linhas, array_testes):
     count = 0
     
@@ -217,8 +203,72 @@ def normal_empate(aba_grupo, num_linhas, array_testes):
     else:
         aba_grupo.write('AF' + str(num_linhas), 'Não atende')
 
+def set_values(values, aba_grupo, num_linhas_1, num_col_1):
+    for value in values:
+        aba_grupo.write(num_linhas_1, num_col_1, str(value))
+        num_col_1 += 1
+
+def funcao(aba, num_linhas, num_col, df, categoria):
+    KurtosisVar = Kurtosis(df.Value)
+    ShapiroVar = Shapiro(df.Value)
+    SkewnessVar = Skewness(df.Value)
+    KolmogorovVar = Kolmogorov(df.Value)
+
+    aba.write('A' + str(num_linhas), categoria + ' - ' + key)
+    aba.write('B' + str(num_linhas), len(df))
+
+    #valor Kurtosis
+    aba.write('C' + str(num_linhas), kurtosis(df.Value))
+    aba.write('D' + str(num_linhas), ' - ')
+    aba.write('E' + str(num_linhas), KurtosisVar)
+
+    #valor shapiro
+    aba.write('F' + str(num_linhas), shapiro((df.Value))[0])
+    #p-value shapiro
+    aba.write('G' + str(num_linhas), shapiro((df.Value))[1])
+    aba.write('H' + str(num_linhas), ShapiroVar)
+
+    #valor skewness
+    aba.write('I' + str(num_linhas), skew(df.Value))
+    aba.write('J' + str(num_linhas), ' - ')
+    aba.write('K' + str(num_linhas), SkewnessVar)
+
+    #valor Kolmogorov
+    aba.write('L' + str(num_linhas), kstest((df.Value), 'norm')[0])
+    #p-valor Kolmogorov
+    aba.write('M' + str(num_linhas), kstest((df.Value), 'norm')[1])
+    aba.write('N' + str(num_linhas), KolmogorovVar)
+
+    aba.write('AA' + str(num_linhas), (df.Value).max())
+
+    #média
+    aba.write('AB' + str(num_linhas), (df.Value).mean())
+    #desvio padrão
+    aba.write('AC' + str(num_linhas), (df.Value).std())
+
+    #Alpha 
+    aba.write('AD' + str(num_linhas),((((df.Value).max()) - ((df.Value).min()))/((df.Value).mean())))
+
+    #LIMIT_GAMA=3DESVIO_PAD + MEDIA
+    aba.write('AE' + str(num_linhas), (3*((df.Value).std())+((df.Value).mean())))
+
+    #Distância interquartil
+    aba.write('AG' + str(num_linhas), iqr(df.Value))
+
+    #Limite_beta = Q3 + 2(dist_interquartil)
+    aba.write('AH' + str(num_linhas), ((stats.scoreatpercentile((df.Value),75)) + 2*(iqr(df.Value))))
+
+    #Pegar Value e mostrar horizontalmente
+    #inicia na linha 0 coluna 35
+    set_values(df.Value, aba, num_linhas - 1, num_col)
 
 
+    tabela_verdade(aba, num_linhas, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar)    
+    normal_empate(aba, num_linhas, [KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar])
+
+    num_linhas += 1
+
+num_col = 35
 num_linhas_1 = 2
 num_linhas_2 = 2
 num_linhas_3 = 2
@@ -226,7 +276,7 @@ num_linhas_3 = 2
 for key, df in dfs.items():
     for categoria in df.Categoria.unique():
         if((len(df[df.Categoria == categoria]) >= 6) and (len(df[df.Categoria == categoria]) <= 10)):
-            
+            #funcao(aba_grupo1, num_linhas_1, num_col, df[df.Categoria == categoria], categoria)
             KurtosisVar = Kurtosis(df[df.Categoria == categoria].Value)
             ShapiroVar = Shapiro(df[df.Categoria == categoria].Value)
             SkewnessVar = Skewness(df[df.Categoria == categoria].Value)
@@ -276,8 +326,13 @@ for key, df in dfs.items():
             #Limite_beta = Q3 + 2(dist_interquartil)
             aba_grupo1.write('AH' + str(num_linhas_1), ((stats.scoreatpercentile((df[df.Categoria == categoria].Value),75)) + 2*(iqr(df[df.Categoria == categoria].Value))))
             
+            #Pegar Value e mostrar horizontalmente
+            #inicia na linha 0 coluna 35
+            set_values(df[df.Categoria == categoria].Value, aba_grupo1, num_linhas_1 - 1, num_col)
+            
             tabela_verdade(aba_grupo1, num_linhas_1, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar)    
             normal_empate(aba_grupo1, num_linhas_1, [KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar])
+            
             num_linhas_1 += 1
             
         elif((len(df[df.Categoria == categoria]) >= 11) and (len(df[df.Categoria == categoria]) <= 20)):
@@ -330,6 +385,10 @@ for key, df in dfs.items():
             
             #Limite_beta = Q3 + 2(dist_interquartil)
             aba_grupo2.write('AH' + str(num_linhas_2), ((stats.scoreatpercentile((df[df.Categoria == categoria].Value),75)) + 2*(iqr(df[df.Categoria == categoria].Value))))
+            
+            #Pegar Value e mostrar horizontalmente
+            #inicia na linha 0 coluna 35
+            set_values(df[df.Categoria == categoria].Value, aba_grupo2, num_linhas_2 - 1, num_col)
             
             tabela_verdade(aba_grupo2, num_linhas_2, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar)    
             normal_empate(aba_grupo2, num_linhas_2, [KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar])
@@ -387,11 +446,14 @@ for key, df in dfs.items():
             #Limite_beta = Q3 + 2(dist_interquartil)
             aba_grupo3.write('AH' + str(num_linhas_3), ((stats.scoreatpercentile((df[df.Categoria == categoria].Value),75)) + 2*(iqr(df[df.Categoria == categoria].Value))))
             
+            #Pegar Value e mostrar horizontalmente
+            #inicia na linha 0 coluna 35
+            set_values(df[df.Categoria == categoria].Value, aba_grupo3, num_linhas_3 - 1, num_col)
+            
             tabela_verdade(aba_grupo3, num_linhas_3, KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar)    
             normal_empate(aba_grupo3, num_linhas_3, [KurtosisVar, ShapiroVar, SkewnessVar, KolmogorovVar])
             
             num_linhas_3 += 1
 
-
-
 worksheet.close()
+
